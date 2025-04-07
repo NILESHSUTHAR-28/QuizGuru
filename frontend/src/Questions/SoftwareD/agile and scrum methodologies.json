@@ -1,0 +1,410 @@
+[
+    {
+        "question": "What is the primary goal of Agile methodology?",
+        "optionA": "To develop software quickly",
+        "optionB": "To maintain a fixed scope throughout the project",
+        "optionC": "To prioritize customer collaboration and flexibility",
+        "optionD": "To complete the project in a single phase",
+        "answer": "To prioritize customer collaboration and flexibility"
+    },
+    {
+        "question": "Which of the following is a core value of the Agile Manifesto?",
+        "optionA": "Process and tools over individuals and interactions",
+        "optionB": "Comprehensive documentation over working software",
+        "optionC": "Customer collaboration over contract negotiation",
+        "optionD": "Following a plan over responding to change",
+        "answer": "Customer collaboration over contract negotiation"
+    },
+    {
+        "question": "What is a Scrum sprint?",
+        "optionA": "A daily meeting to discuss progress",
+        "optionB": "A time-boxed iteration of development",
+        "optionC": "A review of the project at the end of each phase",
+        "optionD": "A task assigned to each team member",
+        "answer": "A time-boxed iteration of development"
+    },
+    {
+        "question": "Who is responsible for prioritizing the product backlog in Scrum?",
+        "optionA": "Scrum Master",
+        "optionB": "Product Owner",
+        "optionC": "Development Team",
+        "optionD": "Project Manager",
+        "answer": "Product Owner"
+    },
+    {
+        "question": "What is the Scrum Master’s role?",
+        "optionA": "To manage the development team",
+        "optionB": "To prioritize the product backlog",
+        "optionC": "To ensure the Scrum process is followed",
+        "optionD": "To make decisions for the team",
+        "answer": "To ensure the Scrum process is followed"
+    },
+    {
+        "question": "Which of the following is NOT a Scrum event?",
+        "optionA": "Sprint Planning",
+        "optionB": "Daily Scrum",
+        "optionC": "Sprint Review",
+        "optionD": "Project Kickoff",
+        "answer": "Project Kickoff"
+    },
+    {
+        "question": "In Scrum, what is the purpose of the Daily Scrum?",
+        "optionA": "To plan the next sprint",
+        "optionB": "To review the progress of the sprint",
+        "optionC": "To discuss the product backlog",
+        "optionD": "To assign tasks to team members",
+        "answer": "To review the progress of the sprint"
+    },
+    {
+        "question": "What is the maximum duration of a Scrum sprint?",
+        "optionA": "1 week",
+        "optionB": "2 weeks",
+        "optionC": "4 weeks",
+        "optionD": "6 weeks",
+        "answer": "4 weeks"
+    },
+    {
+        "question": "What is a Product Backlog in Scrum?",
+        "optionA": "A list of tasks for the development team",
+        "optionB": "A prioritized list of features and requirements for the product",
+        "optionC": "A list of completed user stories",
+        "optionD": "A list of bugs to fix",
+        "answer": "A prioritized list of features and requirements for the product"
+    },
+    {
+        "question": "Which of the following is an example of an Agile practice?",
+        "optionA": "Waterfall project management",
+        "optionB": "Continuous integration",
+        "optionC": "Fixed scope project planning",
+        "optionD": "Comprehensive documentation",
+        "answer": "Continuous integration"
+    },
+    {
+        "question": "What is the Scrum Team composed of?",
+        "optionA": "Only the Scrum Master",
+        "optionB": "Only the Product Owner",
+        "optionC": "Development Team, Scrum Master, and Product Owner",
+        "optionD": "Development Team and Project Manager",
+        "answer": "Development Team, Scrum Master, and Product Owner"
+    },
+    {
+        "question": "What is the purpose of the Sprint Review?",
+        "optionA": "To plan the next sprint",
+        "optionB": "To review the completed work and get feedback",
+        "optionC": "To evaluate team performance",
+        "optionD": "To assign new tasks to the team",
+        "answer": "To review the completed work and get feedback"
+    },
+    {
+        "question": "What is the purpose of the Sprint Retrospective?",
+        "optionA": "To plan the next sprint",
+        "optionB": "To review the work completed in the sprint",
+        "optionC": "To discuss how to improve the Scrum process",
+        "optionD": "To define new product features",
+        "answer": "To discuss how to improve the Scrum process"
+    },
+    {
+        "question": "What is a user story in Agile?",
+        "optionA": "A detailed technical specification",
+        "optionB": "A description of a feature from the user’s perspective",
+        "optionC": "A list of bugs to be fixed",
+        "optionD": "A product backlog item",
+        "answer": "A description of a feature from the user’s perspective"
+    },
+    {
+        "question": "What is the purpose of the Definition of Done (DoD) in Scrum?",
+        "optionA": "To define the scope of the project",
+        "optionB": "To describe how the product should be tested",
+        "optionC": "To clarify when a user story or task is considered complete",
+        "optionD": "To plan the next sprint",
+        "answer": "To clarify when a user story or task is considered complete"
+    },
+    {
+        "question": "Which of the following is a key principle of Agile?",
+        "optionA": "Following a strict plan",
+        "optionB": "Responding to change over following a plan",
+        "optionC": "Emphasizing documentation over working software",
+        "optionD": "Working in isolation",
+        "answer": "Responding to change over following a plan"
+    },
+    {
+        "question": "Which of the following is a key benefit of Scrum?",
+        "optionA": "Clear and detailed project timelines",
+        "optionB": "Frequent releases of working software",
+        "optionC": "Limited customer involvement",
+        "optionD": "Fixed project scope",
+        "answer": "Frequent releases of working software"
+    },
+    {
+        "question": "What is a Scrum artifact?",
+        "optionA": "A user story",
+        "optionB": "A product backlog item",
+        "optionC": "A tool used by the Scrum Master",
+        "optionD": "A document used for planning",
+        "answer": "A product backlog item"
+    },
+    {
+        "question": "Which of the following describes the role of the Product Owner in Scrum?",
+        "optionA": "To manage the development team",
+        "optionB": "To ensure the team follows Scrum practices",
+        "optionC": "To prioritize the product backlog and make decisions about product features",
+        "optionD": "To plan the sprints",
+        "answer": "To prioritize the product backlog and make decisions about product features"
+    },
+    {
+        "question": "What is the purpose of the Sprint Backlog?",
+        "optionA": "To list the tasks to be completed during the sprint",
+        "optionB": "To track the progress of the project",
+        "optionC": "To define the product requirements",
+        "optionD": "To document the project scope",
+        "answer": "To list the tasks to be completed during the sprint"
+    },
+    {
+        "question": "Which of the following is an example of a Scrum event?",
+        "optionA": "Daily Scrum",
+        "optionB": "Sprint Review",
+        "optionC": "Sprint Planning",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the main focus of Agile project management?",
+        "optionA": "Delivering software on time",
+        "optionB": "Maintaining a fixed budget",
+        "optionC": "Delivering working software through iterative development",
+        "optionD": "Ensuring the project scope remains unchanged",
+        "answer": "Delivering working software through iterative development"
+    },
+    {
+        "question": "What is the maximum duration of a Scrum sprint?",
+        "optionA": "1 week",
+        "optionB": "2 weeks",
+        "optionC": "4 weeks",
+        "optionD": "6 weeks",
+        "answer": "4 weeks"
+    },
+    {
+        "question": "What is the role of the Scrum Master in the Sprint Retrospective?",
+        "optionA": "To evaluate the performance of the team",
+        "optionB": "To facilitate the discussion and ensure Scrum practices are followed",
+        "optionC": "To assign tasks to team members",
+        "optionD": "To prioritize the product backlog",
+        "answer": "To facilitate the discussion and ensure Scrum practices are followed"
+    },
+    {
+        "question": "Which of the following is an Agile framework?",
+        "optionA": "Waterfall",
+        "optionB": "Scrum",
+        "optionC": "V-Model",
+        "optionD": "Spiral",
+        "answer": "Scrum"
+    },
+    {
+        "question": "What is the primary focus of the Agile Manifesto?",
+        "optionA": "To promote a rigid approach to project management",
+        "optionB": "To emphasize customer collaboration and flexibility",
+        "optionC": "To enforce strict timelines and schedules",
+        "optionD": "To ensure comprehensive documentation",
+        "answer": "To emphasize customer collaboration and flexibility"
+    },
+    {
+        "question": "What is a key characteristic of Scrum?",
+        "optionA": "A fixed set of roles, events, and artifacts",
+        "optionB": "A flexible approach to team structure",
+        "optionC": "A long-term planning process",
+        "optionD": "Strict adherence to a plan",
+        "answer": "A fixed set of roles, events, and artifacts"
+    },
+    {
+        "question": "What is the main purpose of the Agile retrospective?",
+        "optionA": "To plan the next sprint",
+        "optionB": "To review the progress of the sprint",
+        "optionC": "To discuss what went well and what could be improved",
+        "optionD": "To assign tasks to team members",
+        "answer": "To discuss what went well and what could be improved"
+    },
+    {
+        "question": "What is the role of the Development Team in Scrum?",
+        "optionA": "To manage the product backlog",
+        "optionB": "To create the product increment",
+        "optionC": "To facilitate Scrum events",
+        "optionD": "To define the product requirements",
+        "answer": "To create the product increment"
+    },
+    {
+        "question": "Which of the following is a key principle of Scrum?",
+        "optionA": "Collaboration over negotiation",
+        "optionB": "Following a strict plan over responding to change",
+        "optionC": "Individuals and interactions over processes and tools",
+        "optionD": "Working in isolation over team collaboration",
+        "answer": "Individuals and interactions over processes and tools"
+    },
+    {
+        "question": "What is the purpose of a Scrum board?",
+        "optionA": "To track the project budget",
+        "optionB": "To visualize the progress of the sprint",
+        "optionC": "To document the scope of the project",
+        "optionD": "To assign tasks to team members",
+        "answer": "To visualize the progress of the sprint"
+    },
+    {
+        "question": "What is the maximum number of people in a Scrum Development Team?",
+        "optionA": "3",
+        "optionB": "5",
+        "optionC": "9",
+        "optionD": "12",
+        "answer": "9"
+    },
+    {
+        "question": "What is a sprint goal in Scrum?",
+        "optionA": "A detailed plan for the sprint",
+        "optionB": "A description of the work to be done during the sprint",
+        "optionC": "A shared objective for the sprint",
+        "optionD": "A list of tasks for the development team",
+        "answer": "A shared objective for the sprint"
+    },
+    {
+        "question": "What is the role of the Product Owner in Sprint Planning?",
+        "optionA": "To create the sprint backlog",
+        "optionB": "To prioritize the product backlog items",
+        "optionC": "To assign tasks to team members",
+        "optionD": "To review the completed work",
+        "answer": "To prioritize the product backlog items"
+    },
+    {
+        "question": "Which of the following is NOT a Scrum artifact?",
+        "optionA": "Product Backlog",
+        "optionB": "Sprint Backlog",
+        "optionC": "Project Charter",
+        "optionD": "Increment",
+        "answer": "Project Charter"
+    },
+    {
+        "question": "Which Scrum event is time-boxed to 15 minutes?",
+        "optionA": "Sprint Planning",
+        "optionB": "Daily Scrum",
+        "optionC": "Sprint Review",
+        "optionD": "Sprint Retrospective",
+        "answer": "Daily Scrum"
+    },
+    {
+        "question": "What is the primary responsibility of the Scrum Master?",
+        "optionA": "To manage the development team",
+        "optionB": "To prioritize the product backlog",
+        "optionC": "To ensure that Scrum is being followed",
+        "optionD": "To assign tasks to team members",
+        "answer": "To ensure that Scrum is being followed"
+    },
+    {
+        "question": "What is the definition of a 'Done' increment in Scrum?",
+        "optionA": "A product feature that has been partially completed",
+        "optionB": "A product feature that is fully developed and meets the acceptance criteria",
+        "optionC": "A product feature that has not yet been tested",
+        "optionD": "A product feature that is still in the design phase",
+        "answer": "A product feature that is fully developed and meets the acceptance criteria"
+    },
+    {
+        "question": "What is the key difference between Scrum and Kanban?",
+        "optionA": "Scrum uses time-boxed iterations, while Kanban focuses on continuous flow",
+        "optionB": "Kanban uses time-boxed iterations, while Scrum focuses on continuous flow",
+        "optionC": "Scrum requires a Product Owner, while Kanban does not",
+        "optionD": "Kanban uses fixed roles, while Scrum does not",
+        "answer": "Scrum uses time-boxed iterations, while Kanban focuses on continuous flow"
+    },
+    {
+        "question": "What is the purpose of a sprint backlog?",
+        "optionA": "To track the progress of the project",
+        "optionB": "To define the tasks to be completed during the sprint",
+        "optionC": "To document the product requirements",
+        "optionD": "To plan the next sprint",
+        "answer": "To define the tasks to be completed during the sprint"
+    },
+    {
+        "question": "Which of the following is a responsibility of the Scrum Master?",
+        "optionA": "To manage the product backlog",
+        "optionB": "To ensure the team is following Scrum practices",
+        "optionC": "To define the sprint goal",
+        "optionD": "To assign tasks to team members",
+        "answer": "To ensure the team is following Scrum practices"
+    },
+    {
+        "question": "What is the Scrum Guide?",
+        "optionA": "A document that defines the roles and responsibilities of Scrum",
+        "optionB": "A document that defines the process for product development",
+        "optionC": "A document that defines the rules of Scrum and how to implement them",
+        "optionD": "A document that lists the tools used in Scrum",
+        "answer": "A document that defines the rules of Scrum and how to implement them"
+    },
+    {
+        "question": "Which of the following is an example of a non-Agile approach?",
+        "optionA": "Scrum",
+        "optionB": "Waterfall",
+        "optionC": "Kanban",
+        "optionD": "Lean",
+        "answer": "Waterfall"
+    },
+    {
+        "question": "What is the main focus of the Scrum sprint review?",
+        "optionA": "To plan the next sprint",
+        "optionB": "To review the completed work and gather feedback",
+        "optionC": "To assign tasks to team members",
+        "optionD": "To evaluate team performance",
+        "answer": "To review the completed work and gather feedback"
+    },
+    {
+        "question": "What is the recommended size for a Scrum Development Team?",
+        "optionA": "1-3 members",
+        "optionB": "3-9 members",
+        "optionC": "9-15 members",
+        "optionD": "15-20 members",
+        "answer": "3-9 members"
+    },
+    {
+        "question": "What is the role of the Scrum Master during the Sprint Planning meeting?",
+        "optionA": "To prioritize the product backlog",
+        "optionB": "To assign tasks to team members",
+        "optionC": "To ensure Scrum practices are followed",
+        "optionD": "To create the sprint backlog",
+        "answer": "To ensure Scrum practices are followed"
+    },
+    {
+        "question": "What is the primary responsibility of the Product Owner?",
+        "optionA": "To manage the development team",
+        "optionB": "To prioritize the product backlog",
+        "optionC": "To ensure Scrum practices are followed",
+        "optionD": "To facilitate Scrum events",
+        "answer": "To prioritize the product backlog"
+    },
+    {
+        "question": "Which of the following is a key benefit of using Scrum?",
+        "optionA": "Clear and detailed project plans",
+        "optionB": "Frequent releases of working software",
+        "optionC": "Fixed project scope",
+        "optionD": "Limited customer involvement",
+        "answer": "Frequent releases of working software"
+    },
+    {
+        "question": "What is the purpose of the product increment in Scrum?",
+        "optionA": "To deliver a complete product",
+        "optionB": "To demonstrate progress made during the sprint",
+        "optionC": "To define the product backlog",
+        "optionD": "To plan the next sprint",
+        "answer": "To demonstrate progress made during the sprint"
+    },
+    {
+        "question": "Which of the following is a characteristic of Agile project management?",
+        "optionA": "Fixed project scope",
+        "optionB": "Iterative development",
+        "optionC": "Comprehensive documentation",
+        "optionD": "Strict project timelines",
+        "answer": "Iterative development"
+    },
+    {
+        "question": "What is the purpose of the Scrum Product Backlog?",
+        "optionA": "To track the progress of the project",
+        "optionB": "To define the features and requirements for the product",
+        "optionC": "To plan the next sprint",
+        "optionD": "To assign tasks to team members",
+        "answer": "To define the features and requirements for the product"
+    }
+]

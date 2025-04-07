@@ -1,0 +1,426 @@
+[
+    {
+        "question": "What is the correct way to declare a variable in PHP?",
+        "optionA": "$x = 10;",
+        "optionB": "int x = 10;",
+        "optionC": "var x = 10;",
+        "optionD": "let x = 10;",
+        "answer": "$x = 10;"
+    },
+    {
+        "question": "Which of the following is the correct syntax to create a constant in PHP?",
+        "optionA": "const PI = 3.14;",
+        "optionB": "define(PI, 3.14);",
+        "optionC": "constant PI = 3.14;",
+        "optionD": "constant('PI', 3.14);",
+        "answer": "const PI = 3.14;"
+    },
+    {
+        "question": "Which of the following is the correct way to include a file in PHP?",
+        "optionA": "include 'file.php';",
+        "optionB": "import 'file.php';",
+        "optionC": "require 'file.php';",
+        "optionD": "both A and C",
+        "answer": "both A and C"
+    },
+    {
+        "question": "How do you define a function in PHP?",
+        "optionA": "function myFunction() {}",
+        "optionB": "def myFunction() {}",
+        "optionC": "myFunction() => {}",
+        "optionD": "function: myFunction() {}",
+        "answer": "function myFunction() {}"
+    },
+    {
+        "question": "What is the output of the following code?\n<?php echo 10 + 5; ?>",
+        "optionA": "15",
+        "optionB": "10",
+        "optionC": "5",
+        "optionD": "Error",
+        "answer": "15"
+    },
+    {
+        "question": "Which of the following is used to start a session in PHP?",
+        "optionA": "session_start();",
+        "optionB": "start_session();",
+        "optionC": "begin_session();",
+        "optionD": "session_begin();",
+        "answer": "session_start();"
+    },
+    {
+        "question": "What is the correct way to create an associative array in PHP?",
+        "optionA": "$arr = array('key1' => 'value1', 'key2' => 'value2');",
+        "optionB": "$arr = array('key1', 'value1', 'key2', 'value2');",
+        "optionC": "$arr = array('key1' = 'value1', 'key2' = 'value2');",
+        "optionD": "$arr = ('key1' => 'value1', 'key2' => 'value2');",
+        "answer": "$arr = array('key1' => 'value1', 'key2' => 'value2');"
+    },
+    {
+        "question": "How do you check if a variable is an array in PHP?",
+        "optionA": "is_array($var);",
+        "optionB": "array_check($var);",
+        "optionC": "check_array($var);",
+        "optionD": "is_array_type($var);",
+        "answer": "is_array($var);"
+    },
+    {
+        "question": "Which function is used to get the length of a string in PHP?",
+        "optionA": "length();",
+        "optionB": "size();",
+        "optionC": "strlen();",
+        "optionD": "count();",
+        "answer": "strlen();"
+    },
+    {
+        "question": "How do you declare a global variable in PHP?",
+        "optionA": "global $x;",
+        "optionB": "$x = global;",
+        "optionC": "declare global $x;",
+        "optionD": "global variable $x;",
+        "answer": "global $x;"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a PHP comment?",
+        "optionA": "// This is a comment",
+        "optionB": "# This is a comment",
+        "optionC": "/* This is a comment */",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which PHP function is used to get the current date?",
+        "optionA": "get_date();",
+        "optionB": "date();",
+        "optionC": "current_date();",
+        "optionD": "now();",
+        "answer": "date();"
+    },
+    {
+        "question": "What is the output of the following code?\n<?php echo 10 / 2; ?>",
+        "optionA": "5",
+        "optionB": "2",
+        "optionC": "Error",
+        "optionD": "10",
+        "answer": "5"
+    },
+    {
+        "question": "Which function is used to count the number of elements in an array in PHP?",
+        "optionA": "count();",
+        "optionB": "size();",
+        "optionC": "length();",
+        "optionD": "elements();",
+        "answer": "count();"
+    },
+    {
+        "question": "What is the correct way to redirect a user to another page in PHP?",
+        "optionA": "header('Location: page.php');",
+        "optionB": "redirect('page.php');",
+        "optionC": "move('page.php');",
+        "optionD": "goto('page.php');",
+        "answer": "header('Location: page.php');"
+    },
+    {
+        "question": "How do you declare a constant in PHP?",
+        "optionA": "const PI = 3.14;",
+        "optionB": "define(PI, 3.14);",
+        "optionC": "constant('PI', 3.14);",
+        "optionD": "constant PI = 3.14;",
+        "answer": "const PI = 3.14;"
+    },
+    {
+        "question": "What is the output of the following code?\n<?php echo 'Hello ' . 'World'; ?>",
+        "optionA": "Hello World",
+        "optionB": "HelloWorld",
+        "optionC": "Hello",
+        "optionD": "Error",
+        "answer": "Hello World"
+    },
+    {
+        "question": "Which PHP function is used to escape special characters in a string for use in an SQL query?",
+        "optionA": "escape_string();",
+        "optionB": "sql_escape();",
+        "optionC": "mysql_escape_string();",
+        "optionD": "addslashes();",
+        "answer": "mysql_escape_string();"
+    },
+    {
+        "question": "Which of the following is the correct way to declare an array in PHP?",
+        "optionA": "$arr = array(1, 2, 3);",
+        "optionB": "$arr = (1, 2, 3);",
+        "optionC": "$arr = [1, 2, 3];",
+        "optionD": "Both A and C",
+        "answer": "Both A and C"
+    },
+    {
+        "question": "How do you remove an element from an array in PHP?",
+        "optionA": "array_pop();",
+        "optionB": "array_remove();",
+        "optionC": "remove_element();",
+        "optionD": "pop_array();",
+        "answer": "array_pop();"
+    },
+    {
+        "question": "Which of the following is used to concatenate strings in PHP?",
+        "optionA": "&",
+        "optionB": "+",
+        "optionC": ".",
+        "optionD": "concat()",
+        "answer": "."
+    },
+    {
+        "question": "What is the output of the following code?\n<?php echo '5' + 5; ?>",
+        "optionA": "55",
+        "optionB": "10",
+        "optionC": "Error",
+        "optionD": "None of the above",
+        "answer": "10"
+    },
+    {
+        "question": "How do you declare a class in PHP?",
+        "optionA": "class MyClass {}",
+        "optionB": "class MyClass() {}",
+        "optionC": "declare class MyClass {}",
+        "optionD": "class MyClass { }",
+        "answer": "class MyClass {}"
+    },
+    {
+        "question": "What is the purpose of the 'require' statement in PHP?",
+        "optionA": "To include a file only once",
+        "optionB": "To include a file multiple times",
+        "optionC": "To include a file if not already included",
+        "optionD": "To include a file even if it does not exist",
+        "answer": "To include a file only once"
+    },
+    {
+        "question": "What does PHP stand for?",
+        "optionA": "Personal Home Page",
+        "optionB": "PHP: Hypertext Preprocessor",
+        "optionC": "Preprocessor Hypertext Page",
+        "optionD": "Private Home Page",
+        "answer": "PHP: Hypertext Preprocessor"
+    },
+    {
+        "question": "How do you access an object property in PHP?",
+        "optionA": "object.property;",
+        "optionB": "object->property;",
+        "optionC": "object['property'];",
+        "optionD": "object{property};",
+        "answer": "object->property;"
+    },
+    {
+        "question": "Which function is used to get the value of a session variable in PHP?",
+        "optionA": "get_session();",
+        "optionB": "session_value();",
+        "optionC": "$_SESSION['variable'];",
+        "optionD": "session_variable();",
+        "answer": "$_SESSION['variable'];"
+    },
+    {
+        "question": "What is the output of the following code?\n<?php echo 'PHP' == 'PHP' ? 'True' : 'False'; ?>",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Error",
+        "optionD": "None of the above",
+        "answer": "True"
+    },
+    {
+        "question": "How do you define a constructor method in PHP?",
+        "optionA": "function __construct() {}",
+        "optionB": "function constructor() {}",
+        "optionC": "function __init() {}",
+        "optionD": "constructor() {}",
+        "answer": "function __construct() {}"
+    },
+    {
+        "question": "Which of the following is used to open a file in PHP?",
+        "optionA": "fopen();",
+        "optionB": "file_open();",
+        "optionC": "open_file();",
+        "optionD": "file_open();",
+        "answer": "fopen();"
+    },
+    {
+        "question": "Which of the following is the correct way to declare a public method in PHP?",
+        "optionA": "public function myMethod() {}",
+        "optionB": "public myMethod() {}",
+        "optionC": "function public myMethod() {}",
+        "optionD": "function myMethod() public {}",
+        "answer": "public function myMethod() {}"
+    },
+    {
+        "question": "How do you close a file in PHP?",
+        "optionA": "close_file();",
+        "optionB": "fclose();",
+        "optionC": "file_close();",
+        "optionD": "close();",
+        "answer": "fclose();"
+    },
+    {
+        "question": "Which of the following is the correct way to define an array in PHP?",
+        "optionA": "$arr = array(1, 2, 3);",
+        "optionB": "$arr = [1, 2, 3];",
+        "optionC": "$arr = (1, 2, 3);",
+        "optionD": "Both A and B",
+        "answer": "Both A and B"
+    },
+    {
+        "question": "How do you check if a variable is an integer in PHP?",
+        "optionA": "is_int($var);",
+        "optionB": "is_integer($var);",
+        "optionC": "check_int($var);",
+        "optionD": "both A and B",
+        "answer": "both A and B"
+    },
+    {
+        "question": "What is the default session timeout in PHP?",
+        "optionA": "30 minutes",
+        "optionB": "1 hour",
+        "optionC": "24 hours",
+        "optionD": "None of the above",
+        "answer": "None of the above"
+    },
+    {
+        "question": "Which of the following is used to handle errors in PHP?",
+        "optionA": "try-catch",
+        "optionB": "error_handler()",
+        "optionC": "throw-catch",
+        "optionD": "catch-throw",
+        "answer": "try-catch"
+    },
+    {
+        "question": "How do you get the current time in PHP?",
+        "optionA": "time();",
+        "optionB": "current_time();",
+        "optionC": "date();",
+        "optionD": "get_time();",
+        "answer": "time();"
+    },
+    {
+        "question": "Which of the following is the correct way to declare a private method in PHP?",
+        "optionA": "private function myMethod() {}",
+        "optionB": "function private myMethod() {}",
+        "optionC": "function myMethod() private {}",
+        "optionD": "private myMethod() {}",
+        "answer": "private function myMethod() {}"
+    },
+    {
+        "question": "Which PHP function is used to remove whitespace from the beginning and end of a string?",
+        "optionA": "trim();",
+        "optionB": "strip();",
+        "optionC": "remove_whitespace();",
+        "optionD": "clean();",
+        "answer": "trim();"
+    },
+    {
+        "question": "How do you declare a static variable in PHP?",
+        "optionA": "static $x;",
+        "optionB": "$x static;",
+        "optionC": "declare static $x;",
+        "optionD": "static variable $x;",
+        "answer": "static $x;"
+    },
+    {
+        "question": "Which function is used to convert a string to lowercase in PHP?",
+        "optionA": "to_lowercase();",
+        "optionB": "lower();",
+        "optionC": "strtolower();",
+        "optionD": "convert_lower();",
+        "answer": "strtolower();"
+    },
+    {
+        "question": "How do you check if a file exists in PHP?",
+        "optionA": "file_exists('file.php');",
+        "optionB": "check_file('file.php');",
+        "optionC": "is_file('file.php');",
+        "optionD": "exists('file.php');",
+        "answer": "file_exists('file.php');"
+    },
+    {
+        "question": "Which function is used to send an email in PHP?",
+        "optionA": "send_mail();",
+        "optionB": "mail();",
+        "optionC": "email();",
+        "optionD": "smtp_send();",
+        "answer": "mail();"
+    },
+    {
+        "question": "What is the default value of an uninitialized variable in PHP?",
+        "optionA": "null",
+        "optionB": "false",
+        "optionC": "0",
+        "optionD": "undefined",
+        "answer": "null"
+    },
+    {
+        "question": "Which of the following is used to check if a variable is set in PHP?",
+        "optionA": "isset($var);",
+        "optionB": "is_set($var);",
+        "optionC": "check_set($var);",
+        "optionD": "isset_var($var);",
+        "answer": "isset($var);"
+    },
+    {
+        "question": "How do you include a file only once in PHP?",
+        "optionA": "include_once 'file.php';",
+        "optionB": "require_once 'file.php';",
+        "optionC": "both A and B",
+        "optionD": "include('file.php');",
+        "answer": "both A and B"
+    },
+    {
+        "question": "What is the correct way to define a constant in PHP?",
+        "optionA": "define('PI', 3.14);",
+        "optionB": "constant('PI', 3.14);",
+        "optionC": "const PI = 3.14;",
+        "optionD": "constant PI = 3.14;",
+        "answer": "const PI = 3.14;"
+    },
+    {
+        "question": "Which of the following is used to terminate a script in PHP?",
+        "optionA": "exit();",
+        "optionB": "die();",
+        "optionC": "stop();",
+        "optionD": "Both A and B",
+        "answer": "Both A and B"
+    },
+    {
+        "question": "How do you check if a variable is empty in PHP?",
+        "optionA": "empty($var);",
+        "optionB": "is_empty($var);",
+        "optionC": "check_empty($var);",
+        "optionD": "none of the above",
+        "answer": "empty($var);"
+    },
+    {
+        "question": "Which function is used to create a session variable in PHP?",
+        "optionA": "session();",
+        "optionB": "set_session();",
+        "optionC": "$_SESSION['variable'] = value;",
+        "optionD": "session_variable();",
+        "answer": "$_SESSION['variable'] = value;"
+    },
+    {
+        "question": "How do you define a class property in PHP?",
+        "optionA": "public $property;",
+        "optionB": "private $property;",
+        "optionC": "protected $property;",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which function is used to get the length of an array in PHP?",
+        "optionA": "count();",
+        "optionB": "length();",
+        "optionC": "size();",
+        "optionD": "elements();",
+        "answer": "count();"
+    },
+    {
+        "question": "How do you check if a variable is a string in PHP?",
+        "optionA": "is_string($var);",
+        "optionB": "check_string($var);",
+        "optionC": "is_str($var);",
+        "optionD": "none of the above",
+        "answer": "is_string($var);"
+    }
+]

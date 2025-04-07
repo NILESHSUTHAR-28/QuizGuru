@@ -1,0 +1,450 @@
+[
+    {
+        "question": "What is the primary purpose of Continuous Integration (CI) in DevOps?",
+        "optionA": "To automatically deploy code to production",
+        "optionB": "To test code changes automatically before merging",
+        "optionC": "To monitor application performance",
+        "optionD": "To create a backup of the production environment",
+        "answer": "To test code changes automatically before merging"
+    },
+    {
+        "question": "Which of the following tools is used for configuration management in DevOps?",
+        "optionA": "Jenkins",
+        "optionB": "Ansible",
+        "optionC": "Docker",
+        "optionD": "Kubernetes",
+        "answer": "Ansible"
+    },
+    {
+        "question": "What is the purpose of Docker in DevOps?",
+        "optionA": "To monitor application performance",
+        "optionB": "To automate the build process",
+        "optionC": "To create and manage containers for applications",
+        "optionD": "To deploy applications to production",
+        "answer": "To create and manage containers for applications"
+    },
+    {
+        "question": "Which of the following is a key principle of DevOps?",
+        "optionA": "Agile development",
+        "optionB": "Automation of manual tasks",
+        "optionC": "Testing code only at the end of the cycle",
+        "optionD": "Frequent manual deployments",
+        "answer": "Automation of manual tasks"
+    },
+    {
+        "question": "Which tool is primarily used for Continuous Delivery (CD) in DevOps?",
+        "optionA": "Jenkins",
+        "optionB": "Git",
+        "optionC": "Kubernetes",
+        "optionD": "Chef",
+        "answer": "Jenkins"
+    },
+    {
+        "question": "What is the role of Kubernetes in DevOps?",
+        "optionA": "To automate the testing process",
+        "optionB": "To manage containerized applications",
+        "optionC": "To monitor system performance",
+        "optionD": "To manage source code repositories",
+        "answer": "To manage containerized applications"
+    },
+    {
+        "question": "Which of the following is a version control system commonly used in DevOps?",
+        "optionA": "Jenkins",
+        "optionB": "Git",
+        "optionC": "Docker",
+        "optionD": "Kubernetes",
+        "answer": "Git"
+    },
+    {
+        "question": "What is the purpose of a microservices architecture in DevOps?",
+        "optionA": "To create a monolithic application",
+        "optionB": "To deploy applications to a single server",
+        "optionC": "To break down applications into smaller, independent services",
+        "optionD": "To integrate all services into one large system",
+        "answer": "To break down applications into smaller, independent services"
+    },
+    {
+        "question": "What is the benefit of Infrastructure as Code (IaC) in DevOps?",
+        "optionA": "Manual configuration of servers",
+        "optionB": "Automated and repeatable infrastructure provisioning",
+        "optionC": "Increased cost of infrastructure management",
+        "optionD": "Reduced security of infrastructure",
+        "answer": "Automated and repeatable infrastructure provisioning"
+    },
+    {
+        "question": "Which of the following tools is used for container orchestration in DevOps?",
+        "optionA": "Jenkins",
+        "optionB": "Docker Swarm",
+        "optionC": "Git",
+        "optionD": "Ansible",
+        "answer": "Docker Swarm"
+    },
+    {
+        "question": "What is the role of monitoring in DevOps?",
+        "optionA": "To track application performance and detect issues",
+        "optionB": "To deploy applications to production",
+        "optionC": "To manage source code repositories",
+        "optionD": "To automate testing",
+        "answer": "To track application performance and detect issues"
+    },
+    {
+        "question": "What does Continuous Testing in DevOps aim to achieve?",
+        "optionA": "To deploy applications to production",
+        "optionB": "To test code continuously throughout the development cycle",
+        "optionC": "To monitor system performance in real-time",
+        "optionD": "To manage configuration changes",
+        "answer": "To test code continuously throughout the development cycle"
+    },
+    {
+        "question": "Which of the following is an example of a CI/CD pipeline tool?",
+        "optionA": "Git",
+        "optionB": "Jenkins",
+        "optionC": "Docker",
+        "optionD": "Kubernetes",
+        "answer": "Jenkins"
+    },
+    {
+        "question": "Which of the following is a key benefit of using containers in DevOps?",
+        "optionA": "Increased system resource consumption",
+        "optionB": "Faster application deployment and scalability",
+        "optionC": "Decreased application security",
+        "optionD": "Manual configuration of environments",
+        "answer": "Faster application deployment and scalability"
+    },
+    {
+        "question": "What is the main purpose of a load balancer in DevOps?",
+        "optionA": "To monitor application performance",
+        "optionB": "To distribute network traffic across multiple servers",
+        "optionC": "To deploy applications to production",
+        "optionD": "To create and manage containers",
+        "answer": "To distribute network traffic across multiple servers"
+    },
+    {
+        "question": "Which of the following tools is used for application performance monitoring in DevOps?",
+        "optionA": "Nagios",
+        "optionB": "Prometheus",
+        "optionC": "New Relic",
+        "optionD": "Kubernetes",
+        "answer": "New Relic"
+    },
+    {
+        "question": "Which of the following is an example of a containerization platform?",
+        "optionA": "Jenkins",
+        "optionB": "Docker",
+        "optionC": "Git",
+        "optionD": "Kubernetes",
+        "answer": "Docker"
+    },
+    {
+        "question": "What does 'blue-green deployment' refer to in DevOps?",
+        "optionA": "A method of scaling applications horizontally",
+        "optionB": "A deployment strategy that minimizes downtime by running two identical production environments",
+        "optionC": "A tool for monitoring application performance",
+        "optionD": "A process for managing server configurations",
+        "answer": "A deployment strategy that minimizes downtime by running two identical production environments"
+    },
+    {
+        "question": "Which of the following is a key benefit of Continuous Delivery (CD)?",
+        "optionA": "Faster deployment of code to production",
+        "optionB": "Slower code release cycles",
+        "optionC": "Manual intervention in the deployment process",
+        "optionD": "Increased risk of errors in production",
+        "answer": "Faster deployment of code to production"
+    },
+    {
+        "question": "Which tool is used for continuous integration and continuous deployment in DevOps?",
+        "optionA": "Jenkins",
+        "optionB": "Git",
+        "optionC": "Kubernetes",
+        "optionD": "Docker",
+        "answer": "Jenkins"
+    },
+    {
+        "question": "What is the purpose of version control in DevOps?",
+        "optionA": "To store configuration files",
+        "optionB": "To track changes to source code and manage code versions",
+        "optionC": "To deploy applications to production",
+        "optionD": "To monitor application performance",
+        "answer": "To track changes to source code and manage code versions"
+    },
+    {
+        "question": "Which of the following is an example of a cloud platform commonly used in DevOps?",
+        "optionA": "AWS",
+        "optionB": "GitHub",
+        "optionC": "Docker",
+        "optionD": "Kubernetes",
+        "answer": "AWS"
+    },
+    {
+        "question": "What does 'Infrastructure as Code' (IaC) help achieve in DevOps?",
+        "optionA": "Manual configuration of infrastructure",
+        "optionB": "Automated provisioning and management of infrastructure",
+        "optionC": "Continuous monitoring of applications",
+        "optionD": "Faster manual deployments",
+        "answer": "Automated provisioning and management of infrastructure"
+    },
+    {
+        "question": "What is the primary function of a DevOps pipeline?",
+        "optionA": "To monitor application performance",
+        "optionB": "To automate the process of building, testing, and deploying code",
+        "optionC": "To store code in a version control system",
+        "optionD": "To create and manage containers",
+        "answer": "To automate the process of building, testing, and deploying code"
+    },
+    {
+        "question": "What is the purpose of automated testing in DevOps?",
+        "optionA": "To manually check code quality",
+        "optionB": "To run tests automatically on every code change",
+        "optionC": "To deploy applications to production",
+        "optionD": "To monitor system performance",
+        "answer": "To run tests automatically on every code change"
+    },
+    {
+        "question": "Which of the following is a feature of Continuous Monitoring in DevOps?",
+        "optionA": "Manual tracking of server health",
+        "optionB": "Automated monitoring of application performance and infrastructure",
+        "optionC": "Manual configuration of monitoring tools",
+        "optionD": "Manual deployment of code to production",
+        "answer": "Automated monitoring of application performance and infrastructure"
+    },
+    {
+        "question": "Which of the following tools is used for monitoring and alerting in DevOps?",
+        "optionA": "Nagios",
+        "optionB": "Git",
+        "optionC": "Jenkins",
+        "optionD": "Kubernetes",
+        "answer": "Nagios"
+    },
+    {
+        "question": "What is the benefit of using a container orchestration tool like Kubernetes in DevOps?",
+        "optionA": "Automated testing of code changes",
+        "optionB": "Managing and scaling containerized applications",
+        "optionC": "Tracking changes to source code",
+        "optionD": "Monitoring application performance",
+        "answer": "Managing and scaling containerized applications"
+    },
+    {
+        "question": "What is the role of a 'DevOps Engineer'?",
+        "optionA": "To manage source code repositories",
+        "optionB": "To automate and streamline software development and deployment processes",
+        "optionC": "To create and manage containers",
+        "optionD": "To monitor application performance",
+        "answer": "To automate and streamline software development and deployment processes"
+    },
+    {
+        "question": "What is the key difference between Continuous Integration (CI) and Continuous Delivery (CD)?",
+        "optionA": "CI is about testing code, CD is about deploying code",
+        "optionB": "CI is about deploying code, CD is about testing code",
+        "optionC": "CI is about automating manual tasks, CD is about creating containers",
+        "optionD": "There is no difference",
+        "answer": "CI is about testing code, CD is about deploying code"
+    },
+    {
+        "question": "What is the purpose of a rollback in DevOps?",
+        "optionA": "To undo the last deployment or changes",
+        "optionB": "To monitor application performance",
+        "optionC": "To track changes to source code",
+        "optionD": "To create a new container",
+        "answer": "To undo the last deployment or changes"
+    },
+    {
+        "question": "What does 'DevOps culture' focus on?",
+        "optionA": "Manual deployment processes",
+        "optionB": "Collaboration between development and operations teams",
+        "optionC": "Tracking application performance",
+        "optionD": "Creating and managing containers",
+        "answer": "Collaboration between development and operations teams"
+    },
+    {
+        "question": "What is the primary goal of DevOps?",
+        "optionA": "To deploy applications faster",
+        "optionB": "To ensure high availability of servers",
+        "optionC": "To break down silos between development and operations teams",
+        "optionD": "To reduce the cost of infrastructure",
+        "answer": "To break down silos between development and operations teams"
+    },
+    {
+        "question": "Which of the following is a tool used for containerization in DevOps?",
+        "optionA": "Kubernetes",
+        "optionB": "Docker",
+        "optionC": "Jenkins",
+        "optionD": "GitHub",
+        "answer": "Docker"
+    },
+    {
+        "question": "What is the purpose of a 'canary release' in DevOps?",
+        "optionA": "To release the application to a small subset of users before full deployment",
+        "optionB": "To roll back to a previous version of the application",
+        "optionC": "To test the application in a staging environment",
+        "optionD": "To deploy a new feature to all users at once",
+        "answer": "To release the application to a small subset of users before full deployment"
+    },
+    {
+        "question": "Which of the following is a benefit of using a microservices architecture in DevOps?",
+        "optionA": "Increased complexity in application deployment",
+        "optionB": "Easier scalability and independent service updates",
+        "optionC": "Slower deployment times",
+        "optionD": "Reduced security risks",
+        "answer": "Easier scalability and independent service updates"
+    },
+    {
+        "question": "Which tool is used for infrastructure automation in DevOps?",
+        "optionA": "Jenkins",
+        "optionB": "Chef",
+        "optionC": "Git",
+        "optionD": "Docker",
+        "answer": "Chef"
+    },
+    {
+        "question": "What is the purpose of a DevOps 'feedback loop'?",
+        "optionA": "To improve communication between development and operations teams",
+        "optionB": "To monitor the application performance in real-time",
+        "optionC": "To test code changes automatically",
+        "optionD": "To track the history of code changes",
+        "answer": "To improve communication between development and operations teams"
+    },
+    {
+        "question": "Which of the following is an example of a continuous monitoring tool in DevOps?",
+        "optionA": "Nagios",
+        "optionB": "GitHub",
+        "optionC": "Kubernetes",
+        "optionD": "Docker",
+        "answer": "Nagios"
+    },
+    {
+        "question": "What does 'immutable infrastructure' mean in DevOps?",
+        "optionA": "Infrastructure that can be easily modified during runtime",
+        "optionB": "Infrastructure that cannot be changed after it is deployed",
+        "optionC": "Infrastructure that automatically scales up or down",
+        "optionD": "Infrastructure that is manually configured",
+        "answer": "Infrastructure that cannot be changed after it is deployed"
+    },
+    {
+        "question": "What is the role of a 'build server' in DevOps?",
+        "optionA": "To manage source code repositories",
+        "optionB": "To automatically compile and build code",
+        "optionC": "To monitor application performance",
+        "optionD": "To deploy applications to production",
+        "answer": "To automatically compile and build code"
+    },
+    {
+        "question": "Which of the following tools is used for orchestration in DevOps?",
+        "optionA": "Jenkins",
+        "optionB": "Kubernetes",
+        "optionC": "Git",
+        "optionD": "Docker",
+        "answer": "Kubernetes"
+    },
+    {
+        "question": "What is the primary function of a 'CI/CD pipeline'?",
+        "optionA": "To monitor system performance",
+        "optionB": "To automate the process of building, testing, and deploying code",
+        "optionC": "To store and manage source code",
+        "optionD": "To manage infrastructure",
+        "answer": "To automate the process of building, testing, and deploying code"
+    },
+    {
+        "question": "What does 'continuous delivery' (CD) aim to achieve?",
+        "optionA": "Automated testing of code changes",
+        "optionB": "Automated deployment of code to production",
+        "optionC": "Manual deployment of code to production",
+        "optionD": "Monitoring application performance",
+        "answer": "Automated deployment of code to production"
+    },
+    {
+        "question": "What is the purpose of 'DevSecOps'?",
+        "optionA": "To integrate security into the DevOps process",
+        "optionB": "To monitor application performance",
+        "optionC": "To manage containerized applications",
+        "optionD": "To deploy applications to production",
+        "answer": "To integrate security into the DevOps process"
+    },
+    {
+        "question": "Which of the following is a cloud-native tool used for container orchestration?",
+        "optionA": "Docker Swarm",
+        "optionB": "Kubernetes",
+        "optionC": "Chef",
+        "optionD": "Jenkins",
+        "answer": "Kubernetes"
+    },
+    {
+        "question": "What is the purpose of 'log aggregation' in DevOps?",
+        "optionA": "To monitor application performance",
+        "optionB": "To collect and centralize log data from multiple sources",
+        "optionC": "To deploy applications to production",
+        "optionD": "To automate testing of code changes",
+        "answer": "To collect and centralize log data from multiple sources"
+    },
+    {
+        "question": "What is the purpose of a 'rollback' in DevOps?",
+        "optionA": "To automatically deploy code to production",
+        "optionB": "To undo the last deployment or changes",
+        "optionC": "To monitor system performance",
+        "optionD": "To create and manage containers",
+        "answer": "To undo the last deployment or changes"
+    },
+    {
+        "question": "Which of the following is a version control system commonly used in DevOps?",
+        "optionA": "Jenkins",
+        "optionB": "Git",
+        "optionC": "Docker",
+        "optionD": "Kubernetes",
+        "answer": "Git"
+    },
+    {
+        "question": "What is the role of 'Continuous Integration' (CI) in DevOps?",
+        "optionA": "To automate the deployment process",
+        "optionB": "To test code changes automatically before merging",
+        "optionC": "To monitor application performance",
+        "optionD": "To manage source code repositories",
+        "answer": "To test code changes automatically before merging"
+    },
+    {
+        "question": "What is 'Containerization' in DevOps?",
+        "optionA": "The process of scaling applications horizontally",
+        "optionB": "The practice of packaging applications and their dependencies into containers",
+        "optionC": "The process of testing code changes continuously",
+        "optionD": "The practice of managing source code repositories",
+        "answer": "The practice of packaging applications and their dependencies into containers"
+    },
+    {
+        "question": "What is the purpose of a 'DevOps Dashboard'?",
+        "optionA": "To monitor and display key metrics related to development, testing, and deployment",
+        "optionB": "To deploy applications to production",
+        "optionC": "To manage source code repositories",
+        "optionD": "To track the history of code changes",
+        "answer": "To monitor and display key metrics related to development, testing, and deployment"
+    },
+    {
+        "question": "Which of the following is an example of a 'serverless' platform used in DevOps?",
+        "optionA": "AWS Lambda",
+        "optionB": "Kubernetes",
+        "optionC": "Docker Swarm",
+        "optionD": "Chef",
+        "answer": "AWS Lambda"
+    },
+    {
+        "question": "What does 'Continuous Testing' aim to achieve in DevOps?",
+        "optionA": "To automate testing of code changes throughout the development lifecycle",
+        "optionB": "To manually test code changes before deployment",
+        "optionC": "To deploy applications to production",
+        "optionD": "To monitor system performance",
+        "answer": "To automate testing of code changes throughout the development lifecycle"
+    },
+    {
+        "question": "Which of the following is a key benefit of using DevOps?",
+        "optionA": "Increased time to market",
+        "optionB": "Faster deployment cycles",
+        "optionC": "More manual interventions",
+        "optionD": "Slower development cycles",
+        "answer": "Faster deployment cycles"
+    },
+    {
+        "question": "Which of the following is a tool used for configuration management in DevOps?",
+        "optionA": "Jenkins",
+        "optionB": "Chef",
+        "optionC": "Docker",
+        "optionD": "Git",
+        "answer": "Chef"
+    }
+]

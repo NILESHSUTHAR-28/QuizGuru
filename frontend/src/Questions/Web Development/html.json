@@ -1,0 +1,434 @@
+[
+    {
+        "question": "What is the correct HTML element for inserting a line break?",
+        "optionA": "<break>",
+        "optionB": "<lb>",
+        "optionC": "<br>",
+        "optionD": "<linebreak>",
+        "answer": "<br>"
+    },
+    {
+        "question": "Which HTML element is used to define a hyperlink?",
+        "optionA": "<link>",
+        "optionB": "<a>",
+        "optionC": "<href>",
+        "optionD": "<hyperlink>",
+        "answer": "<a>"
+    },
+    {
+        "question": "Which HTML attribute is used to define the URL of a hyperlink?",
+        "optionA": "src",
+        "optionB": "href",
+        "optionC": "link",
+        "optionD": "url",
+        "answer": "href"
+    },
+    {
+        "question": "What is the correct HTML element for defining an unordered list?",
+        "optionA": "<ul>",
+        "optionB": "<ol>",
+        "optionC": "<list>",
+        "optionD": "<ulist>",
+        "answer": "<ul>"
+    },
+    {
+        "question": "Which HTML tag is used to define a table row?",
+        "optionA": "<td>",
+        "optionB": "<tr>",
+        "optionC": "<th>",
+        "optionD": "<table>",
+        "answer": "<tr>"
+    },
+    {
+        "question": "What is the correct HTML element to display an image?",
+        "optionA": "<image>",
+        "optionB": "<img>",
+        "optionC": "<src>",
+        "optionD": "<pic>",
+        "answer": "<img>"
+    },
+    {
+        "question": "Which attribute is used to specify the source of an image in HTML?",
+        "optionA": "src",
+        "optionB": "href",
+        "optionC": "alt",
+        "optionD": "url",
+        "answer": "src"
+    },
+    {
+        "question": "Which HTML tag is used to define a form?",
+        "optionA": "<input>",
+        "optionB": "<form>",
+        "optionC": "<textarea>",
+        "optionD": "<button>",
+        "answer": "<form>"
+    },
+    {
+        "question": "What is the correct HTML tag for a numbered list?",
+        "optionA": "<ul>",
+        "optionB": "<ol>",
+        "optionC": "<li>",
+        "optionD": "<list>",
+        "answer": "<ol>"
+    },
+    {
+        "question": "Which HTML tag is used to define a table header?",
+        "optionA": "<th>",
+        "optionB": "<thead>",
+        "optionC": "<tr>",
+        "optionD": "<table>",
+        "answer": "<th>"
+    },
+    {
+        "question": "What is the correct HTML tag to define a paragraph?",
+        "optionA": "<p>",
+        "optionB": "<text>",
+        "optionC": "<para>",
+        "optionD": "<paragraph>",
+        "answer": "<p>"
+    },
+    {
+        "question": "Which HTML tag is used to define a division or section?",
+        "optionA": "<div>",
+        "optionB": "<section>",
+        "optionC": "<group>",
+        "optionD": "<span>",
+        "answer": "<div>"
+    },
+    {
+        "question": "What is the correct HTML tag to define a hyperlink that opens in a new tab?",
+        "optionA": "<a target='_blank'>",
+        "optionB": "<a target='_new'>",
+        "optionC": "<a new='true'>",
+        "optionD": "<a open='new'>",
+        "answer": "<a target='_blank'>"
+    },
+    {
+        "question": "Which HTML tag is used to create a drop-down list?",
+        "optionA": "<select>",
+        "optionB": "<dropdown>",
+        "optionC": "<list>",
+        "optionD": "<option>",
+        "answer": "<select>"
+    },
+    {
+        "question": "What is the purpose of the <meta> tag in HTML?",
+        "optionA": "To define a link to an external stylesheet",
+        "optionB": "To specify metadata about the HTML document",
+        "optionC": "To define a table",
+        "optionD": "To include an image",
+        "answer": "To specify metadata about the HTML document"
+    },
+    {
+        "question": "What is the correct HTML tag to create a checkbox?",
+        "optionA": "<input type='checkbox'>",
+        "optionB": "<input type='radio'>",
+        "optionC": "<checkbox>",
+        "optionD": "<check>",
+        "answer": "<input type='checkbox'>"
+    },
+    {
+        "question": "Which tag is used to define a button in HTML?",
+        "optionA": "<button>",
+        "optionB": "<input>",
+        "optionC": "<btn>",
+        "optionD": "<click>",
+        "answer": "<button>"
+    },
+    {
+        "question": "Which HTML tag is used to define an ordered list item?",
+        "optionA": "<ol>",
+        "optionB": "<li>",
+        "optionC": "<ul>",
+        "optionD": "<list>",
+        "answer": "<li>"
+    },
+    {
+        "question": "What is the purpose of the <head> tag in HTML?",
+        "optionA": "To define the main content of the page",
+        "optionB": "To define the header section of the page",
+        "optionC": "To define metadata and links to external files",
+        "optionD": "To define the footer section of the page",
+        "answer": "To define metadata and links to external files"
+    },
+    {
+        "question": "What does the <title> tag do in HTML?",
+        "optionA": "Defines the title of the webpage in the browser tab",
+        "optionB": "Defines the main heading of the page",
+        "optionC": "Defines the footer content",
+        "optionD": "Defines a paragraph of text",
+        "answer": "Defines the title of the webpage in the browser tab"
+    },
+    {
+        "question": "Which HTML tag is used to define a form input field?",
+        "optionA": "<input>",
+        "optionB": "<field>",
+        "optionC": "<inputField>",
+        "optionD": "<textfield>",
+        "answer": "<input>"
+    },
+    {
+        "question": "What is the correct HTML element to embed a video?",
+        "optionA": "<embed>",
+        "optionB": "<video>",
+        "optionC": "<media>",
+        "optionD": "<mov>",
+        "answer": "<video>"
+    },
+    {
+        "question": "Which HTML element is used to define the largest heading?",
+        "optionA": "<h1>",
+        "optionB": "<h6>",
+        "optionC": "<heading>",
+        "optionD": "<h0>",
+        "answer": "<h1>"
+    },
+    {
+        "question": "Which HTML tag is used to define a table cell?",
+        "optionA": "<td>",
+        "optionB": "<tr>",
+        "optionC": "<th>",
+        "optionD": "<table>",
+        "answer": "<td>"
+    },
+    {
+        "question": "What does the <strong> tag do in HTML?",
+        "optionA": "Makes the text bold",
+        "optionB": "Makes the text italic",
+        "optionC": "Makes the text underlined",
+        "optionD": "Makes the text strikethrough",
+        "answer": "Makes the text bold"
+    },
+    {
+        "question": "What is the correct HTML tag for inserting a horizontal line?",
+        "optionA": "<hr>",
+        "optionB": "<line>",
+        "optionC": "<break>",
+        "optionD": "<hl>",
+        "answer": "<hr>"
+    },
+    {
+        "question": "What does the <em> tag do in HTML?",
+        "optionA": "Makes the text bold",
+        "optionB": "Emphasizes the text (usually italic)",
+        "optionC": "Underlines the text",
+        "optionD": "Strikes through the text",
+        "answer": "Emphasizes the text (usually italic)"
+    },
+    {
+        "question": "Which tag is used to define a footer in HTML?",
+        "optionA": "<footer>",
+        "optionB": "<bottom>",
+        "optionC": "<section>",
+        "optionD": "<end>",
+        "answer": "<footer>"
+    },
+    {
+        "question": "What does the <link> tag do in HTML?",
+        "optionA": "Defines a hyperlink",
+        "optionB": "Links an external CSS file",
+        "optionC": "Links an external JavaScript file",
+        "optionD": "Links a video",
+        "answer": "Links an external CSS file"
+    },
+    {
+        "question": "Which attribute is used to add alternative text for an image in HTML?",
+        "optionA": "alt",
+        "optionB": "title",
+        "optionC": "src",
+        "optionD": "text",
+        "answer": "alt"
+    },
+    {
+        "question": "Which tag is used to define an inline frame in HTML?",
+        "optionA": "<frame>",
+        "optionB": "<iframe>",
+        "optionC": "<inline>",
+        "optionD": "<frame-src>",
+        "answer": "<iframe>"
+    },
+    {
+        "question": "What is the purpose of the <meta> tag in HTML?",
+        "optionA": "To define the character encoding of the page",
+        "optionB": "To define metadata about the HTML document",
+        "optionC": "To link an external CSS file",
+        "optionD": "To create a hyperlink",
+        "answer": "To define metadata about the HTML document"
+    },
+    {
+        "question": "Which HTML tag is used to define a horizontal rule?",
+        "optionA": "<hr>",
+        "optionB": "<line>",
+        "optionC": "<break>",
+        "optionD": "<rule>",
+        "answer": "<hr>"
+    },
+    {
+        "question": "What is the correct HTML tag for creating a text input field?",
+        "optionA": "<input type='text'>",
+        "optionB": "<textfield>",
+        "optionC": "<input type='textfield'>",
+        "optionD": "<textinput>",
+        "answer": "<input type='text'>"
+    },
+    {
+        "question": "Which HTML tag is used to define an ordered list?",
+        "optionA": "<ul>",
+        "optionB": "<ol>",
+        "optionC": "<li>",
+        "optionD": "<list>",
+        "answer": "<ol>"
+    },
+    {
+        "question": "What is the correct HTML tag for creating a radio button?",
+        "optionA": "<input type='checkbox'>",
+        "optionB": "<input type='radio'>",
+        "optionC": "<radio>",
+        "optionD": "<input type='button'>",
+        "answer": "<input type='radio'>"
+    },
+    {
+        "question": "Which HTML tag is used to define a table header cell?",
+        "optionA": "<td>",
+        "optionB": "<th>",
+        "optionC": "<tr>",
+        "optionD": "<thead>",
+        "answer": "<th>"
+    },
+    {
+        "question": "What does the <code> tag do in HTML?",
+        "optionA": "Displays code in a monospaced font",
+        "optionB": "Displays the content in italics",
+        "optionC": "Displays the content in bold",
+        "optionD": "Displays the content as a hyperlink",
+        "answer": "Displays code in a monospaced font"
+    },
+    {
+        "question": "Which HTML element is used to define a section of a document?",
+        "optionA": "<section>",
+        "optionB": "<div>",
+        "optionC": "<article>",
+        "optionD": "<block>",
+        "answer": "<section>"
+    },
+    {
+        "question": "Which HTML tag is used to define a definition list?",
+        "optionA": "<dl>",
+        "optionB": "<ul>",
+        "optionC": "<ol>",
+        "optionD": "<list>",
+        "answer": "<dl>"
+    },
+    {
+        "question": "What is the correct HTML tag for creating a dropdown list?",
+        "optionA": "<dropdown>",
+        "optionB": "<select>",
+        "optionC": "<list>",
+        "optionD": "<option>",
+        "answer": "<select>"
+    },
+    {
+        "question": "Which attribute is used to specify the action for a form in HTML?",
+        "optionA": "method",
+        "optionB": "action",
+        "optionC": "type",
+        "optionD": "submit",
+        "answer": "action"
+    },
+    {
+        "question": "What is the correct HTML tag to define a table footer?",
+        "optionA": "<tfoot>",
+        "optionB": "<footer>",
+        "optionC": "<tfootrow>",
+        "optionD": "<tablefooter>",
+        "answer": "<tfoot>"
+    },
+    {
+        "question": "Which HTML tag is used to define a document's metadata?",
+        "optionA": "<meta>",
+        "optionB": "<header>",
+        "optionC": "<head>",
+        "optionD": "<body>",
+        "answer": "<meta>"
+    },
+    {
+        "question": "What does the <mark> tag do in HTML?",
+        "optionA": "Highlights the text",
+        "optionB": "Displays the text in bold",
+        "optionC": "Displays the text in italics",
+        "optionD": "Strikes through the text",
+        "answer": "Highlights the text"
+    },
+    {
+        "question": "Which HTML tag is used to create a tooltip?",
+        "optionA": "<tooltip>",
+        "optionB": "<title>",
+        "optionC": "<span>",
+        "optionD": "<abbr>",
+        "answer": "<abbr>"
+    },
+    {
+        "question": "Which HTML tag is used to define a navigation menu?",
+        "optionA": "<nav>",
+        "optionB": "<menu>",
+        "optionC": "<link>",
+        "optionD": "<ul>",
+        "answer": "<nav>"
+    },
+    {
+        "question": "What is the correct HTML tag to define a blockquote?",
+        "optionA": "<blockquote>",
+        "optionB": "<quote>",
+        "optionC": "<q>",
+        "optionD": "<blockquote-quote>",
+        "answer": "<blockquote>"
+    },
+    {
+        "question": "What is the correct HTML tag for defining a citation?",
+        "optionA": "<cite>",
+        "optionB": "<reference>",
+        "optionC": "<quote>",
+        "optionD": "<source>",
+        "answer": "<cite>"
+    },
+    {
+        "question": "What does the <sup> tag do in HTML?",
+        "optionA": "Displays the text as superscript",
+        "optionB": "Displays the text as subscript",
+        "optionC": "Displays the text in bold",
+        "optionD": "Displays the text in italics",
+        "answer": "Displays the text as superscript"
+    },
+    {
+        "question": "What does the <sub> tag do in HTML?",
+        "optionA": "Displays the text as superscript",
+        "optionB": "Displays the text as subscript",
+        "optionC": "Displays the text in bold",
+        "optionD": "Displays the text in italics",
+        "answer": "Displays the text as subscript"
+    },
+    {
+        "question": "Which HTML tag is used to define a figure and its caption?",
+        "optionA": "<figure>",
+        "optionB": "<figcaption>",
+        "optionC": "<caption>",
+        "optionD": "<image>",
+        "answer": "<figure>"
+    },
+    {
+        "question": "What does the <b> tag do in HTML?",
+        "optionA": "Makes the text bold",
+        "optionB": "Makes the text italic",
+        "optionC": "Makes the text underlined",
+        "optionD": "Makes the text strikethrough",
+        "answer": "Makes the text bold"
+    },
+    {
+        "question": "Which tag is used to define an audio file in HTML?",
+        "optionA": "<audio>",
+        "optionB": "<sound>",
+        "optionC": "<media>",
+        "optionD": "<mp3>",
+        "answer": "<audio>"
+    }
+]

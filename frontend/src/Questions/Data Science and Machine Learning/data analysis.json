@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is data analysis primarily used for?",
+        "optionA": "To clean and organize data",
+        "optionB": "To extract meaningful insights from data",
+        "optionC": "To create data backups",
+        "optionD": "To visualize raw data without processing",
+        "answer": "To extract meaningful insights from data"
+    },
+    {
+        "question": "Which of the following is NOT a common step in the data analysis process?",
+        "optionA": "Data cleaning",
+        "optionB": "Data collection",
+        "optionC": "Data visualization",
+        "optionD": "Data encryption",
+        "answer": "Data encryption"
+    },
+    {
+        "question": "What does ETL stand for in data analysis?",
+        "optionA": "Extract, Transform, Load",
+        "optionB": "Encrypt, Transfer, Load",
+        "optionC": "Edit, Transform, Link",
+        "optionD": "Evaluate, Transfer, Load",
+        "answer": "Extract, Transform, Load"
+    },
+    {
+        "question": "Which Python library is most commonly used for data manipulation?",
+        "optionA": "NumPy",
+        "optionB": "Matplotlib",
+        "optionC": "Pandas",
+        "optionD": "Seaborn",
+        "answer": "Pandas"
+    },
+    {
+        "question": "What is the primary purpose of data cleaning?",
+        "optionA": "To remove duplicates and inconsistencies in data",
+        "optionB": "To create visualizations",
+        "optionC": "To apply machine learning algorithms",
+        "optionD": "To encrypt sensitive data",
+        "answer": "To remove duplicates and inconsistencies in data"
+    },
+    {
+        "question": "Which of the following is an example of unstructured data?",
+        "optionA": "Excel spreadsheet",
+        "optionB": "Database table",
+        "optionC": "Text from social media posts",
+        "optionD": "CSV file",
+        "answer": "Text from social media posts"
+    },
+    {
+        "question": "What is a common visualization used to show trends over time?",
+        "optionA": "Pie chart",
+        "optionB": "Bar chart",
+        "optionC": "Line chart",
+        "optionD": "Scatter plot",
+        "answer": "Line chart"
+    },
+    {
+        "question": "What does a correlation coefficient measure?",
+        "optionA": "The average value of a dataset",
+        "optionB": "The relationship between two variables",
+        "optionC": "The frequency of data points",
+        "optionD": "The spread of data",
+        "answer": "The relationship between two variables"
+    },
+    {
+        "question": "Which Python library is widely used for data visualization?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Matplotlib",
+        "optionD": "Scikit-learn",
+        "answer": "Matplotlib"
+    },
+    {
+        "question": "What is the purpose of a box plot in data analysis?",
+        "optionA": "To show the distribution of a dataset",
+        "optionB": "To display categorical data",
+        "optionC": "To visualize relationships between two variables",
+        "optionD": "To calculate correlation",
+        "answer": "To show the distribution of a dataset"
+    },
+    {
+        "question": "Which metric is used to measure the central tendency of a dataset?",
+        "optionA": "Variance",
+        "optionB": "Standard deviation",
+        "optionC": "Mean",
+        "optionD": "Range",
+        "answer": "Mean"
+    },
+    {
+        "question": "What is the purpose of a histogram?",
+        "optionA": "To compare multiple datasets",
+        "optionB": "To show the frequency distribution of a variable",
+        "optionC": "To visualize time-series data",
+        "optionD": "To display categorical data",
+        "answer": "To show the frequency distribution of a variable"
+    },
+    {
+        "question": "What is the difference between supervised and unsupervised learning in data analysis?",
+        "optionA": "Supervised learning uses labeled data, while unsupervised learning does not",
+        "optionB": "Unsupervised learning is faster than supervised learning",
+        "optionC": "Supervised learning is used for clustering, while unsupervised is for classification",
+        "optionD": "There is no difference",
+        "answer": "Supervised learning uses labeled data, while unsupervised learning does not"
+    },
+    {
+        "question": "What is the main purpose of regression analysis?",
+        "optionA": "To identify clusters in data",
+        "optionB": "To predict relationships between variables",
+        "optionC": "To summarize data",
+        "optionD": "To encrypt data",
+        "answer": "To predict relationships between variables"
+    },
+    {
+        "question": "What is a common use of the NumPy library in Python?",
+        "optionA": "To create machine learning models",
+        "optionB": "To handle multi-dimensional arrays and perform mathematical operations",
+        "optionC": "To visualize data",
+        "optionD": "To clean datasets",
+        "answer": "To handle multi-dimensional arrays and perform mathematical operations"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "optionA": "Structured Query Language",
+        "optionB": "Simple Query Language",
+        "optionC": "Standard Query Language",
+        "optionD": "Sequential Query Language",
+        "answer": "Structured Query Language"
+    },
+    {
+        "question": "Which of the following is NOT a type of data visualization?",
+        "optionA": "Scatter plot",
+        "optionB": "Histogram",
+        "optionC": "Heatmap",
+        "optionD": "Algorithm",
+        "answer": "Algorithm"
+    },
+    {
+        "question": "What is overfitting in data analysis?",
+        "optionA": "When a model performs well on training data but poorly on new data",
+        "optionB": "When a model performs well on all data",
+        "optionC": "When a model underestimates the data",
+        "optionD": "When a model predicts random results",
+        "answer": "When a model performs well on training data but poorly on new data"
+    },
+    {
+        "question": "Which of the following is a key characteristic of Big Data?",
+        "optionA": "Volume",
+        "optionB": "Variety",
+        "optionC": "Velocity",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which tool is commonly used for data analysis in Excel?",
+        "optionA": "Pivot Table",
+        "optionB": "VLOOKUP",
+        "optionC": "Filter",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of a scatter plot in data analysis?",
+        "optionA": "To compare categories",
+        "optionB": "To show the relationship between two variables",
+        "optionC": "To visualize trends over time",
+        "optionD": "To calculate averages",
+        "answer": "To show the relationship between two variables"
+    },
+    {
+        "question": "Which of the following is an example of categorical data?",
+        "optionA": "Height of individuals",
+        "optionB": "Number of products sold",
+        "optionC": "Types of cars",
+        "optionD": "Average monthly income",
+        "answer": "Types of cars"
+    },
+    {
+        "question": "What is the main purpose of a pie chart?",
+        "optionA": "To show parts of a whole",
+        "optionB": "To display trends over time",
+        "optionC": "To calculate correlations",
+        "optionD": "To show distributions",
+        "answer": "To show parts of a whole"
+    },
+    {
+        "question": "Which of the following is NOT a data type in Python?",
+        "optionA": "Integer",
+        "optionB": "String",
+        "optionC": "Boolean",
+        "optionD": "ArrayList",
+        "answer": "ArrayList"
+    },
+    {
+        "question": "What does the term 'data wrangling' refer to?",
+        "optionA": "Storing data securely",
+        "optionB": "Transforming and mapping data into a useful format",
+        "optionC": "Encrypting sensitive data",
+        "optionD": "Backing up data",
+        "answer": "Transforming and mapping data into a useful format"
+    },
+    {
+        "question": "Which metric measures the spread of data in a dataset?",
+        "optionA": "Mean",
+        "optionB": "Median",
+        "optionC": "Standard deviation",
+        "optionD": "Mode",
+        "answer": "Standard deviation"
+    },
+    {
+        "question": "What is the role of a primary key in a database?",
+        "optionA": "To allow duplicate rows",
+        "optionB": "To uniquely identify each record",
+        "optionC": "To store metadata",
+        "optionD": "To index the database",
+        "answer": "To uniquely identify each record"
+    },
+    {
+        "question": "What is the purpose of the Seaborn library in Python?",
+        "optionA": "To handle dataframes",
+        "optionB": "To perform machine learning",
+        "optionC": "To create statistical data visualizations",
+        "optionD": "To clean datasets",
+        "answer": "To create statistical data visualizations"
+    },
+    {
+        "question": "Which of the following is an example of time-series data?",
+        "optionA": "Stock prices over a year",
+        "optionB": "Employee names",
+        "optionC": "Types of fruits",
+        "optionD": "Product categories",
+        "answer": "Stock prices over a year"
+    },
+    {
+        "question": "Which SQL command is used to retrieve data from a database?",
+        "optionA": "INSERT",
+        "optionB": "UPDATE",
+        "optionC": "SELECT",
+        "optionD": "DELETE",
+        "answer": "SELECT"
+    },
+    {
+        "question": "What is the purpose of a heatmap in data analysis?",
+        "optionA": "To compare numerical data across categories",
+        "optionB": "To display geographical data",
+        "optionC": "To visualize correlations between variables",
+        "optionD": "To calculate averages",
+        "answer": "To visualize correlations between variables"
+    },
+    {
+        "question": "Which of the following is a supervised machine learning algorithm?",
+        "optionA": "K-Means Clustering",
+        "optionB": "Decision Tree",
+        "optionC": "Principal Component Analysis",
+        "optionD": "Apriori Algorithm",
+        "answer": "Decision Tree"
+    },
+    {
+        "question": "What is a key advantage of using a relational database?",
+        "optionA": "Supports unstructured data",
+        "optionB": "Provides relationships between tables",
+        "optionC": "Automatically encrypts data",
+        "optionD": "Requires no schema",
+        "answer": "Provides relationships between tables"
+    },
+    {
+        "question": "What is the primary purpose of hypothesis testing in data analysis?",
+        "optionA": "To visualize data",
+        "optionB": "To draw conclusions based on sample data",
+        "optionC": "To clean datasets",
+        "optionD": "To create machine learning models",
+        "answer": "To draw conclusions based on sample data"
+    },
+    {
+        "question": "What does the term 'data normalization' mean?",
+        "optionA": "Encrypting sensitive data",
+        "optionB": "Scaling data to a specific range",
+        "optionC": "Backing up data",
+        "optionD": "Storing data in a single format",
+        "answer": "Scaling data to a specific range"
+    },
+    {
+        "question": "What does PCA stand for in data analysis?",
+        "optionA": "Principal Component Analysis",
+        "optionB": "Primary Component Analysis",
+        "optionC": "Principal Correlation Algorithm",
+        "optionD": "Primary Correlation Algorithm",
+        "answer": "Principal Component Analysis"
+    },
+    {
+        "question": "Which of the following measures is resistant to outliers?",
+        "optionA": "Mean",
+        "optionB": "Median",
+        "optionC": "Standard deviation",
+        "optionD": "Range",
+        "answer": "Median"
+    },
+    {
+        "question": "Which of the following is a characteristic of structured data?",
+        "optionA": "Has a defined schema",
+        "optionB": "Includes images and videos",
+        "optionC": "Cannot be stored in databases",
+        "optionD": "Has no defined format",
+        "answer": "Has a defined schema"
+    },
+    {
+        "question": "What is the primary goal of clustering in data analysis?",
+        "optionA": "To classify data",
+        "optionB": "To group similar data points",
+        "optionC": "To predict future trends",
+        "optionD": "To clean datasets",
+        "answer": "To group similar data points"
+    },
+    {
+        "question": "Which of the following is a non-parametric test in statistics?",
+        "optionA": "T-test",
+        "optionB": "Chi-square test",
+        "optionC": "ANOVA",
+        "optionD": "Linear regression",
+        "answer": "Chi-square test"
+    },
+    {
+        "question": "What is the purpose of the Pandas 'groupby' function?",
+        "optionA": "To create visualizations",
+        "optionB": "To aggregate data by specific categories",
+        "optionC": "To sort data",
+        "optionD": "To clean missing values",
+        "answer": "To aggregate data by specific categories"
+    },
+    {
+        "question": "What is an outlier in data analysis?",
+        "optionA": "A missing value",
+        "optionB": "A data point significantly different from others",
+        "optionC": "A redundant variable",
+        "optionD": "A perfectly correlated variable",
+        "answer": "A data point significantly different from others"
+    },
+    {
+        "question": "Which of the following is a measure of variability in a dataset?",
+        "optionA": "Median",
+        "optionB": "Mode",
+        "optionC": "Range",
+        "optionD": "Mean",
+        "answer": "Range"
+    },
+    {
+        "question": "What does the term 'dimensionality reduction' refer to?",
+        "optionA": "Reducing the number of data points",
+        "optionB": "Reducing the number of variables",
+        "optionC": "Increasing data accuracy",
+        "optionD": "Scaling data",
+        "answer": "Reducing the number of variables"
+    },
+    {
+        "question": "Which of the following is a disadvantage of using big data?",
+        "optionA": "Improved decision-making",
+        "optionB": "High storage costs",
+        "optionC": "Faster analysis",
+        "optionD": "Better predictions",
+        "answer": "High storage costs"
+    },
+    {
+        "question": "What is the purpose of the 'JOIN' operation in SQL?",
+        "optionA": "To delete rows",
+        "optionB": "To combine data from multiple tables",
+        "optionC": "To create a new table",
+        "optionD": "To filter data",
+        "answer": "To combine data from multiple tables"
+    },
+    {
+        "question": "Which machine learning algorithm is commonly used for classification?",
+        "optionA": "Linear Regression",
+        "optionB": "K-Nearest Neighbors",
+        "optionC": "K-Means Clustering",
+        "optionD": "Principal Component Analysis",
+        "answer": "K-Nearest Neighbors"
+    },
+    {
+        "question": "What is the purpose of cross-validation in machine learning?",
+        "optionA": "To improve the accuracy of training data",
+        "optionB": "To evaluate model performance",
+        "optionC": "To create more data",
+        "optionD": "To clean the dataset",
+        "answer": "To evaluate model performance"
+    },
+    {
+        "question": "Which term describes the process of removing irrelevant data from a dataset?",
+        "optionA": "Data visualization",
+        "optionB": "Data cleaning",
+        "optionC": "Data modeling",
+        "optionD": "Data transformation",
+        "answer": "Data cleaning"
+    },
+    {
+        "question": "What is the purpose of the Matplotlib library in Python?",
+        "optionA": "To handle big data",
+        "optionB": "To create visualizations",
+        "optionC": "To perform machine learning",
+        "optionD": "To store data",
+        "answer": "To create visualizations"
+    }
+]

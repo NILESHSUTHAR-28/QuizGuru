@@ -1,0 +1,450 @@
+[
+    {
+        "question": "What is the main goal of query optimization in databases?",
+        "optionA": "To reduce the number of queries",
+        "optionB": "To improve the speed and efficiency of queries",
+        "optionC": "To increase the database size",
+        "optionD": "To minimize the use of indexes",
+        "answer": "To improve the speed and efficiency of queries"
+    },
+    {
+        "question": "Which of the following is a common technique used in query optimization?",
+        "optionA": "Query rewriting",
+        "optionB": "Data replication",
+        "optionC": "Data sharding",
+        "optionD": "Data encryption",
+        "answer": "Query rewriting"
+    },
+    {
+        "question": "What does a query optimizer do in a relational database management system?",
+        "optionA": "Improves data integrity",
+        "optionB": "Improves the execution plan of queries",
+        "optionC": "Manages user access control",
+        "optionD": "Creates backups of the database",
+        "answer": "Improves the execution plan of queries"
+    },
+    {
+        "question": "Which of the following is an example of a cost-based query optimization method?",
+        "optionA": "Greedy algorithm",
+        "optionB": "Dynamic programming",
+        "optionC": "Rule-based optimization",
+        "optionD": "Genetic algorithms",
+        "answer": "Dynamic programming"
+    },
+    {
+        "question": "In query optimization, what does the term 'cost' refer to?",
+        "optionA": "The time it takes to process a query",
+        "optionB": "The complexity of the query syntax",
+        "optionC": "The number of rows in the result set",
+        "optionD": "The disk space required to store the query results",
+        "answer": "The time it takes to process a query"
+    },
+    {
+        "question": "Which of the following is NOT a factor that query optimizers consider?",
+        "optionA": "Disk I/O",
+        "optionB": "CPU usage",
+        "optionC": "Network latency",
+        "optionD": "Query syntax complexity",
+        "answer": "Query syntax complexity"
+    },
+    {
+        "question": "What is the purpose of using indexes in query optimization?",
+        "optionA": "To reduce the size of the database",
+        "optionB": "To speed up data retrieval",
+        "optionC": "To enhance security",
+        "optionD": "To increase query complexity",
+        "answer": "To speed up data retrieval"
+    },
+    {
+        "question": "What is a join operation in query optimization?",
+        "optionA": "A method to filter rows",
+        "optionB": "A technique to combine multiple tables",
+        "optionC": "A way to sort query results",
+        "optionD": "A method to group data",
+        "answer": "A technique to combine multiple tables"
+    },
+    {
+        "question": "Which of the following join types is most efficient for query optimization?",
+        "optionA": "Inner join",
+        "optionB": "Outer join",
+        "optionC": "Cross join",
+        "optionD": "Self join",
+        "answer": "Inner join"
+    },
+    {
+        "question": "Which of the following is a key challenge for query optimizers?",
+        "optionA": "Handling large datasets",
+        "optionB": "Reducing query complexity",
+        "optionC": "Managing user access",
+        "optionD": "Ensuring data consistency",
+        "answer": "Handling large datasets"
+    },
+    {
+        "question": "What is the purpose of query rewriting in query optimization?",
+        "optionA": "To convert queries into a more efficient form",
+        "optionB": "To ensure data integrity",
+        "optionC": "To create indexes for faster retrieval",
+        "optionD": "To remove unnecessary columns",
+        "answer": "To convert queries into a more efficient form"
+    },
+    {
+        "question": "What is the role of a query execution plan in query optimization?",
+        "optionA": "It defines the steps for executing a query",
+        "optionB": "It defines the structure of the database",
+        "optionC": "It defines user access privileges",
+        "optionD": "It defines the indexing strategy",
+        "answer": "It defines the steps for executing a query"
+    },
+    {
+        "question": "What is the advantage of using materialized views in query optimization?",
+        "optionA": "They reduce the need for joins",
+        "optionB": "They store precomputed results for faster query execution",
+        "optionC": "They improve data integrity",
+        "optionD": "They increase the size of the database",
+        "answer": "They store precomputed results for faster query execution"
+    },
+    {
+        "question": "Which of the following strategies is used to optimize queries involving large tables?",
+        "optionA": "Partitioning",
+        "optionB": "Encryption",
+        "optionC": "Data sharding",
+        "optionD": "Indexing",
+        "answer": "Partitioning"
+    },
+    {
+        "question": "Which of the following is a type of query optimization that involves using heuristics?",
+        "optionA": "Rule-based optimization",
+        "optionB": "Cost-based optimization",
+        "optionC": "Genetic optimization",
+        "optionD": "Dynamic optimization",
+        "answer": "Rule-based optimization"
+    },
+    {
+        "question": "What is a query execution plan's cost model based on?",
+        "optionA": "The number of operations involved",
+        "optionB": "The database schema",
+        "optionC": "The complexity of the SQL statement",
+        "optionD": "The amount of data in the database",
+        "answer": "The number of operations involved"
+    },
+    {
+        "question": "What is the effect of using a 'WHERE' clause in query optimization?",
+        "optionA": "It reduces the number of rows processed",
+        "optionB": "It increases the number of rows processed",
+        "optionC": "It sorts the data",
+        "optionD": "It joins multiple tables",
+        "answer": "It reduces the number of rows processed"
+    },
+    {
+        "question": "Which of the following is a method used to optimize queries involving subqueries?",
+        "optionA": "Flattening the subquery",
+        "optionB": "Using indexes",
+        "optionC": "Using joins",
+        "optionD": "Using aggregate functions",
+        "answer": "Flattening the subquery"
+    },
+    {
+        "question": "What is the purpose of using a cost-based optimizer?",
+        "optionA": "To predict query execution times",
+        "optionB": "To estimate the cost of query execution plans",
+        "optionC": "To manage user access control",
+        "optionD": "To optimize the database schema",
+        "answer": "To estimate the cost of query execution plans"
+    },
+    {
+        "question": "Which of the following is an advantage of query optimization?",
+        "optionA": "Improved query performance",
+        "optionB": "Increased database size",
+        "optionC": "Reduced database integrity",
+        "optionD": "Reduced data security",
+        "answer": "Improved query performance"
+    },
+    {
+        "question": "Which of the following is a technique for optimizing joins in queries?",
+        "optionA": "Nested loops join",
+        "optionB": "Bitmap indexing",
+        "optionC": "Data replication",
+        "optionD": "Data sharding",
+        "answer": "Nested loops join"
+    },
+    {
+        "question": "What is a 'selectivity' in query optimization?",
+        "optionA": "The number of rows returned by a query",
+        "optionB": "The complexity of the query syntax",
+        "optionC": "The amount of data processed by the query",
+        "optionD": "The speed of the database server",
+        "answer": "The number of rows returned by a query"
+    },
+    {
+        "question": "Which of the following is a query optimization strategy for reducing disk I/O?",
+        "optionA": "Indexing",
+        "optionB": "Sharding",
+        "optionC": "Replication",
+        "optionD": "Partitioning",
+        "answer": "Indexing"
+    },
+    {
+        "question": "What does 'denormalization' do in query optimization?",
+        "optionA": "Reduces data redundancy",
+        "optionB": "Increases data redundancy to improve query performance",
+        "optionC": "Improves data security",
+        "optionD": "Improves data integrity",
+        "answer": "Increases data redundancy to improve query performance"
+    },
+    {
+        "question": "Which of the following is NOT a type of join optimization?",
+        "optionA": "Hash join",
+        "optionB": "Merge join",
+        "optionC": "Nested loop join",
+        "optionD": "Data replication join",
+        "answer": "Data replication join"
+    },
+    {
+        "question": "What is the purpose of query optimization in distributed databases?",
+        "optionA": "To reduce the number of queries sent to the database",
+        "optionB": "To ensure data consistency across nodes",
+        "optionC": "To minimize network latency and disk I/O",
+        "optionD": "To increase the database size",
+        "answer": "To minimize network latency and disk I/O"
+    },
+    {
+        "question": "Which of the following is an example of a heuristic-based query optimization?",
+        "optionA": "Cost-based optimization",
+        "optionB": "Rule-based optimization",
+        "optionC": "Genetic optimization",
+        "optionD": "Dynamic optimization",
+        "answer": "Rule-based optimization"
+    },
+    {
+        "question": "What is 'predicate pushdown' in query optimization?",
+        "optionA": "Moving predicates to earlier stages of query execution",
+        "optionB": "Moving predicates to later stages of query execution",
+        "optionC": "Removing predicates from the query",
+        "optionD": "Rewriting the predicates",
+        "answer": "Moving predicates to earlier stages of query execution"
+    },
+    {
+        "question": "What is the purpose of query plan caching?",
+        "optionA": "To store query results for faster access",
+        "optionB": "To store execution plans for repeated queries",
+        "optionC": "To store indexes for faster retrieval",
+        "optionD": "To store data backups",
+        "answer": "To store execution plans for repeated queries"
+    },
+    {
+        "question": "What does the term 'query rewriting' refer to in query optimization?",
+        "optionA": "Changing the database schema",
+        "optionB": "Modifying the query to improve performance",
+        "optionC": "Changing the data structure",
+        "optionD": "Adding indexes to the query",
+        "answer": "Modifying the query to improve performance"
+    },
+    {
+        "question": "Which of the following query optimization techniques involves the use of temporary tables?",
+        "optionA": "Materialized views",
+        "optionB": "Subqueries",
+        "optionC": "Join optimization",
+        "optionD": "Indexing",
+        "answer": "Materialized views"
+    },
+    {
+        "question": "Which of the following is a challenge in query optimization?",
+        "optionA": "Estimating the cost of query execution",
+        "optionB": "Ensuring data security",
+        "optionC": "Reducing the size of the database",
+        "optionD": "Managing user access",
+        "answer": "Estimating the cost of query execution"
+    },
+    {
+        "question": "What does 'query pruning' refer to in query optimization?",
+        "optionA": "Removing unnecessary joins from the query",
+        "optionB": "Removing unnecessary columns from the query",
+        "optionC": "Removing unnecessary rows from the query",
+        "optionD": "Removing unnecessary indexes",
+        "answer": "Removing unnecessary rows from the query"
+    },
+    {
+        "question": "Which of the following is NOT a common method for query optimization?",
+        "optionA": "Rewriting the query",
+        "optionB": "Changing the database schema",
+        "optionC": "Using indexes",
+        "optionD": "Optimizing the server hardware",
+        "answer": "Optimizing the server hardware"
+    },
+    {
+        "question": "Which of the following query optimization techniques is used to avoid redundant computations?",
+        "optionA": "Materialized views",
+        "optionB": "Join optimization",
+        "optionC": "Query rewriting",
+        "optionD": "Subquery flattening",
+        "answer": "Materialized views"
+    },
+    {
+        "question": "What is the purpose of using an 'explain plan' in query optimization?",
+        "optionA": "To view the query execution plan and identify bottlenecks",
+        "optionB": "To generate query results",
+        "optionC": "To define the database schema",
+        "optionD": "To manage user access",
+        "answer": "To view the query execution plan and identify bottlenecks"
+    },
+    {
+        "question": "What is the main advantage of using query optimization in databases?",
+        "optionA": "Faster data retrieval",
+        "optionB": "Improved data security",
+        "optionC": "Increased database size",
+        "optionD": "Simplified query syntax",
+        "answer": "Faster data retrieval"
+    },
+    {
+        "question": "Which type of query optimization focuses on minimizing the number of operations involved in query execution?",
+        "optionA": "Rule-based optimization",
+        "optionB": "Cost-based optimization",
+        "optionC": "Heuristic-based optimization",
+        "optionD": "Genetic optimization",
+        "answer": "Cost-based optimization"
+    },
+    {
+        "question": "What is a major challenge of optimizing queries in cloud-based databases?",
+        "optionA": "High disk I/O",
+        "optionB": "Managing data consistency across distributed systems",
+        "optionC": "Reducing CPU usage",
+        "optionD": "Query rewriting",
+        "answer": "Managing data consistency across distributed systems"
+    },
+    {
+        "question": "Which of the following query optimization techniques reduces the need for disk I/O operations?",
+        "optionA": "Indexing",
+        "optionB": "Partitioning",
+        "optionC": "Data replication",
+        "optionD": "Data sharding",
+        "answer": "Indexing"
+    },
+    {
+        "question": "What is the effect of using a 'GROUP BY' clause in query optimization?",
+        "optionA": "It reduces the number of rows processed",
+        "optionB": "It increases the number of rows processed",
+        "optionC": "It groups rows based on a specific condition",
+        "optionD": "It sorts the data",
+        "answer": "It groups rows based on a specific condition"
+    },
+    {
+        "question": "Which of the following is a strategy to optimize queries with large result sets?",
+        "optionA": "Indexing",
+        "optionB": "Using aggregate functions",
+        "optionC": "Limiting the result set",
+        "optionD": "Query rewriting",
+        "answer": "Limiting the result set"
+    },
+    {
+        "question": "What does 'join reordering' refer to in query optimization?",
+        "optionA": "Changing the order in which tables are joined",
+        "optionB": "Rewriting the join condition",
+        "optionC": "Adding indexes to the join columns",
+        "optionD": "Removing unnecessary joins",
+        "answer": "Changing the order in which tables are joined"
+    },
+    {
+        "question": "Which of the following is a method to optimize queries involving large numbers of joins?",
+        "optionA": "Using subqueries",
+        "optionB": "Using temporary tables",
+        "optionC": "Using indexes on join columns",
+        "optionD": "Flattening the query",
+        "answer": "Using indexes on join columns"
+    },
+    {
+        "question": "What is the purpose of query optimization in a distributed database system?",
+        "optionA": "To ensure data consistency across all nodes",
+        "optionB": "To reduce network latency and disk I/O",
+        "optionC": "To increase query complexity",
+        "optionD": "To enhance user access control",
+        "answer": "To reduce network latency and disk I/O"
+    },
+    {
+        "question": "What is the main goal of using partitioning in query optimization?",
+        "optionA": "To distribute data across multiple storage devices",
+        "optionB": "To reduce the size of the database",
+        "optionC": "To improve query performance by dividing large tables",
+        "optionD": "To increase data redundancy",
+        "answer": "To improve query performance by dividing large tables"
+    },
+    {
+        "question": "Which of the following is an optimization technique used for improving the performance of subqueries?",
+        "optionA": "Flattening the subquery",
+        "optionB": "Using materialized views",
+        "optionC": "Using indexes",
+        "optionD": "Using joins",
+        "answer": "Flattening the subquery"
+    },
+    {
+        "question": "What is the purpose of using a query cache in query optimization?",
+        "optionA": "To store query results for faster access",
+        "optionB": "To store indexes for faster retrieval",
+        "optionC": "To store execution plans for repeated queries",
+        "optionD": "To store data backups",
+        "answer": "To store execution plans for repeated queries"
+    },
+    {
+        "question": "What is the purpose of using indexes in query optimization?",
+        "optionA": "To speed up data retrieval",
+        "optionB": "To reduce data redundancy",
+        "optionC": "To increase data security",
+        "optionD": "To increase query complexity",
+        "answer": "To speed up data retrieval"
+    },
+    {
+        "question": "Which of the following is a technique for optimizing queries involving large datasets?",
+        "optionA": "Sharding",
+        "optionB": "Indexing",
+        "optionC": "Partitioning",
+        "optionD": "Data replication",
+        "answer": "Sharding"
+    },
+    {
+        "question": "What is 'query rewriting' in the context of query optimization?",
+        "optionA": "Changing the database schema",
+        "optionB": "Modifying the query to improve performance",
+        "optionC": "Changing the data structure",
+        "optionD": "Adding indexes to the query",
+        "answer": "Modifying the query to improve performance"
+    },
+    {
+        "question": "What is the effect of using a 'HAVING' clause in query optimization?",
+        "optionA": "It filters the rows before grouping",
+        "optionB": "It filters the rows after grouping",
+        "optionC": "It reduces the number of rows processed",
+        "optionD": "It increases the number of rows processed",
+        "answer": "It filters the rows after grouping"
+    },
+    {
+        "question": "Which of the following is a technique for optimizing queries involving aggregate functions?",
+        "optionA": "Using indexes",
+        "optionB": "Using temporary tables",
+        "optionC": "Using subqueries",
+        "optionD": "Using window functions",
+        "answer": "Using window functions"
+    },
+    {
+        "question": "What is the purpose of 'selectivity' in query optimization?",
+        "optionA": "To measure the number of rows returned by a query",
+        "optionB": "To determine the complexity of the query",
+        "optionC": "To estimate the cost of the query execution",
+        "optionD": "To determine the best query plan",
+        "answer": "To measure the number of rows returned by a query"
+    },
+    {
+        "question": "Which of the following is a common method for query optimization in NoSQL databases?",
+        "optionA": "Indexing",
+        "optionB": "Sharding",
+        "optionC": "Replication",
+        "optionD": "Partitioning",
+        "answer": "Sharding"
+    },
+    {
+        "question": "What is the purpose of using a 'merge join' in query optimization?",
+        "optionA": "To join tables based on an indexed column",
+        "optionB": "To merge data from multiple tables",
+        "optionC": "To join tables based on a non-indexed column",
+        "optionD": "To optimize the performance of cross joins",
+        "answer": "To join tables based on an indexed column"
+    }
+]

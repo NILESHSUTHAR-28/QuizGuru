@@ -1,0 +1,418 @@
+[
+    {
+        "question": "What is Vue.js?",
+        "optionA": "A JavaScript framework for building user interfaces",
+        "optionB": "A CSS framework",
+        "optionC": "A JavaScript library for DOM manipulation",
+        "optionD": "A Python framework",
+        "answer": "A JavaScript framework for building user interfaces"
+    },
+    {
+        "question": "Which directive is used to bind an element's attribute in Vue.js?",
+        "optionA": "v-bind",
+        "optionB": "v-model",
+        "optionC": "v-for",
+        "optionD": "v-if",
+        "answer": "v-bind"
+    },
+    {
+        "question": "What is the purpose of the 'v-if' directive in Vue.js?",
+        "optionA": "To conditionally render an element",
+        "optionB": "To loop over a list of items",
+        "optionC": "To bind an event to an element",
+        "optionD": "To bind data to an element",
+        "answer": "To conditionally render an element"
+    },
+    {
+        "question": "Which lifecycle hook is called after the Vue instance has been mounted?",
+        "optionA": "mounted",
+        "optionB": "created",
+        "optionC": "beforeMount",
+        "optionD": "destroyed",
+        "answer": "mounted"
+    },
+    {
+        "question": "What is Vue Router used for?",
+        "optionA": "To handle routing in a Vue.js application",
+        "optionB": "To manage the state of the application",
+        "optionC": "To handle events",
+        "optionD": "To bind data to components",
+        "answer": "To handle routing in a Vue.js application"
+    },
+    {
+        "question": "What is the purpose of the 'v-for' directive in Vue.js?",
+        "optionA": "To loop over an array or object",
+        "optionB": "To conditionally render an element",
+        "optionC": "To bind an event to an element",
+        "optionD": "To bind data to an element",
+        "answer": "To loop over an array or object"
+    },
+    {
+        "question": "Which Vue.js feature allows you to create reusable components?",
+        "optionA": "Components",
+        "optionB": "Directives",
+        "optionC": "Filters",
+        "optionD": "Mixins",
+        "answer": "Components"
+    },
+    {
+        "question": "What is Vuex used for in a Vue.js application?",
+        "optionA": "State management",
+        "optionB": "Event handling",
+        "optionC": "Routing",
+        "optionD": "Component lifecycle management",
+        "answer": "State management"
+    },
+    {
+        "question": "How do you define a computed property in Vue.js?",
+        "optionA": "By using the 'computed' option",
+        "optionB": "By using the 'data' option",
+        "optionC": "By using the 'methods' option",
+        "optionD": "By using the 'watch' option",
+        "answer": "By using the 'computed' option"
+    },
+    {
+        "question": "What is the purpose of the 'v-model' directive in Vue.js?",
+        "optionA": "To create two-way data binding",
+        "optionB": "To loop over a list of items",
+        "optionC": "To conditionally render an element",
+        "optionD": "To bind an event to an element",
+        "answer": "To create two-way data binding"
+    },
+    {
+        "question": "Which of the following is used to create a Vue instance?",
+        "optionA": "new Vue()",
+        "optionB": "Vue.createInstance()",
+        "optionC": "Vue.new()",
+        "optionD": "createVueInstance()",
+        "answer": "new Vue()"
+    },
+    {
+        "question": "How can you pass data from a parent component to a child component in Vue.js?",
+        "optionA": "Using props",
+        "optionB": "Using events",
+        "optionC": "Using slots",
+        "optionD": "Using computed properties",
+        "answer": "Using props"
+    },
+    {
+        "question": "What is the 'watch' option used for in Vue.js?",
+        "optionA": "To observe changes in data and perform actions",
+        "optionB": "To bind data to an element",
+        "optionC": "To create two-way data binding",
+        "optionD": "To loop over an array or object",
+        "answer": "To observe changes in data and perform actions"
+    },
+    {
+        "question": "Which of the following is used to bind an event to an element in Vue.js?",
+        "optionA": "v-on",
+        "optionB": "v-bind",
+        "optionC": "v-model",
+        "optionD": "v-for",
+        "answer": "v-on"
+    },
+    {
+        "question": "How do you define a method in Vue.js?",
+        "optionA": "By using the 'methods' option",
+        "optionB": "By using the 'data' option",
+        "optionC": "By using the 'computed' option",
+        "optionD": "By using the 'watch' option",
+        "answer": "By using the 'methods' option"
+    },
+    {
+        "question": "What is the purpose of the 'v-show' directive in Vue.js?",
+        "optionA": "To toggle the visibility of an element",
+        "optionB": "To conditionally render an element",
+        "optionC": "To bind an event to an element",
+        "optionD": "To bind data to an element",
+        "answer": "To toggle the visibility of an element"
+    },
+    {
+        "question": "Which of the following is used to create a custom event in Vue.js?",
+        "optionA": "this.$emit()",
+        "optionB": "this.$dispatch()",
+        "optionC": "this.$broadcast()",
+        "optionD": "this.$trigger()",
+        "answer": "this.$emit()"
+    },
+    {
+        "question": "What is the purpose of the 'v-bind' directive in Vue.js?",
+        "optionA": "To bind an attribute to an element",
+        "optionB": "To create two-way data binding",
+        "optionC": "To conditionally render an element",
+        "optionD": "To loop over a list of items",
+        "answer": "To bind an attribute to an element"
+    },
+    {
+        "question": "What is a Vue.js component?",
+        "optionA": "A reusable piece of code that controls a part of the UI",
+        "optionB": "A directive that binds data to an element",
+        "optionC": "A lifecycle method",
+        "optionD": "A state management system",
+        "answer": "A reusable piece of code that controls a part of the UI"
+    },
+    {
+        "question": "What is the default mode of Vuex store?",
+        "optionA": "State management",
+        "optionB": "Module system",
+        "optionC": "Reactive system",
+        "optionD": "Event system",
+        "answer": "State management"
+    },
+    {
+        "question": "Which lifecycle hook is called when a component is destroyed in Vue.js?",
+        "optionA": "destroyed",
+        "optionB": "beforeDestroy",
+        "optionC": "mounted",
+        "optionD": "created",
+        "answer": "destroyed"
+    },
+    {
+        "question": "What is the purpose of the 'v-cloak' directive in Vue.js?",
+        "optionA": "To prevent the template from being displayed until Vue.js has compiled it",
+        "optionB": "To bind an event to an element",
+        "optionC": "To conditionally render an element",
+        "optionD": "To loop over a list of items",
+        "answer": "To prevent the template from being displayed until Vue.js has compiled it"
+    },
+    {
+        "question": "How do you define a filter in Vue.js?",
+        "optionA": "By using the 'filters' option",
+        "optionB": "By using the 'methods' option",
+        "optionC": "By using the 'computed' option",
+        "optionD": "By using the 'data' option",
+        "answer": "By using the 'filters' option"
+    },
+    {
+        "question": "Which directive is used to bind a class to an element in Vue.js?",
+        "optionA": "v-bind:class",
+        "optionB": "v-class",
+        "optionC": "v-bind:style",
+        "optionD": "v-style",
+        "answer": "v-bind:class"
+    },
+    {
+        "question": "What is the purpose of the 'v-bind:style' directive in Vue.js?",
+        "optionA": "To bind a style to an element",
+        "optionB": "To bind a class to an element",
+        "optionC": "To create two-way data binding",
+        "optionD": "To conditionally render an element",
+        "answer": "To bind a style to an element"
+    },
+    {
+        "question": "Which of the following is used to create a slot in Vue.js?",
+        "optionA": "<slot></slot>",
+        "optionB": "<template></template>",
+        "optionC": "<div></div>",
+        "optionD": "<component></component>",
+        "answer": "<slot></slot>"
+    },
+    {
+        "question": "How do you define a prop in a Vue component?",
+        "optionA": "By using the 'props' option",
+        "optionB": "By using the 'data' option",
+        "optionC": "By using the 'methods' option",
+        "optionD": "By using the 'computed' option",
+        "answer": "By using the 'props' option"
+    },
+    {
+        "question": "What is the purpose of the 'v-on:click' directive in Vue.js?",
+        "optionA": "To bind a click event to an element",
+        "optionB": "To bind a class to an element",
+        "optionC": "To create two-way data binding",
+        "optionD": "To conditionally render an element",
+        "answer": "To bind a click event to an element"
+    },
+    {
+        "question": "What is the purpose of Vue.js filters?",
+        "optionA": "To format data for display",
+        "optionB": "To manage state",
+        "optionC": "To handle events",
+        "optionD": "To manage the component lifecycle",
+        "answer": "To format data for display"
+    },
+    {
+        "question": "What is the purpose of the 'v-if' directive in Vue.js?",
+        "optionA": "To conditionally render an element",
+        "optionB": "To bind an event to an element",
+        "optionC": "To loop over a list of items",
+        "optionD": "To bind data to an element",
+        "answer": "To conditionally render an element"
+    },
+    {
+        "question": "How do you access a component's data in Vue.js?",
+        "optionA": "Using 'this.$data'",
+        "optionB": "Using 'this.data()'",
+        "optionC": "Using 'this.getData()'",
+        "optionD": "Using 'this.state()'",
+        "answer": "Using 'this.$data'"
+    },
+    {
+        "question": "What is the purpose of Vue.js 'computed' properties?",
+        "optionA": "To calculate and return values based on other data properties",
+        "optionB": "To bind data to an element",
+        "optionC": "To watch for changes in data",
+        "optionD": "To create reusable methods",
+        "answer": "To calculate and return values based on other data properties"
+    },
+    {
+        "question": "Which of the following is used to pass data to a child component in Vue.js?",
+        "optionA": "Props",
+        "optionB": "Events",
+        "optionC": "Slots",
+        "optionD": "Directives",
+        "answer": "Props"
+    },
+    {
+        "question": "What is the purpose of Vue.js 'v-bind' directive?",
+        "optionA": "To bind an attribute to an element",
+        "optionB": "To bind an event to an element",
+        "optionC": "To create two-way data binding",
+        "optionD": "To loop over a list of items",
+        "answer": "To bind an attribute to an element"
+    },
+    {
+        "question": "What does the 'v-model' directive do in Vue.js?",
+        "optionA": "Creates two-way data binding between input and data",
+        "optionB": "Binds a class to an element",
+        "optionC": "Creates a computed property",
+        "optionD": "Binds an event to an element",
+        "answer": "Creates two-way data binding between input and data"
+    },
+    {
+        "question": "What is the purpose of Vue.js 'v-for' directive?",
+        "optionA": "To loop over an array or object",
+        "optionB": "To bind an attribute to an element",
+        "optionC": "To create two-way data binding",
+        "optionD": "To bind an event to an element",
+        "answer": "To loop over an array or object"
+    },
+    {
+        "question": "Which of the following is used to trigger a custom event in Vue.js?",
+        "optionA": "this.$emit()",
+        "optionB": "this.$dispatch()",
+        "optionC": "this.$broadcast()",
+        "optionD": "this.$trigger()",
+        "answer": "this.$emit()"
+    },
+    {
+        "question": "How do you define a method in Vue.js?",
+        "optionA": "By using the 'methods' option",
+        "optionB": "By using the 'data' option",
+        "optionC": "By using the 'computed' option",
+        "optionD": "By using the 'watch' option",
+        "answer": "By using the 'methods' option"
+    },
+    {
+        "question": "What is Vue.js 'v-show' directive used for?",
+        "optionA": "To toggle visibility of an element",
+        "optionB": "To conditionally render an element",
+        "optionC": "To bind data to an element",
+        "optionD": "To loop over a list of items",
+        "answer": "To toggle visibility of an element"
+    },
+    {
+        "question": "Which Vue.js directive is used to bind a style to an element?",
+        "optionA": "v-bind:style",
+        "optionB": "v-bind:class",
+        "optionC": "v-bind",
+        "optionD": "v-model",
+        "answer": "v-bind:style"
+    },
+    {
+        "question": "What is Vue.js 'Vuex' used for?",
+        "optionA": "State management",
+        "optionB": "Routing",
+        "optionC": "Event handling",
+        "optionD": "Component lifecycle management",
+        "answer": "State management"
+    },
+    {
+        "question": "How do you register a global component in Vue.js?",
+        "optionA": "Vue.component()",
+        "optionB": "Vue.register()",
+        "optionC": "Vue.use()",
+        "optionD": "Vue.createComponent()",
+        "answer": "Vue.component()"
+    },
+    {
+        "question": "What is the purpose of the 'v-cloak' directive in Vue.js?",
+        "optionA": "To prevent the template from being displayed until Vue.js has compiled it",
+        "optionB": "To create two-way data binding",
+        "optionC": "To bind an event to an element",
+        "optionD": "To loop over a list of items",
+        "answer": "To prevent the template from being displayed until Vue.js has compiled it"
+    },
+    {
+        "question": "How do you define a prop in Vue.js?",
+        "optionA": "By using the 'props' option",
+        "optionB": "By using the 'data' option",
+        "optionC": "By using the 'methods' option",
+        "optionD": "By using the 'computed' option",
+        "answer": "By using the 'props' option"
+    },
+    {
+        "question": "Which of the following is used to create a Vue.js slot?",
+        "optionA": "<slot></slot>",
+        "optionB": "<template></template>",
+        "optionC": "<div></div>",
+        "optionD": "<component></component>",
+        "answer": "<slot></slot>"
+    },
+    {
+        "question": "How do you bind a class to an element in Vue.js?",
+        "optionA": "v-bind:class",
+        "optionB": "v-class",
+        "optionC": "v-bind:style",
+        "optionD": "v-style",
+        "answer": "v-bind:class"
+    },
+    {
+        "question": "What is Vue.js 'v-bind:class' used for?",
+        "optionA": "To bind a class to an element",
+        "optionB": "To bind a style to an element",
+        "optionC": "To create two-way data binding",
+        "optionD": "To loop over a list of items",
+        "answer": "To bind a class to an element"
+    },
+    {
+        "question": "What does the 'v-model' directive do in Vue.js?",
+        "optionA": "Creates two-way data binding",
+        "optionB": "Creates one-way data binding",
+        "optionC": "Binds a class to an element",
+        "optionD": "Binds an event to an element",
+        "answer": "Creates two-way data binding"
+    },
+    {
+        "question": "Which of the following is used to handle routing in a Vue.js application?",
+        "optionA": "Vue Router",
+        "optionB": "Vuex",
+        "optionC": "Vue CLI",
+        "optionD": "Vuex Store",
+        "answer": "Vue Router"
+    },
+    {
+        "question": "What is the purpose of Vue.js 'watch' property?",
+        "optionA": "To watch for changes in data and perform actions",
+        "optionB": "To create computed properties",
+        "optionC": "To bind an event to an element",
+        "optionD": "To create two-way data binding",
+        "answer": "To watch for changes in data and perform actions"
+    },
+    {
+        "question": "What is Vue.js 'v-bind' directive used for?",
+        "optionA": "To bind an attribute to an element",
+        "optionB": "To create two-way data binding",
+        "optionC": "To loop over a list of items",
+        "optionD": "To bind an event to an element",
+        "answer": "To bind an attribute to an element"
+    },
+    {
+        "question": "What is Vue.js 'computed' property?",
+        "optionA": "A property that calculates and returns values based on other data properties",
+        "optionB": "A property that binds data to an element",
+        "optionC": "A property that observes changes in data",
+        "optionD": "A property that creates two-way data binding",
+        "answer": "A property that calculates and returns values based on other data properties"
+    }
+]

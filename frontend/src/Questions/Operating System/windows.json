@@ -1,0 +1,506 @@
+[
+    {
+        "question": "What is the default file system used by Windows 10?",
+        "optionA": "FAT32",
+        "optionB": "NTFS",
+        "optionC": "exFAT",
+        "optionD": "EXT4",
+        "answer": "NTFS"
+    },
+    {
+        "question": "Which version of Windows introduced the Start Menu?",
+        "optionA": "Windows XP",
+        "optionB": "Windows 7",
+        "optionC": "Windows 8",
+        "optionD": "Windows 10",
+        "answer": "Windows 7"
+    },
+    {
+        "question": "Which command is used to check disk for errors in Windows?",
+        "optionA": "chkdsk",
+        "optionB": "defrag",
+        "optionC": "diskpart",
+        "optionD": "fsck",
+        "answer": "chkdsk"
+    },
+    {
+        "question": "What is the maximum RAM supported by Windows 10 Home edition?",
+        "optionA": "16 GB",
+        "optionB": "32 GB",
+        "optionC": "64 GB",
+        "optionD": "128 GB",
+        "answer": "16 GB"
+    },
+    {
+        "question": "What is the default web browser in Windows 10?",
+        "optionA": "Google Chrome",
+        "optionB": "Microsoft Edge",
+        "optionC": "Mozilla Firefox",
+        "optionD": "Internet Explorer",
+        "answer": "Microsoft Edge"
+    },
+    {
+        "question": "Which Windows feature allows you to run multiple virtual desktops?",
+        "optionA": "Task View",
+        "optionB": "Windows Explorer",
+        "optionC": "Virtual Machine",
+        "optionD": "Snap Assist",
+        "answer": "Task View"
+    },
+    {
+        "question": "What is the name of the security feature that protects Windows from malware?",
+        "optionA": "Windows Defender",
+        "optionB": "Windows Firewall",
+        "optionC": "BitLocker",
+        "optionD": "Malwarebytes",
+        "answer": "Windows Defender"
+    },
+    {
+        "question": "What is the default file extension for executable files in Windows?",
+        "optionA": ".exe",
+        "optionB": ".bat",
+        "optionC": ".dll",
+        "optionD": ".sys",
+        "answer": ".exe"
+    },
+    {
+        "question": "Which command is used to shut down Windows from the command line?",
+        "optionA": "shutdown",
+        "optionB": "poweroff",
+        "optionC": "exit",
+        "optionD": "reboot",
+        "answer": "shutdown"
+    },
+    {
+        "question": "Which Windows utility is used to manage disk partitions?",
+        "optionA": "Disk Management",
+        "optionB": "Task Manager",
+        "optionC": "Control Panel",
+        "optionD": "Command Prompt",
+        "answer": "Disk Management"
+    },
+    {
+        "question": "Which of the following is a feature of Windows 10 Pro but not Windows 10 Home?",
+        "optionA": "BitLocker",
+        "optionB": "Cortana",
+        "optionC": "DirectX 12",
+        "optionD": "Windows Store",
+        "answer": "BitLocker"
+    },
+    {
+        "question": "What does the 'Ctrl + Alt + Del' keyboard shortcut do in Windows?",
+        "optionA": "Open Task Manager",
+        "optionB": "Lock the computer",
+        "optionC": "Restart the computer",
+        "optionD": "Log out of the computer",
+        "answer": "Open Task Manager"
+    },
+    {
+        "question": "Which Windows tool is used for system restore?",
+        "optionA": "System Restore",
+        "optionB": "Backup and Restore",
+        "optionC": "Recovery Drive",
+        "optionD": "Task Scheduler",
+        "answer": "System Restore"
+    },
+    {
+        "question": "What is the default user interface style in Windows 10?",
+        "optionA": "Aero",
+        "optionB": "Metro",
+        "optionC": "Fluent Design",
+        "optionD": "Classic",
+        "answer": "Fluent Design"
+    },
+    {
+        "question": "What does the Windows File Explorer allow you to do?",
+        "optionA": "Browse and manage files",
+        "optionB": "Install software",
+        "optionC": "Check system performance",
+        "optionD": "Configure network settings",
+        "answer": "Browse and manage files"
+    },
+    {
+        "question": "Which Windows service is used to automatically update the operating system?",
+        "optionA": "Windows Update",
+        "optionB": "System Restore",
+        "optionC": "Windows Defender",
+        "optionD": "Task Scheduler",
+        "answer": "Windows Update"
+    },
+    {
+        "question": "What is the default location for Windows system files?",
+        "optionA": "C:\\Windows",
+        "optionB": "C:\\Program Files",
+        "optionC": "C:\\Users",
+        "optionD": "C:\\System32",
+        "answer": "C:\\Windows"
+    },
+    {
+        "question": "Which feature in Windows allows you to quickly switch between apps?",
+        "optionA": "Task View",
+        "optionB": "Alt + Tab",
+        "optionC": "Cortana",
+        "optionD": "Snap Assist",
+        "answer": "Alt + Tab"
+    },
+    {
+        "question": "What is the primary purpose of the Windows Registry?",
+        "optionA": "Store system configuration settings",
+        "optionB": "Manage user accounts",
+        "optionC": "Install software",
+        "optionD": "Run system diagnostics",
+        "answer": "Store system configuration settings"
+    },
+    {
+        "question": "Which of the following is a built-in Windows utility for disk cleanup?",
+        "optionA": "Disk Cleanup",
+        "optionB": "Disk Management",
+        "optionC": "Task Scheduler",
+        "optionD": "System Restore",
+        "answer": "Disk Cleanup"
+    },
+    {
+        "question": "What is the purpose of Windows Task Scheduler?",
+        "optionA": "Automate repetitive tasks",
+        "optionB": "Monitor system performance",
+        "optionC": "Update the operating system",
+        "optionD": "Defragment the hard drive",
+        "answer": "Automate repetitive tasks"
+    },
+    {
+        "question": "Which of the following is NOT a version of Windows Server?",
+        "optionA": "Windows Server 2019",
+        "optionB": "Windows Server 2016",
+        "optionC": "Windows Server 2008",
+        "optionD": "Windows Server 11",
+        "answer": "Windows Server 11"
+    },
+    {
+        "question": "Which of the following is the correct keyboard shortcut to open the Run dialog box in Windows?",
+        "optionA": "Ctrl + R",
+        "optionB": "Alt + F4",
+        "optionC": "Windows + R",
+        "optionD": "Ctrl + Shift + Esc",
+        "answer": "Windows + R"
+    },
+    {
+        "question": "What is the main purpose of Windows Defender Firewall?",
+        "optionA": "Protect the computer from unauthorized access",
+        "optionB": "Monitor network traffic",
+        "optionC": "Provide antivirus protection",
+        "optionD": "Backup data",
+        "answer": "Protect the computer from unauthorized access"
+    },
+    {
+        "question": "What is the purpose of Windows Aero?",
+        "optionA": "Provide a transparent window interface",
+        "optionB": "Increase system security",
+        "optionC": "Manage file storage",
+        "optionD": "Improve system performance",
+        "answer": "Provide a transparent window interface"
+    },
+    {
+        "question": "Which Windows tool is used for partitioning hard drives?",
+        "optionA": "Disk Management",
+        "optionB": "Control Panel",
+        "optionC": "Task Manager",
+        "optionD": "Windows Update",
+        "answer": "Disk Management"
+    },
+    {
+        "question": "What is the name of the virtual assistant introduced in Windows 10?",
+        "optionA": "Siri",
+        "optionB": "Cortana",
+        "optionC": "Alexa",
+        "optionD": "Google Assistant",
+        "answer": "Cortana"
+    },
+    {
+        "question": "Which of the following is a feature of Windows 10 that improves multitasking?",
+        "optionA": "Task View",
+        "optionB": "Snap Assist",
+        "optionC": "Virtual Desktops",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of the 'Windows + L' keyboard shortcut?",
+        "optionA": "Lock the computer",
+        "optionB": "Log out of the computer",
+        "optionC": "Open the Start Menu",
+        "optionD": "Shut down the computer",
+        "answer": "Lock the computer"
+    },
+    {
+        "question": "Which of the following is a feature of Windows 10's 'File History'?",
+        "optionA": "Backup and restore files",
+        "optionB": "Encrypt files",
+        "optionC": "Optimize disk performance",
+        "optionD": "Scan for malware",
+        "answer": "Backup and restore files"
+    },
+    {
+        "question": "What does the Windows 'Snap' feature allow you to do?",
+        "optionA": "Resize windows quickly",
+        "optionB": "Create virtual desktops",
+        "optionC": "Manage system updates",
+        "optionD": "Lock the screen",
+        "answer": "Resize windows quickly"
+    },
+    {
+        "question": "What is the default web browser in Windows 11?",
+        "optionA": "Microsoft Edge",
+        "optionB": "Google Chrome",
+        "optionC": "Mozilla Firefox",
+        "optionD": "Internet Explorer",
+        "answer": "Microsoft Edge"
+    },
+    {
+        "question": "Which of the following is used to encrypt files in Windows?",
+        "optionA": "BitLocker",
+        "optionB": "Windows Defender",
+        "optionC": "Task Manager",
+        "optionD": "System Restore",
+        "answer": "BitLocker"
+    },
+    {
+        "question": "Which of the following is a cloud service integrated into Windows 10?",
+        "optionA": "OneDrive",
+        "optionB": "Google Drive",
+        "optionC": "Dropbox",
+        "optionD": "iCloud",
+        "answer": "OneDrive"
+    },
+    {
+        "question": "What is the maximum number of virtual desktops supported by Windows 10?",
+        "optionA": "4",
+        "optionB": "10",
+        "optionC": "16",
+        "optionD": "Unlimited",
+        "answer": "Unlimited"
+    },
+    {
+        "question": "What is the name of the program that allows you to run Linux on Windows 10?",
+        "optionA": "Windows Subsystem for Linux",
+        "optionB": "Cygwin",
+        "optionC": "VirtualBox",
+        "optionD": "Docker",
+        "answer": "Windows Subsystem for Linux"
+    },
+    {
+        "question": "What is the function of the 'Windows + E' keyboard shortcut in Windows?",
+        "optionA": "Open File Explorer",
+        "optionB": "Open Task Manager",
+        "optionC": "Open Settings",
+        "optionD": "Open Control Panel",
+        "answer": "Open File Explorer"
+    },
+    {
+        "question": "Which version of Windows introduced the Cortana virtual assistant?",
+        "optionA": "Windows 7",
+        "optionB": "Windows 8",
+        "optionC": "Windows 10",
+        "optionD": "Windows 11",
+        "answer": "Windows 10"
+    },
+    {
+        "question": "Which tool in Windows 10 is used to create and manage system restore points?",
+        "optionA": "System Restore",
+        "optionB": "Backup and Restore",
+        "optionC": "Control Panel",
+        "optionD": "Task Scheduler",
+        "answer": "System Restore"
+    },
+    {
+        "question": "What is the name of the Windows 10 feature that allows you to quickly access open applications and tasks?",
+        "optionA": "Task View",
+        "optionB": "Start Menu",
+        "optionC": "Control Panel",
+        "optionD": "Cortana",
+        "answer": "Task View"
+    },
+    {
+        "question": "Which of the following is the correct name for the default file manager in Windows?",
+        "optionA": "Windows Explorer",
+        "optionB": "File Explorer",
+        "optionC": "My Computer",
+        "optionD": "System Explorer",
+        "answer": "File Explorer"
+    },
+    {
+        "question": "Which Windows feature allows you to run Android apps?",
+        "optionA": "Windows Subsystem for Android",
+        "optionB": "Cortana",
+        "optionC": "Microsoft Store",
+        "optionD": "Task View",
+        "answer": "Windows Subsystem for Android"
+    },
+    {
+        "question": "What is the purpose of the Windows Event Viewer?",
+        "optionA": "View system logs and errors",
+        "optionB": "Manage network settings",
+        "optionC": "Create backups",
+        "optionD": "Install software updates",
+        "answer": "View system logs and errors"
+    },
+    {
+        "question": "Which version of Windows was the first to include the 'Windows Store'?",
+        "optionA": "Windows 7",
+        "optionB": "Windows 8",
+        "optionC": "Windows 10",
+        "optionD": "Windows XP",
+        "answer": "Windows 8"
+    },
+    {
+        "question": "Which Windows feature is used to create virtual machines?",
+        "optionA": "Hyper-V",
+        "optionB": "VirtualBox",
+        "optionC": "VMware",
+        "optionD": "Windows Subsystem for Linux",
+        "answer": "Hyper-V"
+    },
+    {
+        "question": "Which of the following tools is used to defragment hard drives in Windows?",
+        "optionA": "Disk Cleanup",
+        "optionB": "Disk Management",
+        "optionC": "Defragment and Optimize Drives",
+        "optionD": "System Restore",
+        "answer": "Defragment and Optimize Drives"
+    },
+    {
+        "question": "Which of the following is a feature of Windows 10 that allows you to run apps in a sandbox environment?",
+        "optionA": "Windows Sandbox",
+        "optionB": "Task View",
+        "optionC": "Virtual Desktops",
+        "optionD": "BitLocker",
+        "answer": "Windows Sandbox"
+    },
+    {
+        "question": "Which Windows version first introduced the 'Start Screen' interface?",
+        "optionA": "Windows 7",
+        "optionB": "Windows 8",
+        "optionC": "Windows 10",
+        "optionD": "Windows XP",
+        "answer": "Windows 8"
+    },
+    {
+        "question": "Which of the following is used to manage user accounts in Windows?",
+        "optionA": "User Accounts",
+        "optionB": "Control Panel",
+        "optionC": "Task Manager",
+        "optionD": "File Explorer",
+        "answer": "User Accounts"
+    },
+    {
+        "question": "What is the maximum number of apps that can be pinned to the taskbar in Windows 10?",
+        "optionA": "10",
+        "optionB": "15",
+        "optionC": "20",
+        "optionD": "Unlimited",
+        "answer": "Unlimited"
+    },
+    {
+        "question": "Which feature in Windows 10 allows you to create multiple desktops?",
+        "optionA": "Task View",
+        "optionB": "Snap Assist",
+        "optionC": "Cortana",
+        "optionD": "Windows Subsystem for Linux",
+        "answer": "Task View"
+    },
+    {
+        "question": "Which command is used to display the IP address of your computer in Windows?",
+        "optionA": "ipconfig",
+        "optionB": "ping",
+        "optionC": "netstat",
+        "optionD": "nslookup",
+        "answer": "ipconfig"
+    },
+    {
+        "question": "What is the default name of the Windows 10 login screen?",
+        "optionA": "Sign-In Screen",
+        "optionB": "Lock Screen",
+        "optionC": "Home Screen",
+        "optionD": "Start Screen",
+        "answer": "Lock Screen"
+    },
+    {
+        "question": "Which tool in Windows is used to monitor system performance?",
+        "optionA": "Task Manager",
+        "optionB": "Control Panel",
+        "optionC": "Event Viewer",
+        "optionD": "System Configuration",
+        "answer": "Task Manager"
+    },
+    {
+        "question": "Which of the following is used to encrypt an entire disk in Windows?",
+        "optionA": "BitLocker",
+        "optionB": "Windows Defender",
+        "optionC": "Task Manager",
+        "optionD": "Windows Firewall",
+        "answer": "BitLocker"
+    },
+    {
+        "question": "Which Windows feature is used to secure sensitive data with a password?",
+        "optionA": "BitLocker",
+        "optionB": "Windows Defender",
+        "optionC": "File History",
+        "optionD": "Windows Firewall",
+        "answer": "BitLocker"
+    },
+    {
+        "question": "Which version of Windows first introduced the 'Virtual Desktops' feature?",
+        "optionA": "Windows 7",
+        "optionB": "Windows 8",
+        "optionC": "Windows 10",
+        "optionD": "Windows 11",
+        "answer": "Windows 10"
+    },
+    {
+        "question": "Which of the following is a feature of Windows 11?",
+        "optionA": "Start Menu redesign",
+        "optionB": "Snap Layouts",
+        "optionC": "Widgets",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the default screen resolution for Windows 10 on most modern displays?",
+        "optionA": "1920x1080",
+        "optionB": "1280x720",
+        "optionC": "3840x2160",
+        "optionD": "1366x768",
+        "answer": "1920x1080"
+    },
+    {
+        "question": "Which of the following is a Windows tool for checking and repairing file system errors?",
+        "optionA": "chkdsk",
+        "optionB": "defrag",
+        "optionC": "Disk Cleanup",
+        "optionD": "Task Scheduler",
+        "answer": "chkdsk"
+    },
+    {
+        "question": "What is the primary function of the Windows Task Manager?",
+        "optionA": "Manage running processes and performance",
+        "optionB": "Create backups",
+        "optionC": "Monitor network traffic",
+        "optionD": "Install software updates",
+        "answer": "Manage running processes and performance"
+    },
+    {
+        "question": "What is the name of the Windows feature that allows you to run applications from other operating systems?",
+        "optionA": "Windows Subsystem for Linux",
+        "optionB": "VirtualBox",
+        "optionC": "Hyper-V",
+        "optionD": "Docker",
+        "answer": "Windows Subsystem for Linux"
+    },
+    {
+        "question": "Which of the following is the Windows version designed for enterprise environments?",
+        "optionA": "Windows 10 Pro",
+        "optionB": "Windows 10 Home",
+        "optionC": "Windows 11 Home",
+        "optionD": "Windows 10 Enterprise",
+        "answer": "Windows 10 Enterprise"
+    }
+]

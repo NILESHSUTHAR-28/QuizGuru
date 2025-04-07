@@ -1,0 +1,434 @@
+[
+    {
+        "question": "What is the primary goal of supervised learning?",
+        "optionA": "To cluster data points into groups",
+        "optionB": "To predict outcomes based on labeled data",
+        "optionC": "To reduce dimensionality",
+        "optionD": "To find anomalies in data",
+        "answer": "To predict outcomes based on labeled data"
+    },
+    {
+        "question": "Which of the following is an example of unsupervised learning?",
+        "optionA": "Regression",
+        "optionB": "Classification",
+        "optionC": "Clustering",
+        "optionD": "Decision Trees",
+        "answer": "Clustering"
+    },
+    {
+        "question": "What does overfitting mean in machine learning?",
+        "optionA": "The model performs well on training data but poorly on test data",
+        "optionB": "The model performs well on test data but poorly on training data",
+        "optionC": "The model is unable to make any predictions",
+        "optionD": "The model ignores the training data",
+        "answer": "The model performs well on training data but poorly on test data"
+    },
+    {
+        "question": "Which algorithm is used for dimensionality reduction?",
+        "optionA": "Linear Regression",
+        "optionB": "Principal Component Analysis (PCA)",
+        "optionC": "K-Nearest Neighbors",
+        "optionD": "Support Vector Machines",
+        "answer": "Principal Component Analysis (PCA)"
+    },
+    {
+        "question": "What is the purpose of a confusion matrix in classification?",
+        "optionA": "To visualize clusters",
+        "optionB": "To calculate regression errors",
+        "optionC": "To summarize classification results",
+        "optionD": "To evaluate dimensionality reduction",
+        "answer": "To summarize classification results"
+    },
+    {
+        "question": "Which of the following is NOT a type of machine learning?",
+        "optionA": "Supervised Learning",
+        "optionB": "Reinforcement Learning",
+        "optionC": "Unsupervised Learning",
+        "optionD": "Data Mining",
+        "answer": "Data Mining"
+    },
+    {
+        "question": "What is the main objective of reinforcement learning?",
+        "optionA": "To predict labels for data",
+        "optionB": "To optimize an agent's actions in an environment",
+        "optionC": "To cluster similar data points",
+        "optionD": "To reduce noise in datasets",
+        "answer": "To optimize an agent's actions in an environment"
+    },
+    {
+        "question": "Which of the following activation functions is commonly used in deep learning?",
+        "optionA": "ReLU",
+        "optionB": "Sigmoid",
+        "optionC": "Tanh",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does the term 'gradient descent' refer to?",
+        "optionA": "A clustering algorithm",
+        "optionB": "An optimization algorithm to minimize loss",
+        "optionC": "A data cleaning method",
+        "optionD": "A dimensionality reduction technique",
+        "answer": "An optimization algorithm to minimize loss"
+    },
+    {
+        "question": "What is the purpose of regularization in machine learning?",
+        "optionA": "To increase the complexity of a model",
+        "optionB": "To reduce overfitting",
+        "optionC": "To improve clustering",
+        "optionD": "To clean missing data",
+        "answer": "To reduce overfitting"
+    },
+    {
+        "question": "Which machine learning algorithm is suitable for regression tasks?",
+        "optionA": "Linear Regression",
+        "optionB": "K-Means Clustering",
+        "optionC": "Logistic Regression",
+        "optionD": "Decision Trees",
+        "answer": "Linear Regression"
+    },
+    {
+        "question": "What does the term 'bias' mean in machine learning?",
+        "optionA": "The error due to overly complex models",
+        "optionB": "The error due to simple models",
+        "optionC": "The variance in predictions",
+        "optionD": "The randomness in data",
+        "answer": "The error due to simple models"
+    },
+    {
+        "question": "What is the purpose of cross-validation?",
+        "optionA": "To train the model on all data",
+        "optionB": "To split data into training and test sets",
+        "optionC": "To evaluate model performance on unseen data",
+        "optionD": "To remove outliers",
+        "answer": "To evaluate model performance on unseen data"
+    },
+    {
+        "question": "Which of the following is an ensemble learning method?",
+        "optionA": "Decision Trees",
+        "optionB": "Random Forest",
+        "optionC": "K-Means Clustering",
+        "optionD": "PCA",
+        "answer": "Random Forest"
+    },
+    {
+        "question": "What is the primary goal of clustering?",
+        "optionA": "To classify data points",
+        "optionB": "To group similar data points",
+        "optionC": "To reduce dimensionality",
+        "optionD": "To perform regression",
+        "answer": "To group similar data points"
+    },
+    {
+        "question": "Which evaluation metric is suitable for regression tasks?",
+        "optionA": "Accuracy",
+        "optionB": "Precision",
+        "optionC": "Mean Squared Error (MSE)",
+        "optionD": "Confusion Matrix",
+        "answer": "Mean Squared Error (MSE)"
+    },
+    {
+        "question": "What does the term 'feature scaling' refer to?",
+        "optionA": "Reducing the number of features",
+        "optionB": "Normalizing data to a specific range",
+        "optionC": "Adding new features to data",
+        "optionD": "Removing irrelevant features",
+        "answer": "Normalizing data to a specific range"
+    },
+    {
+        "question": "What is the purpose of the support vector in SVM?",
+        "optionA": "To classify data points",
+        "optionB": "To determine the decision boundary",
+        "optionC": "To perform clustering",
+        "optionD": "To reduce dimensions",
+        "answer": "To determine the decision boundary"
+    },
+    {
+        "question": "Which algorithm is best suited for anomaly detection?",
+        "optionA": "K-Means Clustering",
+        "optionB": "Isolation Forest",
+        "optionC": "Logistic Regression",
+        "optionD": "Random Forest",
+        "answer": "Isolation Forest"
+    },
+    {
+        "question": "What does the term 'epoch' mean in deep learning?",
+        "optionA": "One iteration over the entire dataset",
+        "optionB": "A single data point",
+        "optionC": "A layer in the neural network",
+        "optionD": "A hyperparameter",
+        "answer": "One iteration over the entire dataset"
+    },
+    {
+        "question": "What is a hyperparameter in machine learning?",
+        "optionA": "A parameter set during training",
+        "optionB": "A parameter learned from data",
+        "optionC": "A parameter used to control the learning process",
+        "optionD": "A parameter used for feature selection",
+        "answer": "A parameter used to control the learning process"
+    },
+    {
+        "question": "Which of the following is a loss function for classification tasks?",
+        "optionA": "Mean Squared Error",
+        "optionB": "Cross-Entropy Loss",
+        "optionC": "Huber Loss",
+        "optionD": "Mean Absolute Error",
+        "answer": "Cross-Entropy Loss"
+    },
+    {
+        "question": "What is the purpose of dropout in neural networks?",
+        "optionA": "To speed up training",
+        "optionB": "To prevent overfitting",
+        "optionC": "To improve model accuracy",
+        "optionD": "To increase model complexity",
+        "answer": "To prevent overfitting"
+    },
+    {
+        "question": "Which of the following is a characteristic of a decision tree?",
+        "optionA": "Linear decision boundaries",
+        "optionB": "Non-linear decision boundaries",
+        "optionC": "Continuous decision boundaries",
+        "optionD": "Random decision boundaries",
+        "answer": "Non-linear decision boundaries"
+    },
+    {
+        "question": "Which type of machine learning is K-Means Clustering?",
+        "optionA": "Supervised Learning",
+        "optionB": "Unsupervised Learning",
+        "optionC": "Reinforcement Learning",
+        "optionD": "Semi-supervised Learning",
+        "answer": "Unsupervised Learning"
+    },
+    {
+        "question": "What does the term 'learning rate' refer to in gradient descent?",
+        "optionA": "The size of the step taken during optimization",
+        "optionB": "The number of iterations",
+        "optionC": "The size of the dataset",
+        "optionD": "The depth of the neural network",
+        "answer": "The size of the step taken during optimization"
+    },
+    {
+        "question": "Which of the following is a characteristic of ensemble methods?",
+        "optionA": "Using multiple models to improve performance",
+        "optionB": "Reducing the size of datasets",
+        "optionC": "Optimizing a single model",
+        "optionD": "Clustering data points",
+        "answer": "Using multiple models to improve performance"
+    },
+    {
+        "question": "What is the main advantage of using a random forest over a single decision tree?",
+        "optionA": "Faster computation",
+        "optionB": "Lower memory usage",
+        "optionC": "Reduced overfitting",
+        "optionD": "Simpler implementation",
+        "answer": "Reduced overfitting"
+    },
+    {
+        "question": "What is the curse of dimensionality?",
+        "optionA": "Data becomes sparse in high-dimensional spaces",
+        "optionB": "Models perform better with more dimensions",
+        "optionC": "Higher dimensions reduce overfitting",
+        "optionD": "Dimensionality increases computational speed",
+        "answer": "Data becomes sparse in high-dimensional spaces"
+    },
+    {
+        "question": "Which algorithm is commonly used for text classification?",
+        "optionA": "Naive Bayes",
+        "optionB": "K-Means Clustering",
+        "optionC": "Principal Component Analysis",
+        "optionD": "Linear Regression",
+        "answer": "Naive Bayes"
+    },
+    {
+        "question": "What is the purpose of one-hot encoding?",
+        "optionA": "To reduce dimensionality",
+        "optionB": "To normalize data",
+        "optionC": "To convert categorical data into numerical format",
+        "optionD": "To cluster similar data points",
+        "answer": "To convert categorical data into numerical format"
+    },
+    {
+        "question": "Which of the following is a type of neural network used for sequential data?",
+        "optionA": "Convolutional Neural Network",
+        "optionB": "Recurrent Neural Network",
+        "optionC": "Feedforward Neural Network",
+        "optionD": "Support Vector Machine",
+        "answer": "Recurrent Neural Network"
+    },
+    {
+        "question": "What is a convolution in a Convolutional Neural Network (CNN)?",
+        "optionA": "A technique to reduce dimensions",
+        "optionB": "A mathematical operation on input data",
+        "optionC": "A type of loss function",
+        "optionD": "A method for clustering data",
+        "answer": "A mathematical operation on input data"
+    },
+    {
+        "question": "Which of the following is an optimization algorithm?",
+        "optionA": "Gradient Descent",
+        "optionB": "K-Means",
+        "optionC": "PCA",
+        "optionD": "Bagging",
+        "answer": "Gradient Descent"
+    },
+    {
+        "question": "What is the purpose of early stopping in training neural networks?",
+        "optionA": "To increase training speed",
+        "optionB": "To prevent overfitting",
+        "optionC": "To add more layers",
+        "optionD": "To reduce the size of the dataset",
+        "answer": "To prevent overfitting"
+    },
+    {
+        "question": "Which of the following is NOT a kernel type in SVM?",
+        "optionA": "Linear",
+        "optionB": "Polynomial",
+        "optionC": "Radial Basis Function",
+        "optionD": "Clustering",
+        "answer": "Clustering"
+    },
+    {
+        "question": "What is the role of backpropagation in neural networks?",
+        "optionA": "To initialize weights",
+        "optionB": "To update weights using gradients",
+        "optionC": "To increase the depth of the network",
+        "optionD": "To normalize input data",
+        "answer": "To update weights using gradients"
+    },
+    {
+        "question": "What is an epoch in machine learning?",
+        "optionA": "A single pass through the entire dataset",
+        "optionB": "A batch of data points",
+        "optionC": "A single data point",
+        "optionD": "A layer in a neural network",
+        "answer": "A single pass through the entire dataset"
+    },
+    {
+        "question": "Which of the following is a method to handle missing data?",
+        "optionA": "Drop rows",
+        "optionB": "Imputation",
+        "optionC": "Using a predictive model",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which algorithm is suitable for time-series forecasting?",
+        "optionA": "ARIMA",
+        "optionB": "K-Means",
+        "optionC": "PCA",
+        "optionD": "SVM",
+        "answer": "ARIMA"
+    },
+    {
+        "question": "What does the term 'model generalization' refer to?",
+        "optionA": "The ability to fit training data perfectly",
+        "optionB": "The ability to perform well on unseen data",
+        "optionC": "The ability to increase model complexity",
+        "optionD": "The ability to cluster data points",
+        "answer": "The ability to perform well on unseen data"
+    },
+    {
+        "question": "Which of the following is an evaluation metric for classification?",
+        "optionA": "R-Squared",
+        "optionB": "F1 Score",
+        "optionC": "Mean Absolute Error",
+        "optionD": "Mean Squared Error",
+        "answer": "F1 Score"
+    },
+    {
+        "question": "What is the role of a validation set in machine learning?",
+        "optionA": "To train the model",
+        "optionB": "To tune hyperparameters",
+        "optionC": "To test the model",
+        "optionD": "To clean data",
+        "answer": "To tune hyperparameters"
+    },
+    {
+        "question": "Which of the following is a supervised learning task?",
+        "optionA": "Clustering",
+        "optionB": "Regression",
+        "optionC": "Dimensionality Reduction",
+        "optionD": "Association Rule Mining",
+        "answer": "Regression"
+    },
+    {
+        "question": "Which of the following is a characteristic of a Support Vector Machine (SVM)?",
+        "optionA": "It works well for regression tasks only",
+        "optionB": "It tries to find a hyperplane that best separates data points",
+        "optionC": "It is not suitable for high-dimensional data",
+        "optionD": "It uses decision trees for classification",
+        "answer": "It tries to find a hyperplane that best separates data points"
+    },
+    {
+        "question": "Which of the following is an example of a distance metric used in K-Nearest Neighbors (KNN)?",
+        "optionA": "Euclidean Distance",
+        "optionB": "Cross-Entropy",
+        "optionC": "Hamming Distance",
+        "optionD": "Jaccard Index",
+        "answer": "Euclidean Distance"
+    },
+    {
+        "question": "What is the purpose of the softmax function in a neural network?",
+        "optionA": "To scale input values",
+        "optionB": "To introduce non-linearity",
+        "optionC": "To convert raw output values into probabilities",
+        "optionD": "To prevent overfitting",
+        "answer": "To convert raw output values into probabilities"
+    },
+    {
+        "question": "Which of the following is a type of unsupervised learning?",
+        "optionA": "K-Nearest Neighbors",
+        "optionB": "Logistic Regression",
+        "optionC": "K-Means Clustering",
+        "optionD": "Linear Regression",
+        "answer": "K-Means Clustering"
+    },
+    {
+        "question": "What is the primary purpose of the ROC curve in classification problems?",
+        "optionA": "To measure the error of the model",
+        "optionB": "To evaluate the model's performance across different thresholds",
+        "optionC": "To visualize the distribution of data points",
+        "optionD": "To calculate the accuracy of the model",
+        "answer": "To evaluate the model's performance across different thresholds"
+    },
+    {
+        "question": "What is the purpose of an activation function in a neural network?",
+        "optionA": "To add non-linearity to the model",
+        "optionB": "To reduce overfitting",
+        "optionC": "To normalize the input data",
+        "optionD": "To calculate the error",
+        "answer": "To add non-linearity to the model"
+    },
+    {
+        "question": "Which algorithm is commonly used for feature selection?",
+        "optionA": "K-Means Clustering",
+        "optionB": "Principal Component Analysis (PCA)",
+        "optionC": "Decision Trees",
+        "optionD": "Random Forest",
+        "answer": "Principal Component Analysis (PCA)"
+    },
+    {
+        "question": "What is the purpose of the learning rate in gradient descent?",
+        "optionA": "To determine the number of iterations",
+        "optionB": "To control the size of the steps taken towards the minimum",
+        "optionC": "To adjust the number of features used",
+        "optionD": "To scale the input data",
+        "answer": "To control the size of the steps taken towards the minimum"
+    },
+    {
+        "question": "Which of the following is a method to deal with imbalanced datasets?",
+        "optionA": "Oversampling",
+        "optionB": "Undersampling",
+        "optionC": "Both A and B",
+        "optionD": "None of the above",
+        "answer": "Both A and B"
+    },
+    {
+        "question": "What is the primary goal of dimensionality reduction?",
+        "optionA": "To increase the number of features",
+        "optionB": "To reduce the number of features while retaining important information",
+        "optionC": "To add more features to the dataset",
+        "optionD": "To eliminate noisy data",
+        "answer": "To reduce the number of features while retaining important information"
+    }
+]

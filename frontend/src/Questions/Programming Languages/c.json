@@ -1,0 +1,410 @@
+[
+    {
+        "question": "What is the output of the following code?\nprint(type(3.14))",
+        "optionA": "int",
+        "optionB": "float",
+        "optionC": "str",
+        "optionD": "None",
+        "answer": "float"
+    },
+    {
+        "question": "Which of the following is used to define a constant in C?",
+        "optionA": "const",
+        "optionB": "static",
+        "optionC": "final",
+        "optionD": "define",
+        "answer": "const"
+    },
+    {
+        "question": "What will be the output of the following code?\nint a = 10, b = 20;\nprintf(\"%d\", a + b);",
+        "optionA": "10",
+        "optionB": "20",
+        "optionC": "30",
+        "optionD": "Error",
+        "answer": "30"
+    },
+    {
+        "question": "What is the size of an integer in C?",
+        "optionA": "2 bytes",
+        "optionB": "4 bytes",
+        "optionC": "8 bytes",
+        "optionD": "Depends on the system",
+        "answer": "Depends on the system"
+    },
+    {
+        "question": "Which of the following is the correct syntax to declare a pointer in C?",
+        "optionA": "int* ptr;",
+        "optionB": "pointer int ptr;",
+        "optionC": "int ptr*;",
+        "optionD": "pointer* int ptr;",
+        "answer": "int* ptr;"
+    },
+    {
+        "question": "Which of the following operators is used to access the value of a pointer in C?",
+        "optionA": "&",
+        "optionB": "*",
+        "optionC": "#",
+        "optionD": "$",
+        "answer": "*"
+    },
+    {
+        "question": "Which function is used to dynamically allocate memory in C?",
+        "optionA": "malloc()",
+        "optionB": "calloc()",
+        "optionC": "realloc()",
+        "optionD": "alloc()",
+        "answer": "malloc()"
+    },
+    {
+        "question": "What will be the output of the following code?\nint x = 5;\nif (x > 3) { printf(\"Hello\"); }",
+        "optionA": "Hello",
+        "optionB": "Error",
+        "optionC": "Nothing",
+        "optionD": "None",
+        "answer": "Hello"
+    },
+    {
+        "question": "What is the purpose of the 'return' statement in C?",
+        "optionA": "To end the program",
+        "optionB": "To exit a function and return a value",
+        "optionC": "To display a value",
+        "optionD": "None of the above",
+        "answer": "To exit a function and return a value"
+    },
+    {
+        "question": "What is the correct way to comment a single line in C?",
+        "optionA": "// This is a comment",
+        "optionB": "/* This is a comment */",
+        "optionC": "# This is a comment",
+        "optionD": "/* This is a comment",
+        "answer": "// This is a comment"
+    },
+    {
+        "question": "Which of the following functions is used to read a string in C?",
+        "optionA": "scanf()",
+        "optionB": "gets()",
+        "optionC": "fgets()",
+        "optionD": "read()",
+        "answer": "gets()"
+    },
+    {
+        "question": "What is the output of the following code?\nint a = 10;\nprintf(\"%d\", a++);",
+        "optionA": "10",
+        "optionB": "11",
+        "optionC": "Error",
+        "optionD": "None",
+        "answer": "10"
+    },
+    {
+        "question": "Which of the following is used to free dynamically allocated memory in C?",
+        "optionA": "free()",
+        "optionB": "delete()",
+        "optionC": "dispose()",
+        "optionD": "clear()",
+        "answer": "free()"
+    },
+    {
+        "question": "Which of the following is used to define a function in C?",
+        "optionA": "def",
+        "optionB": "function",
+        "optionC": "void",
+        "optionD": "None of the above",
+        "answer": "void"
+    },
+    {
+        "question": "What is the purpose of the 'break' statement in C?",
+        "optionA": "To stop the execution of the loop",
+        "optionB": "To exit the function",
+        "optionC": "To skip an iteration",
+        "optionD": "None of the above",
+        "answer": "To stop the execution of the loop"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a 'for' loop in C?",
+        "optionA": "for (i = 0; i < 10; i++)",
+        "optionB": "for i = 0; i < 10; i++",
+        "optionC": "for (i, 0, 10)",
+        "optionD": "for (i = 0; i <= 10)",
+        "answer": "for (i = 0; i < 10; i++)"
+    },
+    {
+        "question": "What is the output of the following code?\nint a = 10, b = 20;\nif (a > b) { printf(\"True\"); } else { printf(\"False\"); }",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Error",
+        "optionD": "None",
+        "answer": "False"
+    },
+    {
+        "question": "What does the following code snippet do?\nint i = 0;\nwhile (i < 5) { printf(\"%d \", i); i++; }",
+        "optionA": "Prints numbers from 0 to 5",
+        "optionB": "Prints numbers from 1 to 5",
+        "optionC": "Prints numbers from 0 to 4",
+        "optionD": "Infinite loop",
+        "answer": "Prints numbers from 0 to 4"
+    },
+    {
+        "question": "Which of the following is a correct declaration of a function in C?",
+        "optionA": "int add(int a, int b);",
+        "optionB": "int add(int a, b);",
+        "optionC": "void add(int a, int b);",
+        "optionD": "None of the above",
+        "answer": "int add(int a, int b);"
+    },
+    {
+        "question": "What is the correct syntax for declaring an array in C?",
+        "optionA": "int arr[5];",
+        "optionB": "int[5] arr;",
+        "optionC": "array int[5];",
+        "optionD": "None of the above",
+        "answer": "int arr[5];"
+    },
+    {
+        "question": "What will be the output of the following code?\nint a = 5;\nif (a == 5) { printf(\"Yes\"); } else { printf(\"No\"); }",
+        "optionA": "Yes",
+        "optionB": "No",
+        "optionC": "Error",
+        "optionD": "None",
+        "answer": "Yes"
+    },
+    {
+        "question": "Which of the following is the correct syntax to declare a structure in C?",
+        "optionA": "struct Person { char name[50]; int age; };",
+        "optionB": "struct Person { name char[50]; age int; };",
+        "optionC": "struct { char name[50]; int age; } Person;",
+        "optionD": "None of the above",
+        "answer": "struct Person { char name[50]; int age; };"
+    },
+    {
+        "question": "What will be the output of the following code?\nint x = 5;\nint y = 10;\nprintf(\"%d\", x > y ? x : y);",
+        "optionA": "5",
+        "optionB": "10",
+        "optionC": "Error",
+        "optionD": "None",
+        "answer": "10"
+    },
+    {
+        "question": "Which of the following is used to declare a constant pointer in C?",
+        "optionA": "const int* ptr;",
+        "optionB": "int const* ptr;",
+        "optionC": "const int* const ptr;",
+        "optionD": "None of the above",
+        "answer": "const int* const ptr;"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 10, y = 5;\nprintf(\"%d\", x / y);",
+        "optionA": "2",
+        "optionB": "5",
+        "optionC": "10",
+        "optionD": "Error",
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following is used to include a standard library in C?",
+        "optionA": "#include <stdio.h>",
+        "optionB": "#import <stdio.h>",
+        "optionC": "import <stdio.h>",
+        "optionD": "include <stdio.h>",
+        "answer": "#include <stdio.h>"
+    },
+    {
+        "question": "What is the correct syntax to declare a function pointer in C?",
+        "optionA": "int (*ptr)(int, int);",
+        "optionB": "int ptr(int, int);",
+        "optionC": "int ptr(int, int)*;",
+        "optionD": "None of the above",
+        "answer": "int (*ptr)(int, int);"
+    },
+    {
+        "question": "What is the default value of a static variable in C?",
+        "optionA": "0",
+        "optionB": "NULL",
+        "optionC": "undefined",
+        "optionD": "None of the above",
+        "answer": "0"
+    },
+    {
+        "question": "Which of the following is used to find the length of a string in C?",
+        "optionA": "strlen()",
+        "optionB": "size()",
+        "optionC": "length()",
+        "optionD": "sizeof()",
+        "answer": "strlen()"
+    },
+    {
+        "question": "Which of the following is used to declare a dynamic array in C?",
+        "optionA": "int arr[];",
+        "optionB": "int* arr = malloc(sizeof(int) * 5);",
+        "optionC": "int arr[5];",
+        "optionD": "int* arr = new int[5];",
+        "answer": "int* arr = malloc(sizeof(int) * 5);"
+    },
+    {
+        "question": "Which of the following is a valid data type in C?",
+        "optionA": "integer",
+        "optionB": "int",
+        "optionC": "num",
+        "optionD": "real",
+        "answer": "int"
+    },
+    {
+        "question": "What is the correct syntax for a 'while' loop in C?",
+        "optionA": "while (condition) { statement; }",
+        "optionB": "while condition { statement; }",
+        "optionC": "while condition do { statement; }",
+        "optionD": "while (condition) do { statement; }",
+        "answer": "while (condition) { statement; }"
+    },
+    {
+        "question": "Which of the following functions is used to compare two strings in C?",
+        "optionA": "strcmp()",
+        "optionB": "compare()",
+        "optionC": "strcomp()",
+        "optionD": "strcmpi()",
+        "answer": "strcmp()"
+    },
+    {
+        "question": "What is the correct syntax to declare a union in C?",
+        "optionA": "union Data { int x; float y; };",
+        "optionB": "union { int x; float y; } Data;",
+        "optionC": "union Data { int x; float y; }",
+        "optionD": "None of the above",
+        "answer": "union Data { int x; float y; };"
+    },
+    {
+        "question": "What is the purpose of the 'continue' statement in C?",
+        "optionA": "To skip the current iteration of a loop",
+        "optionB": "To stop the loop",
+        "optionC": "To jump to the next function",
+        "optionD": "None of the above",
+        "answer": "To skip the current iteration of a loop"
+    },
+    {
+        "question": "Which of the following is the correct syntax to declare a constant in C?",
+        "optionA": "const int x = 10;",
+        "optionB": "int const x = 10;",
+        "optionC": "const x = 10;",
+        "optionD": "None of the above",
+        "answer": "const int x = 10;"
+    },
+    {
+        "question": "Which of the following is the correct syntax to declare a macro in C?",
+        "optionA": "#define MAX 100",
+        "optionB": "define MAX 100",
+        "optionC": "macro MAX 100",
+        "optionD": "#macro MAX 100",
+        "answer": "#define MAX 100"
+    },
+    {
+        "question": "What will be the output of the following code?\nint a = 10;\nif (a == 10) { printf(\"Equal\"); } else { printf(\"Not Equal\"); }",
+        "optionA": "Equal",
+        "optionB": "Not Equal",
+        "optionC": "Error",
+        "optionD": "None",
+        "answer": "Equal"
+    },
+    {
+        "question": "What is the default value of a global variable in C?",
+        "optionA": "0",
+        "optionB": "NULL",
+        "optionC": "undefined",
+        "optionD": "None of the above",
+        "answer": "0"
+    },
+    {
+        "question": "Which of the following is used to perform bitwise AND operation in C?",
+        "optionA": "&",
+        "optionB": "|",
+        "optionC": "^",
+        "optionD": "&&",
+        "answer": "&"
+    },
+    {
+        "question": "Which of the following is used to perform bitwise OR operation in C?",
+        "optionA": "&",
+        "optionB": "|",
+        "optionC": "^",
+        "optionD": "||",
+        "answer": "|"
+    },
+    {
+        "question": "What is the purpose of the 'sizeof' operator in C?",
+        "optionA": "To return the size of a variable or data type",
+        "optionB": "To return the size of an array",
+        "optionC": "To return the number of elements in an array",
+        "optionD": "None of the above",
+        "answer": "To return the size of a variable or data type"
+    },
+    {
+        "question": "What is the correct way to initialize an array in C?",
+        "optionA": "int arr[5] = {1, 2, 3, 4, 5};",
+        "optionB": "int arr = {1, 2, 3, 4, 5};",
+        "optionC": "int arr[5]; arr = {1, 2, 3, 4, 5};",
+        "optionD": "None of the above",
+        "answer": "int arr[5] = {1, 2, 3, 4, 5};"
+    },
+    {
+        "question": "Which of the following is the correct syntax to declare a character array in C?",
+        "optionA": "char arr[5];",
+        "optionB": "char arr = 'hello';",
+        "optionC": "char arr[] = 'hello';",
+        "optionD": "char arr[] = {h, e, l, l, o};",
+        "answer": "char arr[5];"
+    },
+    {
+        "question": "Which of the following is used to perform logical AND operation in C?",
+        "optionA": "&",
+        "optionB": "&&",
+        "optionC": "|",
+        "optionD": "||",
+        "answer": "&&"
+    },
+    {
+        "question": "Which of the following is used to perform logical OR operation in C?",
+        "optionA": "&",
+        "optionB": "&&",
+        "optionC": "|",
+        "optionD": "||",
+        "answer": "||"
+    },
+    {
+        "question": "Which of the following is used to perform bitwise XOR operation in C?",
+        "optionA": "&",
+        "optionB": "|",
+        "optionC": "^",
+        "optionD": "^^",
+        "answer": "^"
+    },
+    {
+        "question": "Which of the following is the correct syntax to declare a pointer to a function in C?",
+        "optionA": "int (*ptr)(int, int);",
+        "optionB": "int* ptr(int, int);",
+        "optionC": "int ptr(int, int)*;",
+        "optionD": "None of the above",
+        "answer": "int (*ptr)(int, int);"
+    },
+    {
+        "question": "What will be the output of the following code?\nint a = 10, b = 5;\nprintf(\"%d\", a % b);",
+        "optionA": "2",
+        "optionB": "5",
+        "optionC": "10",
+        "optionD": "1",
+        "answer": "0"
+    },
+    {
+        "question": "What is the correct way to define a structure variable in C?",
+        "optionA": "struct Person p1;",
+        "optionB": "Person p1;",
+        "optionC": "struct p1;",
+        "optionD": "None of the above",
+        "answer": "struct Person p1;"
+    },
+    {
+        "question": "Which of the following is used to check if a number is odd or even in C?",
+        "optionA": "num % 2 == 0",
+        "optionB": "num % 2 == 1",
+        "optionC": "num / 2 == 0",
+        "optionD": "None of the above",
+        "answer": "num % 2 == 0"
+    }
+]

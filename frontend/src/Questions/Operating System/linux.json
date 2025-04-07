@@ -1,0 +1,498 @@
+[
+    {
+        "question": "What is the default shell in most Linux distributions?",
+        "optionA": "zsh",
+        "optionB": "bash",
+        "optionC": "fish",
+        "optionD": "sh",
+        "answer": "bash"
+    },
+    {
+        "question": "Which command is used to list files in a directory in Linux?",
+        "optionA": "ls",
+        "optionB": "dir",
+        "optionC": "list",
+        "optionD": "show",
+        "answer": "ls"
+    },
+    {
+        "question": "What is the purpose of the 'chmod' command in Linux?",
+        "optionA": "Change file ownership",
+        "optionB": "Change file permissions",
+        "optionC": "Change file name",
+        "optionD": "Change file content",
+        "answer": "Change file permissions"
+    },
+    {
+        "question": "Which Linux command is used to display the manual for a command?",
+        "optionA": "help",
+        "optionB": "man",
+        "optionC": "info",
+        "optionD": "doc",
+        "answer": "man"
+    },
+    {
+        "question": "Which command is used to create a new directory in Linux?",
+        "optionA": "mkdir",
+        "optionB": "newdir",
+        "optionC": "createdir",
+        "optionD": "dircreate",
+        "answer": "mkdir"
+    },
+    {
+        "question": "What does the 'ps' command do in Linux?",
+        "optionA": "Shows the process status",
+        "optionB": "Prints system information",
+        "optionC": "Shows disk usage",
+        "optionD": "Displays the network status",
+        "answer": "Shows the process status"
+    },
+    {
+        "question": "Which of the following is a package manager used in Linux?",
+        "optionA": "apt",
+        "optionB": "yum",
+        "optionC": "dpkg",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of the 'grep' command in Linux?",
+        "optionA": "Search for patterns in files",
+        "optionB": "Delete files",
+        "optionC": "Change file permissions",
+        "optionD": "Compress files",
+        "answer": "Search for patterns in files"
+    },
+    {
+        "question": "Which file stores user passwords in Linux?",
+        "optionA": "/etc/passwd",
+        "optionB": "/etc/shadow",
+        "optionC": "/etc/sudoers",
+        "optionD": "/etc/login.defs",
+        "answer": "/etc/shadow"
+    },
+    {
+        "question": "What does the 'sudo' command do in Linux?",
+        "optionA": "Runs commands with administrative privileges",
+        "optionB": "Shuts down the system",
+        "optionC": "List user groups",
+        "optionD": "Displays disk usage",
+        "answer": "Runs commands with administrative privileges"
+    },
+    {
+        "question": "Which command is used to copy files in Linux?",
+        "optionA": "cp",
+        "optionB": "copy",
+        "optionC": "mv",
+        "optionD": "duplicate",
+        "answer": "cp"
+    },
+    {
+        "question": "What does the 'df' command do in Linux?",
+        "optionA": "Shows disk usage",
+        "optionB": "Shows process status",
+        "optionC": "Shows file permissions",
+        "optionD": "Displays the file system information",
+        "answer": "Shows disk usage"
+    },
+    {
+        "question": "Which command is used to move or rename files in Linux?",
+        "optionA": "mv",
+        "optionB": "rename",
+        "optionC": "move",
+        "optionD": "shift",
+        "answer": "mv"
+    },
+    {
+        "question": "Which command is used to remove files in Linux?",
+        "optionA": "rm",
+        "optionB": "del",
+        "optionC": "delete",
+        "optionD": "rmdir",
+        "answer": "rm"
+    },
+    {
+        "question": "Which command is used to display the current working directory in Linux?",
+        "optionA": "pwd",
+        "optionB": "dir",
+        "optionC": "current",
+        "optionD": "ls",
+        "answer": "pwd"
+    },
+    {
+        "question": "Which file contains the list of installed packages in Debian-based Linux distributions?",
+        "optionA": "/etc/apt/sources.list",
+        "optionB": "/etc/dpkg/dpkg.cfg",
+        "optionC": "/etc/apt/installed-packages",
+        "optionD": "/etc/apt/apt.conf",
+        "answer": "/etc/apt/sources.list"
+    },
+    {
+        "question": "Which command is used to display the network interfaces in Linux?",
+        "optionA": "ifconfig",
+        "optionB": "ip addr",
+        "optionC": "netstat",
+        "optionD": "ping",
+        "answer": "ifconfig"
+    },
+    {
+        "question": "Which command is used to shut down the system in Linux?",
+        "optionA": "shutdown",
+        "optionB": "poweroff",
+        "optionC": "reboot",
+        "optionD": "halt",
+        "answer": "shutdown"
+    },
+    {
+        "question": "Which command is used to check disk space usage in Linux?",
+        "optionA": "du",
+        "optionB": "df",
+        "optionC": "diskspace",
+        "optionD": "checkdisk",
+        "answer": "df"
+    },
+    {
+        "question": "What is the Linux kernel responsible for?",
+        "optionA": "Managing hardware and system resources",
+        "optionB": "Running applications",
+        "optionC": "Providing a graphical user interface",
+        "optionD": "Managing user accounts",
+        "answer": "Managing hardware and system resources"
+    },
+    {
+        "question": "Which command is used to display the contents of a file in Linux?",
+        "optionA": "cat",
+        "optionB": "view",
+        "optionC": "open",
+        "optionD": "show",
+        "answer": "cat"
+    },
+    {
+        "question": "What is the default text editor in most Linux distributions?",
+        "optionA": "nano",
+        "optionB": "vim",
+        "optionC": "gedit",
+        "optionD": "emacs",
+        "answer": "nano"
+    },
+    {
+        "question": "Which command is used to check the available memory in Linux?",
+        "optionA": "free",
+        "optionB": "memstat",
+        "optionC": "memory",
+        "optionD": "checkmem",
+        "answer": "free"
+    },
+    {
+        "question": "Which command is used to change the user password in Linux?",
+        "optionA": "passwd",
+        "optionB": "change",
+        "optionC": "userpass",
+        "optionD": "chpasswd",
+        "answer": "passwd"
+    },
+    {
+        "question": "What does the 'kill' command do in Linux?",
+        "optionA": "Terminates a process",
+        "optionB": "Deletes a file",
+        "optionC": "Shuts down the system",
+        "optionD": "Reboots the system",
+        "answer": "Terminates a process"
+    },
+    {
+        "question": "Which file contains user account information in Linux?",
+        "optionA": "/etc/passwd",
+        "optionB": "/etc/shadow",
+        "optionC": "/etc/groups",
+        "optionD": "/etc/login.defs",
+        "answer": "/etc/passwd"
+    },
+    {
+        "question": "What is the purpose of the 'tar' command in Linux?",
+        "optionA": "Create and extract compressed archives",
+        "optionB": "Move files",
+        "optionC": "Change file permissions",
+        "optionD": "Install packages",
+        "answer": "Create and extract compressed archives"
+    },
+    {
+        "question": "Which command is used to update the package list in Debian-based Linux distributions?",
+        "optionA": "apt-get update",
+        "optionB": "apt-get upgrade",
+        "optionC": "apt-get install",
+        "optionD": "apt-get refresh",
+        "answer": "apt-get update"
+    },
+    {
+        "question": "What is the purpose of the 'uname' command in Linux?",
+        "optionA": "Display system information",
+        "optionB": "Change system settings",
+        "optionC": "Show network interfaces",
+        "optionD": "Display file contents",
+        "answer": "Display system information"
+    },
+    {
+        "question": "Which of the following commands is used to check the system uptime in Linux?",
+        "optionA": "uptime",
+        "optionB": "systemctl",
+        "optionC": "time",
+        "optionD": "status",
+        "answer": "uptime"
+    },
+    {
+        "question": "Which command is used to display the contents of a directory in Linux?",
+        "optionA": "ls",
+        "optionB": "dir",
+        "optionC": "list",
+        "optionD": "show",
+        "answer": "ls"
+    },
+    {
+        "question": "What is the purpose of the 'chmod' command in Linux?",
+        "optionA": "Change file permissions",
+        "optionB": "Change file owner",
+        "optionC": "Change file name",
+        "optionD": "Change file content",
+        "answer": "Change file permissions"
+    },
+    {
+        "question": "Which command is used to change the owner of a file in Linux?",
+        "optionA": "chown",
+        "optionB": "chmod",
+        "optionC": "chgrp",
+        "optionD": "useradd",
+        "answer": "chown"
+    },
+    {
+        "question": "Which file contains system-wide environment variables in Linux?",
+        "optionA": "/etc/environment",
+        "optionB": "/etc/profile",
+        "optionC": "/etc/bashrc",
+        "optionD": "/etc/sudoers",
+        "answer": "/etc/environment"
+    },
+    {
+        "question": "Which command is used to search for files in Linux?",
+        "optionA": "find",
+        "optionB": "search",
+        "optionC": "locate",
+        "optionD": "grep",
+        "answer": "find"
+    },
+    {
+        "question": "Which command is used to view the last few lines of a file in Linux?",
+        "optionA": "tail",
+        "optionB": "head",
+        "optionC": "cat",
+        "optionD": "more",
+        "answer": "tail"
+    },
+    {
+        "question": "What is the default location for user files in Linux?",
+        "optionA": "/home",
+        "optionB": "/root",
+        "optionC": "/usr",
+        "optionD": "/var",
+        "answer": "/home"
+    },
+    {
+        "question": "Which command is used to display the calendar in Linux?",
+        "optionA": "cal",
+        "optionB": "date",
+        "optionC": "time",
+        "optionD": "clock",
+        "answer": "cal"
+    },
+    {
+        "question": "Which command is used to check system performance in Linux?",
+        "optionA": "top",
+        "optionB": "ps",
+        "optionC": "uptime",
+        "optionD": "free",
+        "answer": "top"
+    },
+    {
+        "question": "Which command is used to compress files in Linux?",
+        "optionA": "gzip",
+        "optionB": "compress",
+        "optionC": "zip",
+        "optionD": "tar",
+        "answer": "gzip"
+    },
+    {
+        "question": "Which command is used to install packages in Ubuntu Linux?",
+        "optionA": "apt-get install",
+        "optionB": "yum install",
+        "optionC": "dpkg install",
+        "optionD": "pacman install",
+        "answer": "apt-get install"
+    },
+    {
+        "question": "Which command is used to display the current date and time in Linux?",
+        "optionA": "date",
+        "optionB": "time",
+        "optionC": "datetime",
+        "optionD": "current",
+        "answer": "date"
+    },
+    {
+        "question": "What does the 'whoami' command do in Linux?",
+        "optionA": "Displays the current user's username",
+        "optionB": "Displays the system uptime",
+        "optionC": "Shows the logged-in users",
+        "optionD": "Displays the current working directory",
+        "answer": "Displays the current user's username"
+    },
+    {
+        "question": "Which command is used to display the contents of a file one page at a time in Linux?",
+        "optionA": "more",
+        "optionB": "cat",
+        "optionC": "view",
+        "optionD": "less",
+        "answer": "more"
+    },
+    {
+        "question": "Which of the following is the default package manager for Red Hat-based Linux distributions?",
+        "optionA": "apt",
+        "optionB": "yum",
+        "optionC": "pacman",
+        "optionD": "zypper",
+        "answer": "yum"
+    },
+    {
+        "question": "What does the 'echo' command do in Linux?",
+        "optionA": "Displays a message or variable value",
+        "optionB": "Shows the contents of a file",
+        "optionC": "Changes the system time",
+        "optionD": "Sends a signal to a process",
+        "answer": "Displays a message or variable value"
+    },
+    {
+        "question": "Which command is used to display the last login information of users in Linux?",
+        "optionA": "last",
+        "optionB": "who",
+        "optionC": "w",
+        "optionD": "history",
+        "answer": "last"
+    },
+    {
+        "question": "Which file contains system startup scripts in Linux?",
+        "optionA": "/etc/init.d",
+        "optionB": "/etc/rc.local",
+        "optionC": "/etc/systemd/system",
+        "optionD": "/etc/boot.d",
+        "answer": "/etc/init.d"
+    },
+    {
+        "question": "Which command is used to check the disk usage of a directory in Linux?",
+        "optionA": "du",
+        "optionB": "df",
+        "optionC": "diskspace",
+        "optionD": "checkdisk",
+        "answer": "du"
+    },
+    {
+        "question": "Which command is used to monitor real-time system processes in Linux?",
+        "optionA": "top",
+        "optionB": "ps",
+        "optionC": "htop",
+        "optionD": "task",
+        "answer": "top"
+    },
+    {
+        "question": "Which command is used to find out the Linux distribution name and version?",
+        "optionA": "lsb_release -a",
+        "optionB": "cat /etc/os-release",
+        "optionC": "uname -r",
+        "optionD": "hostnamectl",
+        "answer": "lsb_release -a"
+    },
+    {
+        "question": "What does the 'alias' command do in Linux?",
+        "optionA": "Creates a shortcut for a command",
+        "optionB": "Shows the list of aliases",
+        "optionC": "Renames a command",
+        "optionD": "Deletes a command",
+        "answer": "Creates a shortcut for a command"
+    },
+    {
+        "question": "Which command is used to change the group ownership of a file in Linux?",
+        "optionA": "chown",
+        "optionB": "chgrp",
+        "optionC": "chmod",
+        "optionD": "useradd",
+        "answer": "chgrp"
+    },
+    {
+        "question": "Which command is used to display the manual page for a command in Linux?",
+        "optionA": "man",
+        "optionB": "info",
+        "optionC": "help",
+        "optionD": "doc",
+        "answer": "man"
+    },
+    {
+        "question": "What is the default file system used by most Linux distributions?",
+        "optionA": "ext4",
+        "optionB": "xfs",
+        "optionC": "btrfs",
+        "optionD": "ntfs",
+        "answer": "ext4"
+    },
+    {
+        "question": "Which command is used to display the system hostname in Linux?",
+        "optionA": "hostname",
+        "optionB": "uname",
+        "optionC": "sysctl",
+        "optionD": "hostnamectl",
+        "answer": "hostname"
+    },
+    {
+        "question": "Which command is used to display the current user's group in Linux?",
+        "optionA": "groups",
+        "optionB": "whoami",
+        "optionC": "id",
+        "optionD": "users",
+        "answer": "groups"
+    },
+    {
+        "question": "Which of the following is used to set the system time in Linux?",
+        "optionA": "date",
+        "optionB": "time",
+        "optionC": "settime",
+        "optionD": "clock",
+        "answer": "date"
+    },
+    {
+        "question": "Which command is used to check the status of a service in Linux?",
+        "optionA": "systemctl status",
+        "optionB": "service status",
+        "optionC": "status",
+        "optionD": "service --status-all",
+        "answer": "systemctl status"
+    },
+    {
+        "question": "Which file contains the system-wide environment variables in Linux?",
+        "optionA": "/etc/environment",
+        "optionB": "/etc/profile",
+        "optionC": "/etc/bashrc",
+        "optionD": "/etc/sudoers",
+        "answer": "/etc/environment"
+    },
+    {
+        "question": "What is the purpose of the 'cron' service in Linux?",
+        "optionA": "To schedule tasks to run at specified times",
+        "optionB": "To monitor system performance",
+        "optionC": "To manage user accounts",
+        "optionD": "To manage network interfaces",
+        "answer": "To schedule tasks to run at specified times"
+    },
+    {
+        "question": "Which command is used to remove a directory in Linux?",
+        "optionA": "rmdir",
+        "optionB": "rm",
+        "optionC": "del",
+        "optionD": "delete",
+        "answer": "rmdir"
+    }
+]

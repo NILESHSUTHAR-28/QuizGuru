@@ -1,0 +1,426 @@
+[
+    {
+        "question": "What is the primary purpose of a Distributed Denial of Service (DDoS) attack?",
+        "optionA": "To steal sensitive information",
+        "optionB": "To overload a system with traffic and make it unavailable",
+        "optionC": "To install malware on a system",
+        "optionD": "To gain unauthorized access to a system",
+        "answer": "To overload a system with traffic and make it unavailable"
+    },
+    {
+        "question": "Which of the following is a type of phishing attack?",
+        "optionA": "Spear phishing",
+        "optionB": "Vishing",
+        "optionC": "Smishing",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does the term 'zero-day vulnerability' refer to?",
+        "optionA": "A vulnerability that has been patched",
+        "optionB": "A vulnerability that is discovered and exploited before a patch is available",
+        "optionC": "A vulnerability that exists in open-source software only",
+        "optionD": "A vulnerability that is not harmful",
+        "answer": "A vulnerability that is discovered and exploited before a patch is available"
+    },
+    {
+        "question": "Which of the following is a commonly used tool for network scanning in cybersecurity?",
+        "optionA": "Nmap",
+        "optionB": "Wireshark",
+        "optionC": "John the Ripper",
+        "optionD": "Metasploit",
+        "answer": "Nmap"
+    },
+    {
+        "question": "What is a man-in-the-middle (MITM) attack?",
+        "optionA": "An attack where the attacker intercepts and alters communication between two parties",
+        "optionB": "An attack where the attacker sends a large volume of traffic to overwhelm a system",
+        "optionC": "An attack where the attacker directly accesses a system's file system",
+        "optionD": "An attack that uses social engineering techniques",
+        "answer": "An attack where the attacker intercepts and alters communication between two parties"
+    },
+    {
+        "question": "What is a rootkit?",
+        "optionA": "A type of malware that hides its presence on a system",
+        "optionB": "A tool used for password cracking",
+        "optionC": "A type of encryption algorithm",
+        "optionD": "A firewall tool",
+        "answer": "A type of malware that hides its presence on a system"
+    },
+    {
+        "question": "What is the primary purpose of a firewall?",
+        "optionA": "To encrypt data",
+        "optionB": "To block unauthorized access to a network",
+        "optionC": "To monitor network traffic",
+        "optionD": "To disable malware",
+        "answer": "To block unauthorized access to a network"
+    },
+    {
+        "question": "What does the acronym 'CIA' stand for in cybersecurity?",
+        "optionA": "Central Intelligence Agency",
+        "optionB": "Confidentiality, Integrity, Availability",
+        "optionC": "Cyber Intelligence Agency",
+        "optionD": "Computer Information Analysis",
+        "answer": "Confidentiality, Integrity, Availability"
+    },
+    {
+        "question": "What is the purpose of encryption in cybersecurity?",
+        "optionA": "To prevent unauthorized access to data by transforming it into unreadable format",
+        "optionB": "To speed up data transmission",
+        "optionC": "To compress data",
+        "optionD": "To manage network traffic",
+        "answer": "To prevent unauthorized access to data by transforming it into unreadable format"
+    },
+    {
+        "question": "What is a Trojan horse?",
+        "optionA": "A type of malware that disguises itself as a legitimate program",
+        "optionB": "A type of network attack",
+        "optionC": "A type of encryption algorithm",
+        "optionD": "A type of firewall tool",
+        "answer": "A type of malware that disguises itself as a legitimate program"
+    },
+    {
+        "question": "What is social engineering in cybersecurity?",
+        "optionA": "Hacking into a network by exploiting software vulnerabilities",
+        "optionB": "Manipulating individuals into revealing confidential information",
+        "optionC": "Encrypting sensitive data",
+        "optionD": "Installing a firewall to block attacks",
+        "answer": "Manipulating individuals into revealing confidential information"
+    },
+    {
+        "question": "What is the purpose of a honeypot in cybersecurity?",
+        "optionA": "To detect and trap attackers by creating a decoy system",
+        "optionB": "To monitor network traffic",
+        "optionC": "To encrypt data",
+        "optionD": "To provide secure communication",
+        "answer": "To detect and trap attackers by creating a decoy system"
+    },
+    {
+        "question": "Which of the following is a common type of malware?",
+        "optionA": "Trojan Horse",
+        "optionB": "HTTPS",
+        "optionC": "VPN",
+        "optionD": "Firewall",
+        "answer": "Trojan Horse"
+    },
+    {
+        "question": "What is a brute-force attack?",
+        "optionA": "An attack that exploits vulnerabilities in a system",
+        "optionB": "An attack where the attacker tries all possible combinations to guess a password",
+        "optionC": "An attack that uses social engineering techniques",
+        "optionD": "An attack that uses a botnet to overload a system",
+        "answer": "An attack where the attacker tries all possible combinations to guess a password"
+    },
+    {
+        "question": "What is the purpose of two-factor authentication (2FA)?",
+        "optionA": "To prevent brute-force attacks",
+        "optionB": "To provide an additional layer of security by requiring two forms of verification",
+        "optionC": "To encrypt passwords",
+        "optionD": "To monitor user activity",
+        "answer": "To provide an additional layer of security by requiring two forms of verification"
+    },
+    {
+        "question": "What is the purpose of a VPN (Virtual Private Network)?",
+        "optionA": "To hide the identity of the user and encrypt internet traffic",
+        "optionB": "To monitor network traffic",
+        "optionC": "To block malware",
+        "optionD": "To manage encryption keys",
+        "answer": "To hide the identity of the user and encrypt internet traffic"
+    },
+    {
+        "question": "What is a SQL injection?",
+        "optionA": "A type of cross-site scripting attack",
+        "optionB": "An attack that exploits vulnerabilities in SQL queries",
+        "optionC": "A type of social engineering attack",
+        "optionD": "An attack that uses a botnet to overwhelm a system",
+        "answer": "An attack that exploits vulnerabilities in SQL queries"
+    },
+    {
+        "question": "What is a password cracking tool used for?",
+        "optionA": "To encrypt passwords",
+        "optionB": "To recover passwords by trying multiple combinations",
+        "optionC": "To monitor user activity",
+        "optionD": "To block unauthorized access",
+        "answer": "To recover passwords by trying multiple combinations"
+    },
+    {
+        "question": "Which of the following is an example of a cross-site scripting (XSS) attack?",
+        "optionA": "Injecting malicious scripts into web pages viewed by other users",
+        "optionB": "Overloading a system with traffic",
+        "optionC": "Intercepting communication between two parties",
+        "optionD": "Hacking into a wireless network",
+        "answer": "Injecting malicious scripts into web pages viewed by other users"
+    },
+    {
+        "question": "What is the function of a public key in asymmetric encryption?",
+        "optionA": "To decrypt data",
+        "optionB": "To encrypt data",
+        "optionC": "To sign data",
+        "optionD": "To generate private keys",
+        "answer": "To encrypt data"
+    },
+    {
+        "question": "What does the term 'ransomware' refer to?",
+        "optionA": "A type of malware that encrypts files and demands payment for decryption",
+        "optionB": "A type of malware that steals sensitive information",
+        "optionC": "A type of firewall",
+        "optionD": "A type of password cracking tool",
+        "answer": "A type of malware that encrypts files and demands payment for decryption"
+    },
+    {
+        "question": "What is a common method used to secure communication over the internet?",
+        "optionA": "HTTPS",
+        "optionB": "FTP",
+        "optionC": "SMTP",
+        "optionD": "Telnet",
+        "answer": "HTTPS"
+    },
+    {
+        "question": "What is a denial-of-service (DoS) attack?",
+        "optionA": "An attack that prevents legitimate users from accessing a system or network",
+        "optionB": "An attack that encrypts files and demands payment",
+        "optionC": "An attack that steals sensitive information",
+        "optionD": "An attack that installs malware on a system",
+        "answer": "An attack that prevents legitimate users from accessing a system or network"
+    },
+    {
+        "question": "What is the purpose of patch management?",
+        "optionA": "To fix vulnerabilities in software",
+        "optionB": "To monitor network traffic",
+        "optionC": "To install antivirus software",
+        "optionD": "To encrypt sensitive data",
+        "answer": "To fix vulnerabilities in software"
+    },
+    {
+        "question": "What is a common type of network attack?",
+        "optionA": "Denial of Service (DoS)",
+        "optionB": "Digital Signature",
+        "optionC": "Data Encryption",
+        "optionD": "Public Key Infrastructure",
+        "answer": "Denial of Service (DoS)"
+    },
+    {
+        "question": "What is a vulnerability assessment?",
+        "optionA": "The process of exploiting a security weakness",
+        "optionB": "The process of identifying and evaluating security weaknesses",
+        "optionC": "The process of patching security vulnerabilities",
+        "optionD": "The process of encrypting data",
+        "answer": "The process of identifying and evaluating security weaknesses"
+    },
+    {
+        "question": "What is the purpose of a digital signature?",
+        "optionA": "To encrypt data",
+        "optionB": "To verify the authenticity of a message or document",
+        "optionC": "To block unauthorized access",
+        "optionD": "To monitor network traffic",
+        "answer": "To verify the authenticity of a message or document"
+    },
+    {
+        "question": "Which of the following is a common type of cryptographic algorithm?",
+        "optionA": "RSA",
+        "optionB": "Wireshark",
+        "optionC": "Nmap",
+        "optionD": "Metasploit",
+        "answer": "RSA"
+    },
+    {
+        "question": "What is the purpose of a VPN (Virtual Private Network)?",
+        "optionA": "To hide the identity of the user and encrypt internet traffic",
+        "optionB": "To monitor network traffic",
+        "optionC": "To block malware",
+        "optionD": "To manage encryption keys",
+        "answer": "To hide the identity of the user and encrypt internet traffic"
+    },
+    {
+        "question": "What is the function of a password manager?",
+        "optionA": "To generate and store secure passwords",
+        "optionB": "To monitor network traffic",
+        "optionC": "To encrypt sensitive data",
+        "optionD": "To block malware",
+        "answer": "To generate and store secure passwords"
+    },
+    {
+        "question": "What is a cross-site request forgery (CSRF) attack?",
+        "optionA": "An attack that forces a user to execute unwanted actions on a web application",
+        "optionB": "An attack that exploits vulnerabilities in network devices",
+        "optionC": "An attack that encrypts files and demands payment",
+        "optionD": "An attack that intercepts communication between two parties",
+        "answer": "An attack that forces a user to execute unwanted actions on a web application"
+    },
+    {
+        "question": "What is the main goal of a SQL injection attack?",
+        "optionA": "To steal sensitive data from a database",
+        "optionB": "To infect a system with malware",
+        "optionC": "To overload a server with traffic",
+        "optionD": "To intercept communication between two systems",
+        "answer": "To steal sensitive data from a database"
+    },
+    {
+        "question": "What is the purpose of a packet sniffer in cybersecurity?",
+        "optionA": "To monitor network traffic and capture data packets",
+        "optionB": "To block unauthorized access to a network",
+        "optionC": "To detect and remove malware from a system",
+        "optionD": "To manage encryption keys",
+        "answer": "To monitor network traffic and capture data packets"
+    },
+    {
+        "question": "What is the term 'pharming' in cybersecurity?",
+        "optionA": "Redirecting a user to a fraudulent website to steal personal information",
+        "optionB": "Sending fraudulent emails to deceive users",
+        "optionC": "Injecting malicious scripts into web pages",
+        "optionD": "Monitoring network traffic for sensitive information",
+        "answer": "Redirecting a user to a fraudulent website to steal personal information"
+    },
+    {
+        "question": "What is the purpose of a keylogger?",
+        "optionA": "To record keystrokes and capture sensitive information",
+        "optionB": "To block unauthorized access to a system",
+        "optionC": "To encrypt sensitive data",
+        "optionD": "To monitor network traffic",
+        "answer": "To record keystrokes and capture sensitive information"
+    },
+    {
+        "question": "What is a buffer overflow attack?",
+        "optionA": "An attack that exploits a system's memory allocation to execute arbitrary code",
+        "optionB": "An attack that uses social engineering techniques to deceive users",
+        "optionC": "An attack that overwhelms a system with traffic",
+        "optionD": "An attack that intercepts communication between two parties",
+        "answer": "An attack that exploits a system's memory allocation to execute arbitrary code"
+    },
+    {
+        "question": "What is the purpose of a DMZ (Demilitarized Zone) in network security?",
+        "optionA": "To isolate and protect internal systems from external threats",
+        "optionB": "To monitor network traffic",
+        "optionC": "To block unauthorized access to a network",
+        "optionD": "To encrypt data transmitted over the network",
+        "answer": "To isolate and protect internal systems from external threats"
+    },
+    {
+        "question": "What is a vulnerability in cybersecurity?",
+        "optionA": "A weakness in a system that can be exploited by an attacker",
+        "optionB": "A type of malware",
+        "optionC": "A method of encrypting data",
+        "optionD": "A tool used to monitor network traffic",
+        "answer": "A weakness in a system that can be exploited by an attacker"
+    },
+    {
+        "question": "What is the purpose of a security audit?",
+        "optionA": "To assess the effectiveness of security measures and identify vulnerabilities",
+        "optionB": "To encrypt sensitive data",
+        "optionC": "To monitor network traffic for malicious activity",
+        "optionD": "To block unauthorized access to a network",
+        "answer": "To assess the effectiveness of security measures and identify vulnerabilities"
+    },
+    {
+        "question": "What is the main objective of a cyber attack?",
+        "optionA": "To steal sensitive data or disrupt normal operations",
+        "optionB": "To monitor network traffic",
+        "optionC": "To encrypt files and demand payment",
+        "optionD": "To block malware from entering a network",
+        "answer": "To steal sensitive data or disrupt normal operations"
+    },
+    {
+        "question": "What is a vulnerability scanner?",
+        "optionA": "A tool used to identify and assess security weaknesses in a system",
+        "optionB": "A tool used to monitor network traffic",
+        "optionC": "A tool used to block unauthorized access",
+        "optionD": "A tool used to encrypt data",
+        "answer": "A tool used to identify and assess security weaknesses in a system"
+    },
+    {
+        "question": "What is the function of an intrusion detection system (IDS)?",
+        "optionA": "To detect and alert on suspicious or malicious activity in a network",
+        "optionB": "To block unauthorized access to a network",
+        "optionC": "To encrypt sensitive data",
+        "optionD": "To monitor network traffic for performance issues",
+        "answer": "To detect and alert on suspicious or malicious activity in a network"
+    },
+    {
+        "question": "What is a logic bomb?",
+        "optionA": "A type of malware that is triggered by a specific condition or event",
+        "optionB": "A type of network attack",
+        "optionC": "A type of encryption algorithm",
+        "optionD": "A tool used for password cracking",
+        "answer": "A type of malware that is triggered by a specific condition or event"
+    },
+    {
+        "question": "What is the purpose of a digital certificate?",
+        "optionA": "To verify the identity of a user or system and establish trust",
+        "optionB": "To monitor network traffic",
+        "optionC": "To block unauthorized access to a network",
+        "optionD": "To encrypt sensitive data",
+        "answer": "To verify the identity of a user or system and establish trust"
+    },
+    {
+        "question": "What is the function of a DNS (Domain Name System) in cybersecurity?",
+        "optionA": "To translate domain names into IP addresses",
+        "optionB": "To monitor network traffic for malicious activity",
+        "optionC": "To encrypt data transmitted over the internet",
+        "optionD": "To block unauthorized access to a network",
+        "answer": "To translate domain names into IP addresses"
+    },
+    {
+        "question": "What is a cyber espionage attack?",
+        "optionA": "An attack aimed at stealing sensitive information for political or economic gain",
+        "optionB": "An attack aimed at disrupting the operations of a system",
+        "optionC": "An attack aimed at encrypting files and demanding payment",
+        "optionD": "An attack aimed at blocking unauthorized access to a network",
+        "answer": "An attack aimed at stealing sensitive information for political or economic gain"
+    },
+    {
+        "question": "What is the purpose of a security patch?",
+        "optionA": "To fix vulnerabilities and improve the security of software",
+        "optionB": "To encrypt sensitive data",
+        "optionC": "To monitor network traffic",
+        "optionD": "To block malware from entering a system",
+        "answer": "To fix vulnerabilities and improve the security of software"
+    },
+    {
+        "question": "What is a man-in-the-browser (MITB) attack?",
+        "optionA": "An attack where the attacker intercepts and alters communication between a user and a web application",
+        "optionB": "An attack that uses a botnet to overwhelm a system",
+        "optionC": "An attack that encrypts files and demands payment",
+        "optionD": "An attack that exploits vulnerabilities in SQL queries",
+        "answer": "An attack where the attacker intercepts and alters communication between a user and a web application"
+    },
+    {
+        "question": "What is the purpose of a network firewall?",
+        "optionA": "To block unauthorized access and monitor incoming and outgoing traffic",
+        "optionB": "To encrypt sensitive data",
+        "optionC": "To recover lost passwords",
+        "optionD": "To detect malware",
+        "answer": "To block unauthorized access and monitor incoming and outgoing traffic"
+    },
+    {
+        "question": "What is the function of a web application firewall (WAF)?",
+        "optionA": "To protect web applications from malicious traffic and attacks",
+        "optionB": "To monitor network traffic",
+        "optionC": "To encrypt sensitive data",
+        "optionD": "To recover lost passwords",
+        "answer": "To protect web applications from malicious traffic and attacks"
+    },
+    {
+        "question": "What is a DNS spoofing attack?",
+        "optionA": "An attack that redirects traffic to fraudulent websites by manipulating DNS records",
+        "optionB": "An attack that overwhelms a system with traffic",
+        "optionC": "An attack that steals sensitive data from a database",
+        "optionD": "An attack that intercepts communication between two parties",
+        "answer": "An attack that redirects traffic to fraudulent websites by manipulating DNS records"
+    },
+    {
+        "question": "What is the main goal of a botnet attack?",
+        "optionA": "To control a network of infected devices to perform malicious activities",
+        "optionB": "To monitor network traffic",
+        "optionC": "To encrypt sensitive data",
+        "optionD": "To block unauthorized access to a network",
+        "answer": "To control a network of infected devices to perform malicious activities"
+    },
+    {
+        "question": "What is the purpose of a security token in cybersecurity?",
+        "optionA": "To provide an additional layer of authentication for secure access",
+        "optionB": "To monitor network traffic",
+        "optionC": "To block unauthorized access to a network",
+        "optionD": "To encrypt sensitive data",
+        "answer": "To provide an additional layer of authentication for secure access"
+    }
+]

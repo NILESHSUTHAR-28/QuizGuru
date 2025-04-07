@@ -1,0 +1,434 @@
+[
+    {
+        "question": "What is Angular?",
+        "optionA": "A JavaScript library",
+        "optionB": "A TypeScript framework for building web applications",
+        "optionC": "A CSS framework",
+        "optionD": "A Python library",
+        "answer": "A TypeScript framework for building web applications"
+    },
+    {
+        "question": "Which of the following is used to create a component in Angular?",
+        "optionA": "ng generate component",
+        "optionB": "ng new component",
+        "optionC": "ng add component",
+        "optionD": "ng create component",
+        "answer": "ng generate component"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a two-way data binding in Angular?",
+        "optionA": "[property]='value'",
+        "optionB": "(event)='handler'",
+        "optionC": "[property] = (value)",
+        "optionD": "[property] = 'value' (event)='handler'",
+        "answer": "[property] = 'value' (event)='handler'"
+    },
+    {
+        "question": "What is the purpose of Angular services?",
+        "optionA": "To handle HTTP requests",
+        "optionB": "To store user data",
+        "optionC": "To manage routing",
+        "optionD": "To manage component lifecycle",
+        "answer": "To handle HTTP requests"
+    },
+    {
+        "question": "What is the decorator used to define an Angular component?",
+        "optionA": "@Component",
+        "optionB": "@Injectable",
+        "optionC": "@Directive",
+        "optionD": "@NgModule",
+        "answer": "@Component"
+    },
+    {
+        "question": "Which Angular directive is used to loop over an array or object?",
+        "optionA": "ng-repeat",
+        "optionB": "ng-for",
+        "optionC": "ngFor",
+        "optionD": "ngLoop",
+        "answer": "ngFor"
+    },
+    {
+        "question": "What is the main purpose of Angular CLI?",
+        "optionA": "To manage HTTP requests",
+        "optionB": "To create and manage Angular applications",
+        "optionC": "To define Angular components",
+        "optionD": "To handle routing",
+        "answer": "To create and manage Angular applications"
+    },
+    {
+        "question": "Which of the following is used to manage routing in Angular?",
+        "optionA": "RouterModule",
+        "optionB": "RouteModule",
+        "optionC": "RoutingModule",
+        "optionD": "RouterLink",
+        "answer": "RouterModule"
+    },
+    {
+        "question": "What is the purpose of Angular's NgModule?",
+        "optionA": "To handle component lifecycle",
+        "optionB": "To declare components, directives, and pipes",
+        "optionC": "To manage HTTP requests",
+        "optionD": "To manage routing",
+        "answer": "To declare components, directives, and pipes"
+    },
+    {
+        "question": "Which of the following is used to inject a service into a component in Angular?",
+        "optionA": "@Injectable",
+        "optionB": "@Input",
+        "optionC": "@Output",
+        "optionD": "constructor()",
+        "answer": "constructor()"
+    },
+    {
+        "question": "Which lifecycle hook is called after Angular initializes the component's data-bound properties?",
+        "optionA": "ngOnInit",
+        "optionB": "ngAfterViewInit",
+        "optionC": "ngOnChanges",
+        "optionD": "ngAfterContentInit",
+        "answer": "ngOnInit"
+    },
+    {
+        "question": "Which of the following is used to create a custom directive in Angular?",
+        "optionA": "@Directive",
+        "optionB": "@Component",
+        "optionC": "@Injectable",
+        "optionD": "@NgModule",
+        "answer": "@Directive"
+    },
+    {
+        "question": "What is the purpose of Angular's 'ngOnChanges' lifecycle hook?",
+        "optionA": "To handle changes to input properties",
+        "optionB": "To handle component initialization",
+        "optionC": "To handle changes to output properties",
+        "optionD": "To manage routing",
+        "answer": "To handle changes to input properties"
+    },
+    {
+        "question": "Which of the following is used to handle form validation in Angular?",
+        "optionA": "ngModel",
+        "optionB": "ReactiveFormsModule",
+        "optionC": "FormsModule",
+        "optionD": "HttpClientModule",
+        "answer": "ReactiveFormsModule"
+    },
+    {
+        "question": "What is the purpose of Angular's 'ngFor' directive?",
+        "optionA": "To loop over an array or object",
+        "optionB": "To conditionally render an element",
+        "optionC": "To bind an event to an element",
+        "optionD": "To bind data to an element",
+        "answer": "To loop over an array or object"
+    },
+    {
+        "question": "Which of the following is used to bind a class to an element in Angular?",
+        "optionA": "ngClass",
+        "optionB": "ngStyle",
+        "optionC": "ngModel",
+        "optionD": "ngBind",
+        "answer": "ngClass"
+    },
+    {
+        "question": "Which of the following is used to define a route in Angular?",
+        "optionA": "RouterModule.forRoot()",
+        "optionB": "Router.forRoot()",
+        "optionC": "RouteModule.forRoot()",
+        "optionD": "RouterModule.forChild()",
+        "answer": "RouterModule.forRoot()"
+    },
+    {
+        "question": "Which directive is used to bind an event to an element in Angular?",
+        "optionA": "ngClick",
+        "optionB": "ngEvent",
+        "optionC": "ngOn",
+        "optionD": "ngOnClick",
+        "answer": "ngOnClick"
+    },
+    {
+        "question": "What is the purpose of Angular's 'ngModel' directive?",
+        "optionA": "To create two-way data binding",
+        "optionB": "To bind an event to an element",
+        "optionC": "To loop over an array or object",
+        "optionD": "To conditionally render an element",
+        "answer": "To create two-way data binding"
+    },
+    {
+        "question": "What is the correct way to create a service in Angular?",
+        "optionA": "ng generate service",
+        "optionB": "ng new service",
+        "optionC": "ng create service",
+        "optionD": "ng add service",
+        "answer": "ng generate service"
+    },
+    {
+        "question": "What is the purpose of Angular's 'HttpClientModule'?",
+        "optionA": "To handle HTTP requests and responses",
+        "optionB": "To manage routing",
+        "optionC": "To handle form validation",
+        "optionD": "To create components",
+        "answer": "To handle HTTP requests and responses"
+    },
+    {
+        "question": "Which of the following is used to handle forms in Angular?",
+        "optionA": "FormsModule",
+        "optionB": "ReactiveFormsModule",
+        "optionC": "HttpClientModule",
+        "optionD": "RouterModule",
+        "answer": "FormsModule"
+    },
+    {
+        "question": "What is the purpose of Angular's 'ngIf' directive?",
+        "optionA": "To conditionally render an element",
+        "optionB": "To loop over an array or object",
+        "optionC": "To bind an event to an element",
+        "optionD": "To bind data to an element",
+        "answer": "To conditionally render an element"
+    },
+    {
+        "question": "Which of the following is used to handle lifecycle hooks in Angular?",
+        "optionA": "ngOnInit",
+        "optionB": "ngOnChanges",
+        "optionC": "ngAfterViewInit",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of Angular's 'ngStyle' directive?",
+        "optionA": "To bind a style to an element",
+        "optionB": "To bind a class to an element",
+        "optionC": "To create two-way data binding",
+        "optionD": "To conditionally render an element",
+        "answer": "To bind a style to an element"
+    },
+    {
+        "question": "What is the correct syntax for defining a route in Angular?",
+        "optionA": "{ path: 'home', component: HomeComponent }",
+        "optionB": "{ path: 'home', component: 'HomeComponent' }",
+        "optionC": "{ 'path': 'home', component: HomeComponent }",
+        "optionD": "{ 'path': 'home', 'component': HomeComponent }",
+        "answer": "{ path: 'home', component: HomeComponent }"
+    },
+    {
+        "question": "Which of the following is used to define a pipe in Angular?",
+        "optionA": "@Pipe",
+        "optionB": "@Component",
+        "optionC": "@Directive",
+        "optionD": "@Injectable",
+        "answer": "@Pipe"
+    },
+    {
+        "question": "Which of the following is used to handle routing in Angular?",
+        "optionA": "RouterLink",
+        "optionB": "RouterModule",
+        "optionC": "RouteModule",
+        "optionD": "RouterOutlet",
+        "answer": "RouterModule"
+    },
+    {
+        "question": "What is the purpose of Angular's 'ngAfterViewInit' lifecycle hook?",
+        "optionA": "To initialize component properties",
+        "optionB": "To handle changes to input properties",
+        "optionC": "To initialize the view and child views",
+        "optionD": "To manage HTTP requests",
+        "answer": "To initialize the view and child views"
+    },
+    {
+        "question": "Which of the following is used to create an Angular module?",
+        "optionA": "ng generate module",
+        "optionB": "ng new module",
+        "optionC": "ng add module",
+        "optionD": "ng create module",
+        "answer": "ng generate module"
+    },
+    {
+        "question": "Which of the following is the correct way to handle asynchronous operations in Angular?",
+        "optionA": "Using promises",
+        "optionB": "Using Observables",
+        "optionC": "Using setTimeout",
+        "optionD": "Using ngOnInit",
+        "answer": "Using Observables"
+    },
+    {
+        "question": "Which Angular directive is used for conditional rendering?",
+        "optionA": "ngIf",
+        "optionB": "ngFor",
+        "optionC": "ngClass",
+        "optionD": "ngStyle",
+        "answer": "ngIf"
+    },
+    {
+        "question": "Which of the following is used to bind data to an HTML element in Angular?",
+        "optionA": "ngModel",
+        "optionB": "ngFor",
+        "optionC": "ngClass",
+        "optionD": "ngBind",
+        "answer": "ngModel"
+    },
+    {
+        "question": "Which Angular module is used for handling HTTP requests?",
+        "optionA": "HttpClientModule",
+        "optionB": "FormsModule",
+        "optionC": "RouterModule",
+        "optionD": "ReactiveFormsModule",
+        "answer": "HttpClientModule"
+    },
+    {
+        "question": "What is the purpose of the 'ngOnDestroy' lifecycle hook?",
+        "optionA": "To clean up resources when a component is destroyed",
+        "optionB": "To initialize component properties",
+        "optionC": "To handle changes to input properties",
+        "optionD": "To manage routing",
+        "answer": "To clean up resources when a component is destroyed"
+    },
+    {
+        "question": "What is the correct syntax for using Angular's 'ngClass' directive?",
+        "optionA": "[ngClass]='className'",
+        "optionB": "ngClass='className'",
+        "optionC": "[ngClass] = className",
+        "optionD": "ngClass = '[className]'",
+        "answer": "[ngClass]='className'"
+    },
+    {
+        "question": "Which of the following is used to implement reactive forms in Angular?",
+        "optionA": "ReactiveFormsModule",
+        "optionB": "FormsModule",
+        "optionC": "HttpClientModule",
+        "optionD": "RouterModule",
+        "answer": "ReactiveFormsModule"
+    },
+    {
+        "question": "Which of the following is the correct way to create a pipe in Angular?",
+        "optionA": "ng generate pipe",
+        "optionB": "ng new pipe",
+        "optionC": "ng create pipe",
+        "optionD": "ng add pipe",
+        "answer": "ng generate pipe"
+    },
+    {
+        "question": "Which of the following is used to bind styles to an element in Angular?",
+        "optionA": "ngStyle",
+        "optionB": "ngClass",
+        "optionC": "ngModel",
+        "optionD": "ngBind",
+        "answer": "ngStyle"
+    },
+    {
+        "question": "Which of the following is the correct way to create a custom pipe in Angular?",
+        "optionA": "@Pipe({name: 'customPipe'})",
+        "optionB": "@CustomPipe()",
+        "optionC": "@Injectable({name: 'customPipe'})",
+        "optionD": "@Directive({name: 'customPipe'})",
+        "answer": "@Pipe({name: 'customPipe'})"
+    },
+    {
+        "question": "Which of the following is used to manage component communication in Angular?",
+        "optionA": "Input and Output decorators",
+        "optionB": "ngModel",
+        "optionC": "ngClass",
+        "optionD": "ngStyle",
+        "answer": "Input and Output decorators"
+    },
+    {
+        "question": "What is the purpose of Angular's 'ngAfterContentInit' lifecycle hook?",
+        "optionA": "To initialize the component's content",
+        "optionB": "To handle changes to input properties",
+        "optionC": "To initialize the view and child views",
+        "optionD": "To manage routing",
+        "answer": "To initialize the component's content"
+    },
+    {
+        "question": "Which of the following is used to handle HTTP requests and responses in Angular?",
+        "optionA": "HttpClient",
+        "optionB": "HttpModule",
+        "optionC": "HttpService",
+        "optionD": "HttpRequest",
+        "answer": "HttpClient"
+    },
+    {
+        "question": "Which of the following is the correct syntax for using Angular's 'ngFor' directive?",
+        "optionA": "*ngFor='let item of items'",
+        "optionB": "ngFor='let item of items'",
+        "optionC": "*ngFor='item of items'",
+        "optionD": "ngFor='item of items'",
+        "answer": "*ngFor='let item of items'"
+    },
+    {
+        "question": "What is the purpose of Angular's 'ngAfterViewChecked' lifecycle hook?",
+        "optionA": "To perform custom change detection after the view is checked",
+        "optionB": "To initialize the view and child views",
+        "optionC": "To handle changes to input properties",
+        "optionD": "To manage routing",
+        "answer": "To perform custom change detection after the view is checked"
+    },
+    {
+        "question": "Which of the following is used to handle asynchronous data in Angular?",
+        "optionA": "Observables",
+        "optionB": "Promises",
+        "optionC": "ngOnInit",
+        "optionD": "ngAfterViewInit",
+        "answer": "Observables"
+    },
+    {
+        "question": "What is the correct syntax for defining a route with parameters in Angular?",
+        "optionA": "{ path: 'user/:id', component: UserComponent }",
+        "optionB": "{ path: 'user?id=:id', component: UserComponent }",
+        "optionC": "{ path: 'user/:id', component: 'UserComponent' }",
+        "optionD": "{ 'path': 'user/:id', 'component': UserComponent }",
+        "answer": "{ path: 'user/:id', component: UserComponent }"
+    },
+    {
+        "question": "Which of the following is used to implement lazy loading in Angular?",
+        "optionA": "loadChildren",
+        "optionB": "ngOnInit",
+        "optionC": "ngAfterViewInit",
+        "optionD": "routerLink",
+        "answer": "loadChildren"
+    },
+    {
+        "question": "Which of the following is the correct way to import a module in Angular?",
+        "optionA": "import { ModuleName } from '@angular/module-name';",
+        "optionB": "import { ModuleName } from 'angular/module-name';",
+        "optionC": "import { ModuleName } from 'module-name';",
+        "optionD": "import { ModuleName } from '@module-name';",
+        "answer": "import { ModuleName } from '@angular/module-name';"
+    },
+    {
+        "question": "What is the correct way to bind a style to an element in Angular?",
+        "optionA": "[ngStyle] = 'styleObject'",
+        "optionB": "ngStyle = 'styleObject'",
+        "optionC": "[ngStyle] = styleObject",
+        "optionD": "ngStyle = [styleObject]",
+        "answer": "[ngStyle] = 'styleObject'"
+    },
+    {
+        "question": "Which of the following is used to manage state in Angular?",
+        "optionA": "NgRx",
+        "optionB": "ngModel",
+        "optionC": "ReactiveFormsModule",
+        "optionD": "HttpClientModule",
+        "answer": "NgRx"
+    },
+    {
+        "question": "Which directive is used to handle user input in Angular forms?",
+        "optionA": "ngModel",
+        "optionB": "ngForm",
+        "optionC": "ngInput",
+        "optionD": "ngSubmit",
+        "answer": "ngModel"
+    },
+    {
+        "question": "Which of the following is used to create a new Angular application?",
+        "optionA": "ng new",
+        "optionB": "ng create",
+        "optionC": "ng generate",
+        "optionD": "ng init",
+        "answer": "ng new"
+    },
+    {
+        "question": "What is the purpose of Angular's 'ngAfterViewChecked' lifecycle hook?",
+        "optionA": "To perform custom change detection after the view is checked",
+        "optionB": "To handle changes to input properties",
+        "optionC": "To initialize the view and child views",
+        "optionD": "To manage routing",
+        "answer": "To perform custom change detection after the view is checked"
+    }
+]

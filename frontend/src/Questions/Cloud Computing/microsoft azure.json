@@ -1,0 +1,458 @@
+[
+    {
+        "question": "What is Microsoft Azure primarily used for?",
+        "optionA": "Cloud computing services",
+        "optionB": "Database management",
+        "optionC": "Operating system development",
+        "optionD": "Hardware manufacturing",
+        "answer": "Cloud computing services"
+    },
+    {
+        "question": "Which service in Azure is used for hosting virtual machines?",
+        "optionA": "Azure Virtual Machines",
+        "optionB": "Azure App Service",
+        "optionC": "Azure Functions",
+        "optionD": "Azure Blob Storage",
+        "answer": "Azure Virtual Machines"
+    },
+    {
+        "question": "What is the purpose of Azure Blob Storage?",
+        "optionA": "Hosting virtual machines",
+        "optionB": "Storing unstructured data",
+        "optionC": "Managing databases",
+        "optionD": "Providing DNS services",
+        "answer": "Storing unstructured data"
+    },
+    {
+        "question": "Which Azure service is used for serverless computing?",
+        "optionA": "Azure Functions",
+        "optionB": "Azure Kubernetes Service",
+        "optionC": "Azure Virtual Network",
+        "optionD": "Azure SQL Database",
+        "answer": "Azure Functions"
+    },
+    {
+        "question": "What does Azure Active Directory (Azure AD) provide?",
+        "optionA": "Identity and access management",
+        "optionB": "Data warehousing",
+        "optionC": "Virtual machine hosting",
+        "optionD": "Cloud storage",
+        "answer": "Identity and access management"
+    },
+    {
+        "question": "Which Azure service is used for creating and managing containers?",
+        "optionA": "Azure Kubernetes Service (AKS)",
+        "optionB": "Azure Virtual Machines",
+        "optionC": "Azure DevOps",
+        "optionD": "Azure Functions",
+        "answer": "Azure Kubernetes Service (AKS)"
+    },
+    {
+        "question": "What is the main use of Azure SQL Database?",
+        "optionA": "Hosting web applications",
+        "optionB": "Managing relational databases",
+        "optionC": "Providing DNS services",
+        "optionD": "Creating virtual networks",
+        "answer": "Managing relational databases"
+    },
+    {
+        "question": "What does Azure Monitor help you do?",
+        "optionA": "Track application performance",
+        "optionB": "Store large files",
+        "optionC": "Create virtual machines",
+        "optionD": "Manage identities",
+        "answer": "Track application performance"
+    },
+    {
+        "question": "Which Azure service is designed for scalable data analytics?",
+        "optionA": "Azure Synapse Analytics",
+        "optionB": "Azure Blob Storage",
+        "optionC": "Azure App Service",
+        "optionD": "Azure Functions",
+        "answer": "Azure Synapse Analytics"
+    },
+    {
+        "question": "What is the purpose of Azure Logic Apps?",
+        "optionA": "Automating workflows and integrating services",
+        "optionB": "Hosting static websites",
+        "optionC": "Managing virtual machines",
+        "optionD": "Storing unstructured data",
+        "answer": "Automating workflows and integrating services"
+    },
+    {
+        "question": "Which service provides a platform for deploying web apps in Azure?",
+        "optionA": "Azure App Service",
+        "optionB": "Azure Functions",
+        "optionC": "Azure Blob Storage",
+        "optionD": "Azure SQL Database",
+        "answer": "Azure App Service"
+    },
+    {
+        "question": "What does Azure DevOps provide?",
+        "optionA": "Tools for CI/CD pipelines",
+        "optionB": "Cloud storage for large files",
+        "optionC": "Serverless computing",
+        "optionD": "Database hosting",
+        "answer": "Tools for CI/CD pipelines"
+    },
+    {
+        "question": "Which Azure service is used for content delivery?",
+        "optionA": "Azure Content Delivery Network (CDN)",
+        "optionB": "Azure Functions",
+        "optionC": "Azure Kubernetes Service",
+        "optionD": "Azure SQL Database",
+        "answer": "Azure Content Delivery Network (CDN)"
+    },
+    {
+        "question": "What is the primary use of Azure Virtual Network?",
+        "optionA": "Creating isolated networks in the cloud",
+        "optionB": "Hosting web applications",
+        "optionC": "Data analytics",
+        "optionD": "Monitoring application performance",
+        "answer": "Creating isolated networks in the cloud"
+    },
+    {
+        "question": "Which Azure service is used for machine learning?",
+        "optionA": "Azure Machine Learning",
+        "optionB": "Azure Kubernetes Service",
+        "optionC": "Azure Blob Storage",
+        "optionD": "Azure Virtual Machines",
+        "answer": "Azure Machine Learning"
+    },
+    {
+        "question": "What does Azure Security Center provide?",
+        "optionA": "Unified security management",
+        "optionB": "Data backup services",
+        "optionC": "Web hosting capabilities",
+        "optionD": "Container orchestration",
+        "answer": "Unified security management"
+    },
+    {
+        "question": "What is the function of Azure Backup?",
+        "optionA": "Data backup and recovery",
+        "optionB": "Hosting web applications",
+        "optionC": "Managing containers",
+        "optionD": "Monitoring application performance",
+        "answer": "Data backup and recovery"
+    },
+    {
+        "question": "Which service in Azure is used for event-driven workflows?",
+        "optionA": "Azure Event Grid",
+        "optionB": "Azure Monitor",
+        "optionC": "Azure App Service",
+        "optionD": "Azure SQL Database",
+        "answer": "Azure Event Grid"
+    },
+    {
+        "question": "What does Azure Policy help enforce?",
+        "optionA": "Compliance with organizational standards",
+        "optionB": "Data analytics",
+        "optionC": "Database queries",
+        "optionD": "Serverless architecture",
+        "answer": "Compliance with organizational standards"
+    },
+    {
+        "question": "Which Azure service is used for real-time data streaming?",
+        "optionA": "Azure Stream Analytics",
+        "optionB": "Azure Blob Storage",
+        "optionC": "Azure Kubernetes Service",
+        "optionD": "Azure Functions",
+        "answer": "Azure Stream Analytics"
+    },
+    {
+        "question": "What is the purpose of Azure Cosmos DB?",
+        "optionA": "Globally distributed, multi-model database service",
+        "optionB": "Hosting web applications",
+        "optionC": "Providing DNS services",
+        "optionD": "Monitoring applications",
+        "answer": "Globally distributed, multi-model database service"
+    },
+    {
+        "question": "Which Azure service is used for hybrid cloud solutions?",
+        "optionA": "Azure Arc",
+        "optionB": "Azure Virtual Machines",
+        "optionC": "Azure DevOps",
+        "optionD": "Azure SQL Database",
+        "answer": "Azure Arc"
+    },
+    {
+        "question": "What does Azure Load Balancer provide?",
+        "optionA": "Distributing network traffic across resources",
+        "optionB": "Data backup services",
+        "optionC": "Machine learning capabilities",
+        "optionD": "Identity management",
+        "answer": "Distributing network traffic across resources"
+    },
+    {
+        "question": "What is the function of Azure Traffic Manager?",
+        "optionA": "Routing traffic based on DNS",
+        "optionB": "Hosting containerized applications",
+        "optionC": "Monitoring application performance",
+        "optionD": "Managing compliance policies",
+        "answer": "Routing traffic based on DNS"
+    },
+    {
+        "question": "What does Azure Resource Manager (ARM) provide?",
+        "optionA": "Infrastructure management through templates",
+        "optionB": "Data analytics",
+        "optionC": "Virtual machine hosting",
+        "optionD": "Real-time streaming",
+        "answer": "Infrastructure management through templates"
+    },
+    {
+        "question": "Which Azure service is used for data warehousing?",
+        "optionA": "Azure Synapse Analytics",
+        "optionB": "Azure Blob Storage",
+        "optionC": "Azure App Service",
+        "optionD": "Azure Virtual Machines",
+        "answer": "Azure Synapse Analytics"
+    },
+    {
+        "question": "What does Azure Data Factory enable?",
+        "optionA": "Data integration and ETL workflows",
+        "optionB": "Virtual machine hosting",
+        "optionC": "Monitoring application performance",
+        "optionD": "Identity management",
+        "answer": "Data integration and ETL workflows"
+    },
+    {
+        "question": "What is the purpose of Azure Key Vault?",
+        "optionA": "Storing and managing secrets and keys",
+        "optionB": "Hosting web applications",
+        "optionC": "Monitoring resource usage",
+        "optionD": "Data warehousing",
+        "answer": "Storing and managing secrets and keys"
+    },
+    {
+        "question": "What does Azure Cognitive Services provide?",
+        "optionA": "AI and machine learning capabilities",
+        "optionB": "Database management",
+        "optionC": "Web hosting services",
+        "optionD": "Container orchestration",
+        "answer": "AI and machine learning capabilities"
+    },
+    {
+        "question": "Which Azure service is best for managing API gateways?",
+        "optionA": "Azure API Management",
+        "optionB": "Azure Kubernetes Service",
+        "optionC": "Azure Functions",
+        "optionD": "Azure Monitor",
+        "answer": "Azure API Management"
+    },
+    {
+        "question": "What is the purpose of Azure Bastion?",
+        "optionA": "Secure RDP and SSH access to virtual machines",
+        "optionB": "Hosting static websites",
+        "optionC": "Data backup",
+        "optionD": "Monitoring resource performance",
+        "answer": "Secure RDP and SSH access to virtual machines"
+    },
+    {
+        "question": "What does Azure Event Hubs enable?",
+        "optionA": "Real-time data ingestion",
+        "optionB": "Web application hosting",
+        "optionC": "Identity management",
+        "optionD": "Creating virtual networks",
+        "answer": "Real-time data ingestion"
+    },
+    {
+        "question": "What is the main purpose of Azure Advisor?",
+        "optionA": "Providing recommendations to optimize resources",
+        "optionB": "Hosting virtual machines",
+        "optionC": "Data backup and recovery",
+        "optionD": "Creating virtual networks",
+        "answer": "Providing recommendations to optimize resources"
+    },
+    {
+        "question": "Which Azure service is used for scaling applications automatically?",
+        "optionA": "Azure Autoscale",
+        "optionB": "Azure App Service",
+        "optionC": "Azure Kubernetes Service",
+        "optionD": "Azure Blob Storage",
+        "answer": "Azure Autoscale"
+    },
+    {
+        "question": "What does Azure Sentinel provide?",
+        "optionA": "Cloud-native SIEM and threat detection",
+        "optionB": "Data analytics",
+        "optionC": "Serverless computing",
+        "optionD": "Web hosting services",
+        "answer": "Cloud-native SIEM and threat detection"
+    },
+    {
+        "question": "Which Azure service is used for building chatbots?",
+        "optionA": "Azure Bot Service",
+        "optionB": "Azure Machine Learning",
+        "optionC": "Azure Logic Apps",
+        "optionD": "Azure SQL Database",
+        "answer": "Azure Bot Service"
+    },
+    {
+        "question": "What does Azure Data Lake Store provide?",
+        "optionA": "Storage for big data analytics",
+        "optionB": "Virtual machine hosting",
+        "optionC": "Serverless computing",
+        "optionD": "Data backup and recovery",
+        "answer": "Storage for big data analytics"
+    },
+    {
+        "question": "What is Azure CDN used for?",
+        "optionA": "Delivering content with low latency",
+        "optionB": "Hosting virtual machines",
+        "optionC": "Database management",
+        "optionD": "Identity management",
+        "answer": "Delivering content with low latency"
+    },
+    {
+        "question": "Which Azure service enables blockchain solutions?",
+        "optionA": "Azure Blockchain Service",
+        "optionB": "Azure DevOps",
+        "optionC": "Azure SQL Database",
+        "optionD": "Azure Functions",
+        "answer": "Azure Blockchain Service"
+    },
+    {
+        "question": "What is the purpose of Azure Traffic Analytics?",
+        "optionA": "Analyzing network traffic flow",
+        "optionB": "Hosting web applications",
+        "optionC": "Creating virtual machines",
+        "optionD": "Data integration",
+        "answer": "Analyzing network traffic flow"
+    },
+    {
+        "question": "What does Azure File Storage provide?",
+        "optionA": "Managed file shares in the cloud",
+        "optionB": "Data backup services",
+        "optionC": "Web hosting capabilities",
+        "optionD": "Serverless computing",
+        "answer": "Managed file shares in the cloud"
+    },
+    {
+        "question": "Which Azure service is used for edge computing?",
+        "optionA": "Azure IoT Edge",
+        "optionB": "Azure Virtual Machines",
+        "optionC": "Azure Functions",
+        "optionD": "Azure Monitor",
+        "answer": "Azure IoT Edge"
+    },
+    {
+        "question": "What is the function of Azure Cost Management?",
+        "optionA": "Monitoring and controlling cloud spending",
+        "optionB": "Hosting virtual machines",
+        "optionC": "Building chatbots",
+        "optionD": "Creating virtual networks",
+        "answer": "Monitoring and controlling cloud spending"
+    },
+    {
+        "question": "What is the main use of Azure Data Explorer?",
+        "optionA": "Fast data exploration and analytics",
+        "optionB": "Hosting web applications",
+        "optionC": "Managing virtual machines",
+        "optionD": "Creating APIs",
+        "answer": "Fast data exploration and analytics"
+    },
+    {
+        "question": "Which Azure service is best for managing hybrid identities?",
+        "optionA": "Azure AD Connect",
+        "optionB": "Azure Monitor",
+        "optionC": "Azure Blob Storage",
+        "optionD": "Azure Kubernetes Service",
+        "answer": "Azure AD Connect"
+    },
+    {
+        "question": "What does Azure Virtual WAN provide?",
+        "optionA": "Networking for branch-to-branch and branch-to-Azure connectivity",
+        "optionB": "Web application hosting",
+        "optionC": "Data analytics",
+        "optionD": "Monitoring virtual machines",
+        "answer": "Networking for branch-to-branch and branch-to-Azure connectivity"
+    },
+    {
+        "question": "What is the purpose of Azure Blueprints?",
+        "optionA": "Defining repeatable environments",
+        "optionB": "Managing virtual machines",
+        "optionC": "Hosting databases",
+        "optionD": "Delivering content",
+        "answer": "Defining repeatable environments"
+    },
+    {
+        "question": "Which Azure service is used for real-time notifications?",
+        "optionA": "Azure Notification Hubs",
+        "optionB": "Azure Functions",
+        "optionC": "Azure SQL Database",
+        "optionD": "Azure Monitor",
+        "answer": "Azure Notification Hubs"
+    },
+    {
+        "question": "What does Azure Service Bus provide?",
+        "optionA": "Messaging and communication between applications",
+        "optionB": "Data storage",
+        "optionC": "Web hosting",
+        "optionD": "Monitoring resources",
+        "answer": "Messaging and communication between applications"
+    },
+    {
+        "question": "What is the main use of Azure Disk Storage?",
+        "optionA": "Providing high-performance storage for virtual machines",
+        "optionB": "Delivering content with low latency",
+        "optionC": "Building serverless applications",
+        "optionD": "Data analytics",
+        "answer": "Providing high-performance storage for virtual machines"
+    },
+    {
+        "question": "Which Azure service is used for application insights?",
+        "optionA": "Azure Application Insights",
+        "optionB": "Azure Blob Storage",
+        "optionC": "Azure Kubernetes Service",
+        "optionD": "Azure DevOps",
+        "answer": "Azure Application Insights"
+    },
+    {
+        "question": "What does Azure Firewall provide?",
+        "optionA": "Network security and traffic filtering",
+        "optionB": "Serverless computing",
+        "optionC": "Data analytics",
+        "optionD": "Content delivery",
+        "answer": "Network security and traffic filtering"
+    },
+    {
+        "question": "What is the purpose of Azure Maps?",
+        "optionA": "Providing geospatial data and mapping services",
+        "optionB": "Hosting virtual machines",
+        "optionC": "Data analytics",
+        "optionD": "Monitoring resource usage",
+        "answer": "Providing geospatial data and mapping services"
+    },
+    {
+        "question": "What does Azure Lighthouse enable?",
+        "optionA": "Managing multiple Azure tenants",
+        "optionB": "Hosting web applications",
+        "optionC": "Data storage",
+        "optionD": "Creating APIs",
+        "answer": "Managing multiple Azure tenants"
+    },
+    {
+        "question": "Which Azure service is best for IoT device management?",
+        "optionA": "Azure IoT Hub",
+        "optionB": "Azure Functions",
+        "optionC": "Azure SQL Database",
+        "optionD": "Azure Logic Apps",
+        "answer": "Azure IoT Hub"
+    },
+    {
+        "question": "What is the function of Azure Automation?",
+        "optionA": "Automating tasks and processes",
+        "optionB": "Hosting containerized applications",
+        "optionC": "Monitoring application performance",
+        "optionD": "Providing DNS services",
+        "answer": "Automating tasks and processes"
+    },
+    {
+        "question": "Which Azure service is used for data governance?",
+        "optionA": "Azure Purview",
+        "optionB": "Azure Monitor",
+        "optionC": "Azure App Service",
+        "optionD": "Azure DevOps",
+        "answer": "Azure Purview"
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "question": "What is Google Cloud Platform (GCP) primarily used for?",
+        "optionA": "Cloud computing services",
+        "optionB": "Operating system development",
+        "optionC": "Hardware manufacturing",
+        "optionD": "Mobile app development",
+        "answer": "Cloud computing services"
+    },
+    {
+        "question": "Which GCP service is used for hosting virtual machines?",
+        "optionA": "Compute Engine",
+        "optionB": "App Engine",
+        "optionC": "Kubernetes Engine",
+        "optionD": "Cloud Functions",
+        "answer": "Compute Engine"
+    },
+    {
+        "question": "What is the purpose of Google Cloud Storage?",
+        "optionA": "Storing unstructured data",
+        "optionB": "Hosting websites",
+        "optionC": "Managing DNS services",
+        "optionD": "Running containerized applications",
+        "answer": "Storing unstructured data"
+    },
+    {
+        "question": "Which GCP service is used for serverless computing?",
+        "optionA": "Cloud Functions",
+        "optionB": "Compute Engine",
+        "optionC": "BigQuery",
+        "optionD": "Cloud Storage",
+        "answer": "Cloud Functions"
+    },
+    {
+        "question": "What does Google Kubernetes Engine (GKE) provide?",
+        "optionA": "Container orchestration",
+        "optionB": "Database management",
+        "optionC": "Virtual machine hosting",
+        "optionD": "Data warehousing",
+        "answer": "Container orchestration"
+    },
+    {
+        "question": "Which GCP service is designed for scalable data analytics?",
+        "optionA": "BigQuery",
+        "optionB": "Cloud Storage",
+        "optionC": "Cloud Functions",
+        "optionD": "Compute Engine",
+        "answer": "BigQuery"
+    },
+    {
+        "question": "What is the purpose of Google Cloud Pub/Sub?",
+        "optionA": "Messaging and event streaming",
+        "optionB": "Storing unstructured data",
+        "optionC": "Managing virtual machines",
+        "optionD": "Providing DNS services",
+        "answer": "Messaging and event streaming"
+    },
+    {
+        "question": "Which GCP service provides identity and access management?",
+        "optionA": "Cloud IAM",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "App Engine",
+        "answer": "Cloud IAM"
+    },
+    {
+        "question": "What is the function of Cloud Spanner?",
+        "optionA": "Globally distributed relational database service",
+        "optionB": "Hosting virtual machines",
+        "optionC": "Storing unstructured data",
+        "optionD": "Container orchestration",
+        "answer": "Globally distributed relational database service"
+    },
+    {
+        "question": "Which GCP service is used for creating and managing APIs?",
+        "optionA": "Apigee",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "Cloud Storage",
+        "answer": "Apigee"
+    },
+    {
+        "question": "What is the primary use of Cloud SQL?",
+        "optionA": "Managed relational database service",
+        "optionB": "Hosting containerized applications",
+        "optionC": "Data analytics",
+        "optionD": "Monitoring application performance",
+        "answer": "Managed relational database service"
+    },
+    {
+        "question": "Which GCP service is designed for real-time data streaming?",
+        "optionA": "Dataflow",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "Compute Engine",
+        "answer": "Dataflow"
+    },
+    {
+        "question": "What does Google Cloud Load Balancing provide?",
+        "optionA": "Distributing traffic across resources",
+        "optionB": "Data backup services",
+        "optionC": "Identity management",
+        "optionD": "Serverless computing",
+        "answer": "Distributing traffic across resources"
+    },
+    {
+        "question": "Which GCP service is used for machine learning?",
+        "optionA": "AI Platform",
+        "optionB": "Cloud Storage",
+        "optionC": "Cloud Functions",
+        "optionD": "Compute Engine",
+        "answer": "AI Platform"
+    },
+    {
+        "question": "What is the purpose of Cloud Monitoring?",
+        "optionA": "Tracking application performance",
+        "optionB": "Hosting static websites",
+        "optionC": "Data warehousing",
+        "optionD": "Creating virtual networks",
+        "answer": "Tracking application performance"
+    },
+    {
+        "question": "What does Cloud Run enable?",
+        "optionA": "Running containerized applications in a serverless environment",
+        "optionB": "Managing virtual machines",
+        "optionC": "Hosting relational databases",
+        "optionD": "Data integration",
+        "answer": "Running containerized applications in a serverless environment"
+    },
+    {
+        "question": "Which GCP service is used for data integration workflows?",
+        "optionA": "Data Fusion",
+        "optionB": "BigQuery",
+        "optionC": "Cloud Storage",
+        "optionD": "Compute Engine",
+        "answer": "Data Fusion"
+    },
+    {
+        "question": "What is the purpose of Cloud CDN?",
+        "optionA": "Content delivery network for faster data access",
+        "optionB": "Storing large files",
+        "optionC": "Creating virtual machines",
+        "optionD": "Managing APIs",
+        "answer": "Content delivery network for faster data access"
+    },
+    {
+        "question": "Which GCP service is used for compliance and security monitoring?",
+        "optionA": "Security Command Center",
+        "optionB": "Cloud Functions",
+        "optionC": "Cloud SQL",
+        "optionD": "BigQuery",
+        "answer": "Security Command Center"
+    },
+    {
+        "question": "What does Cloud Endpoints help manage?",
+        "optionA": "API gateways",
+        "optionB": "Virtual machine networks",
+        "optionC": "Data analytics",
+        "optionD": "Serverless functions",
+        "answer": "API gateways"
+    },
+    {
+        "question": "Which GCP service is used for hybrid cloud solutions?",
+        "optionA": "Anthos",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "Cloud Run",
+        "answer": "Anthos"
+    },
+    {
+        "question": "What does Google Cloud Interconnect provide?",
+        "optionA": "Dedicated network connections to GCP",
+        "optionB": "Data analytics",
+        "optionC": "Serverless computing",
+        "optionD": "Database hosting",
+        "answer": "Dedicated network connections to GCP"
+    },
+    {
+        "question": "Which GCP service is used for managing secrets and keys?",
+        "optionA": "Secret Manager",
+        "optionB": "Cloud Storage",
+        "optionC": "Cloud Functions",
+        "optionD": "Compute Engine",
+        "answer": "Secret Manager"
+    },
+    {
+        "question": "What does Google VPC (Virtual Private Cloud) enable?",
+        "optionA": "Creating isolated networks in the cloud",
+        "optionB": "Hosting web applications",
+        "optionC": "Data analytics",
+        "optionD": "Monitoring application performance",
+        "answer": "Creating isolated networks in the cloud"
+    },
+    {
+        "question": "Which GCP service provides tools for CI/CD pipelines?",
+        "optionA": "Cloud Build",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "Compute Engine",
+        "answer": "Cloud Build"
+    },
+    {
+        "question": "What is the primary purpose of Cloud Dataflow?",
+        "optionA": "Real-time and batch data processing",
+        "optionB": "Hosting virtual machines",
+        "optionC": "Managing containerized applications",
+        "optionD": "Storing unstructured data",
+        "answer": "Real-time and batch data processing"
+    },
+    {
+        "question": "Which GCP service provides managed NoSQL databases?",
+        "optionA": "Cloud Firestore",
+        "optionB": "Cloud SQL",
+        "optionC": "BigQuery",
+        "optionD": "Cloud Spanner",
+        "answer": "Cloud Firestore"
+    },
+    {
+        "question": "What is the purpose of Cloud Identity?",
+        "optionA": "Managing user identities and access",
+        "optionB": "Hosting web applications",
+        "optionC": "Providing data analytics",
+        "optionD": "Running containerized applications",
+        "answer": "Managing user identities and access"
+    },
+    {
+        "question": "Which GCP service is used for monitoring and logging?",
+        "optionA": "Cloud Operations Suite",
+        "optionB": "Cloud Functions",
+        "optionC": "Compute Engine",
+        "optionD": "Cloud SQL",
+        "answer": "Cloud Operations Suite"
+    },
+    {
+        "question": "What is the purpose of Google Cloud Marketplace?",
+        "optionA": "Accessing third-party software and services",
+        "optionB": "Storing large datasets",
+        "optionC": "Running machine learning models",
+        "optionD": "Creating virtual networks",
+        "answer": "Accessing third-party software and services"
+    },
+    {
+        "question": "Which GCP service provides DDoS protection?",
+        "optionA": "Cloud Armor",
+        "optionB": "Cloud Functions",
+        "optionC": "Cloud SQL",
+        "optionD": "BigQuery",
+        "answer": "Cloud Armor"
+    },
+    {
+        "question": "What is the main use of Cloud Dataproc?",
+        "optionA": "Running Apache Hadoop and Spark workloads",
+        "optionB": "Hosting containerized applications",
+        "optionC": "Managing relational databases",
+        "optionD": "Monitoring application performance",
+        "answer": "Running Apache Hadoop and Spark workloads"
+    },
+    {
+        "question": "Which GCP service allows you to run Windows-based workloads?",
+        "optionA": "Compute Engine",
+        "optionB": "Cloud Functions",
+        "optionC": "Cloud Run",
+        "optionD": "BigQuery",
+        "answer": "Compute Engine"
+    },
+    {
+        "question": "What is the purpose of Cloud Healthcare API?",
+        "optionA": "Managing and analyzing healthcare data",
+        "optionB": "Storing unstructured data",
+        "optionC": "Running serverless applications",
+        "optionD": "Orchestrating containers",
+        "answer": "Managing and analyzing healthcare data"
+    },
+    {
+        "question": "Which GCP service is designed for building conversational interfaces?",
+        "optionA": "Dialogflow",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "Cloud SQL",
+        "answer": "Dialogflow"
+    },
+    {
+        "question": "What does Cloud Trace help with?",
+        "optionA": "Performance analysis and tracing for applications",
+        "optionB": "Managing APIs",
+        "optionC": "Storing logs",
+        "optionD": "Orchestrating containers",
+        "answer": "Performance analysis and tracing for applications"
+    },
+    {
+        "question": "Which GCP service helps migrate databases to the cloud?",
+        "optionA": "Database Migration Service",
+        "optionB": "Cloud SQL",
+        "optionC": "Cloud Functions",
+        "optionD": "BigQuery",
+        "answer": "Database Migration Service"
+    },
+    {
+        "question": "What is the primary use of Cloud NAT?",
+        "optionA": "Providing internet access for private VMs",
+        "optionB": "Storing large datasets",
+        "optionC": "Running serverless applications",
+        "optionD": "Data integration",
+        "answer": "Providing internet access for private VMs"
+    },
+    {
+        "question": "Which GCP service provides predictive analytics for business data?",
+        "optionA": "Looker",
+        "optionB": "BigQuery",
+        "optionC": "Cloud Functions",
+        "optionD": "Cloud SQL",
+        "answer": "Looker"
+    },
+    {
+        "question": "What is the purpose of Cloud Scheduler?",
+        "optionA": "Scheduling jobs and tasks",
+        "optionB": "Hosting relational databases",
+        "optionC": "Managing containerized applications",
+        "optionD": "Providing DDoS protection",
+        "answer": "Scheduling jobs and tasks"
+    },
+    {
+        "question": "Which GCP service is used for managing encryption keys?",
+        "optionA": "Cloud Key Management Service (KMS)",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "Cloud Spanner",
+        "answer": "Cloud Key Management Service (KMS)"
+    },
+    {
+        "question": "What does Cloud Tasks enable?",
+        "optionA": "Managing asynchronous task execution",
+        "optionB": "Running virtual machines",
+        "optionC": "Data warehousing",
+        "optionD": "Container orchestration",
+        "answer": "Managing asynchronous task execution"
+    },
+    {
+        "question": "Which GCP service is used for image and video analysis?",
+        "optionA": "Cloud Vision API",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "Cloud SQL",
+        "answer": "Cloud Vision API"
+    },
+    {
+        "question": "What is the function of Memorystore?",
+        "optionA": "Managed Redis and Memcached services",
+        "optionB": "Storing large files",
+        "optionC": "Running containerized applications",
+        "optionD": "Providing DNS services",
+        "answer": "Managed Redis and Memcached services"
+    },
+    {
+        "question": "Which GCP service is used for logging and analysis?",
+        "optionA": "Cloud Logging",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "Cloud SQL",
+        "answer": "Cloud Logging"
+    },
+    {
+        "question": "What does Google Cloud VPN provide?",
+        "optionA": "Secure connectivity between on-premises and GCP",
+        "optionB": "Data analytics",
+        "optionC": "Serverless computing",
+        "optionD": "Database hosting",
+        "answer": "Secure connectivity between on-premises and GCP"
+    },
+    {
+        "question": "Which GCP service is used for deploying containerized applications? ",
+        "optionA": "Google Kubernetes Engine (GKE)",
+        "optionB": "Cloud SQL",
+        "optionC": "BigQuery",
+        "optionD": "Cloud Functions",
+        "answer": "Google Kubernetes Engine (GKE)"
+    },
+    {
+        "question": "What is the purpose of AI Hub in GCP?",
+        "optionA": "Sharing AI models and pipelines",
+        "optionB": "Storing large files",
+        "optionC": "Running relational databases",
+        "optionD": "Managing APIs",
+        "answer": "Sharing AI models and pipelines"
+    },
+    {
+        "question": "Which GCP service provides a fully managed analytics database?",
+        "optionA": "Bigtable",
+        "optionB": "Cloud SQL",
+        "optionC": "Compute Engine",
+        "optionD": "Cloud Functions",
+        "answer": "Bigtable"
+    },
+    {
+        "question": "What does GCP's Cloud Build enable?",
+        "optionA": "Continuous integration and delivery (CI/CD)",
+        "optionB": "Hosting virtual machines",
+        "optionC": "Data warehousing",
+        "optionD": "Running serverless applications",
+        "answer": "Continuous integration and delivery (CI/CD)"
+    },
+    {
+        "question": "Which GCP service is used for managing container clusters?",
+        "optionA": "Google Kubernetes Engine (GKE)",
+        "optionB": "Cloud Run",
+        "optionC": "Cloud SQL",
+        "optionD": "BigQuery",
+        "answer": "Google Kubernetes Engine (GKE)"
+    },
+    {
+        "question": "What is the purpose of Vertex AI?",
+        "optionA": "Building, training, and deploying machine learning models",
+        "optionB": "Hosting static websites",
+        "optionC": "Data integration workflows",
+        "optionD": "Monitoring application performance",
+        "answer": "Building, training, and deploying machine learning models"
+    },
+    {
+        "question": "Which GCP service provides scalable file storage?",
+        "optionA": "Filestore",
+        "optionB": "Cloud Storage",
+        "optionC": "BigQuery",
+        "optionD": "Cloud SQL",
+        "answer": "Filestore"
+    },
+    {
+        "question": "What is the function of Cloud DNS?",
+        "optionA": "Managing domain name system services",
+        "optionB": "Hosting containerized applications",
+        "optionC": "Storing unstructured data",
+        "optionD": "Providing DDoS protection",
+        "answer": "Managing domain name system services"
+    },
+    {
+        "question": "Which GCP service is designed for batch and stream processing?",
+        "optionA": "Dataflow",
+        "optionB": "Cloud Functions",
+        "optionC": "BigQuery",
+        "optionD": "Compute Engine",
+        "answer": "Dataflow"
+    }
+]

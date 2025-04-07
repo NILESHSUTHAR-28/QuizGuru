@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the primary goal of cryptography?",
+        "optionA": "To secure data",
+        "optionB": "To compress data",
+        "optionC": "To increase the speed of data transmission",
+        "optionD": "To reduce network traffic",
+        "answer": "To secure data"
+    },
+    {
+        "question": "Which cryptographic algorithm is widely used for securing web traffic?",
+        "optionA": "AES",
+        "optionB": "RSA",
+        "optionC": "SHA-256",
+        "optionD": "SSL/TLS",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "What is a symmetric key encryption?",
+        "optionA": "A system where the same key is used for both encryption and decryption",
+        "optionB": "A system where different keys are used for encryption and decryption",
+        "optionC": "A system that uses public and private keys",
+        "optionD": "A system that uses hashing for encryption",
+        "answer": "A system where the same key is used for both encryption and decryption"
+    },
+    {
+        "question": "Which of the following is an example of asymmetric key encryption?",
+        "optionA": "AES",
+        "optionB": "DES",
+        "optionC": "RSA",
+        "optionD": "Blowfish",
+        "answer": "RSA"
+    },
+    {
+        "question": "What is the primary purpose of a hash function in cryptography?",
+        "optionA": "To encrypt data",
+        "optionB": "To generate a fixed-size output from variable-size input",
+        "optionC": "To decrypt data",
+        "optionD": "To manage encryption keys",
+        "answer": "To generate a fixed-size output from variable-size input"
+    },
+    {
+        "question": "Which of the following is a widely used hash function?",
+        "optionA": "SHA-256",
+        "optionB": "RSA",
+        "optionC": "AES",
+        "optionD": "Blowfish",
+        "answer": "SHA-256"
+    },
+    {
+        "question": "What is a digital signature?",
+        "optionA": "A form of encryption",
+        "optionB": "A method of verifying the authenticity of a message",
+        "optionC": "A type of cryptographic key",
+        "optionD": "A hash function used for encryption",
+        "answer": "A method of verifying the authenticity of a message"
+    },
+    {
+        "question": "Which cryptographic protocol is used to secure email communications?",
+        "optionA": "SSL/TLS",
+        "optionB": "PGP",
+        "optionC": "AES",
+        "optionD": "RSA",
+        "answer": "PGP"
+    },
+    {
+        "question": "What is the function of the public key in asymmetric encryption?",
+        "optionA": "It is used for decryption",
+        "optionB": "It is used for encryption",
+        "optionC": "It is used for both encryption and decryption",
+        "optionD": "It is used to generate the private key",
+        "answer": "It is used for encryption"
+    },
+    {
+        "question": "Which of the following is an example of a block cipher?",
+        "optionA": "RSA",
+        "optionB": "AES",
+        "optionC": "SHA-256",
+        "optionD": "Diffie-Hellman",
+        "answer": "AES"
+    },
+    {
+        "question": "What does the term 'salt' refer to in cryptography?",
+        "optionA": "A type of encryption algorithm",
+        "optionB": "A random value added to a password before hashing",
+        "optionC": "A public key used in encryption",
+        "optionD": "A type of digital signature",
+        "answer": "A random value added to a password before hashing"
+    },
+    {
+        "question": "What is the primary purpose of the Diffie-Hellman key exchange algorithm?",
+        "optionA": "To encrypt data",
+        "optionB": "To securely exchange encryption keys",
+        "optionC": "To hash passwords",
+        "optionD": "To authenticate users",
+        "answer": "To securely exchange encryption keys"
+    },
+    {
+        "question": "Which of the following is a widely used asymmetric encryption algorithm?",
+        "optionA": "AES",
+        "optionB": "RSA",
+        "optionC": "Blowfish",
+        "optionD": "DES",
+        "answer": "RSA"
+    },
+    {
+        "question": "What is the purpose of a digital certificate in cryptography?",
+        "optionA": "To encrypt data",
+        "optionB": "To verify the authenticity of a public key",
+        "optionC": "To store encryption keys",
+        "optionD": "To monitor network traffic",
+        "answer": "To verify the authenticity of a public key"
+    },
+    {
+        "question": "Which of the following is an example of a public-key infrastructure (PKI) component?",
+        "optionA": "SSL certificate",
+        "optionB": "AES key",
+        "optionC": "Hash function",
+        "optionD": "Firewall",
+        "answer": "SSL certificate"
+    },
+    {
+        "question": "What does 'perfect forward secrecy' ensure in cryptographic communication?",
+        "optionA": "Keys are never reused",
+        "optionB": "Encryption keys are always public",
+        "optionC": "Encrypted data cannot be decrypted in the future, even if the private key is compromised",
+        "optionD": "Only authorized users can read encrypted data",
+        "answer": "Encrypted data cannot be decrypted in the future, even if the private key is compromised"
+    },
+    {
+        "question": "Which algorithm is used to ensure data integrity in cryptography?",
+        "optionA": "AES",
+        "optionB": "SHA-256",
+        "optionC": "RSA",
+        "optionD": "Diffie-Hellman",
+        "answer": "SHA-256"
+    },
+    {
+        "question": "What is the primary function of a public key in asymmetric cryptography?",
+        "optionA": "It is used for encryption",
+        "optionB": "It is used for decryption",
+        "optionC": "It is used for both encryption and decryption",
+        "optionD": "It is used to sign messages",
+        "answer": "It is used for encryption"
+    },
+    {
+        "question": "Which of the following is a feature of elliptic curve cryptography (ECC)?",
+        "optionA": "It uses larger keys than RSA for the same level of security",
+        "optionB": "It is faster than RSA with the same key length",
+        "optionC": "It uses a symmetric key system",
+        "optionD": "It is only used for hashing",
+        "answer": "It is faster than RSA with the same key length"
+    },
+    {
+        "question": "Which of the following best describes a brute-force attack?",
+        "optionA": "Guessing the encryption key by trying all possible combinations",
+        "optionB": "Intercepting and altering communication between two parties",
+        "optionC": "Exploiting a weakness in the algorithm",
+        "optionD": "Sending excessive traffic to a server",
+        "answer": "Guessing the encryption key by trying all possible combinations"
+    },
+    {
+        "question": "What does the term 'nonce' refer to in cryptographic protocols?",
+        "optionA": "A one-time random value used to prevent replay attacks",
+        "optionB": "A type of digital signature",
+        "optionC": "A hash value used in encryption",
+        "optionD": "A symmetric key used for encryption",
+        "answer": "A one-time random value used to prevent replay attacks"
+    },
+    {
+        "question": "Which cryptographic technique is commonly used for digital signatures?",
+        "optionA": "RSA",
+        "optionB": "AES",
+        "optionC": "SHA-256",
+        "optionD": "DES",
+        "answer": "RSA"
+    },
+    {
+        "question": "What is the main purpose of a certificate authority (CA) in public-key cryptography?",
+        "optionA": "To issue and verify digital certificates",
+        "optionB": "To encrypt data",
+        "optionC": "To hash passwords",
+        "optionD": "To perform key exchange",
+        "answer": "To issue and verify digital certificates"
+    },
+    {
+        "question": "Which cryptographic algorithm is used for securely transmitting secret keys over an insecure channel?",
+        "optionA": "RSA",
+        "optionB": "AES",
+        "optionC": "Diffie-Hellman",
+        "optionD": "SHA-256",
+        "answer": "Diffie-Hellman"
+    },
+    {
+        "question": "What is the main advantage of using elliptic curve cryptography (ECC) over RSA?",
+        "optionA": "ECC requires smaller key sizes for the same level of security",
+        "optionB": "ECC is faster than RSA",
+        "optionC": "ECC uses symmetric encryption",
+        "optionD": "ECC does not require a certificate authority",
+        "answer": "ECC requires smaller key sizes for the same level of security"
+    },
+    {
+        "question": "What is the main purpose of symmetric key encryption?",
+        "optionA": "To encrypt data using the same key for both encryption and decryption",
+        "optionB": "To encrypt data using two different keys",
+        "optionC": "To generate a digital signature",
+        "optionD": "To ensure data integrity",
+        "answer": "To encrypt data using the same key for both encryption and decryption"
+    },
+    {
+        "question": "Which of the following is a characteristic of a good cryptographic algorithm?",
+        "optionA": "It is easy to break",
+        "optionB": "It is computationally efficient and secure",
+        "optionC": "It uses very large keys only",
+        "optionD": "It uses a public key for both encryption and decryption",
+        "answer": "It is computationally efficient and secure"
+    },
+    {
+        "question": "What is the purpose of a key exchange algorithm?",
+        "optionA": "To securely share encryption keys between two parties",
+        "optionB": "To encrypt data using a public key",
+        "optionC": "To hash passwords",
+        "optionD": "To generate random keys",
+        "answer": "To securely share encryption keys between two parties"
+    },
+    {
+        "question": "Which of the following is an example of a stream cipher?",
+        "optionA": "AES",
+        "optionB": "RC4",
+        "optionC": "RSA",
+        "optionD": "Blowfish",
+        "answer": "RC4"
+    },
+    {
+        "question": "Which cryptographic method is used to protect the integrity of data during transmission?",
+        "optionA": "Encryption",
+        "optionB": "Hashing",
+        "optionC": "Digital signatures",
+        "optionD": "Compression",
+        "answer": "Hashing"
+    },
+    {
+        "question": "What is the main advantage of using public key cryptography?",
+        "optionA": "It does not require a key exchange",
+        "optionB": "It provides encryption and authentication",
+        "optionC": "It is faster than symmetric encryption",
+        "optionD": "It is easier to break",
+        "answer": "It provides encryption and authentication"
+    },
+    {
+        "question": "What is the main goal of a man-in-the-middle attack?",
+        "optionA": "To decrypt the data without the key",
+        "optionB": "To intercept and alter communication between two parties",
+        "optionC": "To encrypt data without the key",
+        "optionD": "To generate digital certificates",
+        "answer": "To intercept and alter communication between two parties"
+    },
+    {
+        "question": "Which of the following is a widely used algorithm for digital signatures?",
+        "optionA": "AES",
+        "optionB": "RSA",
+        "optionC": "SHA-256",
+        "optionD": "Blowfish",
+        "answer": "RSA"
+    },
+    {
+        "question": "What is the primary function of the Diffie-Hellman algorithm?",
+        "optionA": "To encrypt data",
+        "optionB": "To securely exchange keys over an insecure channel",
+        "optionC": "To hash passwords",
+        "optionD": "To perform digital signature generation",
+        "answer": "To securely exchange keys over an insecure channel"
+    },
+    {
+        "question": "What is the purpose of a certificate revocation list (CRL)?",
+        "optionA": "To store public keys",
+        "optionB": "To list revoked digital certificates",
+        "optionC": "To encrypt data",
+        "optionD": "To generate encryption keys",
+        "answer": "To list revoked digital certificates"
+    },
+    {
+        "question": "Which of the following is a key advantage of elliptic curve cryptography (ECC) over RSA?",
+        "optionA": "It is more computationally expensive",
+        "optionB": "It uses smaller key sizes for the same level of security",
+        "optionC": "It is less secure than RSA",
+        "optionD": "It is easier to implement",
+        "answer": "It uses smaller key sizes for the same level of security"
+    },
+    {
+        "question": "What is the primary purpose of a hash function in digital signatures?",
+        "optionA": "To encrypt the message",
+        "optionB": "To generate a fixed-size hash value of the message",
+        "optionC": "To sign the message with a private key",
+        "optionD": "To decrypt the message",
+        "answer": "To generate a fixed-size hash value of the message"
+    },
+    {
+        "question": "Which of the following is a vulnerability of RSA encryption?",
+        "optionA": "It is susceptible to brute-force attacks",
+        "optionB": "It can be broken by quantum computers",
+        "optionC": "It is slower than symmetric encryption",
+        "optionD": "It uses too large of a key size",
+        "answer": "It can be broken by quantum computers"
+    },
+    {
+        "question": "What is the primary function of the public key in asymmetric encryption?",
+        "optionA": "It is used to decrypt messages",
+        "optionB": "It is used to encrypt messages",
+        "optionC": "It is used to generate a digital signature",
+        "optionD": "It is used to generate a symmetric key",
+        "answer": "It is used to encrypt messages"
+    },
+    {
+        "question": "Which of the following cryptographic methods is used to verify the integrity of a message?",
+        "optionA": "Symmetric encryption",
+        "optionB": "Hashing",
+        "optionC": "Asymmetric encryption",
+        "optionD": "Compression",
+        "answer": "Hashing"
+    },
+    {
+        "question": "What does the term 'key escrow' refer to in cryptography?",
+        "optionA": "The practice of storing encryption keys in a secure location",
+        "optionB": "The process of generating encryption keys",
+        "optionC": "The process of exchanging keys over an insecure channel",
+        "optionD": "The practice of using the same key for encryption and decryption",
+        "answer": "The practice of storing encryption keys in a secure location"
+    },
+    {
+        "question": "Which cryptographic algorithm is commonly used for securing email messages?",
+        "optionA": "RSA",
+        "optionB": "AES",
+        "optionC": "PGP",
+        "optionD": "SHA-256",
+        "answer": "PGP"
+    },
+    {
+        "question": "What is the primary advantage of using a hybrid cryptosystem?",
+        "optionA": "It uses both symmetric and asymmetric encryption",
+        "optionB": "It is easier to break",
+        "optionC": "It only uses symmetric encryption",
+        "optionD": "It does not require key exchange",
+        "answer": "It uses both symmetric and asymmetric encryption"
+    },
+    {
+        "question": "Which of the following is a feature of the RSA algorithm?",
+        "optionA": "It uses symmetric key encryption",
+        "optionB": "It uses a pair of public and private keys",
+        "optionC": "It is used only for hashing",
+        "optionD": "It is faster than symmetric encryption",
+        "answer": "It uses a pair of public and private keys"
+    },
+    {
+        "question": "What is the primary function of the private key in asymmetric encryption?",
+        "optionA": "It is used to encrypt messages",
+        "optionB": "It is used to decrypt messages",
+        "optionC": "It is used to generate a digital signature",
+        "optionD": "It is used to generate a symmetric key",
+        "answer": "It is used to decrypt messages"
+    },
+    {
+        "question": "What is the purpose of the RSA algorithm?",
+        "optionA": "To encrypt data using a shared key",
+        "optionB": "To encrypt data using a pair of public and private keys",
+        "optionC": "To generate a fixed-size hash value of the message",
+        "optionD": "To perform key exchange",
+        "answer": "To encrypt data using a pair of public and private keys"
+    },
+    {
+        "question": "What is the purpose of a nonce in cryptographic protocols?",
+        "optionA": "To generate a public key",
+        "optionB": "To prevent replay attacks",
+        "optionC": "To encrypt data",
+        "optionD": "To perform digital signature generation",
+        "answer": "To prevent replay attacks"
+    },
+    {
+        "question": "Which of the following is a key component of a public key infrastructure (PKI)?",
+        "optionA": "Public key certificates",
+        "optionB": "Symmetric encryption keys",
+        "optionC": "Firewalls",
+        "optionD": "Digital signatures",
+        "answer": "Public key certificates"
+    },
+    {
+        "question": "What does the term 'forward secrecy' refer to in cryptographic protocols?",
+        "optionA": "Encryption keys are reused for multiple sessions",
+        "optionB": "Future communication cannot be decrypted even if the private key is compromised",
+        "optionC": "Public keys are always available",
+        "optionD": "Encryption keys are shared between all parties",
+        "answer": "Future communication cannot be decrypted even if the private key is compromised"
+    },
+    {
+        "question": "What is the primary purpose of a digital certificate?",
+        "optionA": "To verify the authenticity of a public key",
+        "optionB": "To encrypt data",
+        "optionC": "To hash passwords",
+        "optionD": "To store encryption keys",
+        "answer": "To verify the authenticity of a public key"
+    }
+]

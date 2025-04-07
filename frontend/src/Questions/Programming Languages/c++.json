@@ -1,0 +1,410 @@
+[
+    {
+        "question": "Which of the following is the correct syntax to declare a variable in C++?",
+        "optionA": "int var;",
+        "optionB": "variable int;",
+        "optionC": "declare int var;",
+        "optionD": "int: var;",
+        "answer": "int var;"
+    },
+    {
+        "question": "What is the size of an int data type in C++?",
+        "optionA": "2 bytes",
+        "optionB": "4 bytes",
+        "optionC": "8 bytes",
+        "optionD": "Depends on the system",
+        "answer": "Depends on the system"
+    },
+    {
+        "question": "Which of the following is used to define a constant in C++?",
+        "optionA": "#constant",
+        "optionB": "const",
+        "optionC": "define constant",
+        "optionD": "let",
+        "answer": "const"
+    },
+    {
+        "question": "What will be the output of the following code?\nint a = 5;\ncout << a++;",
+        "optionA": "5",
+        "optionB": "6",
+        "optionC": "Error",
+        "optionD": "Undefined",
+        "answer": "5"
+    },
+    {
+        "question": "What is the correct way to declare a pointer in C++?",
+        "optionA": "int* ptr;",
+        "optionB": "pointer int ptr;",
+        "optionC": "int ptr*;",
+        "optionD": "int ptr&;",
+        "answer": "int* ptr;"
+    },
+    {
+        "question": "Which header file is used for input and output operations in C++?",
+        "optionA": "<iostream>",
+        "optionB": "<stdio.h>",
+        "optionC": "<input.h>",
+        "optionD": "<output.h>",
+        "answer": "<iostream>"
+    },
+    {
+        "question": "Which of the following correctly creates an object of a class?",
+        "optionA": "Class obj;",
+        "optionB": "object Class;",
+        "optionC": "Class(object);",
+        "optionD": "obj Class;",
+        "answer": "Class obj;"
+    },
+    {
+        "question": "What is the purpose of the 'new' keyword in C++?",
+        "optionA": "To create a new function",
+        "optionB": "To allocate memory dynamically",
+        "optionC": "To declare a variable",
+        "optionD": "To create a namespace",
+        "answer": "To allocate memory dynamically"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a for loop in C++?",
+        "optionA": "for (int i = 0; i < 10; i++)",
+        "optionB": "for i = 0 to 10",
+        "optionC": "for (i : range(10))",
+        "optionD": "for (int i = 0; i < 10; i += 1)",
+        "answer": "for (int i = 0; i < 10; i++)"
+    },
+    {
+        "question": "What does the following code snippet do?\nint arr[5] = {1, 2, 3, 4, 5};\ncout << arr[2];",
+        "optionA": "Prints 1",
+        "optionB": "Prints 2",
+        "optionC": "Prints 3",
+        "optionD": "Prints 4",
+        "answer": "Prints 3"
+    },
+    {
+        "question": "Which of the following is the correct way to overload an operator in C++?",
+        "optionA": "void operator+();",
+        "optionB": "operator+();",
+        "optionC": "int operator+();",
+        "optionD": "operator int+();",
+        "answer": "int operator+();"
+    },
+    {
+        "question": "What is the output of the following code?\ncout << sizeof(char);",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "4",
+        "optionD": "8",
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following is not a valid access specifier in C++?",
+        "optionA": "private",
+        "optionB": "protected",
+        "optionC": "public",
+        "optionD": "global",
+        "answer": "global"
+    },
+    {
+        "question": "What is the purpose of a destructor in C++?",
+        "optionA": "To initialize an object",
+        "optionB": "To destroy an object",
+        "optionC": "To allocate memory",
+        "optionD": "To deallocate memory",
+        "answer": "To deallocate memory"
+    },
+    {
+        "question": "Which keyword is used to prevent a function from being overridden in C++?",
+        "optionA": "final",
+        "optionB": "override",
+        "optionC": "sealed",
+        "optionD": "const",
+        "answer": "final"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 5;\nint y = ++x;\ncout << y;",
+        "optionA": "5",
+        "optionB": "6",
+        "optionC": "Error",
+        "optionD": "Undefined",
+        "answer": "6"
+    },
+    {
+        "question": "Which of the following is the correct way to create a reference in C++?",
+        "optionA": "int& ref = var;",
+        "optionB": "int ref = &var;",
+        "optionC": "ref int = var;",
+        "optionD": "int ref = var&;",
+        "answer": "int& ref = var;"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 10;\nint* ptr = &x;\ncout << *ptr;",
+        "optionA": "10",
+        "optionB": "Address of x",
+        "optionC": "Error",
+        "optionD": "Undefined",
+        "answer": "10"
+    },
+    {
+        "question": "Which of the following is the correct syntax to create a template function in C++?",
+        "optionA": "template <typename T> T func(T arg);",
+        "optionB": "template func(T arg);",
+        "optionC": "template T func(T arg);",
+        "optionD": "template <T> func(T arg);",
+        "answer": "template <typename T> T func(T arg);"
+    },
+    {
+        "question": "What is the purpose of the 'virtual' keyword in C++?",
+        "optionA": "To create a new class",
+        "optionB": "To make a function callable",
+        "optionC": "To allow function overriding",
+        "optionD": "To allocate memory",
+        "answer": "To allow function overriding"
+    },
+    {
+        "question": "What is the output of the following code?\nint a = 10, b = 20;\ncout << (a > b ? a : b);",
+        "optionA": "10",
+        "optionB": "20",
+        "optionC": "Error",
+        "optionD": "Undefined",
+        "answer": "20"
+    },
+    {
+        "question": "Which of the following is not a feature of C++?",
+        "optionA": "Object-oriented",
+        "optionB": "Platform-dependent",
+        "optionC": "Multi-paradigm",
+        "optionD": "Memory management",
+        "answer": "Platform-dependent"
+    },
+    {
+        "question": "Which of the following is used to terminate a loop in C++?",
+        "optionA": "exit",
+        "optionB": "break",
+        "optionC": "terminate",
+        "optionD": "stop",
+        "answer": "break"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 5;\ncout << (x << 1);",
+        "optionA": "10",
+        "optionB": "15",
+        "optionC": "20",
+        "optionD": "5",
+        "answer": "10"
+    },
+    {
+        "question": "Which of the following is used to handle exceptions in C++?",
+        "optionA": "try-catch",
+        "optionB": "if-else",
+        "optionC": "switch-case",
+        "optionD": "goto",
+        "answer": "try-catch"
+    },
+    {
+        "question": "What is the purpose of the 'this' pointer in C++?",
+        "optionA": "To refer to the current object",
+        "optionB": "To refer to the base class",
+        "optionC": "To create a new object",
+        "optionD": "To destroy an object",
+        "answer": "To refer to the current object"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 5;\nx += 10;\ncout << x;",
+        "optionA": "5",
+        "optionB": "10",
+        "optionC": "15",
+        "optionD": "20",
+        "answer": "15"
+    },
+    {
+        "question": "Which of the following is a valid way to create an array in C++?",
+        "optionA": "int arr[5];",
+        "optionB": "int arr = {1, 2, 3, 4, 5};",
+        "optionC": "int[5] arr;",
+        "optionD": "array int arr[5];",
+        "answer": "int arr[5];"
+    },
+    {
+        "question": "What is the purpose of the 'friend' keyword in C++?",
+        "optionA": "To create a new class",
+        "optionB": "To allow a function to access private members of a class",
+        "optionC": "To create a pointer",
+        "optionD": "To initialize a variable",
+        "answer": "To allow a function to access private members of a class"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 10;\nx = x % 3;\ncout << x;",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "0",
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following is used to declare a class in C++?",
+        "optionA": "class ClassName;",
+        "optionB": "Class ClassName;",
+        "optionC": "declare class ClassName;",
+        "optionD": "object ClassName;",
+        "answer": "class ClassName;"
+    },
+    {
+        "question": "What is the purpose of the 'static' keyword in C++?",
+        "optionA": "To create a constant variable",
+        "optionB": "To create a variable shared among all objects",
+        "optionC": "To create a new object",
+        "optionD": "To define a namespace",
+        "answer": "To create a variable shared among all objects"
+    },
+    {
+        "question": "What is the output of the following code?\nint a = 5;\nint b = 10;\ncout << (a & b);",
+        "optionA": "0",
+        "optionB": "5",
+        "optionC": "10",
+        "optionD": "15",
+        "answer": "0"
+    },
+    {
+        "question": "Which of the following is used to inherit a class in C++?",
+        "optionA": "public class BaseClass",
+        "optionB": "class DerivedClass : public BaseClass",
+        "optionC": "class DerivedClass inherits BaseClass",
+        "optionD": "class DerivedClass extends BaseClass",
+        "answer": "class DerivedClass : public BaseClass"
+    },
+    {
+        "question": "What is the purpose of the 'override' keyword in C++?",
+        "optionA": "To prevent a function from being overridden",
+        "optionB": "To indicate that a function overrides a base class function",
+        "optionC": "To create a new function",
+        "optionD": "To define a namespace",
+        "answer": "To indicate that a function overrides a base class function"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 10;\ncout << (x >> 1);",
+        "optionA": "5",
+        "optionB": "10",
+        "optionC": "20",
+        "optionD": "0",
+        "answer": "5"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a while loop in C++?",
+        "optionA": "while (condition) { statements; }",
+        "optionB": "while condition { statements; }",
+        "optionC": "while (condition): statements;",
+        "optionD": "while {condition} (statements);",
+        "answer": "while (condition) { statements; }"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 5;\nint y = 10;\ncout << (x | y);",
+        "optionA": "5",
+        "optionB": "10",
+        "optionC": "15",
+        "optionD": "0",
+        "answer": "15"
+    },
+    {
+        "question": "Which of the following is used to define a namespace in C++?",
+        "optionA": "namespace Name { }",
+        "optionB": "namespace = Name { }",
+        "optionC": "namespace: Name { }",
+        "optionD": "namespace { Name }",
+        "answer": "namespace Name { }"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 10;\nx /= 2;\ncout << x;",
+        "optionA": "5",
+        "optionB": "10",
+        "optionC": "20",
+        "optionD": "2",
+        "answer": "5"
+    },
+    {
+        "question": "Which of the following is used to create a thread in C++?",
+        "optionA": "std::thread",
+        "optionB": "std::mutex",
+        "optionC": "std::atomic",
+        "optionD": "std::lock_guard",
+        "answer": "std::thread"
+    },
+    {
+        "question": "Which of the following is a valid way to initialize an array in C++?",
+        "optionA": "int arr[3] = {1, 2, 3};",
+        "optionB": "int arr = [1, 2, 3];",
+        "optionC": "int arr(3) = {1, 2, 3};",
+        "optionD": "int arr[3](1, 2, 3);",
+        "answer": "int arr[3] = {1, 2, 3};"
+    },
+    {
+        "question": "What is the purpose of the 'mutable' keyword in C++?",
+        "optionA": "To allow a variable to be modified in a const function",
+        "optionB": "To declare a constant variable",
+        "optionC": "To create a thread-safe variable",
+        "optionD": "To define a namespace",
+        "answer": "To allow a variable to be modified in a const function"
+    },
+    {
+        "question": "Which of the following operators cannot be overloaded in C++?",
+        "optionA": "+",
+        "optionB": "::",
+        "optionC": "[]",
+        "optionD": "->",
+        "answer": "::"
+    },
+    {
+        "question": "What does the keyword 'explicit' do in C++?",
+        "optionA": "Prevents implicit conversions",
+        "optionB": "Allows function overriding",
+        "optionC": "Declares a pure virtual function",
+        "optionD": "Specifies a default constructor",
+        "answer": "Prevents implicit conversions"
+    },
+    {
+        "question": "Which of the following correctly declares a function pointer in C++?",
+        "optionA": "int (*funcPtr)(int, int);",
+        "optionB": "int funcPtr(int, int);",
+        "optionC": "int *(funcPtr)(int, int);",
+        "optionD": "funcPtr int(int, int);",
+        "answer": "int (*funcPtr)(int, int);"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 5;\ncout << x * x++;",
+        "optionA": "25",
+        "optionB": "30",
+        "optionC": "Error",
+        "optionD": "Undefined behavior",
+        "answer": "Undefined behavior"
+    },
+    {
+        "question": "Which of the following is true about pure virtual functions in C++?",
+        "optionA": "They must be implemented in the base class",
+        "optionB": "They cannot have a body in the base class",
+        "optionC": "They are declared by assigning 0 to the function in the base class",
+        "optionD": "They cannot be overridden in derived classes",
+        "answer": "They are declared by assigning 0 to the function in the base class"
+    },
+    {
+        "question": "What is the purpose of the 'decltype' keyword in C++?",
+        "optionA": "To specify the type of a variable explicitly",
+        "optionB": "To deduce the type of a variable from an expression",
+        "optionC": "To define a constant variable",
+        "optionD": "To initialize a variable",
+        "answer": "To deduce the type of a variable from an expression"
+    },
+    {
+        "question": "What is the output of the following code?\nint x = 3;\nswitch (x) {\ncase 1: cout << \"One\"; break;\ncase 3: cout << \"Three\";\ndefault: cout << \"Default\";\n}",
+        "optionA": "One",
+        "optionB": "ThreeDefault",
+        "optionC": "Three",
+        "optionD": "Default",
+        "answer": "ThreeDefault"
+    },
+    {
+        "question": "Which of the following is a feature of C++11?",
+        "optionA": "Smart pointers",
+        "optionB": "Multiple inheritance",
+        "optionC": "Friend functions",
+        "optionD": "Virtual destructors",
+        "answer": "Smart pointers"
+    }
+]

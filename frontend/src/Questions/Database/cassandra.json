@@ -1,0 +1,426 @@
+[
+    {
+        "question": "What is Cassandra?",
+        "optionA": "A relational database management system",
+        "optionB": "A NoSQL database management system",
+        "optionC": "A SQL database management system",
+        "optionD": "An in-memory database",
+        "answer": "A NoSQL database management system"
+    },
+    {
+        "question": "Which of the following is a key feature of Cassandra?",
+        "optionA": "ACID compliance",
+        "optionB": "Eventual consistency",
+        "optionC": "Structured query language (SQL)",
+        "optionD": "Single node architecture",
+        "answer": "Eventual consistency"
+    },
+    {
+        "question": "What does the term 'eventual consistency' mean in Cassandra?",
+        "optionA": "Data is always consistent across all nodes",
+        "optionB": "Data will eventually become consistent, but not immediately",
+        "optionC": "Data consistency is guaranteed at all times",
+        "optionD": "Data is never consistent",
+        "answer": "Data will eventually become consistent, but not immediately"
+    },
+    {
+        "question": "Which of the following is a primary data structure in Cassandra?",
+        "optionA": "Tables",
+        "optionB": "Rows and Columns",
+        "optionC": "Graphs",
+        "optionD": "Key-Value pairs",
+        "answer": "Rows and Columns"
+    },
+    {
+        "question": "What is the default consistency level in Cassandra?",
+        "optionA": "ONE",
+        "optionB": "ALL",
+        "optionC": "QUORUM",
+        "optionD": "LOCAL_QUORUM",
+        "answer": "ONE"
+    },
+    {
+        "question": "Which of the following is used to query data in Cassandra?",
+        "optionA": "SQL",
+        "optionB": "CQL (Cassandra Query Language)",
+        "optionC": "NoSQL",
+        "optionD": "SPARQL",
+        "answer": "CQL (Cassandra Query Language)"
+    },
+    {
+        "question": "Which of the following is NOT a valid data type in Cassandra?",
+        "optionA": "TEXT",
+        "optionB": "VARCHAR",
+        "optionC": "BLOB",
+        "optionD": "FLOAT32",
+        "answer": "FLOAT32"
+    },
+    {
+        "question": "What is a node in Cassandra?",
+        "optionA": "A single computer",
+        "optionB": "A cluster of databases",
+        "optionC": "A storage unit",
+        "optionD": "A single machine in a cluster",
+        "answer": "A single machine in a cluster"
+    },
+    {
+        "question": "Which consistency level ensures that the write is acknowledged by at least one replica?",
+        "optionA": "QUORUM",
+        "optionB": "ALL",
+        "optionC": "ONE",
+        "optionD": "LOCAL_QUORUM",
+        "answer": "ONE"
+    },
+    {
+        "question": "What is a 'column family' in Cassandra?",
+        "optionA": "A collection of tables",
+        "optionB": "A container for rows and columns",
+        "optionC": "A type of index",
+        "optionD": "A table with no rows",
+        "answer": "A container for rows and columns"
+    },
+    {
+        "question": "What is the purpose of the 'replication factor' in Cassandra?",
+        "optionA": "To define the number of replicas of data",
+        "optionB": "To define the number of queries allowed",
+        "optionC": "To define the number of columns in a table",
+        "optionD": "To define the consistency level",
+        "answer": "To define the number of replicas of data"
+    },
+    {
+        "question": "Which of the following is a method for scaling Cassandra?",
+        "optionA": "Vertical scaling",
+        "optionB": "Horizontal scaling",
+        "optionC": "Both vertical and horizontal scaling",
+        "optionD": "Scaling is not supported",
+        "answer": "Horizontal scaling"
+    },
+    {
+        "question": "Which tool is used for monitoring Cassandra clusters?",
+        "optionA": "JConsole",
+        "optionB": "Nodetool",
+        "optionC": "ClusterTool",
+        "optionD": "DataStax Studio",
+        "answer": "Nodetool"
+    },
+    {
+        "question": "What is the default port for Cassandra?",
+        "optionA": "8080",
+        "optionB": "9042",
+        "optionC": "3306",
+        "optionD": "5432",
+        "answer": "9042"
+    },
+    {
+        "question": "Which of the following is a Cassandra feature that helps ensure high availability?",
+        "optionA": "Data Sharding",
+        "optionB": "Data Replication",
+        "optionC": "Centralized Indexing",
+        "optionD": "Data Compression",
+        "answer": "Data Replication"
+    },
+    {
+        "question": "What is the role of the 'gossip' protocol in Cassandra?",
+        "optionA": "To maintain data consistency",
+        "optionB": "To replicate data between nodes",
+        "optionC": "To exchange state information between nodes",
+        "optionD": "To encrypt data",
+        "answer": "To exchange state information between nodes"
+    },
+    {
+        "question": "Which of the following is used to define a partition key in Cassandra?",
+        "optionA": "PRIMARY KEY",
+        "optionB": "PARTITION KEY",
+        "optionC": "CLUSTERING KEY",
+        "optionD": "INDEX KEY",
+        "answer": "PARTITION KEY"
+    },
+    {
+        "question": "What is a 'clustering key' in Cassandra?",
+        "optionA": "A key that determines the node where data is stored",
+        "optionB": "A key that defines the order of rows within a partition",
+        "optionC": "A key that ensures data consistency",
+        "optionD": "A key that defines data replication",
+        "answer": "A key that defines the order of rows within a partition"
+    },
+    {
+        "question": "Which of the following statements is true about Cassandra's architecture?",
+        "optionA": "Cassandra follows a master-slave architecture",
+        "optionB": "Cassandra follows a peer-to-peer architecture",
+        "optionC": "Cassandra follows a client-server architecture",
+        "optionD": "Cassandra follows a hierarchical architecture",
+        "answer": "Cassandra follows a peer-to-peer architecture"
+    },
+    {
+        "question": "Which of the following commands is used to create a new keyspace in Cassandra?",
+        "optionA": "CREATE KEYSPACE",
+        "optionB": "CREATE DATABASE",
+        "optionC": "CREATE SCHEMA",
+        "optionD": "CREATE TABLE",
+        "answer": "CREATE KEYSPACE"
+    },
+    {
+        "question": "Which of the following is true about Cassandra's write operation?",
+        "optionA": "Writes are synchronous and block the system until completed",
+        "optionB": "Writes are asynchronous and do not block the system",
+        "optionC": "Writes are done only when the consistency level is set to ALL",
+        "optionD": "Writes are never acknowledged until all replicas are updated",
+        "answer": "Writes are asynchronous and do not block the system"
+    },
+    {
+        "question": "Which of the following is the main advantage of Cassandra's distributed architecture?",
+        "optionA": "Centralized data management",
+        "optionB": "High availability and fault tolerance",
+        "optionC": "Complex querying",
+        "optionD": "Data normalization",
+        "answer": "High availability and fault tolerance"
+    },
+    {
+        "question": "What is the default consistency level for read and write operations in Cassandra?",
+        "optionA": "ALL",
+        "optionB": "QUORUM",
+        "optionC": "ONE",
+        "optionD": "LOCAL_QUORUM",
+        "answer": "ONE"
+    },
+    {
+        "question": "Which of the following is a limitation of Cassandra?",
+        "optionA": "ACID transactions",
+        "optionB": "Complex joins",
+        "optionC": "Single-node architecture",
+        "optionD": "Limited scalability",
+        "answer": "Complex joins"
+    },
+    {
+        "question": "Which of the following is a use case for Cassandra?",
+        "optionA": "Real-time analytics",
+        "optionB": "Transactional systems",
+        "optionC": "OLTP systems",
+        "optionD": "Data warehousing",
+        "answer": "Real-time analytics"
+    },
+    {
+        "question": "What is the role of the 'write path' in Cassandra?",
+        "optionA": "To handle read requests",
+        "optionB": "To handle write requests and store data",
+        "optionC": "To replicate data across nodes",
+        "optionD": "To ensure data consistency",
+        "answer": "To handle write requests and store data"
+    },
+    {
+        "question": "Which of the following is used to configure the replication factor in Cassandra?",
+        "optionA": "Replication Key",
+        "optionB": "Replication Strategy",
+        "optionC": "Replication Factor",
+        "optionD": "Replication Type",
+        "answer": "Replication Strategy"
+    },
+    {
+        "question": "What is a 'hinted handoff' in Cassandra?",
+        "optionA": "A method for handling read failures",
+        "optionB": "A method for handling write failures",
+        "optionC": "A method for ensuring data consistency",
+        "optionD": "A method for replicating data across nodes",
+        "answer": "A method for handling write failures"
+    },
+    {
+        "question": "What does the term 'compaction' refer to in Cassandra?",
+        "optionA": "Merging multiple SSTables into a single SSTable",
+        "optionB": "Compressing data",
+        "optionC": "Sharding data",
+        "optionD": "Deleting old data",
+        "answer": "Merging multiple SSTables into a single SSTable"
+    },
+    {
+        "question": "Which of the following is the most common use case for Cassandra?",
+        "optionA": "Online Transaction Processing (OLTP)",
+        "optionB": "Real-time analytics and big data processing",
+        "optionC": "Data warehousing",
+        "optionD": "Data visualization",
+        "answer": "Real-time analytics and big data processing"
+    },
+    {
+        "question": "Which of the following is used to configure Cassandra's data partitioning?",
+        "optionA": "Partition Key",
+        "optionB": "Clustering Key",
+        "optionC": "Primary Key",
+        "optionD": "Index Key",
+        "answer": "Partition Key"
+    },
+    {
+        "question": "What is the purpose of the 'commitlog' in Cassandra?",
+        "optionA": "To store data permanently",
+        "optionB": "To store recent writes before they are written to disk",
+        "optionC": "To store read operations",
+        "optionD": "To store indexes",
+        "answer": "To store recent writes before they are written to disk"
+    },
+    {
+        "question": "Which of the following is a primary function of the 'Cassandra Query Language' (CQL)?",
+        "optionA": "Query data using SQL-like syntax",
+        "optionB": "Define database schema",
+        "optionC": "Manage Cassandra nodes",
+        "optionD": "Create indexes",
+        "answer": "Query data using SQL-like syntax"
+    },
+    {
+        "question": "Which of the following is NOT a valid replication strategy in Cassandra?",
+        "optionA": "SimpleStrategy",
+        "optionB": "NetworkTopologyStrategy",
+        "optionC": "ClusterReplicationStrategy",
+        "optionD": "OldNetworkTopologyStrategy",
+        "answer": "ClusterReplicationStrategy"
+    },
+    {
+        "question": "Which of the following operations is performed by the 'read path' in Cassandra?",
+        "optionA": "Writes data to disk",
+        "optionB": "Reads data from memtables and SSTables",
+        "optionC": "Compacts SSTables",
+        "optionD": "Replicates data across nodes",
+        "answer": "Reads data from memtables and SSTables"
+    },
+    {
+        "question": "What is the role of the 'memtable' in Cassandra?",
+        "optionA": "To store data before it is written to disk",
+        "optionB": "To store the commitlog",
+        "optionC": "To store read queries",
+        "optionD": "To store backup data",
+        "answer": "To store data before it is written to disk"
+    },
+    {
+        "question": "What does the term 'SSTable' refer to in Cassandra?",
+        "optionA": "A data structure for storing data in memory",
+        "optionB": "A data structure for storing data on disk",
+        "optionC": "A type of index",
+        "optionD": "A method for replicating data",
+        "answer": "A data structure for storing data on disk"
+    },
+    {
+        "question": "Which of the following is a component of Cassandra's architecture responsible for handling client requests?",
+        "optionA": "Coordinator Node",
+        "optionB": "Data Node",
+        "optionC": "Replica Node",
+        "optionD": "Leader Node",
+        "answer": "Coordinator Node"
+    },
+    {
+        "question": "What does the term 'data model' in Cassandra refer to?",
+        "optionA": "The design of the database schema",
+        "optionB": "The structure of the data stored in the database",
+        "optionC": "The replication strategy used in the database",
+        "optionD": "The data compression technique",
+        "answer": "The design of the database schema"
+    },
+    {
+        "question": "Which of the following is a disadvantage of using Cassandra?",
+        "optionA": "Lack of scalability",
+        "optionB": "Limited support for complex queries",
+        "optionC": "High cost of deployment",
+        "optionD": "No support for distributed data",
+        "answer": "Limited support for complex queries"
+    },
+    {
+        "question": "Which of the following statements about Cassandra's 'write consistency' is true?",
+        "optionA": "Cassandra guarantees strong consistency for writes",
+        "optionB": "Cassandra uses eventual consistency for writes",
+        "optionC": "Cassandra does not support writes",
+        "optionD": "Cassandra only allows synchronous writes",
+        "answer": "Cassandra uses eventual consistency for writes"
+    },
+    {
+        "question": "Which of the following is used to perform 'repair' operations in Cassandra?",
+        "optionA": "Nodetool repair",
+        "optionB": "Cassandra repair",
+        "optionC": "Repair tool",
+        "optionD": "Cassandra sync",
+        "answer": "Nodetool repair"
+    },
+    {
+        "question": "Which of the following commands is used to drop a table in Cassandra?",
+        "optionA": "DROP TABLE",
+        "optionB": "DELETE TABLE",
+        "optionC": "REMOVE TABLE",
+        "optionD": "DESTROY TABLE",
+        "answer": "DROP TABLE"
+    },
+    {
+        "question": "Which of the following statements is true about Cassandra's 'compaction' process?",
+        "optionA": "Compaction merges multiple SSTables into one",
+        "optionB": "Compaction deletes all data older than a certain threshold",
+        "optionC": "Compaction is used to back up data",
+        "optionD": "Compaction only happens during peak hours",
+        "answer": "Compaction merges multiple SSTables into one"
+    },
+    {
+        "question": "What is the role of the 'cluster' in Cassandra?",
+        "optionA": "To store all data on a single machine",
+        "optionB": "To ensure data consistency across nodes",
+        "optionC": "To distribute data across multiple nodes for fault tolerance",
+        "optionD": "To encrypt data during transmission",
+        "answer": "To distribute data across multiple nodes for fault tolerance"
+    },
+    {
+        "question": "Which of the following is a valid use case for Cassandra?",
+        "optionA": "Storing small amounts of data in a single server",
+        "optionB": "Handling high-velocity, large-scale data in distributed systems",
+        "optionC": "Transactional processing with complex joins",
+        "optionD": "Real-time querying of relational data",
+        "answer": "Handling high-velocity, large-scale data in distributed systems"
+    },
+    {
+        "question": "Which of the following commands is used to list all keyspaces in Cassandra?",
+        "optionA": "SHOW KEYSPACES",
+        "optionB": "LIST KEYSPACES",
+        "optionC": "DISPLAY KEYSPACES",
+        "optionD": "SHOW DATABASES",
+        "answer": "SHOW KEYSPACES"
+    },
+    {
+        "question": "Which of the following is the correct syntax for inserting data into a table in Cassandra?",
+        "optionA": "INSERT INTO table_name (column1, column2) VALUES (value1, value2)",
+        "optionB": "INSERT DATA INTO table_name (column1, column2) VALUES (value1, value2)",
+        "optionC": "INSERT INTO table_name VALUES (column1, column2, value1, value2)",
+        "optionD": "INSERT DATA INTO table_name VALUES (column1, column2, value1, value2)",
+        "answer": "INSERT INTO table_name (column1, column2) VALUES (value1, value2)"
+    },
+    {
+        "question": "Which of the following is the purpose of the 'tombstone' in Cassandra?",
+        "optionA": "To mark data for deletion",
+        "optionB": "To store metadata",
+        "optionC": "To create backups",
+        "optionD": "To encrypt data",
+        "answer": "To mark data for deletion"
+    },
+    {
+        "question": "Which of the following consistency levels ensures that a write is acknowledged by a majority of replicas?",
+        "optionA": "QUORUM",
+        "optionB": "ONE",
+        "optionC": "LOCAL_QUORUM",
+        "optionD": "ALL",
+        "answer": "QUORUM"
+    },
+    {
+        "question": "What is the purpose of the 'secondary index' in Cassandra?",
+        "optionA": "To create an index on a column that is not part of the primary key",
+        "optionB": "To create a primary key for the table",
+        "optionC": "To partition data across nodes",
+        "optionD": "To ensure data consistency",
+        "answer": "To create an index on a column that is not part of the primary key"
+    },
+    {
+        "question": "Which of the following is the correct syntax to update data in Cassandra?",
+        "optionA": "UPDATE table_name SET column1 = value1 WHERE column2 = value2",
+        "optionB": "UPDATE DATA table_name SET column1 = value1 WHERE column2 = value2",
+        "optionC": "UPDATE table_name VALUES (column1, value1) WHERE column2 = value2",
+        "optionD": "UPDATE table_name (column1, value1) WHERE column2 = value2",
+        "answer": "UPDATE table_name SET column1 = value1 WHERE column2 = value2"
+    },
+    {
+        "question": "Which of the following is a Cassandra tool used to manage and monitor clusters?",
+        "optionA": "Cassandra Manager",
+        "optionB": "Nodetool",
+        "optionC": "Cassandra Monitor",
+        "optionD": "Cluster Manager",
+        "answer": "Nodetool"
+    }
+]

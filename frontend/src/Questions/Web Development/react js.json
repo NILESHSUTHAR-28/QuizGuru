@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is React?",
+        "optionA": "A JavaScript library for building user interfaces",
+        "optionB": "A JavaScript framework for backend development",
+        "optionC": "A CSS framework",
+        "optionD": "A database management system",
+        "answer": "A JavaScript library for building user interfaces"
+    },
+    {
+        "question": "What is JSX?",
+        "optionA": "JavaScript and XML",
+        "optionB": "JavaScript Extension",
+        "optionC": "JavaScript Syntax Extension",
+        "optionD": "Java Syntax Extension",
+        "answer": "JavaScript Syntax Extension"
+    },
+    {
+        "question": "Which method is used to render a React component?",
+        "optionA": "renderComponent()",
+        "optionB": "ReactDOM.render()",
+        "optionC": "React.render()",
+        "optionD": "render()",
+        "answer": "ReactDOM.render()"
+    },
+    {
+        "question": "What is the virtual DOM in React?",
+        "optionA": "A virtual representation of the real DOM",
+        "optionB": "A new version of the DOM",
+        "optionC": "A component in React",
+        "optionD": "A storage mechanism",
+        "answer": "A virtual representation of the real DOM"
+    },
+    {
+        "question": "What does the 'key' prop do in React?",
+        "optionA": "It helps React identify which items have changed, been added, or removed",
+        "optionB": "It is used for styling components",
+        "optionC": "It stores the state of the component",
+        "optionD": "It is used for routing",
+        "answer": "It helps React identify which items have changed, been added, or removed"
+    },
+    {
+        "question": "Which of the following is a valid way to create a React component?",
+        "optionA": "function MyComponent() {}",
+        "optionB": "React.Component()",
+        "optionC": "class MyComponent extends React { }",
+        "optionD": "function ReactComponent() {}",
+        "answer": "class MyComponent extends React { }"
+    },
+    {
+        "question": "What is the purpose of useState hook in React?",
+        "optionA": "To manage the component's state",
+        "optionB": "To manage the component's lifecycle",
+        "optionC": "To manage events",
+        "optionD": "To manage the virtual DOM",
+        "answer": "To manage the component's state"
+    },
+    {
+        "question": "Which of the following is used for routing in React?",
+        "optionA": "react-router-dom",
+        "optionB": "react-router",
+        "optionC": "react-navigation",
+        "optionD": "react-routing",
+        "answer": "react-router-dom"
+    },
+    {
+        "question": "What is a controlled component in React?",
+        "optionA": "A component whose state is controlled by the parent component",
+        "optionB": "A component that controls its own state",
+        "optionC": "A component that doesn't use state",
+        "optionD": "A component that doesn't render anything",
+        "answer": "A component whose state is controlled by the parent component"
+    },
+    {
+        "question": "What is the purpose of useEffect hook in React?",
+        "optionA": "To handle side effects in a component",
+        "optionB": "To manage the state of a component",
+        "optionC": "To update the virtual DOM",
+        "optionD": "To handle events in a component",
+        "answer": "To handle side effects in a component"
+    },
+    {
+        "question": "Which of the following is used to create a React context?",
+        "optionA": "React.createContext()",
+        "optionB": "React.createContextComponent()",
+        "optionC": "React.createContextProvider()",
+        "optionD": "React.createProvider()",
+        "answer": "React.createContext()"
+    },
+    {
+        "question": "What is the purpose of the 'props' in React?",
+        "optionA": "To pass data from parent to child components",
+        "optionB": "To store the state of a component",
+        "optionC": "To handle events in a component",
+        "optionD": "To manage the lifecycle of a component",
+        "answer": "To pass data from parent to child components"
+    },
+    {
+        "question": "What is the purpose of the 'useContext' hook in React?",
+        "optionA": "To access values from a context",
+        "optionB": "To manage the state of a component",
+        "optionC": "To update the virtual DOM",
+        "optionD": "To handle side effects",
+        "answer": "To access values from a context"
+    },
+    {
+        "question": "Which lifecycle method is called when a component is first rendered?",
+        "optionA": "componentDidMount",
+        "optionB": "componentWillMount",
+        "optionC": "render",
+        "optionD": "componentDidUpdate",
+        "answer": "componentDidMount"
+    },
+    {
+        "question": "What is the purpose of the 'render' method in a React component?",
+        "optionA": "To return the JSX that represents the component's UI",
+        "optionB": "To update the state of the component",
+        "optionC": "To handle events",
+        "optionD": "To define the component's lifecycle",
+        "answer": "To return the JSX that represents the component's UI"
+    },
+    {
+        "question": "What is the purpose of the 'componentDidUpdate' lifecycle method?",
+        "optionA": "It is called after the component has updated",
+        "optionB": "It is called before the component is mounted",
+        "optionC": "It is called when the component's state changes",
+        "optionD": "It is called when the component is destroyed",
+        "answer": "It is called after the component has updated"
+    },
+    {
+        "question": "What is the purpose of the 'useRef' hook in React?",
+        "optionA": "To access DOM elements directly",
+        "optionB": "To manage the state of a component",
+        "optionC": "To handle side effects",
+        "optionD": "To create a context",
+        "answer": "To access DOM elements directly"
+    },
+    {
+        "question": "What is a higher-order component (HOC) in React?",
+        "optionA": "A component that takes another component as an argument and returns a new component",
+        "optionB": "A component that renders multiple child components",
+        "optionC": "A component that manages the state of other components",
+        "optionD": "A component that handles side effects",
+        "answer": "A component that takes another component as an argument and returns a new component"
+    },
+    {
+        "question": "Which of the following is the correct way to update the state in React?",
+        "optionA": "this.state = newState",
+        "optionB": "this.setState(newState)",
+        "optionC": "this.updateState(newState)",
+        "optionD": "this.changeState(newState)",
+        "answer": "this.setState(newState)"
+    },
+    {
+        "question": "What is the purpose of the 'shouldComponentUpdate' lifecycle method?",
+        "optionA": "To determine whether the component should re-render",
+        "optionB": "To handle side effects",
+        "optionC": "To update the component's state",
+        "optionD": "To handle events",
+        "answer": "To determine whether the component should re-render"
+    },
+    {
+        "question": "Which of the following is used to define a functional component in React?",
+        "optionA": "function MyComponent() {}",
+        "optionB": "class MyComponent extends React.Component { }",
+        "optionC": "const MyComponent = () => {}",
+        "optionD": "Both A and C",
+        "answer": "Both A and C"
+    },
+    {
+        "question": "What is the purpose of the 'useMemo' hook in React?",
+        "optionA": "To memoize expensive calculations and avoid unnecessary re-renders",
+        "optionB": "To manage the component's state",
+        "optionC": "To handle side effects",
+        "optionD": "To access context values",
+        "answer": "To memoize expensive calculations and avoid unnecessary re-renders"
+    },
+    {
+        "question": "What is the purpose of the 'useReducer' hook in React?",
+        "optionA": "To manage complex state logic",
+        "optionB": "To access context values",
+        "optionC": "To manage side effects",
+        "optionD": "To handle events",
+        "answer": "To manage complex state logic"
+    },
+    {
+        "question": "What is the purpose of the 'React.Fragment' component?",
+        "optionA": "To group multiple elements without adding extra nodes to the DOM",
+        "optionB": "To create a new component",
+        "optionC": "To manage state",
+        "optionD": "To handle side effects",
+        "answer": "To group multiple elements without adding extra nodes to the DOM"
+    },
+    {
+        "question": "What is the purpose of the 'useLayoutEffect' hook in React?",
+        "optionA": "To run a side effect synchronously after the DOM has been updated",
+        "optionB": "To run a side effect asynchronously",
+        "optionC": "To manage the component's state",
+        "optionD": "To access context values",
+        "answer": "To run a side effect synchronously after the DOM has been updated"
+    },
+    {
+        "question": "What is the purpose of the 'React.StrictMode' component?",
+        "optionA": "To highlight potential problems in the application during development",
+        "optionB": "To improve performance",
+        "optionC": "To handle side effects",
+        "optionD": "To manage the state of a component",
+        "answer": "To highlight potential problems in the application during development"
+    },
+    {
+        "question": "What is the purpose of the 'useCallback' hook in React?",
+        "optionA": "To memoize functions and prevent unnecessary re-creations",
+        "optionB": "To manage the state of a component",
+        "optionC": "To handle side effects",
+        "optionD": "To access context values",
+        "answer": "To memoize functions and prevent unnecessary re-creations"
+    },
+    {
+        "question": "What is the default value of 'strict mode' in React?",
+        "optionA": "false",
+        "optionB": "true",
+        "optionC": "undefined",
+        "optionD": "null",
+        "answer": "true"
+    },
+    {
+        "question": "Which hook is used to persist state across renders in React?",
+        "optionA": "useRef",
+        "optionB": "useState",
+        "optionC": "useEffect",
+        "optionD": "useMemo",
+        "answer": "useRef"
+    },
+    {
+        "question": "What is the purpose of 'React.memo' in React?",
+        "optionA": "To memoize the entire component and avoid unnecessary re-renders",
+        "optionB": "To store the state of a component",
+        "optionC": "To handle events in a component",
+        "optionD": "To manage the lifecycle of a component",
+        "answer": "To memoize the entire component and avoid unnecessary re-renders"
+    },
+    {
+        "question": "What is the purpose of the 'useLayoutEffect' hook in React?",
+        "optionA": "To run a side effect synchronously after the DOM has been updated",
+        "optionB": "To run a side effect asynchronously",
+        "optionC": "To manage the component's state",
+        "optionD": "To access context values",
+        "answer": "To run a side effect synchronously after the DOM has been updated"
+    },
+    {
+        "question": "What is the difference between 'useEffect' and 'useLayoutEffect'?",
+        "optionA": "useLayoutEffect runs synchronously while useEffect runs asynchronously",
+        "optionB": "useEffect is for side effects and useLayoutEffect is for rendering",
+        "optionC": "useEffect is for class components and useLayoutEffect is for functional components",
+        "optionD": "There is no difference",
+        "answer": "useLayoutEffect runs synchronously while useEffect runs asynchronously"
+    },
+    {
+        "question": "Which of the following is true about React components?",
+        "optionA": "React components can be either stateful or stateless",
+        "optionB": "React components must always be stateful",
+        "optionC": "React components cannot use props",
+        "optionD": "React components cannot have side effects",
+        "answer": "React components can be either stateful or stateless"
+    },
+    {
+        "question": "Which of the following is used to update the state in a React functional component?",
+        "optionA": "this.setState()",
+        "optionB": "useState()",
+        "optionC": "component.setState()",
+        "optionD": "useEffect()",
+        "answer": "useState()"
+    },
+    {
+        "question": "Which lifecycle method is used to fetch data in class components?",
+        "optionA": "componentDidMount",
+        "optionB": "componentWillMount",
+        "optionC": "render",
+        "optionD": "componentDidUpdate",
+        "answer": "componentDidMount"
+    },
+    {
+        "question": "Which of the following methods is used for conditional rendering in React?",
+        "optionA": "if-else",
+        "optionB": "ternary operator",
+        "optionC": "switch statement",
+        "optionD": "all of the above",
+        "answer": "all of the above"
+    },
+    {
+        "question": "What is the purpose of 'React.Fragment' in React?",
+        "optionA": "To group multiple elements without adding extra nodes to the DOM",
+        "optionB": "To create a new component",
+        "optionC": "To manage state",
+        "optionD": "To handle side effects",
+        "answer": "To group multiple elements without adding extra nodes to the DOM"
+    },
+    {
+        "question": "Which hook is used to manage complex state logic in React?",
+        "optionA": "useState",
+        "optionB": "useEffect",
+        "optionC": "useReducer",
+        "optionD": "useRef",
+        "answer": "useReducer"
+    },
+    {
+        "question": "Which of the following is a valid React component type?",
+        "optionA": "Class component",
+        "optionB": "Functional component",
+        "optionC": "Both A and B",
+        "optionD": "Neither A nor B",
+        "answer": "Both A and B"
+    },
+    {
+        "question": "What does the 'dangerouslySetInnerHTML' attribute do in React?",
+        "optionA": "It allows rendering raw HTML inside React components",
+        "optionB": "It is used for preventing XSS attacks",
+        "optionC": "It is used to handle events in React",
+        "optionD": "It is used to set the inner text of an element",
+        "answer": "It allows rendering raw HTML inside React components"
+    },
+    {
+        "question": "What is the default value of the 'key' prop in React?",
+        "optionA": "1",
+        "optionB": "null",
+        "optionC": "undefined",
+        "optionD": "It must be unique",
+        "answer": "It must be unique"
+    },
+    {
+        "question": "What does 'useEffect' hook do in React?",
+        "optionA": "It handles side effects in functional components",
+        "optionB": "It manages the state of a component",
+        "optionC": "It accesses context values",
+        "optionD": "It manages the lifecycle of a component",
+        "answer": "It handles side effects in functional components"
+    },
+    {
+        "question": "What is a PureComponent in React?",
+        "optionA": "A component that only re-renders when props or state change",
+        "optionB": "A component that does not re-render",
+        "optionC": "A component that uses the 'useEffect' hook",
+        "optionD": "A component that always re-renders",
+        "answer": "A component that only re-renders when props or state change"
+    },
+    {
+        "question": "What is the purpose of 'componentWillUnmount' lifecycle method?",
+        "optionA": "To perform cleanup before the component is removed from the DOM",
+        "optionB": "To fetch data from an API",
+        "optionC": "To update the state of the component",
+        "optionD": "To re-render the component",
+        "answer": "To perform cleanup before the component is removed from the DOM"
+    },
+    {
+        "question": "What is 'React.createElement()' used for?",
+        "optionA": "To create an element of a component",
+        "optionB": "To create an element in the virtual DOM",
+        "optionC": "To create a new React component",
+        "optionD": "To create a new context",
+        "answer": "To create an element in the virtual DOM"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a functional component in React?",
+        "optionA": "function MyComponent() {}",
+        "optionB": "class MyComponent extends React.Component {}",
+        "optionC": "const MyComponent = () => {}",
+        "optionD": "Both A and C",
+        "answer": "Both A and C"
+    },
+    {
+        "question": "What is the purpose of 'React.StrictMode' in React?",
+        "optionA": "To highlight potential problems in the application during development",
+        "optionB": "To improve performance",
+        "optionC": "To handle side effects",
+        "optionD": "To manage the state of a component",
+        "answer": "To highlight potential problems in the application during development"
+    },
+    {
+        "question": "What is the difference between 'state' and 'props' in React?",
+        "optionA": "State is mutable, props are immutable",
+        "optionB": "State is immutable, props are mutable",
+        "optionC": "State and props are both mutable",
+        "optionD": "State and props are both immutable",
+        "answer": "State is mutable, props are immutable"
+    },
+    {
+        "question": "Which of the following is used to pass data from a parent component to a child component in React?",
+        "optionA": "state",
+        "optionB": "props",
+        "optionC": "context",
+        "optionD": "hooks",
+        "answer": "props"
+    },
+    {
+        "question": "What is 'ReactDOM.render()' used for in React?",
+        "optionA": "To render a component into the DOM",
+        "optionB": "To create a new component",
+        "optionC": "To handle side effects",
+        "optionD": "To manage the state of a component",
+        "answer": "To render a component into the DOM"
+    }
+]

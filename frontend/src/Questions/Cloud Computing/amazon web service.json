@@ -1,0 +1,474 @@
+[
+    {
+        "question": "What is the primary function of Amazon S3?",
+        "optionA": "Compute services",
+        "optionB": "Object storage",
+        "optionC": "Database services",
+        "optionD": "Networking",
+        "answer": "Object storage"
+    },
+    {
+        "question": "Which AWS service is used to run containerized applications?",
+        "optionA": "Amazon EC2",
+        "optionB": "Amazon ECS",
+        "optionC": "Amazon RDS",
+        "optionD": "AWS Lambda",
+        "answer": "Amazon ECS"
+    },
+    {
+        "question": "What does AWS Lambda allow you to do?",
+        "optionA": "Run code without provisioning servers",
+        "optionB": "Host virtual machines",
+        "optionC": "Store data in the cloud",
+        "optionD": "Monitor application performance",
+        "answer": "Run code without provisioning servers"
+    },
+    {
+        "question": "Which database service is fully managed and serverless in AWS?",
+        "optionA": "Amazon RDS",
+        "optionB": "Amazon Aurora",
+        "optionC": "Amazon DynamoDB",
+        "optionD": "Amazon Redshift",
+        "answer": "Amazon DynamoDB"
+    },
+    {
+        "question": "What is the purpose of Amazon CloudFront?",
+        "optionA": "To create virtual private networks",
+        "optionB": "To provide content delivery and caching",
+        "optionC": "To manage DNS records",
+        "optionD": "To monitor application logs",
+        "answer": "To provide content delivery and caching"
+    },
+    {
+        "question": "Which service is used to automate software deployment on AWS?",
+        "optionA": "AWS Elastic Beanstalk",
+        "optionB": "Amazon CloudFormation",
+        "optionC": "AWS CodeDeploy",
+        "optionD": "Amazon S3",
+        "answer": "AWS CodeDeploy"
+    },
+    {
+        "question": "What is the main use of Amazon RDS?",
+        "optionA": "To provide block storage",
+        "optionB": "To host relational databases",
+        "optionC": "To create virtual servers",
+        "optionD": "To monitor network traffic",
+        "answer": "To host relational databases"
+    },
+    {
+        "question": "Which AWS service is designed for data warehousing?",
+        "optionA": "Amazon DynamoDB",
+        "optionB": "Amazon Redshift",
+        "optionC": "Amazon S3",
+        "optionD": "Amazon RDS",
+        "answer": "Amazon Redshift"
+    },
+    {
+        "question": "What does AWS IAM allow you to manage?",
+        "optionA": "Virtual machines",
+        "optionB": "Access and permissions",
+        "optionC": "Storage volumes",
+        "optionD": "Database queries",
+        "answer": "Access and permissions"
+    },
+    {
+        "question": "Which AWS service is used for real-time data streaming?",
+        "optionA": "Amazon SQS",
+        "optionB": "Amazon Kinesis",
+        "optionC": "Amazon SNS",
+        "optionD": "AWS Lambda",
+        "answer": "Amazon Kinesis"
+    },
+    {
+        "question": "What is the purpose of Amazon Route 53?",
+        "optionA": "Content delivery",
+        "optionB": "Domain Name System (DNS) management",
+        "optionC": "Relational database hosting",
+        "optionD": "Serverless computing",
+        "answer": "Domain Name System (DNS) management"
+    },
+    {
+        "question": "Which AWS service is used for managing and deploying machine learning models?",
+        "optionA": "Amazon SageMaker",
+        "optionB": "AWS Lambda",
+        "optionC": "Amazon Athena",
+        "optionD": "Amazon QuickSight",
+        "answer": "Amazon SageMaker"
+    },
+    {
+        "question": "Which service is best suited for storing frequently accessed data in AWS?",
+        "optionA": "Amazon Glacier",
+        "optionB": "Amazon S3 Standard",
+        "optionC": "Amazon S3 Glacier Deep Archive",
+        "optionD": "Amazon EBS",
+        "answer": "Amazon S3 Standard"
+    },
+    {
+        "question": "What is the function of AWS CloudTrail?",
+        "optionA": "Monitoring application performance",
+        "optionB": "Tracking user activity and API usage",
+        "optionC": "Hosting static websites",
+        "optionD": "Scaling applications automatically",
+        "answer": "Tracking user activity and API usage"
+    },
+    {
+        "question": "Which service helps in migrating databases to AWS?",
+        "optionA": "AWS Migration Hub",
+        "optionB": "AWS DMS (Database Migration Service)",
+        "optionC": "AWS Snowball",
+        "optionD": "Amazon EC2",
+        "answer": "AWS DMS (Database Migration Service)"
+    },
+    {
+        "question": "What is the primary use of AWS Elastic Load Balancer?",
+        "optionA": "To provide DNS services",
+        "optionB": "To distribute incoming traffic across multiple targets",
+        "optionC": "To store and retrieve data",
+        "optionD": "To monitor application logs",
+        "answer": "To distribute incoming traffic across multiple targets"
+    },
+    {
+        "question": "Which AWS service is used to create and manage infrastructure as code?",
+        "optionA": "AWS CodePipeline",
+        "optionB": "AWS CloudFormation",
+        "optionC": "AWS Config",
+        "optionD": "AWS Elastic Beanstalk",
+        "answer": "AWS CloudFormation"
+    },
+    {
+        "question": "What is the main benefit of Amazon EC2 Auto Scaling?",
+        "optionA": "Faster database queries",
+        "optionB": "Automatic scaling of compute capacity",
+        "optionC": "Real-time data streaming",
+        "optionD": "Improved DNS management",
+        "answer": "Automatic scaling of compute capacity"
+    },
+    {
+        "question": "Which AWS service is used for serverless API management?",
+        "optionA": "AWS Lambda",
+        "optionB": "Amazon API Gateway",
+        "optionC": "Amazon CloudFront",
+        "optionD": "Amazon RDS",
+        "answer": "Amazon API Gateway"
+    },
+    {
+        "question": "What does Amazon VPC allow you to do?",
+        "optionA": "Create isolated networks in the AWS cloud",
+        "optionB": "Host relational databases",
+        "optionC": "Manage access and permissions",
+        "optionD": "Run containerized applications",
+        "answer": "Create isolated networks in the AWS cloud"
+    },
+    {
+        "question": "What is the purpose of Amazon Elastic File System (EFS)?",
+        "optionA": "Object storage",
+        "optionB": "File storage",
+        "optionC": "Block storage",
+        "optionD": "Relational database storage",
+        "answer": "File storage"
+    },
+    {
+        "question": "Which AWS service provides a fully managed message queue?",
+        "optionA": "Amazon SQS",
+        "optionB": "Amazon SNS",
+        "optionC": "Amazon Kinesis",
+        "optionD": "AWS Step Functions",
+        "answer": "Amazon SQS"
+    },
+    {
+        "question": "What is the primary function of AWS Glue?",
+        "optionA": "Data warehousing",
+        "optionB": "ETL (Extract, Transform, Load) processes",
+        "optionC": "Machine learning",
+        "optionD": "Web hosting",
+        "answer": "ETL (Extract, Transform, Load) processes"
+    },
+    {
+        "question": "Which AWS service enables secure transfer of large amounts of data to the cloud?",
+        "optionA": "AWS Snowball",
+        "optionB": "Amazon S3",
+        "optionC": "AWS DataSync",
+        "optionD": "Amazon RDS",
+        "answer": "AWS Snowball"
+    },
+    {
+        "question": "What is the primary use of AWS Direct Connect?",
+        "optionA": "Content delivery",
+        "optionB": "Establishing a dedicated network connection to AWS",
+        "optionC": "Scaling applications",
+        "optionD": "Monitoring resources",
+        "answer": "Establishing a dedicated network connection to AWS"
+    },
+    {
+        "question": "Which AWS service is used for log analysis and monitoring?",
+        "optionA": "Amazon CloudWatch",
+        "optionB": "AWS Config",
+        "optionC": "AWS Trusted Advisor",
+        "optionD": "Amazon Athena",
+        "answer": "Amazon CloudWatch"
+    },
+    {
+        "question": "What is the purpose of Amazon QuickSight?",
+        "optionA": "Data visualization and business intelligence",
+        "optionB": "Real-time data processing",
+        "optionC": "ETL processes",
+        "optionD": "Serverless computing",
+        "answer": "Data visualization and business intelligence"
+    },
+    {
+        "question": "Which AWS service allows you to define workflows for serverless applications?",
+        "optionA": "AWS Step Functions",
+        "optionB": "AWS Lambda",
+        "optionC": "Amazon ECS",
+        "optionD": "AWS CloudFormation",
+        "answer": "AWS Step Functions"
+    },
+    {
+        "question": "What does Amazon Elastic Beanstalk provide?",
+        "optionA": "A platform for deploying and managing applications",
+        "optionB": "A service for DNS management",
+        "optionC": "A tool for monitoring resources",
+        "optionD": "A database migration tool",
+        "answer": "A platform for deploying and managing applications"
+    },
+    {
+        "question": "What is the main feature of AWS Trusted Advisor?",
+        "optionA": "Provides security and performance recommendations",
+        "optionB": "Monitors application performance",
+        "optionC": "Hosts containerized applications",
+        "optionD": "Manages infrastructure as code",
+        "answer": "Provides security and performance recommendations"
+    },
+    {
+        "question": "Which AWS service allows you to run applications in a virtualized environment?",
+        "optionA": "Amazon EC2",
+        "optionB": "AWS Lambda",
+        "optionC": "Amazon S3",
+        "optionD": "Amazon CloudFront",
+        "answer": "Amazon EC2"
+    },
+    {
+        "question": "What is the primary purpose of Amazon RDS Multi-AZ deployments?",
+        "optionA": "To improve database performance",
+        "optionB": "To provide high availability and failover support",
+        "optionC": "To scale read capacity",
+        "optionD": "To reduce storage costs",
+        "answer": "To provide high availability and failover support"
+    },
+    {
+        "question": "Which AWS service is used to encrypt data at rest and in transit?",
+        "optionA": "AWS KMS (Key Management Service)",
+        "optionB": "Amazon S3",
+        "optionC": "AWS IAM",
+        "optionD": "Amazon DynamoDB",
+        "answer": "AWS KMS (Key Management Service)"
+    },
+    {
+        "question": "What is the purpose of AWS Outposts?",
+        "optionA": "To provide cloud services on-premises",
+        "optionB": "To manage serverless applications",
+        "optionC": "To monitor cloud resources",
+        "optionD": "To store archival data",
+        "answer": "To provide cloud services on-premises"
+    },
+    {
+        "question": "Which AWS service is used for event-driven workflows?",
+        "optionA": "Amazon EventBridge",
+        "optionB": "Amazon SQS",
+        "optionC": "AWS Step Functions",
+        "optionD": "Amazon CloudWatch",
+        "answer": "Amazon EventBridge"
+    },
+    {
+        "question": "What is the purpose of Amazon EBS (Elastic Block Store)?",
+        "optionA": "Object storage",
+        "optionB": "Block storage for EC2 instances",
+        "optionC": "File storage",
+        "optionD": "Data warehousing",
+        "answer": "Block storage for EC2 instances"
+    },
+    {
+        "question": "Which AWS service is used to create virtual private clouds?",
+        "optionA": "Amazon VPC",
+        "optionB": "AWS Direct Connect",
+        "optionC": "Amazon Route 53",
+        "optionD": "AWS CloudTrail",
+        "answer": "Amazon VPC"
+    },
+    {
+        "question": "What does AWS Config provide?",
+        "optionA": "Compliance auditing and resource monitoring",
+        "optionB": "Data encryption services",
+        "optionC": "Content delivery network services",
+        "optionD": "Serverless API management",
+        "answer": "Compliance auditing and resource monitoring"
+    },
+    {
+        "question": "What is the primary use of AWS Snowmobile?",
+        "optionA": "Data transfer using physical devices",
+        "optionB": "Migration of large-scale data centers to AWS",
+        "optionC": "Hosting virtual machines",
+        "optionD": "Data warehousing",
+        "answer": "Migration of large-scale data centers to AWS"
+    },
+    {
+        "question": "Which AWS service is used for managing container orchestration?",
+        "optionA": "Amazon ECS",
+        "optionB": "Amazon EKS",
+        "optionC": "AWS Fargate",
+        "optionD": "Amazon S3",
+        "answer": "Amazon EKS"
+    },
+    {
+        "question": "What is the purpose of Amazon Polly?",
+        "optionA": "Text-to-speech conversion",
+        "optionB": "Image recognition",
+        "optionC": "Data visualization",
+        "optionD": "Real-time data streaming",
+        "answer": "Text-to-speech conversion"
+    },
+    {
+        "question": "Which AWS service provides a fully managed graph database?",
+        "optionA": "Amazon Neptune",
+        "optionB": "Amazon RDS",
+        "optionC": "Amazon DynamoDB",
+        "optionD": "Amazon Aurora",
+        "answer": "Amazon Neptune"
+    },
+    {
+        "question": "What is the main function of AWS CodePipeline?",
+        "optionA": "Continuous integration and delivery",
+        "optionB": "Data migration",
+        "optionC": "File storage",
+        "optionD": "Monitoring resources",
+        "answer": "Continuous integration and delivery"
+    },
+    {
+        "question": "Which AWS service enables interactive queries for data in S3?",
+        "optionA": "Amazon Athena",
+        "optionB": "AWS Glue",
+        "optionC": "Amazon Redshift",
+        "optionD": "Amazon QuickSight",
+        "answer": "Amazon Athena"
+    },
+    {
+        "question": "What is the primary use of Amazon Lightsail?",
+        "optionA": "Hosting simple web applications",
+        "optionB": "Data analytics",
+        "optionC": "Machine learning",
+        "optionD": "Networking",
+        "answer": "Hosting simple web applications"
+    },
+    {
+        "question": "Which AWS service provides distributed denial-of-service (DDoS) protection?",
+        "optionA": "AWS Shield",
+        "optionB": "AWS WAF",
+        "optionC": "Amazon CloudFront",
+        "optionD": "AWS Firewall Manager",
+        "answer": "AWS Shield"
+    },
+    {
+        "question": "What is the main purpose of AWS Batch?",
+        "optionA": "Running batch computing jobs",
+        "optionB": "Data migration",
+        "optionC": "Serverless computing",
+        "optionD": "Hosting virtual machines",
+        "answer": "Running batch computing jobs"
+    },
+    {
+        "question": "Which AWS service is used for managing hybrid cloud storage?",
+        "optionA": "AWS Storage Gateway",
+        "optionB": "Amazon S3",
+        "optionC": "Amazon EBS",
+        "optionD": "Amazon Glacier",
+        "answer": "AWS Storage Gateway"
+    },
+    {
+        "question": "What does Amazon Rekognition provide?",
+        "optionA": "Image and video analysis",
+        "optionB": "Data visualization",
+        "optionC": "Serverless computing",
+        "optionD": "Text-to-speech conversion",
+        "answer": "Image and video analysis"
+    },
+    {
+        "question": "Which AWS service is designed for monitoring and managing compliance?",
+        "optionA": "AWS Audit Manager",
+        "optionB": "AWS Trusted Advisor",
+        "optionC": "AWS CloudTrail",
+        "optionD": "Amazon CloudWatch",
+        "answer": "AWS Audit Manager"
+    },
+    {
+        "question": "What is the purpose of AWS Fargate?",
+        "optionA": "Running containers without managing servers",
+        "optionB": "Scaling databases automatically",
+        "optionC": "Content delivery",
+        "optionD": "DNS management",
+        "answer": "Running containers without managing servers"
+    },
+    {
+        "question": "Which AWS service provides a marketplace for buying and selling data sets?",
+        "optionA": "AWS Data Exchange",
+        "optionB": "Amazon S3",
+        "optionC": "AWS Marketplace",
+        "optionD": "AWS Glue",
+        "answer": "AWS Data Exchange"
+    },
+    {
+        "question": "What is the function of AWS OpsWorks?",
+        "optionA": "Configuration management and application deployment",
+        "optionB": "Monitoring application performance",
+        "optionC": "Data migration",
+        "optionD": "Real-time data streaming",
+        "answer": "Configuration management and application deployment"
+    },
+    {
+        "question": "Which AWS service provides managed blockchain networks?",
+        "optionA": "Amazon Managed Blockchain",
+        "optionB": "Amazon DynamoDB",
+        "optionC": "AWS Glue",
+        "optionD": "Amazon Redshift",
+        "answer": "Amazon Managed Blockchain"
+    },
+    {
+        "question": "What is the purpose of Amazon Elastic Inference?",
+        "optionA": "Accelerating machine learning inference",
+        "optionB": "Running containerized applications",
+        "optionC": "Monitoring application logs",
+        "optionD": "Encrypting data at rest",
+        "answer": "Accelerating machine learning inference"
+    },
+    {
+        "question": "Which AWS service provides managed distributed ledger technology?",
+        "optionA": "Amazon QLDB",
+        "optionB": "Amazon DynamoDB",
+        "optionC": "Amazon RDS",
+        "optionD": "AWS Glue",
+        "answer": "Amazon QLDB"
+    },
+    {
+        "question": "What is the main purpose of Amazon Macie?",
+        "optionA": "Identifying and protecting sensitive data",
+        "optionB": "Monitoring application performance",
+        "optionC": "Scaling compute resources",
+        "optionD": "Providing DDoS protection",
+        "answer": "Identifying and protecting sensitive data"
+    },
+    {
+        "question": "Which AWS service is used for creating serverless workflows?",
+        "optionA": "AWS Step Functions",
+        "optionB": "AWS Lambda",
+        "optionC": "Amazon ECS",
+        "optionD": "Amazon CloudFront",
+        "answer": "AWS Step Functions"
+    },
+    {
+        "question": "What is the primary use of Amazon AppStream 2.0?",
+        "optionA": "Streaming desktop applications securely",
+        "optionB": "Running containerized applications",
+        "optionC": "Monitoring resource usage",
+        "optionD": "Encrypting sensitive data",
+        "answer": "Streaming desktop applications securely"
+    }
+]

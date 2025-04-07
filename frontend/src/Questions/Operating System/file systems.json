@@ -1,0 +1,450 @@
+[
+    {
+        "question": "What is the main function of a file system in an operating system?",
+        "optionA": "To allocate CPU resources",
+        "optionB": "To manage memory allocation",
+        "optionC": "To organize and store files",
+        "optionD": "To handle network traffic",
+        "answer": "To organize and store files"
+    },
+    {
+        "question": "Which of the following is a type of file system?",
+        "optionA": "NTFS",
+        "optionB": "TCP/IP",
+        "optionC": "HTTP",
+        "optionD": "UDP",
+        "answer": "NTFS"
+    },
+    {
+        "question": "What is the primary purpose of the inode in a file system?",
+        "optionA": "To store the file's data",
+        "optionB": "To store the file's metadata",
+        "optionC": "To manage file permissions",
+        "optionD": "To track file access time",
+        "answer": "To store the file's metadata"
+    },
+    {
+        "question": "Which file system is used by most modern versions of Windows?",
+        "optionA": "FAT32",
+        "optionB": "NTFS",
+        "optionC": "ext4",
+        "optionD": "HFS+",
+        "answer": "NTFS"
+    },
+    {
+        "question": "What does FAT stand for in FAT file systems?",
+        "optionA": "File Allocation Table",
+        "optionB": "Fast Allocation Table",
+        "optionC": "File Access Table",
+        "optionD": "Fast Access Table",
+        "answer": "File Allocation Table"
+    },
+    {
+        "question": "Which of the following file systems supports journaling?",
+        "optionA": "ext4",
+        "optionB": "FAT32",
+        "optionC": "NTFS",
+        "optionD": "ext3",
+        "answer": "ext4"
+    },
+    {
+        "question": "Which file system is commonly used on Linux-based systems?",
+        "optionA": "NTFS",
+        "optionB": "ext4",
+        "optionC": "FAT32",
+        "optionD": "HFS+",
+        "answer": "ext4"
+    },
+    {
+        "question": "What is a file descriptor in an operating system?",
+        "optionA": "A pointer to a file's data",
+        "optionB": "An identifier for a file open in a process",
+        "optionC": "A file's metadata",
+        "optionD": "A method for managing memory",
+        "answer": "An identifier for a file open in a process"
+    },
+    {
+        "question": "Which of the following is true about the ext4 file system?",
+        "optionA": "It is primarily used by Windows operating systems",
+        "optionB": "It supports journaling for file integrity",
+        "optionC": "It is limited to 2 GB file sizes",
+        "optionD": "It does not support file permissions",
+        "answer": "It supports journaling for file integrity"
+    },
+    {
+        "question": "Which of the following file systems is commonly used on macOS?",
+        "optionA": "NTFS",
+        "optionB": "ext4",
+        "optionC": "FAT32",
+        "optionD": "HFS+",
+        "answer": "HFS+"
+    },
+    {
+        "question": "Which of the following file systems supports file compression?",
+        "optionA": "NTFS",
+        "optionB": "ext3",
+        "optionC": "FAT32",
+        "optionD": "HFS+",
+        "answer": "NTFS"
+    },
+    {
+        "question": "Which of the following is a characteristic of a file system's block size?",
+        "optionA": "It determines the maximum file size",
+        "optionB": "It determines the amount of data transferred in a single read/write operation",
+        "optionC": "It determines the file's metadata storage location",
+        "optionD": "It determines the number of directories supported",
+        "answer": "It determines the amount of data transferred in a single read/write operation"
+    },
+    {
+        "question": "What is the main advantage of using a journaling file system?",
+        "optionA": "It increases file access speed",
+        "optionB": "It provides better security for files",
+        "optionC": "It helps prevent data corruption in case of system crashes",
+        "optionD": "It supports larger file sizes",
+        "answer": "It helps prevent data corruption in case of system crashes"
+    },
+    {
+        "question": "What is the maximum file size supported by the FAT32 file system?",
+        "optionA": "2 GB",
+        "optionB": "4 GB",
+        "optionC": "8 TB",
+        "optionD": "16 TB",
+        "answer": "4 GB"
+    },
+    {
+        "question": "What is a directory in a file system?",
+        "optionA": "A file that stores metadata",
+        "optionB": "A file that stores data",
+        "optionC": "A container that stores files and other directories",
+        "optionD": "A file that stores system logs",
+        "answer": "A container that stores files and other directories"
+    },
+    {
+        "question": "Which file system is used by most flash drives and memory cards?",
+        "optionA": "NTFS",
+        "optionB": "FAT32",
+        "optionC": "ext4",
+        "optionD": "HFS+",
+        "answer": "FAT32"
+    },
+    {
+        "question": "What is the purpose of the file allocation table (FAT) in a file system?",
+        "optionA": "To store file data",
+        "optionB": "To manage file permissions",
+        "optionC": "To map file names to disk blocks",
+        "optionD": "To manage file compression",
+        "answer": "To map file names to disk blocks"
+    },
+    {
+        "question": "Which of the following is a benefit of using a file system with journaling?",
+        "optionA": "Improved performance",
+        "optionB": "Reduced file fragmentation",
+        "optionC": "Enhanced data recovery after a crash",
+        "optionD": "Reduced file system size",
+        "answer": "Enhanced data recovery after a crash"
+    },
+    {
+        "question": "What is a file system mount point?",
+        "optionA": "A directory where a file system is accessed",
+        "optionB": "A file that stores mount information",
+        "optionC": "A system process that manages file systems",
+        "optionD": "A partition used by the operating system",
+        "answer": "A directory where a file system is accessed"
+    },
+    {
+        "question": "Which of the following file systems supports encryption?",
+        "optionA": "FAT32",
+        "optionB": "ext3",
+        "optionC": "NTFS",
+        "optionD": "HFS+",
+        "answer": "NTFS"
+    },
+    {
+        "question": "What is the purpose of the inode in a file system?",
+        "optionA": "To store the file's data",
+        "optionB": "To store the file's name",
+        "optionC": "To store the file's metadata",
+        "optionD": "To store the file's contents",
+        "answer": "To store the file's metadata"
+    },
+    {
+        "question": "What is the difference between hard links and soft links in a file system?",
+        "optionA": "Hard links point to the file's data, while soft links point to the file's name",
+        "optionB": "Hard links are used for directories, while soft links are used for files",
+        "optionC": "Hard links are permanent, while soft links are temporary",
+        "optionD": "Hard links are symbolic, while soft links are direct",
+        "answer": "Hard links point to the file's data, while soft links point to the file's name"
+    },
+    {
+        "question": "Which of the following file systems is most commonly used for high-performance applications?",
+        "optionA": "NTFS",
+        "optionB": "ext4",
+        "optionC": "ZFS",
+        "optionD": "FAT32",
+        "answer": "ZFS"
+    },
+    {
+        "question": "What does the term 'mounting' refer to in file systems?",
+        "optionA": "The process of accessing a file system",
+        "optionB": "The process of creating a file system",
+        "optionC": "The process of organizing files into directories",
+        "optionD": "The process of formatting a disk",
+        "answer": "The process of accessing a file system"
+    },
+    {
+        "question": "Which of the following is true about the ext4 file system?",
+        "optionA": "It is not compatible with Linux",
+        "optionB": "It does not support file permissions",
+        "optionC": "It supports large file sizes and volumes",
+        "optionD": "It is primarily used by macOS",
+        "answer": "It supports large file sizes and volumes"
+    },
+    {
+        "question": "What is the maximum volume size supported by the ext4 file system?",
+        "optionA": "16 TB",
+        "optionB": "1 TB",
+        "optionC": "8 TB",
+        "optionD": "128 TB",
+        "answer": "128 TB"
+    },
+    {
+        "question": "Which of the following file systems is designed specifically for flash storage devices?",
+        "optionA": "NTFS",
+        "optionB": "FAT32",
+        "optionC": "exFAT",
+        "optionD": "ext4",
+        "answer": "exFAT"
+    },
+    {
+        "question": "What is the maximum file size supported by the exFAT file system?",
+        "optionA": "4 GB",
+        "optionB": "8 GB",
+        "optionC": "16 GB",
+        "optionD": "16 TB",
+        "answer": "16 TB"
+    },
+    {
+        "question": "Which of the following is an advantage of the ext4 file system over ext3?",
+        "optionA": "Faster read/write speeds",
+        "optionB": "Lower storage capacity",
+        "optionC": "No support for large files",
+        "optionD": "Limited journaling capabilities",
+        "answer": "Faster read/write speeds"
+    },
+    {
+        "question": "Which of the following is an advantage of using a file system with journaling?",
+        "optionA": "Faster file access",
+        "optionB": "More efficient disk space utilization",
+        "optionC": "Improved file system integrity after a crash",
+        "optionD": "Increased file fragmentation",
+        "answer": "Improved file system integrity after a crash"
+    },
+    {
+        "question": "What is the role of a file system's block size?",
+        "optionA": "It determines the maximum file size",
+        "optionB": "It determines the amount of data transferred in a single read/write operation",
+        "optionC": "It determines the file's access permissions",
+        "optionD": "It determines the number of files in a directory",
+        "answer": "It determines the amount of data transferred in a single read/write operation"
+    },
+    {
+        "question": "What is the main advantage of using a file system with compression?",
+        "optionA": "Increased disk space utilization",
+        "optionB": "Faster file access",
+        "optionC": "Improved file security",
+        "optionD": "Lower file fragmentation",
+        "answer": "Increased disk space utilization"
+    },
+    {
+        "question": "What is the main difference between a primary partition and an extended partition in a file system?",
+        "optionA": "Primary partitions are used for system files, while extended partitions are used for user data",
+        "optionB": "Primary partitions can be divided into logical drives, while extended partitions cannot",
+        "optionC": "Primary partitions can only be used on Windows systems, while extended partitions are for Linux systems",
+        "optionD": "Primary partitions cannot be resized, while extended partitions can be resized",
+        "answer": "Primary partitions can be divided into logical drives, while extended partitions cannot"
+    },
+    {
+        "question": "Which of the following file systems is commonly used for network file systems?",
+        "optionA": "FAT32",
+        "optionB": "NFS",
+        "optionC": "NTFS",
+        "optionD": "exFAT",
+        "answer": "NFS"
+    },
+    {
+        "question": "What is the purpose of a file system's journal?",
+        "optionA": "To track the file's access history",
+        "optionB": "To store the file's metadata",
+        "optionC": "To record changes to the file system for recovery purposes",
+        "optionD": "To track the file's permissions",
+        "answer": "To record changes to the file system for recovery purposes"
+    },
+    {
+        "question": "Which file system uses a B-tree structure to organize files?",
+        "optionA": "NTFS",
+        "optionB": "ext4",
+        "optionC": "ZFS",
+        "optionD": "HFS+",
+        "answer": "ZFS"
+    },
+    {
+        "question": "What is the maximum number of files that can be stored in a single directory in the ext4 file system?",
+        "optionA": "2^32",
+        "optionB": "2^64",
+        "optionC": "2^16",
+        "optionD": "2^10",
+        "answer": "2^32"
+    },
+    {
+        "question": "Which of the following file systems supports file system snapshots?",
+        "optionA": "FAT32",
+        "optionB": "ZFS",
+        "optionC": "NTFS",
+        "optionD": "exFAT",
+        "answer": "ZFS"
+    },
+    {
+        "question": "What is the maximum file size supported by the NTFS file system?",
+        "optionA": "2 GB",
+        "optionB": "4 GB",
+        "optionC": "16 TB",
+        "optionD": "256 TB",
+        "answer": "16 TB"
+    },
+    {
+        "question": "Which of the following is a feature of the ZFS file system?",
+        "optionA": "Support for file compression",
+        "optionB": "Support for journaling",
+        "optionC": "Support for file encryption",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is a characteristic of a file system's block size?",
+        "optionA": "It determines the number of files in a directory",
+        "optionB": "It determines the file's permissions",
+        "optionC": "It determines the amount of data that can be stored in a single block",
+        "optionD": "It determines the file system's journaling capabilities",
+        "answer": "It determines the amount of data that can be stored in a single block"
+    },
+    {
+        "question": "Which of the following file systems is used in Android devices?",
+        "optionA": "NTFS",
+        "optionB": "ext4",
+        "optionC": "FAT32",
+        "optionD": "exFAT",
+        "answer": "ext4"
+    },
+    {
+        "question": "Which of the following file systems supports disk quotas?",
+        "optionA": "ext3",
+        "optionB": "NTFS",
+        "optionC": "FAT32",
+        "optionD": "HFS+",
+        "answer": "ext3"
+    },
+    {
+        "question": "What is the purpose of the file system's metadata?",
+        "optionA": "To store the actual data of the file",
+        "optionB": "To store information about the file, such as its size and permissions",
+        "optionC": "To store backup copies of the file",
+        "optionD": "To store the file's name",
+        "answer": "To store information about the file, such as its size and permissions"
+    },
+    {
+        "question": "Which of the following file systems is optimized for SSDs?",
+        "optionA": "NTFS",
+        "optionB": "exFAT",
+        "optionC": "F2FS",
+        "optionD": "ext4",
+        "answer": "F2FS"
+    },
+    {
+        "question": "What is the maximum number of files supported by the ext3 file system?",
+        "optionA": "2^32",
+        "optionB": "2^64",
+        "optionC": "2^16",
+        "optionD": "2^10",
+        "answer": "2^32"
+    },
+    {
+        "question": "Which of the following file systems uses a log-structured approach?",
+        "optionA": "ext3",
+        "optionB": "ZFS",
+        "optionC": "JFS",
+        "optionD": "FAT32",
+        "answer": "JFS"
+    },
+    {
+        "question": "What is the maximum volume size supported by the FAT32 file system?",
+        "optionA": "16 TB",
+        "optionB": "8 TB",
+        "optionC": "4 GB",
+        "optionD": "2 TB",
+        "answer": "2 TB"
+    },
+    {
+        "question": "What is the primary advantage of using the HFS+ file system?",
+        "optionA": "Better performance on Windows systems",
+        "optionB": "Support for journaling and encryption",
+        "optionC": "Lower disk space usage",
+        "optionD": "Support for file compression",
+        "answer": "Support for journaling and encryption"
+    },
+    {
+        "question": "What is the purpose of the file system's superblock?",
+        "optionA": "To store the file's data",
+        "optionB": "To store information about the file system's structure and state",
+        "optionC": "To store the file's name",
+        "optionD": "To store the file's metadata",
+        "answer": "To store information about the file system's structure and state"
+    },
+    {
+        "question": "Which of the following file systems supports file-level encryption?",
+        "optionA": "ext4",
+        "optionB": "NTFS",
+        "optionC": "exFAT",
+        "optionD": "ZFS",
+        "answer": "NTFS"
+    },
+    {
+        "question": "Which of the following is a characteristic of a file system's inode?",
+        "optionA": "It stores the file's name",
+        "optionB": "It stores the file's data",
+        "optionC": "It stores the file's metadata",
+        "optionD": "It stores the file's permissions",
+        "answer": "It stores the file's metadata"
+    },
+    {
+        "question": "Which of the following file systems is used by the macOS operating system?",
+        "optionA": "ext4",
+        "optionB": "NTFS",
+        "optionC": "FAT32",
+        "optionD": "HFS+",
+        "answer": "HFS+"
+    },
+    {
+        "question": "What is the purpose of the file system's block group in ext4?",
+        "optionA": "To store metadata for the file system",
+        "optionB": "To group together blocks that are physically located near each other on the disk",
+        "optionC": "To track the file's access time",
+        "optionD": "To manage file compression",
+        "answer": "To group together blocks that are physically located near each other on the disk"
+    },
+    {
+        "question": "What is the maximum number of files supported by the exFAT file system?",
+        "optionA": "2^32",
+        "optionB": "2^64",
+        "optionC": "2^16",
+        "optionD": "2^10",
+        "answer": "2^32"
+    },
+    {
+        "question": "Which of the following file systems supports file deduplication?",
+        "optionA": "FAT32",
+        "optionB": "NTFS",
+        "optionC": "ZFS",
+        "optionD": "ext4",
+        "answer": "ZFS"
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "question": "Which of the following is a type of network topology?",
+        "optionA": "Star",
+        "optionB": "Circle",
+        "optionC": "Triangle",
+        "optionD": "Square",
+        "answer": "Star"
+    },
+    {
+        "question": "In which topology does each device have a dedicated point-to-point link to every other device?",
+        "optionA": "Mesh",
+        "optionB": "Star",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "Which topology is most commonly used in home networks?",
+        "optionA": "Bus",
+        "optionB": "Star",
+        "optionC": "Mesh",
+        "optionD": "Ring",
+        "answer": "Star"
+    },
+    {
+        "question": "Which of the following is an advantage of a bus topology?",
+        "optionA": "Easy to install",
+        "optionB": "Requires more cables",
+        "optionC": "High fault tolerance",
+        "optionD": "Requires no central device",
+        "answer": "Easy to install"
+    },
+    {
+        "question": "Which topology uses a central hub or switch to connect all devices?",
+        "optionA": "Ring",
+        "optionB": "Star",
+        "optionC": "Bus",
+        "optionD": "Mesh",
+        "answer": "Star"
+    },
+    {
+        "question": "In a ring topology, how is data transmitted?",
+        "optionA": "In a circular manner",
+        "optionB": "In a linear manner",
+        "optionC": "Via a central device",
+        "optionD": "In a star-shaped pattern",
+        "answer": "In a circular manner"
+    },
+    {
+        "question": "Which topology is highly fault-tolerant and provides multiple paths for data transmission?",
+        "optionA": "Mesh",
+        "optionB": "Bus",
+        "optionC": "Ring",
+        "optionD": "Star",
+        "answer": "Mesh"
+    },
+    {
+        "question": "Which of the following is a disadvantage of a bus topology?",
+        "optionA": "Requires a central device",
+        "optionB": "Difficult to expand",
+        "optionC": "If the main cable fails, the entire network is down",
+        "optionD": "High cost of installation",
+        "answer": "If the main cable fails, the entire network is down"
+    },
+    {
+        "question": "In a mesh topology, what happens if one link fails?",
+        "optionA": "The entire network fails",
+        "optionB": "The data is rerouted through other links",
+        "optionC": "The devices stop communicating",
+        "optionD": "The network reverts to a bus topology",
+        "answer": "The data is rerouted through other links"
+    },
+    {
+        "question": "Which topology is the least expensive to install?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Bus"
+    },
+    {
+        "question": "Which of the following is true about a hybrid topology?",
+        "optionA": "It combines two or more different topologies",
+        "optionB": "It is only used in large organizations",
+        "optionC": "It is always used with a bus topology",
+        "optionD": "It does not require any central device",
+        "answer": "It combines two or more different topologies"
+    },
+    {
+        "question": "Which topology is used in the backbone of a network?",
+        "optionA": "Bus",
+        "optionB": "Mesh",
+        "optionC": "Ring",
+        "optionD": "Star",
+        "answer": "Bus"
+    },
+    {
+        "question": "What is the main advantage of a star topology over a bus topology?",
+        "optionA": "It is more fault-tolerant",
+        "optionB": "It requires fewer cables",
+        "optionC": "It is cheaper to install",
+        "optionD": "It does not require a central device",
+        "answer": "It is more fault-tolerant"
+    },
+    {
+        "question": "Which topology uses a single cable to connect all devices in a line?",
+        "optionA": "Star",
+        "optionB": "Bus",
+        "optionC": "Mesh",
+        "optionD": "Ring",
+        "answer": "Bus"
+    },
+    {
+        "question": "Which topology is best suited for large-scale networks with a high volume of data?",
+        "optionA": "Mesh",
+        "optionB": "Star",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "Which topology is typically used in LANs for connecting multiple computers in a room?",
+        "optionA": "Mesh",
+        "optionB": "Star",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Star"
+    },
+    {
+        "question": "What is the key characteristic of a tree topology?",
+        "optionA": "It has a hierarchical structure",
+        "optionB": "It uses a single cable to connect all devices",
+        "optionC": "It is a combination of bus and ring topologies",
+        "optionD": "It has no central device",
+        "answer": "It has a hierarchical structure"
+    },
+    {
+        "question": "Which topology is often used in WANs?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "In a mesh topology, how many paths exist between two devices?",
+        "optionA": "One",
+        "optionB": "Two",
+        "optionC": "Multiple",
+        "optionD": "None",
+        "answer": "Multiple"
+    },
+    {
+        "question": "What is the main disadvantage of a ring topology?",
+        "optionA": "Data collisions are common",
+        "optionB": "It is difficult to install",
+        "optionC": "If one device fails, the entire network can be affected",
+        "optionD": "It requires a central device",
+        "answer": "If one device fails, the entire network can be affected"
+    },
+    {
+        "question": "Which topology is used in small office or home office (SOHO) networks?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Star"
+    },
+    {
+        "question": "Which of the following topologies is most scalable?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "In a hybrid topology, which two topologies are most commonly combined?",
+        "optionA": "Star and Mesh",
+        "optionB": "Bus and Ring",
+        "optionC": "Mesh and Ring",
+        "optionD": "Star and Bus",
+        "answer": "Star and Bus"
+    },
+    {
+        "question": "Which of the following is an advantage of mesh topology?",
+        "optionA": "Requires less cabling",
+        "optionB": "Provides redundancy and fault tolerance",
+        "optionC": "Is easy to install",
+        "optionD": "Is cheaper to install",
+        "answer": "Provides redundancy and fault tolerance"
+    },
+    {
+        "question": "Which of the following is a disadvantage of a mesh topology?",
+        "optionA": "Requires a central device",
+        "optionB": "Requires a lot of cabling",
+        "optionC": "Is easy to install",
+        "optionD": "Requires no central device",
+        "answer": "Requires a lot of cabling"
+    },
+    {
+        "question": "What is the main function of a central device in a star topology?",
+        "optionA": "To route data between devices",
+        "optionB": "To store data",
+        "optionC": "To manage network traffic",
+        "optionD": "To connect devices in a loop",
+        "answer": "To route data between devices"
+    },
+    {
+        "question": "Which topology is typically used in bus networks?",
+        "optionA": "Bus",
+        "optionB": "Mesh",
+        "optionC": "Ring",
+        "optionD": "Star",
+        "answer": "Bus"
+    },
+    {
+        "question": "What is the key characteristic of a star topology?",
+        "optionA": "It uses a central device to connect all devices",
+        "optionB": "It uses a single cable to connect all devices",
+        "optionC": "It has no central device",
+        "optionD": "It connects devices in a loop",
+        "answer": "It uses a central device to connect all devices"
+    },
+    {
+        "question": "Which topology uses a single cable to connect all devices in a network?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Bus"
+    },
+    {
+        "question": "Which topology is most suitable for large enterprise networks?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "What happens if the central hub fails in a star topology?",
+        "optionA": "The entire network fails",
+        "optionB": "The network continues to function normally",
+        "optionC": "The devices reconnect automatically",
+        "optionD": "The devices use a backup hub",
+        "answer": "The entire network fails"
+    },
+    {
+        "question": "Which topology is the most expensive to implement?",
+        "optionA": "Bus",
+        "optionB": "Star",
+        "optionC": "Mesh",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "Which of the following is a characteristic of a bus topology?",
+        "optionA": "Requires a central device",
+        "optionB": "Devices are connected in a line",
+        "optionC": "Uses a central hub",
+        "optionD": "Requires multiple links between devices",
+        "answer": "Devices are connected in a line"
+    },
+    {
+        "question": "In which topology do devices communicate with each other in a circular manner?",
+        "optionA": "Mesh",
+        "optionB": "Ring",
+        "optionC": "Star",
+        "optionD": "Bus",
+        "answer": "Ring"
+    },
+    {
+        "question": "Which topology is used for small networks with a limited number of devices?",
+        "optionA": "Bus",
+        "optionB": "Mesh",
+        "optionC": "Star",
+        "optionD": "Ring",
+        "answer": "Bus"
+    },
+    {
+        "question": "Which topology is most commonly used in wireless networks?",
+        "optionA": "Mesh",
+        "optionB": "Star",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Star"
+    },
+    {
+        "question": "Which topology is most commonly used in large data centers?",
+        "optionA": "Mesh",
+        "optionB": "Star",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "Which topology is used for simple home networks?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Star"
+    },
+    {
+        "question": "Which topology uses a single cable to connect all devices in a network?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Bus"
+    },
+    {
+        "question": "What is the primary disadvantage of a star topology?",
+        "optionA": "Requires more cabling",
+        "optionB": "Requires a central device",
+        "optionC": "Devices are connected in a line",
+        "optionD": "Devices are in a loop",
+        "answer": "Requires a central device"
+    },
+    {
+        "question": "Which of the following is true about a bus topology?",
+        "optionA": "It uses a central hub",
+        "optionB": "All devices share the same cable",
+        "optionC": "It is the most fault-tolerant",
+        "optionD": "It requires more cabling than other topologies",
+        "answer": "All devices share the same cable"
+    },
+    {
+        "question": "Which of the following is a key characteristic of a mesh topology?",
+        "optionA": "Requires a central device",
+        "optionB": "All devices are connected in a loop",
+        "optionC": "Each device is connected to every other device",
+        "optionD": "Uses a single cable to connect all devices",
+        "answer": "Each device is connected to every other device"
+    },
+    {
+        "question": "What is the key disadvantage of a mesh topology?",
+        "optionA": "Requires a central device",
+        "optionB": "Expensive to install and maintain",
+        "optionC": "Limited scalability",
+        "optionD": "Requires fewer cables than other topologies",
+        "answer": "Expensive to install and maintain"
+    },
+    {
+        "question": "Which topology is best suited for a network that requires high redundancy?",
+        "optionA": "Bus",
+        "optionB": "Mesh",
+        "optionC": "Star",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "In which topology does each device connect directly to every other device in the network?",
+        "optionA": "Bus",
+        "optionB": "Mesh",
+        "optionC": "Star",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "Which topology is most commonly used for connecting devices in a classroom or office environment?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Star"
+    },
+    {
+        "question": "What is the primary advantage of a ring topology?",
+        "optionA": "Easy to install",
+        "optionB": "High fault tolerance",
+        "optionC": "Data is transmitted in a specific direction",
+        "optionD": "Requires fewer cables than a star topology",
+        "answer": "Data is transmitted in a specific direction"
+    },
+    {
+        "question": "Which topology is commonly used in high-traffic networks such as data centers?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "What is the main disadvantage of a ring topology?",
+        "optionA": "If one device fails, the entire network can be affected",
+        "optionB": "It is difficult to expand",
+        "optionC": "Requires more cabling than a bus topology",
+        "optionD": "Requires a central device",
+        "answer": "If one device fails, the entire network can be affected"
+    },
+    {
+        "question": "Which of the following topologies is most commonly used in wireless networks?",
+        "optionA": "Bus",
+        "optionB": "Mesh",
+        "optionC": "Star",
+        "optionD": "Ring",
+        "answer": "Star"
+    },
+    {
+        "question": "Which of the following is an advantage of a hybrid topology?",
+        "optionA": "It combines the strengths of different topologies",
+        "optionB": "It requires no central device",
+        "optionC": "It is cheaper to install",
+        "optionD": "It requires fewer cables than other topologies",
+        "answer": "It combines the strengths of different topologies"
+    },
+    {
+        "question": "Which of the following is a characteristic of a tree topology?",
+        "optionA": "It has a hierarchical structure",
+        "optionB": "It uses a central hub to connect all devices",
+        "optionC": "It is a combination of bus and ring topologies",
+        "optionD": "It has no central device",
+        "answer": "It has a hierarchical structure"
+    },
+    {
+        "question": "Which topology is used in large-scale networks that require fault tolerance and redundancy?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "Which topology is most commonly used in wide area networks (WANs)?",
+        "optionA": "Bus",
+        "optionB": "Mesh",
+        "optionC": "Star",
+        "optionD": "Ring",
+        "answer": "Mesh"
+    },
+    {
+        "question": "What is the main advantage of a bus topology?",
+        "optionA": "It requires fewer cables",
+        "optionB": "It is easy to expand",
+        "optionC": "It is highly fault-tolerant",
+        "optionD": "It is easy to install",
+        "answer": "It is easy to install"
+    },
+    {
+        "question": "Which of the following topologies is best suited for a network that requires simple, low-cost installation?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Bus"
+    },
+    {
+        "question": "In which topology do all devices share a common communication medium?",
+        "optionA": "Star",
+        "optionB": "Mesh",
+        "optionC": "Bus",
+        "optionD": "Ring",
+        "answer": "Bus"
+    }
+]

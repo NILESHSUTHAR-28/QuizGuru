@@ -1,0 +1,466 @@
+[
+    {
+        "question": "What is the primary goal of artificial intelligence (AI)?",
+        "optionA": "To simulate human intelligence in machines",
+        "optionB": "To improve human decision-making",
+        "optionC": "To develop robots for industrial use",
+        "optionD": "To automate repetitive tasks",
+        "answer": "To simulate human intelligence in machines"
+    },
+    {
+        "question": "Which of the following is an example of AI in healthcare?",
+        "optionA": "AI-powered diagnostic tools",
+        "optionB": "Automated assembly lines",
+        "optionC": "Smart home devices",
+        "optionD": "Social media recommendation systems",
+        "answer": "AI-powered diagnostic tools"
+    },
+    {
+        "question": "What is machine learning?",
+        "optionA": "A method of programming machines to perform tasks",
+        "optionB": "A subset of AI that involves training algorithms on data",
+        "optionC": "A process of human-like thinking in machines",
+        "optionD": "A type of neural network used in AI",
+        "answer": "A subset of AI that involves training algorithms on data"
+    },
+    {
+        "question": "Which of the following is an example of supervised learning?",
+        "optionA": "Image classification",
+        "optionB": "Clustering customers based on purchasing behavior",
+        "optionC": "Game-playing agents",
+        "optionD": "Reinforcement learning algorithms",
+        "answer": "Image classification"
+    },
+    {
+        "question": "What is natural language processing (NLP) used for in AI?",
+        "optionA": "To recognize speech and generate text",
+        "optionB": "To understand and generate human language",
+        "optionC": "To process large datasets for pattern recognition",
+        "optionD": "To predict outcomes based on data",
+        "answer": "To understand and generate human language"
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "optionA": "A type of machine learning where agents learn by interacting with the environment",
+        "optionB": "A process of classifying data based on labeled examples",
+        "optionC": "A technique for unsupervised learning",
+        "optionD": "A method of training neural networks",
+        "answer": "A type of machine learning where agents learn by interacting with the environment"
+    },
+    {
+        "question": "Which AI application is commonly used in autonomous vehicles?",
+        "optionA": "Natural language processing",
+        "optionB": "Computer vision",
+        "optionC": "Reinforcement learning",
+        "optionD": "Sentiment analysis",
+        "answer": "Computer vision"
+    },
+    {
+        "question": "Which of the following is a common use case for AI in finance?",
+        "optionA": "Fraud detection",
+        "optionB": "Image recognition",
+        "optionC": "Voice assistants",
+        "optionD": "Content recommendation",
+        "answer": "Fraud detection"
+    },
+    {
+        "question": "What is a neural network in AI?",
+        "optionA": "A type of machine learning algorithm inspired by the human brain",
+        "optionB": "A system that mimics human decision-making",
+        "optionC": "A tool for natural language understanding",
+        "optionD": "A set of rules used to automate tasks",
+        "answer": "A type of machine learning algorithm inspired by the human brain"
+    },
+    {
+        "question": "What is the purpose of an AI chatbot?",
+        "optionA": "To provide customer support through automated conversations",
+        "optionB": "To assist in data analysis and visualization",
+        "optionC": "To process large amounts of data for predictions",
+        "optionD": "To recognize objects in images",
+        "answer": "To provide customer support through automated conversations"
+    },
+    {
+        "question": "Which of the following is an example of unsupervised learning?",
+        "optionA": "Clustering similar data points together",
+        "optionB": "Classifying emails as spam or not spam",
+        "optionC": "Predicting house prices based on historical data",
+        "optionD": "Training a model to recognize images of cats and dogs",
+        "answer": "Clustering similar data points together"
+    },
+    {
+        "question": "What is deep learning?",
+        "optionA": "A subset of machine learning that uses neural networks with many layers",
+        "optionB": "A process of analyzing large datasets",
+        "optionC": "A technique for processing natural language",
+        "optionD": "A method of supervised learning",
+        "answer": "A subset of machine learning that uses neural networks with many layers"
+    },
+    {
+        "question": "What is a key challenge in AI development?",
+        "optionA": "Lack of data",
+        "optionB": "Overfitting models to training data",
+        "optionC": "Limited computational power",
+        "optionD": "Ensuring models are explainable and interpretable",
+        "answer": "Ensuring models are explainable and interpretable"
+    },
+    {
+        "question": "Which of the following AI techniques is used for face recognition?",
+        "optionA": "Natural language processing",
+        "optionB": "Computer vision",
+        "optionC": "Speech recognition",
+        "optionD": "Reinforcement learning",
+        "answer": "Computer vision"
+    },
+    {
+        "question": "Which AI application is commonly used in e-commerce?",
+        "optionA": "Fraud detection",
+        "optionB": "Product recommendation systems",
+        "optionC": "Speech recognition",
+        "optionD": "Autonomous vehicles",
+        "answer": "Product recommendation systems"
+    },
+    {
+        "question": "What is the purpose of AI in predictive analytics?",
+        "optionA": "To generate random data for testing",
+        "optionB": "To analyze data and make future predictions",
+        "optionC": "To automate customer service tasks",
+        "optionD": "To recognize objects in images",
+        "answer": "To analyze data and make future predictions"
+    },
+    {
+        "question": "What is the role of AI in cybersecurity?",
+        "optionA": "Detecting and preventing security breaches",
+        "optionB": "Providing customer support through chatbots",
+        "optionC": "Analyzing customer behavior for marketing",
+        "optionD": "Generating random passwords",
+        "answer": "Detecting and preventing security breaches"
+    },
+    {
+        "question": "What is a decision tree in machine learning?",
+        "optionA": "A model that makes decisions based on a set of rules",
+        "optionB": "A type of neural network used for classification",
+        "optionC": "A method for processing large amounts of data",
+        "optionD": "A technique for clustering data points",
+        "answer": "A model that makes decisions based on a set of rules"
+    },
+    {
+        "question": "Which of the following is an example of AI in entertainment?",
+        "optionA": "Game-playing agents",
+        "optionB": "AI-powered video editing tools",
+        "optionC": "Recommendation systems for movies and music",
+        "optionD": "Speech-to-text systems",
+        "answer": "Recommendation systems for movies and music"
+    },
+    {
+        "question": "What is a convolutional neural network (CNN) used for?",
+        "optionA": "Speech recognition",
+        "optionB": "Image and video recognition",
+        "optionC": "Natural language processing",
+        "optionD": "Predicting stock prices",
+        "answer": "Image and video recognition"
+    },
+    {
+        "question": "Which of the following is an example of AI in marketing?",
+        "optionA": "Email spam filters",
+        "optionB": "Targeted advertising based on customer behavior",
+        "optionC": "Voice assistants",
+        "optionD": "Autonomous delivery drones",
+        "answer": "Targeted advertising based on customer behavior"
+    },
+    {
+        "question": "What is the purpose of AI in robotics?",
+        "optionA": "To create robots that can perform human-like tasks",
+        "optionB": "To analyze data for decision-making",
+        "optionC": "To process natural language",
+        "optionD": "To improve human decision-making",
+        "answer": "To create robots that can perform human-like tasks"
+    },
+    {
+        "question": "Which of the following is an AI technique used for speech recognition?",
+        "optionA": "Natural language processing",
+        "optionB": "Reinforcement learning",
+        "optionC": "Deep learning",
+        "optionD": "Support vector machines",
+        "answer": "Deep learning"
+    },
+    {
+        "question": "What is the purpose of an AI-powered recommendation system?",
+        "optionA": "To classify data into categories",
+        "optionB": "To suggest products or content based on user preferences",
+        "optionC": "To recognize speech",
+        "optionD": "To analyze customer behavior",
+        "answer": "To suggest products or content based on user preferences"
+    },
+    {
+        "question": "Which of the following is a key challenge in AI ethics?",
+        "optionA": "Ensuring AI models are fair and unbiased",
+        "optionB": "Increasing computational power",
+        "optionC": "Improving data storage techniques",
+        "optionD": "Developing faster algorithms",
+        "answer": "Ensuring AI models are fair and unbiased"
+    },
+    {
+        "question": "What is the role of AI in supply chain management?",
+        "optionA": "To automate customer support",
+        "optionB": "To optimize inventory and logistics",
+        "optionC": "To recognize patterns in customer behavior",
+        "optionD": "To classify data for marketing",
+        "answer": "To optimize inventory and logistics"
+    },
+    {
+        "question": "What is a support vector machine (SVM) used for in AI?",
+        "optionA": "To classify data into categories",
+        "optionB": "To process natural language",
+        "optionC": "To recognize images",
+        "optionD": "To predict future events",
+        "answer": "To classify data into categories"
+    },
+    {
+        "question": "What is the purpose of AI in customer service?",
+        "optionA": "To replace human workers entirely",
+        "optionB": "To automate repetitive tasks and provide support",
+        "optionC": "To analyze customer data for marketing",
+        "optionD": "To create personalized advertisements",
+        "answer": "To automate repetitive tasks and provide support"
+    },
+    {
+        "question": "Which AI technology is used for autonomous vehicles?",
+        "optionA": "Natural language processing",
+        "optionB": "Computer vision",
+        "optionC": "Speech recognition",
+        "optionD": "Reinforcement learning",
+        "answer": "Computer vision"
+    },
+    {
+        "question": "What is the primary purpose of AI in manufacturing?",
+        "optionA": "To automate production lines",
+        "optionB": "To analyze customer feedback",
+        "optionC": "To create personalized marketing strategies",
+        "optionD": "To recognize speech",
+        "answer": "To automate production lines"
+    },
+    {
+        "question": "What is the role of AI in fraud detection?",
+        "optionA": "To analyze patterns and identify fraudulent activities",
+        "optionB": "To automate customer support",
+        "optionC": "To create personalized advertisements",
+        "optionD": "To recognize images",
+        "answer": "To analyze patterns and identify fraudulent activities"
+    },
+    {
+        "question": "Which of the following is an example of AI in agriculture?",
+        "optionA": "Autonomous tractors",
+        "optionB": "Fraud detection systems",
+        "optionC": "Product recommendation systems",
+        "optionD": "Speech recognition systems",
+        "answer": "Autonomous tractors"
+    },
+    {
+        "question": "What is the purpose of AI in cybersecurity?",
+        "optionA": "To automate repetitive tasks",
+        "optionB": "To detect and prevent security breaches",
+        "optionC": "To recognize images",
+        "optionD": "To process large datasets",
+        "answer": "To detect and prevent security breaches"
+    },
+    {
+        "question": "What is the main function of an AI algorithm?",
+        "optionA": "To perform tasks based on predefined rules",
+        "optionB": "To simulate human thought processes",
+        "optionC": "To solve problems by learning from data",
+        "optionD": "To make decisions based on random data",
+        "answer": "To solve problems by learning from data"
+    },
+    {
+        "question": "What is a key feature of deep learning?",
+        "optionA": "Using shallow networks for simple tasks",
+        "optionB": "Leveraging multiple layers of neural networks",
+        "optionC": "Using decision trees for classification",
+        "optionD": "Applying reinforcement learning techniques",
+        "answer": "Leveraging multiple layers of neural networks"
+    },
+    {
+        "question": "What is the purpose of AI in virtual assistants?",
+        "optionA": "To assist in data analysis and decision-making",
+        "optionB": "To automate household chores",
+        "optionC": "To provide personalized responses to user queries",
+        "optionD": "To recognize human emotions",
+        "answer": "To provide personalized responses to user queries"
+    },
+    {
+        "question": "Which AI technology is used in self-driving cars for object detection?",
+        "optionA": "Speech recognition",
+        "optionB": "Natural language processing",
+        "optionC": "Computer vision",
+        "optionD": "Reinforcement learning",
+        "answer": "Computer vision"
+    },
+    {
+        "question": "Which of the following is an example of AI in customer relationship management?",
+        "optionA": "Automated email responses",
+        "optionB": "Fraud detection systems",
+        "optionC": "Product recommendation engines",
+        "optionD": "Customer sentiment analysis tools",
+        "answer": "Customer sentiment analysis tools"
+    },
+    {
+        "question": "What is the role of AI in personalizing user experiences?",
+        "optionA": "To automate content creation",
+        "optionB": "To tailor content and recommendations based on user preferences",
+        "optionC": "To analyze financial data",
+        "optionD": "To process customer feedback",
+        "answer": "To tailor content and recommendations based on user preferences"
+    },
+    {
+        "question": "What is a major advantage of using AI in predictive maintenance?",
+        "optionA": "To reduce the need for human workers",
+        "optionB": "To predict and prevent equipment failures before they occur",
+        "optionC": "To automate the production process",
+        "optionD": "To analyze customer behavior for marketing",
+        "answer": "To predict and prevent equipment failures before they occur"
+    },
+    {
+        "question": "What is a generative adversarial network (GAN) used for?",
+        "optionA": "To classify images into categories",
+        "optionB": "To generate new data samples that resemble real data",
+        "optionC": "To optimize supply chain management",
+        "optionD": "To improve customer service",
+        "answer": "To generate new data samples that resemble real data"
+    },
+    {
+        "question": "Which of the following is an example of AI in healthcare diagnostics?",
+        "optionA": "AI-powered robotic surgery",
+        "optionB": "AI-powered diagnostic imaging tools",
+        "optionC": "AI-based drug development",
+        "optionD": "AI-assisted physical therapy",
+        "answer": "AI-powered diagnostic imaging tools"
+    },
+    {
+        "question": "What is the purpose of AI in language translation?",
+        "optionA": "To recognize speech patterns",
+        "optionB": "To generate human-like voices",
+        "optionC": "To translate text or speech from one language to another",
+        "optionD": "To analyze the sentiment of text",
+        "answer": "To translate text or speech from one language to another"
+    },
+    {
+        "question": "Which of the following AI techniques is used for anomaly detection?",
+        "optionA": "Natural language processing",
+        "optionB": "Clustering",
+        "optionC": "Reinforcement learning",
+        "optionD": "Neural networks",
+        "answer": "Clustering"
+    },
+    {
+        "question": "What is the role of AI in fraud prevention?",
+        "optionA": "To automate customer service tasks",
+        "optionB": "To detect unusual patterns and behaviors indicative of fraud",
+        "optionC": "To predict customer needs",
+        "optionD": "To recommend products to customers",
+        "answer": "To detect unusual patterns and behaviors indicative of fraud"
+    },
+    {
+        "question": "What is the purpose of AI in autonomous drones?",
+        "optionA": "To analyze flight patterns",
+        "optionB": "To automate the navigation and control of drones",
+        "optionC": "To improve customer service",
+        "optionD": "To process large amounts of data",
+        "answer": "To automate the navigation and control of drones"
+    },
+    {
+        "question": "What is the main purpose of AI in chatbots?",
+        "optionA": "To simulate human emotions",
+        "optionB": "To engage in complex conversations with users",
+        "optionC": "To assist users by answering questions and providing support",
+        "optionD": "To automate data processing tasks",
+        "answer": "To assist users by answering questions and providing support"
+    },
+    {
+        "question": "Which AI technique is commonly used for predictive analytics?",
+        "optionA": "Natural language processing",
+        "optionB": "Regression analysis",
+        "optionC": "Deep learning",
+        "optionD": "Clustering",
+        "answer": "Regression analysis"
+    },
+    {
+        "question": "What is the purpose of AI in smart homes?",
+        "optionA": "To control devices based on user preferences",
+        "optionB": "To automate cooking and cleaning",
+        "optionC": "To analyze household data for marketing",
+        "optionD": "To improve customer service",
+        "answer": "To control devices based on user preferences"
+    },
+    {
+        "question": "What is a key advantage of AI in supply chain optimization?",
+        "optionA": "It automates customer service tasks",
+        "optionB": "It predicts demand and optimizes inventory levels",
+        "optionC": "It generates marketing strategies",
+        "optionD": "It improves employee performance",
+        "answer": "It predicts demand and optimizes inventory levels"
+    },
+    {
+        "question": "Which AI technology is commonly used in image recognition?",
+        "optionA": "Reinforcement learning",
+        "optionB": "Convolutional neural networks (CNNs)",
+        "optionC": "Support vector machines (SVMs)",
+        "optionD": "Deep learning algorithms",
+        "answer": "Convolutional neural networks (CNNs)"
+    },
+    {
+        "question": "What is the role of AI in personalized marketing?",
+        "optionA": "To automate customer support",
+        "optionB": "To predict customer preferences and tailor content accordingly",
+        "optionC": "To analyze financial transactions",
+        "optionD": "To create personalized advertisements",
+        "answer": "To predict customer preferences and tailor content accordingly"
+    },
+    {
+        "question": "What is a major challenge in AI for autonomous vehicles?",
+        "optionA": "Developing AI algorithms that can recognize objects in real-time",
+        "optionB": "Creating AI that can predict human emotions",
+        "optionC": "Training AI to recognize speech",
+        "optionD": "Automating customer service",
+        "answer": "Developing AI algorithms that can recognize objects in real-time"
+    },
+    {
+        "question": "What is the role of AI in education?",
+        "optionA": "To create personalized learning experiences for students",
+        "optionB": "To automate administrative tasks",
+        "optionC": "To analyze teacher performance",
+        "optionD": "To recognize handwriting",
+        "answer": "To create personalized learning experiences for students"
+    },
+    {
+        "question": "Which AI technique is used for creating synthetic data?",
+        "optionA": "Generative adversarial networks (GANs)",
+        "optionB": "Reinforcement learning",
+        "optionC": "Deep learning",
+        "optionD": "Decision trees",
+        "answer": "Generative adversarial networks (GANs)"
+    },
+    {
+        "question": "What is the purpose of AI in voice assistants?",
+        "optionA": "To simulate human speech",
+        "optionB": "To recognize and process spoken commands",
+        "optionC": "To analyze customer behavior",
+        "optionD": "To generate recommendations based on voice input",
+        "answer": "To recognize and process spoken commands"
+    },
+    {
+        "question": "Which AI technology is commonly used for handwriting recognition?",
+        "optionA": "Natural language processing",
+        "optionB": "Computer vision",
+        "optionC": "Speech recognition",
+        "optionD": "Deep learning",
+        "answer": "Computer vision"
+    },
+    {
+        "question": "What is the role of AI in healthcare drug discovery?",
+        "optionA": "To automate medical imaging",
+        "optionB": "To predict the efficacy of drugs and treatments",
+        "optionC": "To monitor patient health in real-time",
+        "optionD": "To provide customer support",
+        "answer": "To predict the efficacy of drugs and treatments"
+    }
+]

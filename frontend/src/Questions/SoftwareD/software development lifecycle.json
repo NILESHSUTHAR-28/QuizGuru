@@ -1,0 +1,442 @@
+[
+    {
+        "question": "What is the first phase in the Software Development Life Cycle?",
+        "optionA": "Design",
+        "optionB": "Development",
+        "optionC": "Requirement Gathering",
+        "optionD": "Testing",
+        "answer": "Requirement Gathering"
+    },
+    {
+        "question": "Which SDLC phase focuses on understanding and documenting the business needs?",
+        "optionA": "Design",
+        "optionB": "Implementation",
+        "optionC": "Requirement Gathering",
+        "optionD": "Maintenance",
+        "answer": "Requirement Gathering"
+    },
+    {
+        "question": "Which of the following is NOT a typical SDLC model?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Scrum",
+        "optionD": "Project Management",
+        "answer": "Project Management"
+    },
+    {
+        "question": "In which SDLC phase is the system architecture designed?",
+        "optionA": "Design",
+        "optionB": "Planning",
+        "optionC": "Implementation",
+        "optionD": "Testing",
+        "answer": "Design"
+    },
+    {
+        "question": "Which SDLC model is known for its linear and sequential approach?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Waterfall"
+    },
+    {
+        "question": "What is the main goal of the testing phase in SDLC?",
+        "optionA": "Fix bugs",
+        "optionB": "Develop new features",
+        "optionC": "Validate system functionality",
+        "optionD": "Deploy the system",
+        "answer": "Validate system functionality"
+    },
+    {
+        "question": "Which SDLC model emphasizes iterative development and flexibility?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "V-Model",
+        "optionD": "Spiral",
+        "answer": "Agile"
+    },
+    {
+        "question": "What is the focus of the implementation phase in SDLC?",
+        "optionA": "Writing code",
+        "optionB": "Requirement gathering",
+        "optionC": "System testing",
+        "optionD": "Deployment",
+        "answer": "Writing code"
+    },
+    {
+        "question": "Which of the following SDLC models uses prototypes to represent the system during development?",
+        "optionA": "Waterfall",
+        "optionB": "Spiral",
+        "optionC": "Prototyping",
+        "optionD": "Agile",
+        "answer": "Prototyping"
+    },
+    {
+        "question": "What is the main purpose of the maintenance phase in SDLC?",
+        "optionA": "Fix bugs",
+        "optionB": "Add new features",
+        "optionC": "Monitor system performance",
+        "optionD": "Deploy the system",
+        "answer": "Fix bugs"
+    },
+    {
+        "question": "In the V-Model, which phase directly follows the coding phase?",
+        "optionA": "Unit Testing",
+        "optionB": "Integration Testing",
+        "optionC": "System Testing",
+        "optionD": "Requirement Gathering",
+        "answer": "Unit Testing"
+    },
+    {
+        "question": "Which SDLC model is best suited for projects with well-defined requirements?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Waterfall"
+    },
+    {
+        "question": "Which of the following is a key characteristic of the Agile SDLC model?",
+        "optionA": "Strict adherence to a linear process",
+        "optionB": "Frequent releases and iterations",
+        "optionC": "Large teams with little collaboration",
+        "optionD": "No user involvement",
+        "answer": "Frequent releases and iterations"
+    },
+    {
+        "question": "In which SDLC phase is the system deployed to the production environment?",
+        "optionA": "Design",
+        "optionB": "Development",
+        "optionC": "Testing",
+        "optionD": "Deployment",
+        "answer": "Deployment"
+    },
+    {
+        "question": "What is the purpose of a prototype in the Prototyping model?",
+        "optionA": "To define the system requirements",
+        "optionB": "To test the system after deployment",
+        "optionC": "To demonstrate system functionality to users",
+        "optionD": "To design the system architecture",
+        "answer": "To demonstrate system functionality to users"
+    },
+    {
+        "question": "Which of the following is a disadvantage of the Waterfall model?",
+        "optionA": "Inflexibility in handling changes",
+        "optionB": "Lack of documentation",
+        "optionC": "High cost",
+        "optionD": "Frequent releases",
+        "answer": "Inflexibility in handling changes"
+    },
+    {
+        "question": "Which SDLC phase is responsible for gathering requirements from stakeholders?",
+        "optionA": "Planning",
+        "optionB": "Design",
+        "optionC": "Requirement Gathering",
+        "optionD": "Testing",
+        "answer": "Requirement Gathering"
+    },
+    {
+        "question": "Which of the following is true about the Agile SDLC model?",
+        "optionA": "It is based on a rigid, linear approach",
+        "optionB": "It emphasizes customer collaboration over contract negotiation",
+        "optionC": "It avoids user feedback",
+        "optionD": "It requires a single phase for development",
+        "answer": "It emphasizes customer collaboration over contract negotiation"
+    },
+    {
+        "question": "Which SDLC model is known for its risk-driven approach and iterative nature?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Spiral"
+    },
+    {
+        "question": "What is the main disadvantage of the Agile model?",
+        "optionA": "Lack of documentation",
+        "optionB": "Slow development process",
+        "optionC": "Difficulty in accommodating changes",
+        "optionD": "Requires a large, centralized team",
+        "answer": "Lack of documentation"
+    },
+    {
+        "question": "Which SDLC model uses iterative development with rapid feedback from users?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Agile"
+    },
+    {
+        "question": "Which phase in SDLC focuses on identifying and fixing bugs in the system?",
+        "optionA": "Design",
+        "optionB": "Testing",
+        "optionC": "Requirement Gathering",
+        "optionD": "Maintenance",
+        "answer": "Testing"
+    },
+    {
+        "question": "Which of the following is NOT a common Agile practice?",
+        "optionA": "Sprint Planning",
+        "optionB": "Continuous Integration",
+        "optionC": "Waterfall Documentation",
+        "optionD": "Daily Standups",
+        "answer": "Waterfall Documentation"
+    },
+    {
+        "question": "What does the 'S' in SDLC stand for?",
+        "optionA": "System",
+        "optionB": "Software",
+        "optionC": "Security",
+        "optionD": "Service",
+        "answer": "Software"
+    },
+    {
+        "question": "In which SDLC phase are system requirements validated?",
+        "optionA": "Design",
+        "optionB": "Testing",
+        "optionC": "Requirement Gathering",
+        "optionD": "Deployment",
+        "answer": "Testing"
+    },
+    {
+        "question": "Which SDLC model is best suited for projects with evolving or unclear requirements?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Agile"
+    },
+    {
+        "question": "What is the main benefit of the V-Model?",
+        "optionA": "Parallel development and testing",
+        "optionB": "Frequent releases",
+        "optionC": "Flexibility in handling changes",
+        "optionD": "Clear and structured approach to testing",
+        "answer": "Parallel development and testing"
+    },
+    {
+        "question": "Which SDLC phase is responsible for system deployment and user training?",
+        "optionA": "Testing",
+        "optionB": "Deployment",
+        "optionC": "Requirement Gathering",
+        "optionD": "Design",
+        "answer": "Deployment"
+    },
+    {
+        "question": "What is the focus of the maintenance phase in SDLC?",
+        "optionA": "Fixing defects",
+        "optionB": "Developing new features",
+        "optionC": "Monitoring performance",
+        "optionD": "System design",
+        "answer": "Fixing defects"
+    },
+    {
+        "question": "Which SDLC model involves continuous iteration and incremental releases?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Agile"
+    },
+    {
+        "question": "What is the purpose of the requirement gathering phase in SDLC?",
+        "optionA": "Developing the code",
+        "optionB": "Testing the system",
+        "optionC": "Defining the system requirements",
+        "optionD": "Deploying the system",
+        "answer": "Defining the system requirements"
+    },
+    {
+        "question": "Which of the following SDLC models is best suited for small projects with limited complexity?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Waterfall"
+    },
+    {
+        "question": "Which SDLC model is typically used for projects that require extensive documentation?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Waterfall"
+    },
+    {
+        "question": "Which of the following is a major benefit of the Spiral SDLC model?",
+        "optionA": "Risk management",
+        "optionB": "Rapid prototyping",
+        "optionC": "Fixed scope",
+        "optionD": "Less documentation",
+        "answer": "Risk management"
+    },
+    {
+        "question": "Which of the following is NOT an SDLC phase?",
+        "optionA": "Requirement Gathering",
+        "optionB": "Design",
+        "optionC": "Integration",
+        "optionD": "Deployment",
+        "answer": "Integration"
+    },
+    {
+        "question": "Which SDLC model is often used for highly complex and risky projects?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Spiral"
+    },
+    {
+        "question": "What is the main focus of the planning phase in SDLC?",
+        "optionA": "System deployment",
+        "optionB": "Defining project scope and resources",
+        "optionC": "Writing code",
+        "optionD": "System testing",
+        "answer": "Defining project scope and resources"
+    },
+    {
+        "question": "Which SDLC model is known for its flexibility and adaptability in response to changing requirements?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Agile"
+    },
+    {
+        "question": "Which of the following is an advantage of the Waterfall model?",
+        "optionA": "Frequent changes in requirements",
+        "optionB": "Clear project milestones",
+        "optionC": "Iterative development",
+        "optionD": "User feedback integration",
+        "answer": "Clear project milestones"
+    },
+    {
+        "question": "In the V-Model, which phase corresponds to the system design phase?",
+        "optionA": "System Testing",
+        "optionB": "Integration Testing",
+        "optionC": "Design",
+        "optionD": "Requirement Gathering",
+        "answer": "Design"
+    },
+    {
+        "question": "Which SDLC phase involves evaluating the system for performance and scalability?",
+        "optionA": "Testing",
+        "optionB": "Design",
+        "optionC": "Requirement Gathering",
+        "optionD": "Maintenance",
+        "answer": "Testing"
+    },
+    {
+        "question": "Which of the following is a key benefit of the Spiral model?",
+        "optionA": "Detailed documentation",
+        "optionB": "Risk management through iterative cycles",
+        "optionC": "Strict adherence to schedules",
+        "optionD": "Frequent user feedback",
+        "answer": "Risk management through iterative cycles"
+    },
+    {
+        "question": "What is the primary focus of the requirements analysis phase in SDLC?",
+        "optionA": "Creating the system architecture",
+        "optionB": "Gathering and analyzing business requirements",
+        "optionC": "Deploying the system",
+        "optionD": "Testing system functionality",
+        "answer": "Gathering and analyzing business requirements"
+    },
+    {
+        "question": "Which SDLC phase ensures that the system meets the business requirements?",
+        "optionA": "Design",
+        "optionB": "Testing",
+        "optionC": "Requirement Gathering",
+        "optionD": "Implementation",
+        "answer": "Testing"
+    },
+    {
+        "question": "Which SDLC model focuses on continuous feedback and improvement from end users?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Agile"
+    },
+    {
+        "question": "Which SDLC model is best suited for projects with well-defined and unchanging requirements?",
+        "optionA": "Agile",
+        "optionB": "Waterfall",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Waterfall"
+    },
+    {
+        "question": "Which SDLC phase focuses on writing the system's code based on the design specifications?",
+        "optionA": "Testing",
+        "optionB": "Design",
+        "optionC": "Implementation",
+        "optionD": "Deployment",
+        "answer": "Implementation"
+    },
+    {
+        "question": "In which SDLC model is the testing phase conducted after each development cycle?",
+        "optionA": "Waterfall",
+        "optionB": "Agile",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Agile"
+    },
+    {
+        "question": "Which SDLC phase is concerned with monitoring and optimizing the system after it is deployed?",
+        "optionA": "Design",
+        "optionB": "Maintenance",
+        "optionC": "Requirement Gathering",
+        "optionD": "Testing",
+        "answer": "Maintenance"
+    },
+    {
+        "question": "Which of the following is a disadvantage of the Agile model?",
+        "optionA": "Inability to accommodate changes",
+        "optionB": "Lack of documentation",
+        "optionC": "High upfront cost",
+        "optionD": "Long development cycles",
+        "answer": "Lack of documentation"
+    },
+    {
+        "question": "Which SDLC phase focuses on ensuring that the system meets the technical specifications?",
+        "optionA": "Design",
+        "optionB": "Testing",
+        "optionC": "Implementation",
+        "optionD": "Maintenance",
+        "answer": "Testing"
+    },
+    {
+        "question": "Which of the following is a disadvantage of the Waterfall model?",
+        "optionA": "Clear documentation and structure",
+        "optionB": "Inflexibility in handling changes",
+        "optionC": "Iterative development",
+        "optionD": "Continuous user feedback",
+        "answer": "Inflexibility in handling changes"
+    },
+    {
+        "question": "What is the primary objective of the maintenance phase in SDLC?",
+        "optionA": "Fixing bugs and defects",
+        "optionB": "Designing the system architecture",
+        "optionC": "Gathering user feedback",
+        "optionD": "Deploying the system",
+        "answer": "Fixing bugs and defects"
+    },
+    {
+        "question": "Which SDLC model involves detailed documentation and clearly defined phases?",
+        "optionA": "Agile",
+        "optionB": "Waterfall",
+        "optionC": "Spiral",
+        "optionD": "V-Model",
+        "answer": "Waterfall"
+    },
+    {
+        "question": "Which SDLC phase focuses on testing the system's individual components?",
+        "optionA": "Unit Testing",
+        "optionB": "Integration Testing",
+        "optionC": "System Testing",
+        "optionD": "Acceptance Testing",
+        "answer": "Unit Testing"
+    }
+]

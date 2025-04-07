@@ -1,0 +1,482 @@
+[
+    {
+        "question": "Which of the following is a popular library for numerical computations in Python?",
+        "optionA": "NumPy",
+        "optionB": "Matplotlib",
+        "optionC": "Scikit-learn",
+        "optionD": "Pandas",
+        "answer": "NumPy"
+    },
+    {
+        "question": "Which library is commonly used for data manipulation and analysis in Python?",
+        "optionA": "NumPy",
+        "optionB": "Pandas",
+        "optionC": "Seaborn",
+        "optionD": "Matplotlib",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which library is used for creating static, animated, and interactive visualizations in Python?",
+        "optionA": "Matplotlib",
+        "optionB": "NumPy",
+        "optionC": "Scikit-learn",
+        "optionD": "Pandas",
+        "answer": "Matplotlib"
+    },
+    {
+        "question": "Which of the following libraries is used for machine learning in Python?",
+        "optionA": "TensorFlow",
+        "optionB": "NumPy",
+        "optionC": "Pandas",
+        "optionD": "Matplotlib",
+        "answer": "TensorFlow"
+    },
+    {
+        "question": "What is the primary function of the Pandas library?",
+        "optionA": "Data manipulation and analysis",
+        "optionB": "Data visualization",
+        "optionC": "Machine learning",
+        "optionD": "Numerical computations",
+        "answer": "Data manipulation and analysis"
+    },
+    {
+        "question": "Which of the following libraries is used for data visualization in Python?",
+        "optionA": "Matplotlib",
+        "optionB": "TensorFlow",
+        "optionC": "Scikit-learn",
+        "optionD": "Pandas",
+        "answer": "Matplotlib"
+    },
+    {
+        "question": "Which Python library is used for statistical data visualization?",
+        "optionA": "Seaborn",
+        "optionB": "NumPy",
+        "optionC": "Pandas",
+        "optionD": "Matplotlib",
+        "answer": "Seaborn"
+    },
+    {
+        "question": "Which library is used for deep learning in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "TensorFlow",
+        "optionC": "Matplotlib",
+        "optionD": "Pandas",
+        "answer": "TensorFlow"
+    },
+    {
+        "question": "Which library is best known for machine learning algorithms and tools?",
+        "optionA": "Scikit-learn",
+        "optionB": "TensorFlow",
+        "optionC": "Pandas",
+        "optionD": "Matplotlib",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "What is the purpose of the NumPy library in Python?",
+        "optionA": "Data manipulation",
+        "optionB": "Data visualization",
+        "optionC": "Numerical computations",
+        "optionD": "Machine learning",
+        "answer": "Numerical computations"
+    },
+    {
+        "question": "Which library provides tools for handling arrays and matrices in Python?",
+        "optionA": "NumPy",
+        "optionB": "Matplotlib",
+        "optionC": "Seaborn",
+        "optionD": "Pandas",
+        "answer": "NumPy"
+    },
+    {
+        "question": "Which library is used for working with large datasets in Python?",
+        "optionA": "Pandas",
+        "optionB": "Scikit-learn",
+        "optionC": "NumPy",
+        "optionD": "TensorFlow",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which Python library is used for working with time series data?",
+        "optionA": "Pandas",
+        "optionB": "Matplotlib",
+        "optionC": "NumPy",
+        "optionD": "Seaborn",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which of the following libraries is used for machine learning in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "Pandas",
+        "optionC": "NumPy",
+        "optionD": "Matplotlib",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which library is used to train and evaluate machine learning models in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "NumPy",
+        "optionC": "Pandas",
+        "optionD": "TensorFlow",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which Python library is used for data wrangling and cleaning?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Matplotlib",
+        "optionD": "Scikit-learn",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which library is used for creating neural networks in Python?",
+        "optionA": "TensorFlow",
+        "optionB": "Matplotlib",
+        "optionC": "Scikit-learn",
+        "optionD": "Pandas",
+        "answer": "TensorFlow"
+    },
+    {
+        "question": "Which of the following is used to handle missing data in Python?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Matplotlib",
+        "optionD": "Seaborn",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which library is best for working with large datasets in Python?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Scikit-learn",
+        "optionD": "TensorFlow",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which library is used for handling and manipulating data frames in Python?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Matplotlib",
+        "optionD": "Seaborn",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which of the following is used to create machine learning models in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "Matplotlib",
+        "optionC": "Pandas",
+        "optionD": "NumPy",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which Python library is used to implement deep learning algorithms?",
+        "optionA": "TensorFlow",
+        "optionB": "Scikit-learn",
+        "optionC": "NumPy",
+        "optionD": "Matplotlib",
+        "answer": "TensorFlow"
+    },
+    {
+        "question": "Which of the following libraries is used for statistical modeling in Python?",
+        "optionA": "Statsmodels",
+        "optionB": "Seaborn",
+        "optionC": "Scikit-learn",
+        "optionD": "TensorFlow",
+        "answer": "Statsmodels"
+    },
+    {
+        "question": "Which of the following is used to create static visualizations in Python?",
+        "optionA": "Matplotlib",
+        "optionB": "Pandas",
+        "optionC": "NumPy",
+        "optionD": "Scikit-learn",
+        "answer": "Matplotlib"
+    },
+    {
+        "question": "Which Python library is used for linear regression and other statistical models?",
+        "optionA": "Statsmodels",
+        "optionB": "Scikit-learn",
+        "optionC": "TensorFlow",
+        "optionD": "Pandas",
+        "answer": "Statsmodels"
+    },
+    {
+        "question": "Which library is used for performing machine learning tasks such as classification and regression?",
+        "optionA": "Scikit-learn",
+        "optionB": "TensorFlow",
+        "optionC": "Pandas",
+        "optionD": "NumPy",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which library is used for handling and analyzing large data sets?",
+        "optionA": "Dask",
+        "optionB": "Pandas",
+        "optionC": "NumPy",
+        "optionD": "Seaborn",
+        "answer": "Dask"
+    },
+    {
+        "question": "Which of the following libraries is used for building and evaluating machine learning models?",
+        "optionA": "Scikit-learn",
+        "optionB": "Matplotlib",
+        "optionC": "NumPy",
+        "optionD": "Pandas",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which Python library is best for working with multi-dimensional arrays?",
+        "optionA": "NumPy",
+        "optionB": "Pandas",
+        "optionC": "Matplotlib",
+        "optionD": "Scikit-learn",
+        "answer": "NumPy"
+    },
+    {
+        "question": "Which library is commonly used for creating 3D visualizations in Python?",
+        "optionA": "Matplotlib",
+        "optionB": "NumPy",
+        "optionC": "Pandas",
+        "optionD": "Seaborn",
+        "answer": "Matplotlib"
+    },
+    {
+        "question": "Which library is best for performing complex mathematical computations in Python?",
+        "optionA": "NumPy",
+        "optionB": "Pandas",
+        "optionC": "Scikit-learn",
+        "optionD": "Matplotlib",
+        "answer": "NumPy"
+    },
+    {
+        "question": "Which of the following libraries is used for handling time series data?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Scikit-learn",
+        "optionD": "Matplotlib",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which Python library is used for statistical data analysis?",
+        "optionA": "Statsmodels",
+        "optionB": "Seaborn",
+        "optionC": "NumPy",
+        "optionD": "Matplotlib",
+        "answer": "Statsmodels"
+    },
+    {
+        "question": "Which library is used for working with data frames in Python?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Matplotlib",
+        "optionD": "Seaborn",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which of the following libraries is used for working with decision trees in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "TensorFlow",
+        "optionC": "Pandas",
+        "optionD": "Matplotlib",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which Python library is used for performing linear regression?",
+        "optionA": "Scikit-learn",
+        "optionB": "NumPy",
+        "optionC": "Pandas",
+        "optionD": "Matplotlib",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which of the following is used for handling missing data in Python?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Matplotlib",
+        "optionD": "Scikit-learn",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which library is used for building machine learning pipelines in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "TensorFlow",
+        "optionC": "Pandas",
+        "optionD": "NumPy",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which library is commonly used for natural language processing tasks in Python?",
+        "optionA": "NLTK",
+        "optionB": "NumPy",
+        "optionC": "Matplotlib",
+        "optionD": "Pandas",
+        "answer": "NLTK"
+    },
+    {
+        "question": "Which of the following is used to perform time series analysis in Python?",
+        "optionA": "Pandas",
+        "optionB": "Scikit-learn",
+        "optionC": "Statsmodels",
+        "optionD": "TensorFlow",
+        "answer": "Statsmodels"
+    },
+    {
+        "question": "Which Python library is used for creating deep learning models?",
+        "optionA": "TensorFlow",
+        "optionB": "Scikit-learn",
+        "optionC": "Matplotlib",
+        "optionD": "Pandas",
+        "answer": "TensorFlow"
+    },
+    {
+        "question": "Which of the following is used for data manipulation and transformation in Python?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Matplotlib",
+        "optionD": "Scikit-learn",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which library is used for performing matrix operations in Python?",
+        "optionA": "NumPy",
+        "optionB": "Pandas",
+        "optionC": "Scikit-learn",
+        "optionD": "Matplotlib",
+        "answer": "NumPy"
+    },
+    {
+        "question": "Which Python library is used for performing clustering algorithms?",
+        "optionA": "Scikit-learn",
+        "optionB": "NumPy",
+        "optionC": "TensorFlow",
+        "optionD": "Pandas",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which library is used for handling categorical data in Python?",
+        "optionA": "Pandas",
+        "optionB": "NumPy",
+        "optionC": "Scikit-learn",
+        "optionD": "TensorFlow",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which of the following is used for creating interactive visualizations in Python?",
+        "optionA": "Plotly",
+        "optionB": "Matplotlib",
+        "optionC": "Pandas",
+        "optionD": "Seaborn",
+        "answer": "Plotly"
+    },
+    {
+        "question": "Which library is used for creating machine learning models with decision trees in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "TensorFlow",
+        "optionC": "Pandas",
+        "optionD": "Matplotlib",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which library is used for generating random numbers in Python?",
+        "optionA": "NumPy",
+        "optionB": "Pandas",
+        "optionC": "Scikit-learn",
+        "optionD": "Matplotlib",
+        "answer": "NumPy"
+    },
+    {
+        "question": "Which Python library is used for optimization problems?",
+        "optionA": "SciPy",
+        "optionB": "NumPy",
+        "optionC": "Pandas",
+        "optionD": "Scikit-learn",
+        "answer": "SciPy"
+    },
+    {
+        "question": "Which of the following libraries is used for creating machine learning models in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "Pandas",
+        "optionC": "TensorFlow",
+        "optionD": "Matplotlib",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which library is used for creating time series plots in Python?",
+        "optionA": "Matplotlib",
+        "optionB": "Pandas",
+        "optionC": "NumPy",
+        "optionD": "Seaborn",
+        "answer": "Matplotlib"
+    },
+    {
+        "question": "Which Python library is used for statistical hypothesis testing?",
+        "optionA": "SciPy",
+        "optionB": "Pandas",
+        "optionC": "NumPy",
+        "optionD": "Seaborn",
+        "answer": "SciPy"
+    },
+    {
+        "question": "Which library is used for building neural networks in Python?",
+        "optionA": "TensorFlow",
+        "optionB": "Scikit-learn",
+        "optionC": "Matplotlib",
+        "optionD": "Pandas",
+        "answer": "TensorFlow"
+    },
+    {
+        "question": "Which of the following is used for creating bar plots in Python?",
+        "optionA": "Matplotlib",
+        "optionB": "Pandas",
+        "optionC": "NumPy",
+        "optionD": "Seaborn",
+        "answer": "Matplotlib"
+    },
+    {
+        "question": "Which library is used for working with image data in Python?",
+        "optionA": "Pillow",
+        "optionB": "Pandas",
+        "optionC": "NumPy",
+        "optionD": "Scikit-learn",
+        "answer": "Pillow"
+    },
+    {
+        "question": "Which of the following is used for performing regression analysis in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "Pandas",
+        "optionC": "NumPy",
+        "optionD": "Matplotlib",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which Python library is used for creating histograms in Python?",
+        "optionA": "Matplotlib",
+        "optionB": "Seaborn",
+        "optionC": "Pandas",
+        "optionD": "NumPy",
+        "answer": "Matplotlib"
+    },
+    {
+        "question": "Which library is used for performing regression tasks in Python?",
+        "optionA": "Scikit-learn",
+        "optionB": "TensorFlow",
+        "optionC": "Pandas",
+        "optionD": "NumPy",
+        "answer": "Scikit-learn"
+    },
+    {
+        "question": "Which library is used for data aggregation in Python?",
+        "optionA": "Pandas",
+        "optionB": "Scikit-learn",
+        "optionC": "NumPy",
+        "optionD": "Matplotlib",
+        "answer": "Pandas"
+    },
+    {
+        "question": "Which Python library is used for implementing k-means clustering?",
+        "optionA": "Scikit-learn",
+        "optionB": "TensorFlow",
+        "optionC": "NumPy",
+        "optionD": "Matplotlib",
+        "answer": "Scikit-learn"
+    }
+]

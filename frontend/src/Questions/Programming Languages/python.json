@@ -1,0 +1,834 @@
+[
+    {
+        "question": "What is the output of the following code?\nprint(type(3.14))",
+        "optionA": "<class 'int'>",
+        "optionB": "<class 'float'>",
+        "optionC": "<class 'str'>",
+        "optionD": "<class 'complex'>",
+        "answer": "<class 'float'>"
+    },
+    {
+        "question": "What is the result of 3 ** 2 in Python?",
+        "optionA": "9",
+        "optionB": "6",
+        "optionC": "5",
+        "optionD": "8",
+        "answer": "9"
+    },
+    {
+        "question": "What does the 'len' function do in Python?",
+        "optionA": "Returns the size of an object",
+        "optionB": "Returns the type of an object",
+        "optionC": "Converts an object to a string",
+        "optionD": "Returns the last element of a list",
+        "answer": "Returns the size of an object"
+    },
+    {
+        "question": "Which of the following is not a valid Python data type?",
+        "optionA": "int",
+        "optionB": "float",
+        "optionC": "string",
+        "optionD": "double",
+        "answer": "double"
+    },
+    {
+        "question": "What is the correct syntax to create a function in Python?",
+        "optionA": "function myFunction():",
+        "optionB": "def myFunction():",
+        "optionC": "create myFunction():",
+        "optionD": "func myFunction():",
+        "answer": "def myFunction():"
+    },
+    {
+        "question": "Which of the following is used to define a block of code in Python?",
+        "optionA": "Curly braces {}",
+        "optionB": "Parentheses ()",
+        "optionC": "Indentation",
+        "optionD": "Square brackets []",
+        "answer": "Indentation"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(2 * 3 + 4)",
+        "optionA": "10",
+        "optionB": "14",
+        "optionC": "12",
+        "optionD": "8",
+        "answer": "10"
+    },
+    {
+        "question": "What will be the result of the following code?\nprint(3 // 2)",
+        "optionA": "1.5",
+        "optionB": "1",
+        "optionC": "2",
+        "optionD": "3",
+        "answer": "1"
+    },
+    {
+        "question": "Which Python module is used for working with regular expressions?",
+        "optionA": "re",
+        "optionB": "regex",
+        "optionC": "regexp",
+        "optionD": "re.compile",
+        "answer": "re"
+    },
+    {
+        "question": "What does the 'break' statement do in Python?",
+        "optionA": "Exits the loop",
+        "optionB": "Pauses the loop",
+        "optionC": "Resumes the loop",
+        "optionD": "Skips the current iteration",
+        "answer": "Exits the loop"
+    },
+    {
+        "question": "What is the output of the following code?\nprint('Hello' + ' ' + 'World')",
+        "optionA": "HelloWorld",
+        "optionB": "Hello World",
+        "optionC": "HelloWorld ",
+        "optionD": "Error",
+        "answer": "Hello World"
+    },
+    {
+        "question": "Which of the following is a correct way to create a list in Python?",
+        "optionA": "list = (1, 2, 3)",
+        "optionB": "list = [1, 2, 3]",
+        "optionC": "list = {1, 2, 3}",
+        "optionD": "list = 1, 2, 3",
+        "answer": "list = [1, 2, 3]"
+    },
+    {
+        "question": "Which of the following is used to import a module in Python?",
+        "optionA": "include",
+        "optionB": "import",
+        "optionC": "load",
+        "optionD": "require",
+        "answer": "import"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(5 == 5)",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "None",
+        "optionD": "Error",
+        "answer": "True"
+    },
+    {
+        "question": "Which of the following is not a mutable data type in Python?",
+        "optionA": "List",
+        "optionB": "Dictionary",
+        "optionC": "Set",
+        "optionD": "String",
+        "answer": "String"
+    },
+    {
+        "question": "Which of the following is the correct way to handle exceptions in Python?",
+        "optionA": "try-except",
+        "optionB": "catch-throw",
+        "optionC": "throw-catch",
+        "optionD": "exception-handler",
+        "answer": "try-except"
+    },
+    {
+        "question": "What is the result of the following code?\nprint(5 % 2)",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "0",
+        "optionD": "5",
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following is used to create a dictionary in Python?",
+        "optionA": "list()",
+        "optionB": "dict()",
+        "optionC": "set()",
+        "optionD": "tuple()",
+        "answer": "dict()"
+    },
+    {
+        "question": "Which of the following is not a valid Python operator?",
+        "optionA": "+",
+        "optionB": "-",
+        "optionC": "*",
+        "optionD": "/",
+        "answer": "None"
+    },
+    {
+        "question": "What is the correct way to define a class in Python?",
+        "optionA": "class MyClass:",
+        "optionB": "MyClass class:",
+        "optionC": "class MyClass()",
+        "optionD": "def MyClass:",
+        "answer": "class MyClass:"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(1 == 1 and 2 == 2)",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "None",
+        "optionD": "Error",
+        "answer": "True"
+    },
+    {
+        "question": "Which of the following is used to remove an item from a list in Python?",
+        "optionA": "remove()",
+        "optionB": "pop()",
+        "optionC": "del",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does the 'continue' statement do in Python?",
+        "optionA": "Exits the loop",
+        "optionB": "Pauses the loop",
+        "optionC": "Skips the current iteration",
+        "optionD": "Starts a new loop",
+        "answer": "Skips the current iteration"
+    },
+    {
+        "question": "What is the output of the following code?\nprint([1, 2, 3][1])",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "Error",
+        "answer": "2"
+    },
+    {
+        "question": "What is the purpose of the 'self' keyword in Python?",
+        "optionA": "To refer to the instance of the class",
+        "optionB": "To refer to the class itself",
+        "optionC": "To create a new object",
+        "optionD": "To define a static method",
+        "answer": "To refer to the instance of the class"
+    },
+    {
+        "question": "What is the output of the following code?\nprint('Python'.lower())",
+        "optionA": "PYTHON",
+        "optionB": "python",
+        "optionC": "Python",
+        "optionD": "Error",
+        "answer": "python"
+    },
+    {
+        "question": "Which of the following methods is used to add an item to a list in Python?",
+        "optionA": "append()",
+        "optionB": "insert()",
+        "optionC": "add()",
+        "optionD": "push()",
+        "answer": "append()"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('Hello' * 3)",
+        "optionA": "HelloHelloHello",
+        "optionB": "Hello 3",
+        "optionC": "Hello3",
+        "optionD": "HelloHello",
+        "answer": "HelloHelloHello"
+    },
+    {
+        "question": "Which of the following is used to create a tuple in Python?",
+        "optionA": "[ ]",
+        "optionB": "{ }",
+        "optionC": "( )",
+        "optionD": "< >",
+        "answer": "( )"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(3 != 2)",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "None",
+        "optionD": "Error",
+        "answer": "True"
+    },
+    {
+        "question": "What is the purpose of the 'global' keyword in Python?",
+        "optionA": "To define a global variable",
+        "optionB": "To access a global variable inside a function",
+        "optionC": "To create a global function",
+        "optionD": "None of the above",
+        "answer": "To access a global variable inside a function"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(10 / 3)",
+        "optionA": "3.0",
+        "optionB": "3",
+        "optionC": "3.33",
+        "optionD": "Error",
+        "answer": "3.3333333333333335"
+    },
+    {
+        "question": "What is the result of the following code?\nprint(2 + 3 * 4) ",
+        "optionA": "14",
+        "optionB": "20",
+        "optionC": "16",
+        "optionD": "12",
+        "answer": "14"
+    },
+    {
+        "question": "Which of the following is used to create a set in Python?",
+        "optionA": "[]",
+        "optionB": "{}",
+        "optionC": "()",
+        "optionD": "set()",
+        "answer": "{}"
+    },
+    {
+        "question": "Which of the following is a correct way to define a dictionary in Python?",
+        "optionA": "dict = [1: 'a', 2: 'b']",
+        "optionB": "dict = {1: 'a', 2: 'b'}",
+        "optionC": "dict = (1: 'a', 2: 'b')",
+        "optionD": "dict = [1, 'a', 2, 'b']",
+        "answer": "dict = {1: 'a', 2: 'b'}"
+    },
+    {
+        "question": "What does the 'del' keyword do in Python?",
+        "optionA": "Deletes an object",
+        "optionB": "Deletes a variable",
+        "optionC": "Deletes an item from a list",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('Python' * 0)",
+        "optionA": "None",
+        "optionB": "Python",
+        "optionC": "Error",
+        "optionD": "Empty string",
+        "answer": "Empty string"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(2 ** 3)",
+        "optionA": "5",
+        "optionB": "8",
+        "optionC": "6",
+        "optionD": "3",
+        "answer": "8"
+    },
+    {
+        "question": "Which of the following is used to check if an element exists in a list?",
+        "optionA": "in",
+        "optionB": "exists",
+        "optionC": "contains",
+        "optionD": "find",
+        "answer": "in"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('Python'.count('P'))",
+        "optionA": "1",
+        "optionB": "0",
+        "optionC": "2",
+        "optionD": "None",
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following is used to get the length of a tuple in Python?",
+        "optionA": "len()",
+        "optionB": "length()",
+        "optionC": "size()",
+        "optionD": "count()",
+        "answer": "len()"
+    },
+    {
+        "question": "What is the output of the following code?\nprint('a' + 1)",
+        "optionA": "a1",
+        "optionB": "Error",
+        "optionC": "None",
+        "optionD": "1a",
+        "answer": "Error"
+    },
+    {
+        "question": "Which of the following is used to check if a key exists in a dictionary?",
+        "optionA": "in",
+        "optionB": "exists",
+        "optionC": "has_key()",
+        "optionD": "find()",
+        "answer": "in"
+    },
+    {
+        "question": "Which of the following is the correct syntax to call a function in Python?",
+        "optionA": "myFunction()",
+        "optionB": "call myFunction()",
+        "optionC": "myFunction{}",
+        "optionD": "function myFunction()",
+        "answer": "myFunction()"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('abc'.replace('a', 'z'))",
+        "optionA": "zbc",
+        "optionB": "abc",
+        "optionC": "Error",
+        "optionD": "zabz",
+        "answer": "zbc"
+    },
+    {
+        "question": "Which of the following methods is used to remove whitespace from the beginning and end of a string?",
+        "optionA": "trim()",
+        "optionB": "strip()",
+        "optionC": "remove()",
+        "optionD": "clear()",
+        "answer": "strip()"
+    },
+    {
+        "question": "What is the result of the following code?\nprint(len('Python'))",
+        "optionA": "6",
+        "optionB": "5",
+        "optionC": "7",
+        "optionD": "None",
+        "answer": "6"
+    },
+    {
+        "question": "What is the output of the following code?\nprint([1, 2, 3] + [4, 5, 6])",
+        "optionA": "[1, 2, 3, 4, 5, 6]",
+        "optionB": "[1, 2, 3]",
+        "optionC": "[4, 5, 6]",
+        "optionD": "Error",
+        "answer": "[1, 2, 3, 4, 5, 6]"
+    },
+    {
+        "question": "What does the 'pass' statement do in Python?",
+        "optionA": "Exits the function",
+        "optionB": "Skips the loop",
+        "optionC": "Does nothing",
+        "optionD": "None of the above",
+        "answer": "Does nothing"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(10 // 3)",
+        "optionA": "3.3333",
+        "optionB": "3",
+        "optionC": "2",
+        "optionD": "Error",
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following methods is used to sort a list in Python?",
+        "optionA": "sort()",
+        "optionB": "order()",
+        "optionC": "sorted()",
+        "optionD": "arrange()",
+        "answer": "sort()"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(5 * 2 - 1)",
+        "optionA": "9",
+        "optionB": "10",
+        "optionC": "8",
+        "optionD": "7",
+        "answer": "9"
+    },
+    {
+        "question": "Which of the following is used to define a constant in Python?",
+        "optionA": "constant",
+        "optionB": "const",
+        "optionC": "final",
+        "optionD": "Python does not have constants",
+        "answer": "Python does not have constants"
+    },
+    {
+        "question": "What is the correct syntax to create a class in Python?",
+        "optionA": "class MyClass[]:",
+        "optionB": "class MyClass{}:",
+        "optionC": "class MyClass():",
+        "optionD": "class MyClass[]{}",
+        "answer": "class MyClass():"
+    },
+    {
+        "question": "Which of the following is a correct way to define a function in Python?",
+        "optionA": "function myFunc():",
+        "optionB": "def myFunc:",
+        "optionC": "def myFunc():",
+        "optionD": "function myFunc:",
+        "answer": "def myFunc():"
+    },
+    {
+        "question": "Which of the following will result in a SyntaxError?",
+        "optionA": "if 5 > 3:",
+        "optionB": "for i in range(10):",
+        "optionC": "def myFunc():",
+        "optionD": "if 5 > 3 print('Hello')",
+        "answer": "if 5 > 3 print('Hello')"
+    },
+    {
+        "question": "Which of the following is not a Python keyword?",
+        "optionA": "False",
+        "optionB": "None",
+        "optionC": "class",
+        "optionD": "method",
+        "answer": "method"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(2 + 2 * 2)",
+        "optionA": "6",
+        "optionB": "8",
+        "optionC": "4",
+        "optionD": "10",
+        "answer": "6"
+    },
+    {
+        "question": "What is the result of the following code?\nprint(10 // 4)",
+        "optionA": "2.5",
+        "optionB": "2",
+        "optionC": "4",
+        "optionD": "1",
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following is used to define a tuple in Python?",
+        "optionA": "[ ]",
+        "optionB": "{ }",
+        "optionC": "( )",
+        "optionD": "< >",
+        "answer": "( )"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(10 % 3)",
+        "optionA": "1",
+        "optionB": "3",
+        "optionC": "2",
+        "optionD": "0",
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following is a correct way to create a set in Python?",
+        "optionA": "set = [1, 2, 3]",
+        "optionB": "set = (1, 2, 3)",
+        "optionC": "set = {1, 2, 3}",
+        "optionD": "set = 1, 2, 3",
+        "answer": "set = {1, 2, 3}"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('Python' * 2)",
+        "optionA": "PythonPython",
+        "optionB": "Python 2",
+        "optionC": "Python2",
+        "optionD": "Error",
+        "answer": "PythonPython"
+    },
+    {
+        "question": "What does the 'is' operator do in Python?",
+        "optionA": "Checks if two variables are equal",
+        "optionB": "Checks if two variables refer to the same object",
+        "optionC": "Checks if two variables are of the same type",
+        "optionD": "None of the above",
+        "answer": "Checks if two variables refer to the same object"
+    },
+    {
+        "question": "Which of the following is used to handle exceptions in Python?",
+        "optionA": "try-catch",
+        "optionB": "try-except",
+        "optionC": "catch-except",
+        "optionD": "catch-try",
+        "answer": "try-except"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('Python' in 'Python is awesome')",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Error",
+        "optionD": "None",
+        "answer": "True"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a for loop in Python?",
+        "optionA": "for i in range(10):",
+        "optionB": "for i: range(10)",
+        "optionC": "for i = 0 to 10:",
+        "optionD": "for i in 10:",
+        "answer": "for i in range(10):"
+    },
+    {
+        "question": "What is the result of the following code?\nprint(5 + 2 * 3)",
+        "optionA": "11",
+        "optionB": "15",
+        "optionC": "10",
+        "optionD": "12",
+        "answer": "11"
+    },
+    {
+        "question": "What is the output of the following code?\nprint('Python'.count('y'))",
+        "optionA": "1",
+        "optionB": "0",
+        "optionC": "2",
+        "optionD": "None",
+        "answer": "1"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('Hello' + ' ' + 'World')",
+        "optionA": "HelloWorld",
+        "optionB": "Hello World",
+        "optionC": "HelloWorld ",
+        "optionD": "Error",
+        "answer": "Hello World"
+    },
+    {
+        "question": "Which of the following is a valid Python statement?",
+        "optionA": "x = 5",
+        "optionB": "5 = x",
+        "optionC": "x == 5",
+        "optionD": "x is 5",
+        "answer": "x = 5"
+    },
+    {
+        "question": "Which of the following is used to concatenate two lists in Python?",
+        "optionA": "+",
+        "optionB": "*",
+        "optionC": "&",
+        "optionD": "/",
+        "answer": "+"
+    },
+    {
+        "question": "What is the output of the following code?\nprint('Python'.upper())",
+        "optionA": "PYTHON",
+        "optionB": "python",
+        "optionC": "Python",
+        "optionD": "Error",
+        "answer": "PYTHON"
+    },
+    {
+        "question": "Which of the following is used to check if a string is a digit in Python?",
+        "optionA": "isalpha()",
+        "optionB": "isdigit()",
+        "optionC": "isnumeric()",
+        "optionD": "isdecimal()",
+        "answer": "isdigit()"
+    },
+    {
+        "question": "What is the result of the following code?\nprint(3 == 3 and 4 == 4)",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "None",
+        "optionD": "Error",
+        "answer": "True"
+    },
+    {
+        "question": "What is the result of the following code?\nprint(3 != 2)",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "None",
+        "optionD": "Error",
+        "answer": "True"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('Hello'.replace('e', 'a'))",
+        "optionA": "Hallo",
+        "optionB": "Hello",
+        "optionC": "Hella",
+        "optionD": "Error",
+        "answer": "Hallo"
+    },
+    {
+        "question": "Which of the following is used to iterate over a dictionary in Python?",
+        "optionA": "for key in dictionary:",
+        "optionB": "for value in dictionary:",
+        "optionC": "for key, value in dictionary.items():",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is used to access a value in a dictionary?",
+        "optionA": "dictionary[]",
+        "optionB": "dictionary.get()",
+        "optionC": "Both A and B",
+        "optionD": "None of the above",
+        "answer": "Both A and B"
+    },
+    {
+        "question": "Which of the following is used to remove an item from a dictionary in Python?",
+        "optionA": "pop()",
+        "optionB": "remove()",
+        "optionC": "delete()",
+        "optionD": "clear()",
+        "answer": "pop()"
+    },
+    {
+        "question": "Which of the following is used to merge two dictionaries in Python?",
+        "optionA": "update()",
+        "optionB": "append()",
+        "optionC": "merge()",
+        "optionD": "extend()",
+        "answer": "update()"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(len('Hello'))",
+        "optionA": "5",
+        "optionB": "4",
+        "optionC": "6",
+        "optionD": "None",
+        "answer": "5"
+    },
+    {
+        "question": "Which of the following is used to convert a string to an integer in Python?",
+        "optionA": "int()",
+        "optionB": "float()",
+        "optionC": "str()",
+        "optionD": "None of the above",
+        "answer": "int()"
+    },
+    {
+        "question": "What is the result of the following code?\nprint(10 / 3)",
+        "optionA": "3",
+        "optionB": "3.0",
+        "optionC": "3.33",
+        "optionD": "None",
+        "answer": "3.33"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(3 + 2 * 2)",
+        "optionA": "7",
+        "optionB": "10",
+        "optionC": "5",
+        "optionD": "None",
+        "answer": "7"
+    },
+    {
+        "question": "Which of the following is the correct way to define a dictionary in Python?",
+        "optionA": "dict = {'key': 'value'}",
+        "optionB": "dict = ['key': 'value']",
+        "optionC": "dict = ('key': 'value')",
+        "optionD": "dict = <key, value>",
+        "answer": "dict = {'key': 'value'}"
+    },
+    {
+        "question": "Which of the following is a correct way to import a module in Python?",
+        "optionA": "import module_name",
+        "optionB": "import module_name()",
+        "optionC": "import module_name[]",
+        "optionD": "include module_name",
+        "answer": "import module_name"
+    },
+    {
+        "question": "Which of the following is used to check if a number is even in Python?",
+        "optionA": "is_even()",
+        "optionB": "even()",
+        "optionC": "num % 2 == 0",
+        "optionD": "num / 2 == 0",
+        "answer": "num % 2 == 0"
+    },
+    {
+        "question": "Which of the following will return the type of an object in Python?",
+        "optionA": "type()",
+        "optionB": "object_type()",
+        "optionC": "typeof()",
+        "optionD": "get_type()",
+        "answer": "type()"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('abc'.upper())",
+        "optionA": "ABC",
+        "optionB": "abc",
+        "optionC": "Abc",
+        "optionD": "Error",
+        "answer": "ABC"
+    },
+    {
+        "question": "Which of the following is used to add an item to a set in Python?",
+        "optionA": "add()",
+        "optionB": "append()",
+        "optionC": "insert()",
+        "optionD": "push()",
+        "answer": "add()"
+    },
+    {
+        "question": "Which of the following methods is used to remove an item from a set in Python?",
+        "optionA": "remove()",
+        "optionB": "pop()",
+        "optionC": "discard()",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is used to check if a string contains a substring in Python?",
+        "optionA": "in",
+        "optionB": "contains()",
+        "optionC": "has()",
+        "optionD": "find()",
+        "answer": "in"
+    },
+    {
+        "question": "What is the output of the following code?\nprint(3 ** 2)",
+        "optionA": "9",
+        "optionB": "6",
+        "optionC": "8",
+        "optionD": "None",
+        "answer": "9"
+    },
+    {
+        "question": "Which of the following is used to check if a list is empty in Python?",
+        "optionA": "len(list) == 0",
+        "optionB": "list == []",
+        "optionC": "list.empty()",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the result of the following code?\nprint([1, 2, 3] * 2)",
+        "optionA": "[1, 2, 3, 1, 2, 3]",
+        "optionB": "[2, 4, 6]",
+        "optionC": "[1, 2, 3]",
+        "optionD": "Error",
+        "answer": "[1, 2, 3, 1, 2, 3]"
+    },
+    {
+        "question": "Which of the following is used to get the length of a list in Python?",
+        "optionA": "length()",
+        "optionB": "len()",
+        "optionC": "size()",
+        "optionD": "count()",
+        "answer": "len()"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a while loop in Python?",
+        "optionA": "while condition:",
+        "optionB": "while condition[]:",
+        "optionC": "while (condition):",
+        "optionD": "loop while condition:",
+        "answer": "while condition:"
+    },
+    {
+        "question": "What is the output of the following code?\nprint([1, 2, 3] - [1, 2])",
+        "optionA": "[3]",
+        "optionB": "[1]",
+        "optionC": "[2]",
+        "optionD": "Error",
+        "answer": "Error"
+    },
+    {
+        "question": "Which of the following is used to remove all items from a list in Python?",
+        "optionA": "clear()",
+        "optionB": "remove()",
+        "optionC": "delete()",
+        "optionD": "pop()",
+        "answer": "clear()"
+    },
+    {
+        "question": "What is the result of the following code?\nprint('Python' * -1)",
+        "optionA": "None",
+        "optionB": "Python",
+        "optionC": "Error",
+        "optionD": "Empty string",
+        "answer": "Empty string"
+    },
+    {
+        "question": "Which of the following is used to check if a string starts with a specific substring in Python?",
+        "optionA": "startswith()",
+        "optionB": "beginwith()",
+        "optionC": "contains()",
+        "optionD": "starts()",
+        "answer": "startswith()"
+    },
+    {
+        "question": "Which of the following is used to find the index of an element in a list in Python?",
+        "optionA": "find()",
+        "optionB": "index()",
+        "optionC": "search()",
+        "optionD": "locate()",
+        "answer": "index()"
+    },
+    {
+        "question": "Which of the following is the correct way to define a function with default arguments in Python?",
+        "optionA": "def myFunc(arg1=5):",
+        "optionB": "def myFunc(arg1, 5):",
+        "optionC": "def myFunc(arg1=, arg2):",
+        "optionD": "def myFunc(arg1=5, arg2=10):",
+        "answer": "def myFunc(arg1=5):"
+    }
+]

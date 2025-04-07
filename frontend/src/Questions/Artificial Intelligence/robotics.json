@@ -1,0 +1,418 @@
+[
+    {
+        "question": "What is the primary function of a robot's sensory system?",
+        "optionA": "To process data",
+        "optionB": "To interact with the environment",
+        "optionC": "To provide power to the robot",
+        "optionD": "To control the robot's movement",
+        "answer": "To interact with the environment"
+    },
+    {
+        "question": "Which of the following is a key component of a robot's control system?",
+        "optionA": "Sensor",
+        "optionB": "Actuator",
+        "optionC": "Processor",
+        "optionD": "Feedback loop",
+        "answer": "Feedback loop"
+    },
+    {
+        "question": "What does the term 'robotic autonomy' refer to?",
+        "optionA": "A robot's ability to operate without human intervention",
+        "optionB": "A robot's ability to follow pre-programmed commands",
+        "optionC": "A robot's ability to communicate with other robots",
+        "optionD": "A robot's ability to sense its surroundings",
+        "answer": "A robot's ability to operate without human intervention"
+    },
+    {
+        "question": "Which of the following is a type of robot commonly used in industrial applications?",
+        "optionA": "Humanoid robot",
+        "optionB": "Autonomous mobile robot",
+        "optionC": "Articulated robot",
+        "optionD": "Swarm robot",
+        "answer": "Articulated robot"
+    },
+    {
+        "question": "What is the purpose of a robot's actuator?",
+        "optionA": "To process input data",
+        "optionB": "To perform computations",
+        "optionC": "To convert energy into motion",
+        "optionD": "To store data",
+        "answer": "To convert energy into motion"
+    },
+    {
+        "question": "Which of the following is an example of a robot used for medical purposes?",
+        "optionA": "Industrial robot",
+        "optionB": "Surgical robot",
+        "optionC": "Exploration robot",
+        "optionD": "Swarm robot",
+        "answer": "Surgical robot"
+    },
+    {
+        "question": "What is the role of artificial intelligence in robotics?",
+        "optionA": "To provide power to the robot",
+        "optionB": "To enable robots to make decisions and learn from experience",
+        "optionC": "To help robots move faster",
+        "optionD": "To control robot movements using pre-programmed commands",
+        "answer": "To enable robots to make decisions and learn from experience"
+    },
+    {
+        "question": "What is the primary challenge of robotic perception?",
+        "optionA": "To process data quickly",
+        "optionB": "To understand complex human emotions",
+        "optionC": "To recognize and interpret sensory data from the environment",
+        "optionD": "To control the robot's movements accurately",
+        "answer": "To recognize and interpret sensory data from the environment"
+    },
+    {
+        "question": "Which of the following is an example of a robot designed for autonomous navigation?",
+        "optionA": "Industrial robot",
+        "optionB": "Autonomous mobile robot",
+        "optionC": "Swarm robot",
+        "optionD": "Surgical robot",
+        "answer": "Autonomous mobile robot"
+    },
+    {
+        "question": "What is the function of a robot's feedback loop?",
+        "optionA": "To provide power to the robot",
+        "optionB": "To control the robot's sensors",
+        "optionC": "To adjust the robot's actions based on real-time data",
+        "optionD": "To store data for later use",
+        "answer": "To adjust the robot's actions based on real-time data"
+    },
+    {
+        "question": "Which of the following is a key consideration when designing a robot for a hazardous environment?",
+        "optionA": "Cost of materials",
+        "optionB": "Robot's ability to withstand extreme conditions",
+        "optionC": "Robot's speed",
+        "optionD": "Robot's appearance",
+        "answer": "Robot's ability to withstand extreme conditions"
+    },
+    {
+        "question": "What is the purpose of a robot's machine learning algorithms?",
+        "optionA": "To control the robot's movement",
+        "optionB": "To help the robot learn from experience and improve its performance",
+        "optionC": "To store data",
+        "optionD": "To interact with humans",
+        "answer": "To help the robot learn from experience and improve its performance"
+    },
+    {
+        "question": "Which of the following is a type of robot used in search and rescue operations?",
+        "optionA": "Surgical robot",
+        "optionB": "Swarm robot",
+        "optionC": "Autonomous mobile robot",
+        "optionD": "Industrial robot",
+        "answer": "Autonomous mobile robot"
+    },
+    {
+        "question": "What is the primary purpose of robot perception systems?",
+        "optionA": "To process and interpret sensory data",
+        "optionB": "To provide power to the robot",
+        "optionC": "To store data",
+        "optionD": "To control the robot's movement",
+        "answer": "To process and interpret sensory data"
+    },
+    {
+        "question": "What is the role of a robot's localization system?",
+        "optionA": "To enable the robot to recognize objects",
+        "optionB": "To help the robot navigate and determine its position in space",
+        "optionC": "To control the robot's movement",
+        "optionD": "To process sensory data",
+        "answer": "To help the robot navigate and determine its position in space"
+    },
+    {
+        "question": "Which of the following is a type of robot used in agriculture?",
+        "optionA": "Industrial robot",
+        "optionB": "Swarm robot",
+        "optionC": "Agricultural robot",
+        "optionD": "Medical robot",
+        "answer": "Agricultural robot"
+    },
+    {
+        "question": "What is the purpose of a robot's motion planning system?",
+        "optionA": "To control the robot's sensors",
+        "optionB": "To plan and execute the robot's movement in a given environment",
+        "optionC": "To process sensory data",
+        "optionD": "To store data",
+        "answer": "To plan and execute the robot's movement in a given environment"
+    },
+    {
+        "question": "Which of the following is an example of a robot used for entertainment?",
+        "optionA": "Surgical robot",
+        "optionB": "Swarm robot",
+        "optionC": "Humanoid robot",
+        "optionD": "Industrial robot",
+        "answer": "Humanoid robot"
+    },
+    {
+        "question": "What is the purpose of a robot's communication system?",
+        "optionA": "To store data",
+        "optionB": "To enable the robot to communicate with other robots or humans",
+        "optionC": "To control the robot's movement",
+        "optionD": "To process sensory data",
+        "answer": "To enable the robot to communicate with other robots or humans"
+    },
+    {
+        "question": "Which of the following is a key challenge in developing autonomous robots?",
+        "optionA": "Creating accurate sensors",
+        "optionB": "Designing the robot's appearance",
+        "optionC": "Ensuring the robot's power source is efficient",
+        "optionD": "Designing the robot's behavior and decision-making processes",
+        "answer": "Designing the robot's behavior and decision-making processes"
+    },
+    {
+        "question": "What is the purpose of a robot's path planning system?",
+        "optionA": "To plan and execute the robot's movement in a given environment",
+        "optionB": "To control the robot's sensors",
+        "optionC": "To process sensory data",
+        "optionD": "To store data",
+        "answer": "To plan and execute the robot's movement in a given environment"
+    },
+    {
+        "question": "What is the primary purpose of robot learning algorithms?",
+        "optionA": "To process data",
+        "optionB": "To enable the robot to make decisions based on experience",
+        "optionC": "To control the robot's movement",
+        "optionD": "To store data",
+        "answer": "To enable the robot to make decisions based on experience"
+    },
+    {
+        "question": "Which of the following is a key component of a robot's control architecture?",
+        "optionA": "Sensors",
+        "optionB": "Actuators",
+        "optionC": "Processor",
+        "optionD": "Feedback loop",
+        "answer": "Feedback loop"
+    },
+    {
+        "question": "What is the role of a robot's decision-making system?",
+        "optionA": "To process sensory data",
+        "optionB": "To plan and execute the robot's movement",
+        "optionC": "To make decisions based on data and experiences",
+        "optionD": "To store data",
+        "answer": "To make decisions based on data and experiences"
+    },
+    {
+        "question": "Which of the following is an example of a robot used in space exploration?",
+        "optionA": "Swarm robot",
+        "optionB": "Industrial robot",
+        "optionC": "Rover robot",
+        "optionD": "Surgical robot",
+        "answer": "Rover robot"
+    },
+    {
+        "question": "What is the primary challenge in developing robots for human-robot interaction?",
+        "optionA": "Designing the robot's appearance",
+        "optionB": "Ensuring the robot can understand human emotions",
+        "optionC": "Designing the robot's movement",
+        "optionD": "Ensuring the robot can perform tasks autonomously",
+        "answer": "Ensuring the robot can understand human emotions"
+    },
+    {
+        "question": "What is the purpose of a robot's task execution system?",
+        "optionA": "To plan and execute the robot's movement",
+        "optionB": "To process sensory data",
+        "optionC": "To control the robot's sensors",
+        "optionD": "To perform tasks based on commands",
+        "answer": "To perform tasks based on commands"
+    },
+    {
+        "question": "Which of the following is a key challenge in robotic perception?",
+        "optionA": "Designing the robot's appearance",
+        "optionB": "Processing sensory data accurately",
+        "optionC": "Ensuring the robot's speed",
+        "optionD": "Ensuring the robot can perform complex tasks",
+        "answer": "Processing sensory data accurately"
+    },
+    {
+        "question": "What is the primary function of a robot's vision system?",
+        "optionA": "To process audio signals",
+        "optionB": "To recognize and interpret visual data",
+        "optionC": "To control the robot's movements",
+        "optionD": "To store data",
+        "answer": "To recognize and interpret visual data"
+    },
+    {
+        "question": "What is the purpose of a robot's force sensor?",
+        "optionA": "To measure the robot's speed",
+        "optionB": "To detect external forces acting on the robot",
+        "optionC": "To store data",
+        "optionD": "To process visual data",
+        "answer": "To detect external forces acting on the robot"
+    },
+    {
+        "question": "What is the role of a robot's actuator in a humanoid robot?",
+        "optionA": "To provide vision capabilities",
+        "optionB": "To convert electrical signals into motion",
+        "optionC": "To store data",
+        "optionD": "To process sensory data",
+        "answer": "To convert electrical signals into motion"
+    },
+    {
+        "question": "Which of the following is an example of a robot used in hazardous material handling?",
+        "optionA": "Medical robot",
+        "optionB": "Swarm robot",
+        "optionC": "Industrial robot",
+        "optionD": "Exploration robot",
+        "answer": "Industrial robot"
+    },
+    {
+        "question": "What is the purpose of a robot's decision-making system?",
+        "optionA": "To process sensory data",
+        "optionB": "To make decisions based on sensor data",
+        "optionC": "To store data",
+        "optionD": "To convert energy into motion",
+        "answer": "To make decisions based on sensor data"
+    },
+    {
+        "question": "What is the role of a robot's path planning system?",
+        "optionA": "To plan and execute the robot's movement in a given environment",
+        "optionB": "To control the robot's sensors",
+        "optionC": "To store data",
+        "optionD": "To process sensory data",
+        "answer": "To plan and execute the robot's movement in a given environment"
+    },
+    {
+        "question": "Which of the following is a challenge in the development of swarm robots?",
+        "optionA": "Ensuring efficient communication between robots",
+        "optionB": "Designing the robot's appearance",
+        "optionC": "Ensuring the robot's speed",
+        "optionD": "Ensuring the robot can interact with humans",
+        "answer": "Ensuring efficient communication between robots"
+    },
+    {
+        "question": "What is the role of machine learning in robotics?",
+        "optionA": "To process data quickly",
+        "optionB": "To help robots make decisions based on experience",
+        "optionC": "To control the robot's movement",
+        "optionD": "To store data",
+        "answer": "To help robots make decisions based on experience"
+    },
+    {
+        "question": "Which of the following is an example of a robot used for delivery services?",
+        "optionA": "Autonomous mobile robot",
+        "optionB": "Medical robot",
+        "optionC": "Agricultural robot",
+        "optionD": "Industrial robot",
+        "answer": "Autonomous mobile robot"
+    },
+    {
+        "question": "What is the purpose of a robot's tactile sensor?",
+        "optionA": "To detect external forces acting on the robot",
+        "optionB": "To process visual data",
+        "optionC": "To store data",
+        "optionD": "To control the robot's movements",
+        "answer": "To detect external forces acting on the robot"
+    },
+    {
+        "question": "What is the function of a robot's localization system?",
+        "optionA": "To help the robot navigate and determine its position in space",
+        "optionB": "To control the robot's movement",
+        "optionC": "To process sensory data",
+        "optionD": "To store data",
+        "answer": "To help the robot navigate and determine its position in space"
+    },
+    {
+        "question": "What is the role of a robot's speech recognition system?",
+        "optionA": "To convert speech into text",
+        "optionB": "To process visual data",
+        "optionC": "To store data",
+        "optionD": "To control the robot's movement",
+        "answer": "To convert speech into text"
+    },
+    {
+        "question": "Which of the following is a type of robot used in military applications?",
+        "optionA": "Surgical robot",
+        "optionB": "Swarm robot",
+        "optionC": "Military robot",
+        "optionD": "Autonomous mobile robot",
+        "answer": "Military robot"
+    },
+    {
+        "question": "What is the purpose of a robot's gripper?",
+        "optionA": "To control the robot's movement",
+        "optionB": "To manipulate objects",
+        "optionC": "To process sensory data",
+        "optionD": "To store data",
+        "answer": "To manipulate objects"
+    },
+    {
+        "question": "What is the role of a robot's communication system?",
+        "optionA": "To store data",
+        "optionB": "To enable the robot to communicate with other robots or humans",
+        "optionC": "To process sensory data",
+        "optionD": "To control the robot's movement",
+        "answer": "To enable the robot to communicate with other robots or humans"
+    },
+    {
+        "question": "Which of the following is an example of a robot used in space exploration?",
+        "optionA": "Surgical robot",
+        "optionB": "Rover robot",
+        "optionC": "Industrial robot",
+        "optionD": "Swarm robot",
+        "answer": "Rover robot"
+    },
+    {
+        "question": "What is the primary challenge in developing robots for human-robot interaction?",
+        "optionA": "Designing the robot's appearance",
+        "optionB": "Ensuring the robot can understand human emotions",
+        "optionC": "Designing the robot's movement",
+        "optionD": "Ensuring the robot can perform tasks autonomously",
+        "answer": "Ensuring the robot can understand human emotions"
+    },
+    {
+        "question": "What is the purpose of a robot's task execution system?",
+        "optionA": "To perform tasks based on commands",
+        "optionB": "To process sensory data",
+        "optionC": "To control the robot's sensors",
+        "optionD": "To plan and execute the robot's movement",
+        "answer": "To perform tasks based on commands"
+    },
+    {
+        "question": "Which of the following is an example of a robot used in precision agriculture?",
+        "optionA": "Medical robot",
+        "optionB": "Agricultural robot",
+        "optionC": "Swarm robot",
+        "optionD": "Industrial robot",
+        "answer": "Agricultural robot"
+    },
+    {
+        "question": "What is the role of a robot's reinforcement learning system?",
+        "optionA": "To process data",
+        "optionB": "To enable the robot to learn from trial and error",
+        "optionC": "To store data",
+        "optionD": "To control the robot's movement",
+        "answer": "To enable the robot to learn from trial and error"
+    },
+    {
+        "question": "What is the function of a robot's sensor fusion system?",
+        "optionA": "To combine data from multiple sensors for improved perception",
+        "optionB": "To process sensory data",
+        "optionC": "To control the robot's movement",
+        "optionD": "To store data",
+        "answer": "To combine data from multiple sensors for improved perception"
+    },
+    {
+        "question": "Which of the following is a key consideration when designing a robot for underwater exploration?",
+        "optionA": "Robot's ability to withstand extreme temperatures",
+        "optionB": "Robot's ability to withstand water pressure",
+        "optionC": "Robot's speed",
+        "optionD": "Robot's appearance",
+        "answer": "Robot's ability to withstand water pressure"
+    },
+    {
+        "question": "What is the role of a robot's visual odometry system?",
+        "optionA": "To estimate the robot's movement based on visual input",
+        "optionB": "To store data",
+        "optionC": "To process sensory data",
+        "optionD": "To control the robot's movement",
+        "answer": "To estimate the robot's movement based on visual input"
+    },
+    {
+        "question": "What is the primary challenge in robot motion planning?",
+        "optionA": "Ensuring the robot's speed",
+        "optionB": "Designing the robot's appearance",
+        "optionC": "Ensuring the robot avoids obstacles and reaches its destination",
+        "optionD": "Ensuring the robot can interact with humans",
+        "answer": "Ensuring the robot avoids obstacles and reaches its destination"
+    }
+]

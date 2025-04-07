@@ -1,0 +1,442 @@
+[
+    {
+        "question": "Which command is used to create a new database in PostgreSQL?",
+        "optionA": "CREATE DATABASE db_name;",
+        "optionB": "NEW DATABASE db_name;",
+        "optionC": "ADD DATABASE db_name;",
+        "optionD": "INIT DATABASE db_name;",
+        "answer": "CREATE DATABASE db_name;"
+    },
+    {
+        "question": "What is the default port number for PostgreSQL?",
+        "optionA": "5432",
+        "optionB": "3306",
+        "optionC": "1521",
+        "optionD": "8080",
+        "answer": "5432"
+    },
+    {
+        "question": "Which data type is used to store large text in PostgreSQL?",
+        "optionA": "VARCHAR",
+        "optionB": "TEXT",
+        "optionC": "CHAR",
+        "optionD": "STRING",
+        "answer": "TEXT"
+    },
+    {
+        "question": "What does the PRIMARY KEY constraint do in PostgreSQL?",
+        "optionA": "Ensures all values in a column are unique",
+        "optionB": "Allows NULL values in a column",
+        "optionC": "Defines a foreign key relationship",
+        "optionD": "Specifies a default value for a column",
+        "answer": "Ensures all values in a column are unique"
+    },
+    {
+        "question": "Which SQL statement is used to retrieve data from a PostgreSQL database?",
+        "optionA": "GET",
+        "optionB": "SELECT",
+        "optionC": "FETCH",
+        "optionD": "SHOW",
+        "answer": "SELECT"
+    },
+    {
+        "question": "What is the purpose of the WHERE clause in SQL?",
+        "optionA": "To group rows with similar values",
+        "optionB": "To filter rows based on a condition",
+        "optionC": "To sort the result set",
+        "optionD": "To create a new table",
+        "answer": "To filter rows based on a condition"
+    },
+    {
+        "question": "Which function is used to count the number of rows in a table in PostgreSQL?",
+        "optionA": "SUM()",
+        "optionB": "COUNT()",
+        "optionC": "ROW_COUNT()",
+        "optionD": "NUMBER()",
+        "answer": "COUNT()"
+    },
+    {
+        "question": "Which clause is used to sort the result set in PostgreSQL?",
+        "optionA": "GROUP BY",
+        "optionB": "SORT BY",
+        "optionC": "ORDER BY",
+        "optionD": "ARRANGE BY",
+        "answer": "ORDER BY"
+    },
+    {
+        "question": "Which command is used to delete a table in PostgreSQL?",
+        "optionA": "REMOVE TABLE table_name;",
+        "optionB": "DROP TABLE table_name;",
+        "optionC": "DELETE TABLE table_name;",
+        "optionD": "CLEAR TABLE table_name;",
+        "answer": "DROP TABLE table_name;"
+    },
+    {
+        "question": "Which PostgreSQL function is used to calculate the average value of a column?",
+        "optionA": "SUM()",
+        "optionB": "AVG()",
+        "optionC": "MEAN()",
+        "optionD": "MEDIAN()",
+        "answer": "AVG()"
+    },
+    {
+        "question": "Which operator is used to search for a specified pattern in a column in PostgreSQL?",
+        "optionA": "LIKE",
+        "optionB": "MATCH",
+        "optionC": "PATTERN",
+        "optionD": "SEARCH",
+        "answer": "LIKE"
+    },
+    {
+        "question": "Which function is used to concatenate strings in PostgreSQL?",
+        "optionA": "CONCAT()",
+        "optionB": "APPEND()",
+        "optionC": "MERGE()",
+        "optionD": "JOIN()",
+        "answer": "CONCAT()"
+    },
+    {
+        "question": "What is the purpose of the JOIN clause in PostgreSQL?",
+        "optionA": "To combine data from multiple tables",
+        "optionB": "To create a new table",
+        "optionC": "To delete data from a table",
+        "optionD": "To update rows in a table",
+        "answer": "To combine data from multiple tables"
+    },
+    {
+        "question": "Which type of JOIN returns all rows from both tables, including unmatched rows in PostgreSQL?",
+        "optionA": "INNER JOIN",
+        "optionB": "LEFT JOIN",
+        "optionC": "RIGHT JOIN",
+        "optionD": "FULL OUTER JOIN",
+        "answer": "FULL OUTER JOIN"
+    },
+    {
+        "question": "Which statement is used to add a new column to an existing table in PostgreSQL?",
+        "optionA": "ALTER TABLE ADD COLUMN",
+        "optionB": "MODIFY TABLE ADD COLUMN",
+        "optionC": "UPDATE TABLE ADD COLUMN",
+        "optionD": "INSERT INTO TABLE ADD COLUMN",
+        "answer": "ALTER TABLE ADD COLUMN"
+    },
+    {
+        "question": "Which keyword is used to remove duplicate rows in a SELECT query in PostgreSQL?",
+        "optionA": "DISTINCT",
+        "optionB": "UNIQUE",
+        "optionC": "FILTER",
+        "optionD": "EXCLUDE",
+        "answer": "DISTINCT"
+    },
+    {
+        "question": "Which PostgreSQL data type is used to store dates and times?",
+        "optionA": "DATE",
+        "optionB": "TIME",
+        "optionC": "TIMESTAMP",
+        "optionD": "DATETIME",
+        "answer": "TIMESTAMP"
+    },
+    {
+        "question": "Which command is used to modify the structure of a table in PostgreSQL?",
+        "optionA": "ALTER TABLE",
+        "optionB": "CHANGE TABLE",
+        "optionC": "MODIFY TABLE",
+        "optionD": "UPDATE TABLE",
+        "answer": "ALTER TABLE"
+    },
+    {
+        "question": "Which function is used to find the largest value in a column in PostgreSQL?",
+        "optionA": "MIN()",
+        "optionB": "MAX()",
+        "optionC": "BIGGEST()",
+        "optionD": "GREATEST()",
+        "answer": "MAX()"
+    },
+    {
+        "question": "Which PostgreSQL clause is used to filter aggregated data?",
+        "optionA": "WHERE",
+        "optionB": "HAVING",
+        "optionC": "FILTER",
+        "optionD": "GROUP BY",
+        "answer": "HAVING"
+    },
+    {
+        "question": "Which operator is used to check if a value exists in a list of values in PostgreSQL?",
+        "optionA": "EXISTS",
+        "optionB": "IN",
+        "optionC": "ANY",
+        "optionD": "ALL",
+        "answer": "IN"
+    },
+    {
+        "question": "Which keyword is used to remove all rows from a table without logging individual row deletions in PostgreSQL?",
+        "optionA": "DELETE",
+        "optionB": "TRUNCATE",
+        "optionC": "REMOVE",
+        "optionD": "CLEAR",
+        "answer": "TRUNCATE"
+    },
+    {
+        "question": "Which PostgreSQL function is used to return the length of a string?",
+        "optionA": "LENGTH()",
+        "optionB": "SIZE()",
+        "optionC": "STRLEN()",
+        "optionD": "LEN()",
+        "answer": "LENGTH()"
+    },
+    {
+        "question": "Which PostgreSQL command is used to back up a database?",
+        "optionA": "pg_backup",
+        "optionB": "pg_dump",
+        "optionC": "backupdb",
+        "optionD": "dumpdb",
+        "answer": "pg_dump"
+    },
+    {
+        "question": "Which PostgreSQL function is used to return the current date and time?",
+        "optionA": "CURRENT_TIMESTAMP()",
+        "optionB": "GETDATE()",
+        "optionC": "NOW()",
+        "optionD": "SYSDATE()",
+        "answer": "CURRENT_TIMESTAMP()"
+    },
+    {
+        "question": "Which statement is used to change a user's password in PostgreSQL?",
+        "optionA": "CHANGE PASSWORD",
+        "optionB": "ALTER PASSWORD",
+        "optionC": "SET PASSWORD",
+        "optionD": "UPDATE PASSWORD",
+        "answer": "SET PASSWORD"
+    },
+    {
+        "question": "Which keyword is used to combine the results of two queries and remove duplicates in PostgreSQL?",
+        "optionA": "JOIN",
+        "optionB": "UNION",
+        "optionC": "INTERSECT",
+        "optionD": "MERGE",
+        "answer": "UNION"
+    },
+    {
+        "question": "What does the IS NULL condition check for in PostgreSQL?",
+        "optionA": "If a column has a default value",
+        "optionB": "If a column has a NULL value",
+        "optionC": "If a column is empty",
+        "optionD": "If a column is unique",
+        "answer": "If a column has a NULL value"
+    },
+    {
+        "question": "Which function is used to round a number to a specified number of decimal places in PostgreSQL?",
+        "optionA": "ROUND()",
+        "optionB": "TRUNC()",
+        "optionC": "CEIL()",
+        "optionD": "FLOOR()",
+        "answer": "ROUND()"
+    },
+    {
+        "question": "Which keyword is used to specify a default value for a column in PostgreSQL?",
+        "optionA": "DEFAULT",
+        "optionB": "SET",
+        "optionC": "VALUE",
+        "optionD": "DEFINE",
+        "answer": "DEFAULT"
+    },
+    {
+        "question": "What is the purpose of the EXPLAIN statement in PostgreSQL?",
+        "optionA": "To create a new table",
+        "optionB": "To analyze the execution plan of a query",
+        "optionC": "To list all databases",
+        "optionD": "To backup a database",
+        "answer": "To analyze the execution plan of a query"
+    },
+    {
+        "question": "Which function is used to convert a string to lowercase in PostgreSQL?",
+        "optionA": "UPPER()",
+        "optionB": "LOWER()",
+        "optionC": "TOLOWER()",
+        "optionD": "STRTOLOWER()",
+        "answer": "LOWER()"
+    },
+    {
+        "question": "Which PostgreSQL data type is used to store Boolean values?",
+        "optionA": "BOOL",
+        "optionB": "BOOLEAN",
+        "optionC": "BIT",
+        "optionD": "TINYINT",
+        "answer": "BOOLEAN"
+    },
+    {
+        "question": "Which PostgreSQL command is used to grant privileges to a user?",
+        "optionA": "GRANT",
+        "optionB": "ALLOW",
+        "optionC": "PERMIT",
+        "optionD": "GIVE",
+        "answer": "GRANT"
+    },
+    {
+        "question": "Which PostgreSQL function is used to extract a part of a string?",
+        "optionA": "SUBSTRING()",
+        "optionB": "EXTRACT()",
+        "optionC": "PART()",
+        "optionD": "SPLIT()",
+        "answer": "SUBSTRING()"
+    },
+    {
+        "question": "What is the default behavior of a PostgreSQL transaction?",
+        "optionA": "Auto commit",
+        "optionB": "Manual commit",
+        "optionC": "Rollback on error",
+        "optionD": "No transactions",
+        "answer": "Auto commit"
+    },
+    {
+        "question": "Which PostgreSQL command is used to create an index on a table?",
+        "optionA": "CREATE INDEX",
+        "optionB": "CREATE KEY",
+        "optionC": "ADD INDEX",
+        "optionD": "NEW INDEX",
+        "answer": "CREATE INDEX"
+    },
+    {
+        "question": "Which PostgreSQL command is used to create a new schema?",
+        "optionA": "CREATE SCHEMA",
+        "optionB": "NEW SCHEMA",
+        "optionC": "CREATE STRUCTURE",
+        "optionD": "CREATE FRAME",
+        "answer": "CREATE SCHEMA"
+    },
+    {
+        "question": "Which PostgreSQL function is used to get the current user?",
+        "optionA": "USER()",
+        "optionB": "CURRENT_USER()",
+        "optionC": "SESSION_USER()",
+        "optionD": "CURRENT_USER",
+        "answer": "CURRENT_USER()"
+    },
+    {
+        "question": "Which PostgreSQL data type is used to store an array of values?",
+        "optionA": "ARRAY",
+        "optionB": "LIST",
+        "optionC": "SET",
+        "optionD": "COLLECTION",
+        "answer": "ARRAY"
+    },
+    {
+        "question": "Which PostgreSQL function is used to generate a random number?",
+        "optionA": "RANDOM()",
+        "optionB": "RAND()",
+        "optionC": "RND()",
+        "optionD": "GEN_RANDOM()",
+        "answer": "RANDOM()"
+    },
+    {
+        "question": "Which command is used to rename a table in PostgreSQL?",
+        "optionA": "RENAME TABLE",
+        "optionB": "ALTER TABLE RENAME",
+        "optionC": "CHANGE TABLE NAME",
+        "optionD": "MODIFY TABLE",
+        "answer": "ALTER TABLE RENAME"
+    },
+    {
+        "question": "Which PostgreSQL function is used to find the position of a substring in a string?",
+        "optionA": "POSITION()",
+        "optionB": "LOCATE()",
+        "optionC": "FIND()",
+        "optionD": "SEARCH()",
+        "answer": "POSITION()"
+    },
+    {
+        "question": "Which PostgreSQL command is used to revoke privileges from a user?",
+        "optionA": "REVOKE",
+        "optionB": "DENY",
+        "optionC": "WITHDRAW",
+        "optionD": "REMOVE",
+        "answer": "REVOKE"
+    },
+    {
+        "question": "Which PostgreSQL data type is used to store money values?",
+        "optionA": "MONEY",
+        "optionB": "DECIMAL",
+        "optionC": "FLOAT",
+        "optionD": "NUMERIC",
+        "answer": "MONEY"
+    },
+    {
+        "question": "Which PostgreSQL function is used to get the current date?",
+        "optionA": "NOW()",
+        "optionB": "CURRENT_DATE()",
+        "optionC": "TODAY()",
+        "optionD": "CURRENT_TIME()",
+        "answer": "CURRENT_DATE()"
+    },
+    {
+        "question": "Which PostgreSQL function is used to convert a string to uppercase?",
+        "optionA": "UPPER()",
+        "optionB": "CAPITALIZE()",
+        "optionC": "TOUPPER()",
+        "optionD": "STRINGUP()",
+        "answer": "UPPER()"
+    },
+    {
+        "question": "Which command is used to create a new user in PostgreSQL?",
+        "optionA": "CREATE USER",
+        "optionB": "ADD USER",
+        "optionC": "NEW USER",
+        "optionD": "CREATE ACCOUNT",
+        "answer": "CREATE USER"
+    },
+    {
+        "question": "Which clause is used to group rows in PostgreSQL?",
+        "optionA": "GROUP BY",
+        "optionB": "ORDER BY",
+        "optionC": "HAVING",
+        "optionD": "FILTER",
+        "answer": "GROUP BY"
+    },
+    {
+        "question": "Which PostgreSQL function is used to extract a part of a date?",
+        "optionA": "DATE_PART()",
+        "optionB": "EXTRACT()",
+        "optionC": "DATE_SUB()",
+        "optionD": "SUBDATE()",
+        "answer": "EXTRACT()"
+    },
+    {
+        "question": "Which PostgreSQL command is used to update a record in a table?",
+        "optionA": "UPDATE",
+        "optionB": "MODIFY",
+        "optionC": "CHANGE",
+        "optionD": "SET",
+        "answer": "UPDATE"
+    },
+    {
+        "question": "Which PostgreSQL function is used to return the number of elements in an array?",
+        "optionA": "ARRAY_LENGTH()",
+        "optionB": "ARRAY_COUNT()",
+        "optionC": "ARRAY_SIZE()",
+        "optionD": "ARRAY_ELEMENTS()",
+        "answer": "ARRAY_LENGTH()"
+    },
+    {
+        "question": "Which PostgreSQL command is used to create a foreign key constraint?",
+        "optionA": "CREATE FOREIGN KEY",
+        "optionB": "ALTER TABLE ADD FOREIGN KEY",
+        "optionC": "CREATE CONSTRAINT",
+        "optionD": "ALTER TABLE ADD CONSTRAINT",
+        "answer": "ALTER TABLE ADD CONSTRAINT"
+    },
+    {
+        "question": "Which PostgreSQL function is used to round a number to the nearest integer?",
+        "optionA": "ROUND()",
+        "optionB": "TRUNC()",
+        "optionC": "FLOOR()",
+        "optionD": "CEIL()",
+        "answer": "ROUND()"
+    },
+    {
+        "question": "Which PostgreSQL data type is used to store binary data?",
+        "optionA": "BYTEA",
+        "optionB": "BINARY",
+        "optionC": "VARBINARY",
+        "optionD": "BLOB",
+        "answer": "BYTEA"
+    }
+]

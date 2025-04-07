@@ -1,0 +1,530 @@
+[
+    {
+        "question": "What does the acronym TCP stand for in networking?",
+        "optionA": "Transmission Control Protocol",
+        "optionB": "Transport Control Protocol",
+        "optionC": "Transmission Communication Protocol",
+        "optionD": "Transport Communication Protocol",
+        "answer": "Transmission Control Protocol"
+    },
+    {
+        "question": "Which protocol is used to assign IP addresses dynamically to devices on a network?",
+        "optionA": "DNS",
+        "optionB": "DHCP",
+        "optionC": "FTP",
+        "optionD": "HTTP",
+        "answer": "DHCP"
+    },
+    {
+        "question": "What is the main function of the ARP protocol?",
+        "optionA": "To resolve IP addresses to MAC addresses",
+        "optionB": "To resolve MAC addresses to IP addresses",
+        "optionC": "To assign IP addresses dynamically",
+        "optionD": "To establish communication between two devices",
+        "answer": "To resolve IP addresses to MAC addresses"
+    },
+    {
+        "question": "Which protocol is used to transfer files over the internet?",
+        "optionA": "FTP",
+        "optionB": "SMTP",
+        "optionC": "POP3",
+        "optionD": "IMAP",
+        "answer": "FTP"
+    },
+    {
+        "question": "Which of the following protocols is used for secure communication over a network?",
+        "optionA": "HTTP",
+        "optionB": "HTTPS",
+        "optionC": "FTP",
+        "optionD": "SNMP",
+        "answer": "HTTPS"
+    },
+    {
+        "question": "Which protocol is responsible for converting domain names into IP addresses?",
+        "optionA": "DNS",
+        "optionB": "HTTP",
+        "optionC": "FTP",
+        "optionD": "SMTP",
+        "answer": "DNS"
+    },
+    {
+        "question": "What is the primary function of the ICMP protocol?",
+        "optionA": "To establish secure communication",
+        "optionB": "To send error messages and diagnostic information",
+        "optionC": "To transfer files over a network",
+        "optionD": "To assign IP addresses dynamically",
+        "answer": "To send error messages and diagnostic information"
+    },
+    {
+        "question": "Which protocol is used for email transmission?",
+        "optionA": "SMTP",
+        "optionB": "IMAP",
+        "optionC": "POP3",
+        "optionD": "FTP",
+        "answer": "SMTP"
+    },
+    {
+        "question": "What is the purpose of the TCP three-way handshake?",
+        "optionA": "To establish a secure connection",
+        "optionB": "To confirm the IP address of a device",
+        "optionC": "To establish a reliable connection between two devices",
+        "optionD": "To assign IP addresses dynamically",
+        "answer": "To establish a reliable connection between two devices"
+    },
+    {
+        "question": "Which protocol is used to send data packets from one device to another on a network?",
+        "optionA": "TCP",
+        "optionB": "UDP",
+        "optionC": "FTP",
+        "optionD": "IP",
+        "answer": "IP"
+    },
+    {
+        "question": "Which of the following is a connectionless protocol?",
+        "optionA": "TCP",
+        "optionB": "UDP",
+        "optionC": "SMTP",
+        "optionD": "HTTP",
+        "answer": "UDP"
+    },
+    {
+        "question": "Which protocol is used to secure communication over the internet?",
+        "optionA": "FTP",
+        "optionB": "SSL/TLS",
+        "optionC": "SMTP",
+        "optionD": "IMAP",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "What does the acronym DNS stand for?",
+        "optionA": "Dynamic Network System",
+        "optionB": "Domain Name System",
+        "optionC": "Data Network Server",
+        "optionD": "Domain Network Service",
+        "answer": "Domain Name System"
+    },
+    {
+        "question": "What is the purpose of the HTTP protocol?",
+        "optionA": "To send email messages",
+        "optionB": "To transfer files over a network",
+        "optionC": "To display web pages",
+        "optionD": "To assign IP addresses",
+        "answer": "To display web pages"
+    },
+    {
+        "question": "Which of the following protocols is used to retrieve email messages from a server?",
+        "optionA": "SMTP",
+        "optionB": "IMAP",
+        "optionC": "POP3",
+        "optionD": "FTP",
+        "answer": "IMAP"
+    },
+    {
+        "question": "Which protocol is used for transferring files securely over a network?",
+        "optionA": "SFTP",
+        "optionB": "FTP",
+        "optionC": "HTTP",
+        "optionD": "SMTP",
+        "answer": "SFTP"
+    },
+    {
+        "question": "Which protocol does HTTPS use for encryption?",
+        "optionA": "SSL/TLS",
+        "optionB": "IPSec",
+        "optionC": "SSH",
+        "optionD": "ARP",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "What does the acronym VPN stand for?",
+        "optionA": "Virtual Private Network",
+        "optionB": "Virtual Protocol Network",
+        "optionC": "Verified Private Network",
+        "optionD": "Virtual Public Network",
+        "answer": "Virtual Private Network"
+    },
+    {
+        "question": "Which of the following is a key difference between TCP and UDP?",
+        "optionA": "TCP is connectionless, while UDP is connection-oriented",
+        "optionB": "TCP guarantees data delivery, while UDP does not",
+        "optionC": "UDP is used for secure communication, while TCP is not",
+        "optionD": "TCP is used for email communication, while UDP is used for web browsing",
+        "answer": "TCP guarantees data delivery, while UDP does not"
+    },
+    {
+        "question": "What is the purpose of the DHCP protocol?",
+        "optionA": "To assign IP addresses to devices on a network",
+        "optionB": "To resolve domain names to IP addresses",
+        "optionC": "To establish secure communication",
+        "optionD": "To send diagnostic messages",
+        "answer": "To assign IP addresses to devices on a network"
+    },
+    {
+        "question": "Which protocol is used to encrypt communications over a network?",
+        "optionA": "HTTP",
+        "optionB": "SSL/TLS",
+        "optionC": "TCP",
+        "optionD": "IP",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "Which protocol is used to manage network devices?",
+        "optionA": "FTP",
+        "optionB": "SNMP",
+        "optionC": "HTTP",
+        "optionD": "SMTP",
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which of the following protocols is used for routing data between devices on a network?",
+        "optionA": "IP",
+        "optionB": "TCP",
+        "optionC": "UDP",
+        "optionD": "ICMP",
+        "answer": "IP"
+    },
+    {
+        "question": "Which of the following is a protocol used for secure shell access to remote devices?",
+        "optionA": "FTP",
+        "optionB": "SSH",
+        "optionC": "SMTP",
+        "optionD": "HTTP",
+        "answer": "SSH"
+    },
+    {
+        "question": "What does the acronym NAT stand for in networking?",
+        "optionA": "Network Address Translation",
+        "optionB": "Network Access Translation",
+        "optionC": "Network Allocation Table",
+        "optionD": "Network Address Table",
+        "answer": "Network Address Translation"
+    },
+    {
+        "question": "Which protocol is used to test the reachability of a device on a network?",
+        "optionA": "DNS",
+        "optionB": "ICMP",
+        "optionC": "TCP",
+        "optionD": "UDP",
+        "answer": "ICMP"
+    },
+    {
+        "question": "Which protocol is used to control traffic flow in a network?",
+        "optionA": "TCP",
+        "optionB": "UDP",
+        "optionC": "ICMP",
+        "optionD": "FTP",
+        "answer": "TCP"
+    },
+    {
+        "question": "Which protocol is used to send and receive email messages?",
+        "optionA": "SMTP",
+        "optionB": "IMAP",
+        "optionC": "POP3",
+        "optionD": "FTP",
+        "answer": "SMTP"
+    },
+    {
+        "question": "Which protocol is used to manage devices on a network and gather information about their status?",
+        "optionA": "SNMP",
+        "optionB": "FTP",
+        "optionC": "SMTP",
+        "optionD": "HTTP",
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which protocol is used to securely transfer files over a network?",
+        "optionA": "SFTP",
+        "optionB": "FTP",
+        "optionC": "HTTP",
+        "optionD": "SMTP",
+        "answer": "SFTP"
+    },
+    {
+        "question": "What does the acronym HTTP stand for?",
+        "optionA": "HyperText Transmission Protocol",
+        "optionB": "HyperText Transfer Protocol",
+        "optionC": "Hyper Transfer Text Protocol",
+        "optionD": "HyperText Text Protocol",
+        "answer": "HyperText Transfer Protocol"
+    },
+    {
+        "question": "Which protocol is used to encrypt communication between a web browser and a server?",
+        "optionA": "FTP",
+        "optionB": "HTTP",
+        "optionC": "SSL/TLS",
+        "optionD": "SSH",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "Which of the following protocols is used to control the flow of data in a network?",
+        "optionA": "FTP",
+        "optionB": "TCP",
+        "optionC": "UDP",
+        "optionD": "SMTP",
+        "answer": "TCP"
+    },
+    {
+        "question": "Which protocol is used to send email messages?",
+        "optionA": "SMTP",
+        "optionB": "IMAP",
+        "optionC": "POP3",
+        "optionD": "FTP",
+        "answer": "SMTP"
+    },
+    {
+        "question": "Which of the following protocols is used to resolve domain names to IP addresses?",
+        "optionA": "DNS",
+        "optionB": "HTTP",
+        "optionC": "FTP",
+        "optionD": "SNMP",
+        "answer": "DNS"
+    },
+    {
+        "question": "Which protocol is used to retrieve email messages from a server?",
+        "optionA": "SMTP",
+        "optionB": "IMAP",
+        "optionC": "POP3",
+        "optionD": "FTP",
+        "answer": "IMAP"
+    },
+    {
+        "question": "Which protocol is used to transfer files over a secure connection?",
+        "optionA": "FTP",
+        "optionB": "SFTP",
+        "optionC": "HTTP",
+        "optionD": "SMTP",
+        "answer": "SFTP"
+    },
+    {
+        "question": "What does the acronym IPv6 stand for?",
+        "optionA": "Internet Protocol Version 6",
+        "optionB": "Internet Protocol Version 5",
+        "optionC": "Internal Protocol Version 6",
+        "optionD": "Internal Protocol Version 5",
+        "answer": "Internet Protocol Version 6"
+    },
+    {
+        "question": "Which protocol is used to manage routing information between routers in a network?",
+        "optionA": "OSPF",
+        "optionB": "DNS",
+        "optionC": "SMTP",
+        "optionD": "FTP",
+        "answer": "OSPF"
+    },
+    {
+        "question": "Which protocol does the Internet use to assign IP addresses dynamically?",
+        "optionA": "ARP",
+        "optionB": "DHCP",
+        "optionC": "DNS",
+        "optionD": "SNMP",
+        "answer": "DHCP"
+    },
+    {
+        "question": "Which protocol is used to provide secure remote login to network devices?",
+        "optionA": "FTP",
+        "optionB": "SSH",
+        "optionC": "Telnet",
+        "optionD": "HTTP",
+        "answer": "SSH"
+    },
+    {
+        "question": "Which protocol is used to route data packets in a network?",
+        "optionA": "IP",
+        "optionB": "TCP",
+        "optionC": "UDP",
+        "optionD": "ICMP",
+        "answer": "IP"
+    },
+    {
+        "question": "Which of the following protocols is used for voice over IP (VoIP) communication?",
+        "optionA": "HTTP",
+        "optionB": "SIP",
+        "optionC": "SMTP",
+        "optionD": "FTP",
+        "answer": "SIP"
+    },
+    {
+        "question": "Which protocol is used to convert a URL into an IP address?",
+        "optionA": "SMTP",
+        "optionB": "DNS",
+        "optionC": "DHCP",
+        "optionD": "HTTP",
+        "answer": "DNS"
+    },
+    {
+        "question": "Which protocol is used to encrypt communications between a web server and a browser?",
+        "optionA": "SSL/TLS",
+        "optionB": "FTP",
+        "optionC": "SMTP",
+        "optionD": "SSH",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "Which of the following protocols is used for network time synchronization?",
+        "optionA": "FTP",
+        "optionB": "NTP",
+        "optionC": "HTTP",
+        "optionD": "SMTP",
+        "answer": "NTP"
+    },
+    {
+        "question": "What does the acronym MAC stand for in networking?",
+        "optionA": "Main Access Control",
+        "optionB": "Media Access Control",
+        "optionC": "Maximum Access Control",
+        "optionD": "Memory Access Control",
+        "answer": "Media Access Control"
+    },
+    {
+        "question": "Which protocol is used for managing and monitoring network devices?",
+        "optionA": "SNMP",
+        "optionB": "HTTP",
+        "optionC": "SMTP",
+        "optionD": "FTP",
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which protocol is used to securely connect two devices over an insecure network?",
+        "optionA": "FTP",
+        "optionB": "SSH",
+        "optionC": "IP",
+        "optionD": "HTTP",
+        "answer": "SSH"
+    },
+    {
+        "question": "Which protocol is used to send error messages in a network?",
+        "optionA": "HTTP",
+        "optionB": "ICMP",
+        "optionC": "SMTP",
+        "optionD": "FTP",
+        "answer": "ICMP"
+    },
+    {
+        "question": "Which protocol is used for sending and receiving email messages?",
+        "optionA": "SMTP",
+        "optionB": "IMAP",
+        "optionC": "POP3",
+        "optionD": "FTP",
+        "answer": "SMTP"
+    },
+    {
+        "question": "Which protocol is used to manage network devices and gather information about their status?",
+        "optionA": "SNMP",
+        "optionB": "FTP",
+        "optionC": "SMTP",
+        "optionD": "HTTP",
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which of the following protocols is used for real-time communication over the internet?",
+        "optionA": "SMTP",
+        "optionB": "HTTP",
+        "optionC": "SIP",
+        "optionD": "FTP",
+        "answer": "SIP"
+    },
+    {
+        "question": "Which protocol is used to prevent unauthorized access to network resources?",
+        "optionA": "IPSec",
+        "optionB": "NTP",
+        "optionC": "SSH",
+        "optionD": "DNS",
+        "answer": "IPSec"
+    },
+    {
+        "question": "Which protocol is used for sending and receiving web pages?",
+        "optionA": "SMTP",
+        "optionB": "HTTP",
+        "optionC": "FTP",
+        "optionD": "POP3",
+        "answer": "HTTP"
+    },
+    {
+        "question": "Which protocol is used to resolve domain names into IP addresses?",
+        "optionA": "DNS",
+        "optionB": "HTTP",
+        "optionC": "SMTP",
+        "optionD": "FTP",
+        "answer": "DNS"
+    },
+    {
+        "question": "Which protocol is used for file transfers over a network?",
+        "optionA": "FTP",
+        "optionB": "SMTP",
+        "optionC": "HTTP",
+        "optionD": "SSH",
+        "answer": "FTP"
+    },
+    {
+        "question": "Which protocol is used to establish secure communication over the internet?",
+        "optionA": "HTTP",
+        "optionB": "HTTPS",
+        "optionC": "SMTP",
+        "optionD": "FTP",
+        "answer": "HTTPS"
+    },
+    {
+        "question": "Which protocol is used for network communication without establishing a connection?",
+        "optionA": "TCP",
+        "optionB": "UDP",
+        "optionC": "IP",
+        "optionD": "ICMP",
+        "answer": "UDP"
+    },
+    {
+        "question": "Which protocol is used for remote device management?",
+        "optionA": "SNMP",
+        "optionB": "SSH",
+        "optionC": "SMTP",
+        "optionD": "FTP",
+        "answer": "SSH"
+    },
+    {
+        "question": "Which protocol is used to control the flow of data between two devices?",
+        "optionA": "TCP",
+        "optionB": "UDP",
+        "optionC": "HTTP",
+        "optionD": "FTP",
+        "answer": "TCP"
+    },
+    {
+        "question": "Which protocol is used to perform network address translation?",
+        "optionA": "ARP",
+        "optionB": "NAT",
+        "optionC": "DNS",
+        "optionD": "DHCP",
+        "answer": "NAT"
+    },
+    {
+        "question": "Which protocol is used to manage network configurations?",
+        "optionA": "SNMP",
+        "optionB": "FTP",
+        "optionC": "SMTP",
+        "optionD": "HTTP",
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which protocol is used for secure web browsing?",
+        "optionA": "HTTP",
+        "optionB": "HTTPS",
+        "optionC": "FTP",
+        "optionD": "SMTP",
+        "answer": "HTTPS"
+    },
+    {
+        "question": "Which protocol is used to send data over the internet in small packets?",
+        "optionA": "TCP",
+        "optionB": "IP",
+        "optionC": "UDP",
+        "optionD": "ICMP",
+        "answer": "IP"
+    },
+    {
+        "question": "Which protocol is used to send error messages and diagnostics in a network?",
+        "optionA": "ICMP",
+        "optionB": "SMTP",
+        "optionC": "FTP",
+        "optionD": "HTTP",
+        "answer": "ICMP"
+    }
+]

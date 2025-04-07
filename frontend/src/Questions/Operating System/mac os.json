@@ -1,0 +1,458 @@
+[
+    {
+        "question": "What is the default file system used by macOS?",
+        "optionA": "FAT32",
+        "optionB": "NTFS",
+        "optionC": "APFS",
+        "optionD": "ext4",
+        "answer": "APFS"
+    },
+    {
+        "question": "Which macOS version introduced the 'Dark Mode' feature?",
+        "optionA": "macOS Sierra",
+        "optionB": "macOS Mojave",
+        "optionC": "macOS Catalina",
+        "optionD": "macOS Big Sur",
+        "answer": "macOS Mojave"
+    },
+    {
+        "question": "What is the macOS equivalent of Windows Task Manager?",
+        "optionA": "Activity Monitor",
+        "optionB": "System Preferences",
+        "optionC": "Terminal",
+        "optionD": "Disk Utility",
+        "answer": "Activity Monitor"
+    },
+    {
+        "question": "Which of the following is the default web browser in macOS?",
+        "optionA": "Google Chrome",
+        "optionB": "Mozilla Firefox",
+        "optionC": "Safari",
+        "optionD": "Opera",
+        "answer": "Safari"
+    },
+    {
+        "question": "Which macOS feature allows users to run Windows applications?",
+        "optionA": "Boot Camp",
+        "optionB": "Parallels Desktop",
+        "optionC": "Wine",
+        "optionD": "CrossOver",
+        "answer": "Boot Camp"
+    },
+    {
+        "question": "What is the default terminal shell in macOS?",
+        "optionA": "zsh",
+        "optionB": "bash",
+        "optionC": "fish",
+        "optionD": "tcsh",
+        "answer": "zsh"
+    },
+    {
+        "question": "Which macOS version introduced the new system architecture based on Apple Silicon (M1)?",
+        "optionA": "macOS Mojave",
+        "optionB": "macOS Catalina",
+        "optionC": "macOS Big Sur",
+        "optionD": "macOS Monterey",
+        "answer": "macOS Big Sur"
+    },
+    {
+        "question": "What is the macOS feature that allows users to store and access files in the cloud?",
+        "optionA": "iCloud Drive",
+        "optionB": "Google Drive",
+        "optionC": "OneDrive",
+        "optionD": "Dropbox",
+        "answer": "iCloud Drive"
+    },
+    {
+        "question": "Which macOS feature allows users to manage multiple desktops?",
+        "optionA": "Spaces",
+        "optionB": "Mission Control",
+        "optionC": "Expose",
+        "optionD": "Split View",
+        "answer": "Spaces"
+    },
+    {
+        "question": "Which macOS application is used for video editing?",
+        "optionA": "iMovie",
+        "optionB": "Final Cut Pro",
+        "optionC": "GarageBand",
+        "optionD": "Photoshop",
+        "answer": "iMovie"
+    },
+    {
+        "question": "Which macOS feature allows you to quickly search for files and applications?",
+        "optionA": "Finder",
+        "optionB": "Spotlight",
+        "optionC": "Siri",
+        "optionD": "Launchpad",
+        "answer": "Spotlight"
+    },
+    {
+        "question": "What is the default email client in macOS?",
+        "optionA": "Microsoft Outlook",
+        "optionB": "Thunderbird",
+        "optionC": "Mail",
+        "optionD": "Gmail",
+        "answer": "Mail"
+    },
+    {
+        "question": "Which macOS application is used for music and podcasts?",
+        "optionA": "iTunes",
+        "optionB": "Apple Music",
+        "optionC": "Music",
+        "optionD": "Spotify",
+        "answer": "Music"
+    },
+    {
+        "question": "Which of the following is used to back up macOS devices?",
+        "optionA": "Time Machine",
+        "optionB": "iCloud Backup",
+        "optionC": "iTunes",
+        "optionD": "Dropbox",
+        "answer": "Time Machine"
+    },
+    {
+        "question": "Which macOS feature allows users to run iOS apps on Macs with Apple Silicon?",
+        "optionA": "iPadOS",
+        "optionB": "Universal Control",
+        "optionC": "App Store",
+        "optionD": "Rosetta 2",
+        "answer": "Rosetta 2"
+    },
+    {
+        "question": "Which file system is used by macOS for Time Machine backups?",
+        "optionA": "NTFS",
+        "optionB": "FAT32",
+        "optionC": "APFS",
+        "optionD": "HFS+",
+        "answer": "APFS"
+    },
+    {
+        "question": "What is the macOS app used to organize photos?",
+        "optionA": "Photos",
+        "optionB": "Preview",
+        "optionC": "iPhoto",
+        "optionD": "Adobe Lightroom",
+        "answer": "Photos"
+    },
+    {
+        "question": "What is the name of the macOS app for screen recording?",
+        "optionA": "QuickTime Player",
+        "optionB": "ScreenFlow",
+        "optionC": "Camtasia",
+        "optionD": "OBS Studio",
+        "answer": "QuickTime Player"
+    },
+    {
+        "question": "Which macOS feature allows you to unlock your Mac using your iPhone or Apple Watch?",
+        "optionA": "Auto Unlock",
+        "optionB": "Face ID",
+        "optionC": "Touch ID",
+        "optionD": "iCloud Keychain",
+        "answer": "Auto Unlock"
+    },
+    {
+        "question": "Which macOS version was the first to introduce the Apple App Store?",
+        "optionA": "macOS Snow Leopard",
+        "optionB": "macOS Lion",
+        "optionC": "macOS Mavericks",
+        "optionD": "macOS Sierra",
+        "answer": "macOS Mavericks"
+    },
+    {
+        "question": "Which macOS feature allows users to use their iPad as a second display?",
+        "optionA": "Sidecar",
+        "optionB": "Universal Control",
+        "optionC": "AirPlay",
+        "optionD": "Continuity",
+        "answer": "Sidecar"
+    },
+    {
+        "question": "Which of the following is the macOS app for video conferencing?",
+        "optionA": "Zoom",
+        "optionB": "FaceTime",
+        "optionC": "Skype",
+        "optionD": "Google Meet",
+        "answer": "FaceTime"
+    },
+    {
+        "question": "What is the purpose of macOS 'Gatekeeper'?",
+        "optionA": "Prevent malware from running",
+        "optionB": "Encrypt user data",
+        "optionC": "Create disk partitions",
+        "optionD": "Backup user files",
+        "answer": "Prevent malware from running"
+    },
+    {
+        "question": "What is the macOS app used to manage and organize contacts?",
+        "optionA": "Contacts",
+        "optionB": "Address Book",
+        "optionC": "iCloud",
+        "optionD": "Mail",
+        "answer": "Contacts"
+    },
+    {
+        "question": "Which macOS app is used to create and manage reminders?",
+        "optionA": "Reminders",
+        "optionB": "Notes",
+        "optionC": "Calendar",
+        "optionD": "To-Do",
+        "answer": "Reminders"
+    },
+    {
+        "question": "Which macOS application is used for word processing?",
+        "optionA": "Microsoft Word",
+        "optionB": "Pages",
+        "optionC": "Google Docs",
+        "optionD": "TextEdit",
+        "answer": "Pages"
+    },
+    {
+        "question": "What is the macOS app used for creating and editing spreadsheets?",
+        "optionA": "Excel",
+        "optionB": "Numbers",
+        "optionC": "Google Sheets",
+        "optionD": "LibreOffice Calc",
+        "answer": "Numbers"
+    },
+    {
+        "question": "Which macOS app is used for creating and editing presentations?",
+        "optionA": "Keynote",
+        "optionB": "PowerPoint",
+        "optionC": "Google Slides",
+        "optionD": "Prezi",
+        "answer": "Keynote"
+    },
+    {
+        "question": "Which macOS app is used for managing calendar events?",
+        "optionA": "Calendar",
+        "optionB": "Reminders",
+        "optionC": "Mail",
+        "optionD": "Contacts",
+        "answer": "Calendar"
+    },
+    {
+        "question": "Which macOS version introduced the 'Find My' app?",
+        "optionA": "macOS Catalina",
+        "optionB": "macOS Big Sur",
+        "optionC": "macOS Monterey",
+        "optionD": "macOS Sierra",
+        "answer": "macOS Catalina"
+    },
+    {
+        "question": "Which macOS application is used for file compression?",
+        "optionA": "Finder",
+        "optionB": "Disk Utility",
+        "optionC": "Archive Utility",
+        "optionD": "Terminal",
+        "answer": "Archive Utility"
+    },
+    {
+        "question": "What is the macOS app used for viewing PDF files?",
+        "optionA": "Preview",
+        "optionB": "Adobe Acrobat",
+        "optionC": "Foxit Reader",
+        "optionD": "iBooks",
+        "answer": "Preview"
+    },
+    {
+        "question": "Which macOS feature allows you to automatically sync files across devices?",
+        "optionA": "iCloud Drive",
+        "optionB": "Dropbox",
+        "optionC": "Google Drive",
+        "optionD": "OneDrive",
+        "answer": "iCloud Drive"
+    },
+    {
+        "question": "What is the default macOS text editor?",
+        "optionA": "TextEdit",
+        "optionB": "Sublime Text",
+        "optionC": "Atom",
+        "optionD": "VS Code",
+        "answer": "TextEdit"
+    },
+    {
+        "question": "Which macOS app is used to view system information?",
+        "optionA": "System Preferences",
+        "optionB": "About This Mac",
+        "optionC": "Activity Monitor",
+        "optionD": "Disk Utility",
+        "answer": "About This Mac"
+    },
+    {
+        "question": "Which macOS feature allows you to share your screen with another Mac?",
+        "optionA": "AirDrop",
+        "optionB": "Screen Sharing",
+        "optionC": "Sidecar",
+        "optionD": "Universal Control",
+        "answer": "Screen Sharing"
+    },
+    {
+        "question": "Which macOS version introduced the 'Control Center' feature?",
+        "optionA": "macOS Big Sur",
+        "optionB": "macOS Monterey",
+        "optionC": "macOS Sierra",
+        "optionD": "macOS Mojave",
+        "answer": "macOS Big Sur"
+    },
+    {
+        "question": "What is the macOS feature that allows users to transfer files wirelessly between Apple devices?",
+        "optionA": "AirDrop",
+        "optionB": "iCloud Drive",
+        "optionC": "Bluetooth",
+        "optionD": "Universal Control",
+        "answer": "AirDrop"
+    },
+    {
+        "question": "Which macOS app is used for video conferencing and calls?",
+        "optionA": "FaceTime",
+        "optionB": "Zoom",
+        "optionC": "Skype",
+        "optionD": "Google Meet",
+        "answer": "FaceTime"
+    },
+    {
+        "question": "Which macOS feature allows users to connect their Mac with other Apple devices for seamless interaction?",
+        "optionA": "Universal Control",
+        "optionB": "Sidecar",
+        "optionC": "Handoff",
+        "optionD": "AirPlay",
+        "answer": "Universal Control"
+    },
+    {
+        "question": "Which macOS version introduced the 'Focus' feature to help reduce distractions?",
+        "optionA": "macOS Monterey",
+        "optionB": "macOS Big Sur",
+        "optionC": "macOS Catalina",
+        "optionD": "macOS Mojave",
+        "answer": "macOS Monterey"
+    },
+    {
+        "question": "Which macOS application is used to create and edit vector graphics?",
+        "optionA": "Adobe Illustrator",
+        "optionB": "Sketch",
+        "optionC": "Affinity Designer",
+        "optionD": "Preview",
+        "answer": "Sketch"
+    },
+    {
+        "question": "Which macOS app is used to create and manage notes?",
+        "optionA": "Notes",
+        "optionB": "Evernote",
+        "optionC": "OneNote",
+        "optionD": "Reminders",
+        "answer": "Notes"
+    },
+    {
+        "question": "Which macOS feature is used to control the privacy settings and permissions of apps?",
+        "optionA": "System Preferences",
+        "optionB": "Security & Privacy",
+        "optionC": "Gatekeeper",
+        "optionD": "iCloud",
+        "answer": "Security & Privacy"
+    },
+    {
+        "question": "Which macOS application is used to manage system storage and disk partitions?",
+        "optionA": "Disk Utility",
+        "optionB": "Time Machine",
+        "optionC": "Finder",
+        "optionD": "Activity Monitor",
+        "answer": "Disk Utility"
+    },
+    {
+        "question": "What is the name of the macOS feature that allows users to send and receive text messages on their Mac?",
+        "optionA": "iMessage",
+        "optionB": "SMS",
+        "optionC": "WhatsApp",
+        "optionD": "Messenger",
+        "answer": "iMessage"
+    },
+    {
+        "question": "Which macOS app is used to organize and access contacts?",
+        "optionA": "Contacts",
+        "optionB": "Mail",
+        "optionC": "Messages",
+        "optionD": "Reminders",
+        "answer": "Contacts"
+    },
+    {
+        "question": "Which macOS version introduced the 'App Clips' feature?",
+        "optionA": "macOS Big Sur",
+        "optionB": "macOS Monterey",
+        "optionC": "macOS Catalina",
+        "optionD": "macOS Sierra",
+        "answer": "macOS Big Sur"
+    },
+    {
+        "question": "Which macOS feature allows users to back up their system and restore it to a previous state?",
+        "optionA": "Time Machine",
+        "optionB": "iCloud Backup",
+        "optionC": "Disk Utility",
+        "optionD": "System Preferences",
+        "answer": "Time Machine"
+    },
+    {
+        "question": "Which macOS feature allows users to run iPad apps on Macs with Apple Silicon?",
+        "optionA": "Universal Control",
+        "optionB": "Sidecar",
+        "optionC": "Rosetta 2",
+        "optionD": "App Store",
+        "answer": "Rosetta 2"
+    },
+    {
+        "question": "Which macOS version introduced the 'Safari Extensions' feature?",
+        "optionA": "macOS Mojave",
+        "optionB": "macOS Sierra",
+        "optionC": "macOS Big Sur",
+        "optionD": "macOS Monterey",
+        "answer": "macOS Mojave"
+    },
+    {
+        "question": "Which macOS feature allows users to create a virtual assistant to automate tasks?",
+        "optionA": "Automator",
+        "optionB": "Siri",
+        "optionC": "AppleScript",
+        "optionD": "Shortcuts",
+        "answer": "Automator"
+    },
+    {
+        "question": "What is the name of the macOS feature that provides real-time system diagnostics and monitoring?",
+        "optionA": "Activity Monitor",
+        "optionB": "System Preferences",
+        "optionC": "Console",
+        "optionD": "Terminal",
+        "answer": "Activity Monitor"
+    },
+    {
+        "question": "Which macOS feature allows you to quickly access and launch apps and files?",
+        "optionA": "Launchpad",
+        "optionB": "Spotlight",
+        "optionC": "Finder",
+        "optionD": "Dock",
+        "answer": "Launchpad"
+    },
+    {
+        "question": "Which macOS version introduced the 'Live Text' feature for interacting with text in images?",
+        "optionA": "macOS Monterey",
+        "optionB": "macOS Big Sur",
+        "optionC": "macOS Sierra",
+        "optionD": "macOS Mojave",
+        "answer": "macOS Monterey"
+    },
+    {
+        "question": "Which macOS app is used to manage Wi-Fi networks and connections?",
+        "optionA": "System Preferences",
+        "optionB": "Network Utility",
+        "optionC": "Wi-Fi Settings",
+        "optionD": "AirPort Utility",
+        "answer": "System Preferences"
+    },
+    {
+        "question": "Which macOS version introduced the 'Shortcuts' app for automation?",
+        "optionA": "macOS Monterey",
+        "optionB": "macOS Big Sur",
+        "optionC": "macOS Sierra",
+        "optionD": "macOS Mojave",
+        "answer": "macOS Monterey"
+    }
+]

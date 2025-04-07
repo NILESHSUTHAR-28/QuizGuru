@@ -1,0 +1,482 @@
+[
+    {
+        "question": "What is cloud computing primarily used for?",
+        "optionA": "Building local networks",
+        "optionB": "Providing on-demand computing resources",
+        "optionC": "Developing hardware components",
+        "optionD": "Creating standalone applications",
+        "answer": "Providing on-demand computing resources"
+    },
+    {
+        "question": "Which cloud service model provides virtual machines and other infrastructure?",
+        "optionA": "SaaS",
+        "optionB": "PaaS",
+        "optionC": "IaaS",
+        "optionD": "FaaS",
+        "answer": "IaaS"
+    },
+    {
+        "question": "What is the primary advantage of cloud scalability?",
+        "optionA": "Reduced hardware costs",
+        "optionB": "Increased energy consumption",
+        "optionC": "Static resource allocation",
+        "optionD": "Increased hardware dependency",
+        "answer": "Reduced hardware costs"
+    },
+    {
+        "question": "What is a private cloud?",
+        "optionA": "A cloud service shared across multiple organizations",
+        "optionB": "A cloud service dedicated to a single organization",
+        "optionC": "A public cloud with added security",
+        "optionD": "A local server with remote access",
+        "answer": "A cloud service dedicated to a single organization"
+    },
+    {
+        "question": "Which type of cloud deployment involves a mix of public and private clouds?",
+        "optionA": "Private cloud",
+        "optionB": "Hybrid cloud",
+        "optionC": "Community cloud",
+        "optionD": "Public cloud",
+        "answer": "Hybrid cloud"
+    },
+    {
+        "question": "What is the role of an API in cloud computing?",
+        "optionA": "Managing hardware resources",
+        "optionB": "Enabling communication between software components",
+        "optionC": "Providing storage services",
+        "optionD": "Monitoring network traffic",
+        "answer": "Enabling communication between software components"
+    },
+    {
+        "question": "What does elasticity in cloud computing refer to?",
+        "optionA": "Automatic scaling of resources",
+        "optionB": "Fixed resource allocation",
+        "optionC": "Manual resource configuration",
+        "optionD": "Reducing system flexibility",
+        "answer": "Automatic scaling of resources"
+    },
+    {
+        "question": "Which cloud service model is best for software development and testing?",
+        "optionA": "SaaS",
+        "optionB": "PaaS",
+        "optionC": "IaaS",
+        "optionD": "FaaS",
+        "answer": "PaaS"
+    },
+    {
+        "question": "What is a multi-tenant architecture in cloud computing?",
+        "optionA": "An architecture where each user has dedicated resources",
+        "optionB": "An architecture where multiple users share resources",
+        "optionC": "An architecture for hybrid cloud setups",
+        "optionD": "An architecture used only for private clouds",
+        "answer": "An architecture where multiple users share resources"
+    },
+    {
+        "question": "Which of the following is a characteristic of serverless computing?",
+        "optionA": "Developers manage servers directly",
+        "optionB": "Resources are allocated dynamically",
+        "optionC": "Fixed server configurations",
+        "optionD": "Manual scaling of resources",
+        "answer": "Resources are allocated dynamically"
+    },
+    {
+        "question": "What is the primary use of a Content Delivery Network (CDN) in cloud computing?",
+        "optionA": "Storing unstructured data",
+        "optionB": "Distributing content closer to users",
+        "optionC": "Managing virtual machines",
+        "optionD": "Running containerized applications",
+        "answer": "Distributing content closer to users"
+    },
+    {
+        "question": "Which cloud service ensures disaster recovery?",
+        "optionA": "Cloud Storage",
+        "optionB": "Cloud Backup",
+        "optionC": "Cloud Compute",
+        "optionD": "Cloud Monitoring",
+        "answer": "Cloud Backup"
+    },
+    {
+        "question": "What is the purpose of a load balancer in cloud architecture?",
+        "optionA": "Storing data securely",
+        "optionB": "Distributing traffic across servers",
+        "optionC": "Running applications locally",
+        "optionD": "Scaling storage dynamically",
+        "answer": "Distributing traffic across servers"
+    },
+    {
+        "question": "What does Infrastructure as Code (IaC) allow in cloud computing?",
+        "optionA": "Manual server configuration",
+        "optionB": "Automated infrastructure management",
+        "optionC": "Physical hardware management",
+        "optionD": "Static resource allocation",
+        "answer": "Automated infrastructure management"
+    },
+    {
+        "question": "What is a virtual machine in the context of cloud computing?",
+        "optionA": "A physical server in the cloud",
+        "optionB": "An emulation of a computer system",
+        "optionC": "A containerized application",
+        "optionD": "A static database instance",
+        "answer": "An emulation of a computer system"
+    },
+    {
+        "question": "Which cloud service provides tools for big data analytics?",
+        "optionA": "Cloud Compute",
+        "optionB": "Cloud Analytics",
+        "optionC": "BigQuery",
+        "optionD": "Cloud Storage",
+        "answer": "BigQuery"
+    },
+    {
+        "question": "What is the primary role of a hypervisor in cloud computing?",
+        "optionA": "Storing data securely",
+        "optionB": "Running virtual machines",
+        "optionC": "Managing network traffic",
+        "optionD": "Encrypting cloud data",
+        "answer": "Running virtual machines"
+    },
+    {
+        "question": "What does container orchestration help with in cloud computing?",
+        "optionA": "Hosting websites",
+        "optionB": "Scaling and managing containers",
+        "optionC": "Creating virtual machines",
+        "optionD": "Analyzing big data",
+        "answer": "Scaling and managing containers"
+    },
+    {
+        "question": "What is the primary purpose of cloud monitoring?",
+        "optionA": "Backing up data",
+        "optionB": "Tracking resource usage and performance",
+        "optionC": "Scaling resources dynamically",
+        "optionD": "Encrypting cloud data",
+        "answer": "Tracking resource usage and performance"
+    },
+    {
+        "question": "Which of the following is a benefit of cloud-based disaster recovery?",
+        "optionA": "Faster recovery time",
+        "optionB": "Higher hardware costs",
+        "optionC": "Manual resource allocation",
+        "optionD": "Increased downtime",
+        "answer": "Faster recovery time"
+    },
+    {
+        "question": "What is cloud computing primarily used for?",
+        "optionA": "Building local networks",
+        "optionB": "Providing on-demand computing resources",
+        "optionC": "Developing hardware components",
+        "optionD": "Creating standalone applications",
+        "answer": "Providing on-demand computing resources"
+    },
+    {
+        "question": "Which cloud service model provides virtual machines and other infrastructure?",
+        "optionA": "SaaS",
+        "optionB": "PaaS",
+        "optionC": "IaaS",
+        "optionD": "FaaS",
+        "answer": "IaaS"
+    },
+    {
+        "question": "What is the primary advantage of cloud scalability?",
+        "optionA": "Reduced hardware costs",
+        "optionB": "Increased energy consumption",
+        "optionC": "Static resource allocation",
+        "optionD": "Increased hardware dependency",
+        "answer": "Reduced hardware costs"
+    },
+    {
+        "question": "What is a private cloud?",
+        "optionA": "A cloud service shared across multiple organizations",
+        "optionB": "A cloud service dedicated to a single organization",
+        "optionC": "A public cloud with added security",
+        "optionD": "A local server with remote access",
+        "answer": "A cloud service dedicated to a single organization"
+    },
+    {
+        "question": "Which type of cloud deployment involves a mix of public and private clouds?",
+        "optionA": "Private cloud",
+        "optionB": "Hybrid cloud",
+        "optionC": "Community cloud",
+        "optionD": "Public cloud",
+        "answer": "Hybrid cloud"
+    },
+    {
+        "question": "What is the role of an API in cloud computing?",
+        "optionA": "Managing hardware resources",
+        "optionB": "Enabling communication between software components",
+        "optionC": "Providing storage services",
+        "optionD": "Monitoring network traffic",
+        "answer": "Enabling communication between software components"
+    },
+    {
+        "question": "What does elasticity in cloud computing refer to?",
+        "optionA": "Automatic scaling of resources",
+        "optionB": "Fixed resource allocation",
+        "optionC": "Manual resource configuration",
+        "optionD": "Reducing system flexibility",
+        "answer": "Automatic scaling of resources"
+    },
+    {
+        "question": "Which cloud service model is best for software development and testing?",
+        "optionA": "SaaS",
+        "optionB": "PaaS",
+        "optionC": "IaaS",
+        "optionD": "FaaS",
+        "answer": "PaaS"
+    },
+    {
+        "question": "What is a multi-tenant architecture in cloud computing?",
+        "optionA": "An architecture where each user has dedicated resources",
+        "optionB": "An architecture where multiple users share resources",
+        "optionC": "An architecture for hybrid cloud setups",
+        "optionD": "An architecture used only for private clouds",
+        "answer": "An architecture where multiple users share resources"
+    },
+    {
+        "question": "Which of the following is a characteristic of serverless computing?",
+        "optionA": "Developers manage servers directly",
+        "optionB": "Resources are allocated dynamically",
+        "optionC": "Fixed server configurations",
+        "optionD": "Manual scaling of resources",
+        "answer": "Resources are allocated dynamically"
+    },
+    {
+        "question": "What is the primary use of a Content Delivery Network (CDN) in cloud computing?",
+        "optionA": "Storing unstructured data",
+        "optionB": "Distributing content closer to users",
+        "optionC": "Managing virtual machines",
+        "optionD": "Running containerized applications",
+        "answer": "Distributing content closer to users"
+    },
+    {
+        "question": "Which cloud service ensures disaster recovery?",
+        "optionA": "Cloud Storage",
+        "optionB": "Cloud Backup",
+        "optionC": "Cloud Compute",
+        "optionD": "Cloud Monitoring",
+        "answer": "Cloud Backup"
+    },
+    {
+        "question": "What is the purpose of a load balancer in cloud architecture?",
+        "optionA": "Storing data securely",
+        "optionB": "Distributing traffic across servers",
+        "optionC": "Running applications locally",
+        "optionD": "Scaling storage dynamically",
+        "answer": "Distributing traffic across servers"
+    },
+    {
+        "question": "What does Infrastructure as Code (IaC) allow in cloud computing?",
+        "optionA": "Manual server configuration",
+        "optionB": "Automated infrastructure management",
+        "optionC": "Physical hardware management",
+        "optionD": "Static resource allocation",
+        "answer": "Automated infrastructure management"
+    },
+    {
+        "question": "What is a virtual machine in the context of cloud computing?",
+        "optionA": "A physical server in the cloud",
+        "optionB": "An emulation of a computer system",
+        "optionC": "A containerized application",
+        "optionD": "A static database instance",
+        "answer": "An emulation of a computer system"
+    },
+    {
+        "question": "Which cloud service provides tools for big data analytics?",
+        "optionA": "Cloud Compute",
+        "optionB": "Cloud Analytics",
+        "optionC": "BigQuery",
+        "optionD": "Cloud Storage",
+        "answer": "BigQuery"
+    },
+    {
+        "question": "What is the primary role of a hypervisor in cloud computing?",
+        "optionA": "Storing data securely",
+        "optionB": "Running virtual machines",
+        "optionC": "Managing network traffic",
+        "optionD": "Encrypting cloud data",
+        "answer": "Running virtual machines"
+    },
+    {
+        "question": "What does container orchestration help with in cloud computing?",
+        "optionA": "Hosting websites",
+        "optionB": "Scaling and managing containers",
+        "optionC": "Creating virtual machines",
+        "optionD": "Analyzing big data",
+        "answer": "Scaling and managing containers"
+    },
+    {
+        "question": "What is the primary purpose of cloud monitoring?",
+        "optionA": "Backing up data",
+        "optionB": "Tracking resource usage and performance",
+        "optionC": "Scaling resources dynamically",
+        "optionD": "Encrypting cloud data",
+        "answer": "Tracking resource usage and performance"
+    },
+    {
+        "question": "Which of the following is a benefit of cloud-based disaster recovery?",
+        "optionA": "Faster recovery time",
+        "optionB": "Higher hardware costs",
+        "optionC": "Manual resource allocation",
+        "optionD": "Increased downtime",
+        "answer": "Faster recovery time"
+    },
+    {
+        "question": "What is the primary benefit of using a public cloud?",
+        "optionA": "High control over infrastructure",
+        "optionB": "Low cost and scalability",
+        "optionC": "Dedicated resources for a single user",
+        "optionD": "Customized hardware configurations",
+        "answer": "Low cost and scalability"
+    },
+    {
+        "question": "Which protocol is commonly used for secure data transfer in cloud computing?",
+        "optionA": "HTTP",
+        "optionB": "HTTPS",
+        "optionC": "FTP",
+        "optionD": "SMTP",
+        "answer": "HTTPS"
+    },
+    {
+        "question": "What does a Service Level Agreement (SLA) define in cloud computing?",
+        "optionA": "Cloud deployment models",
+        "optionB": "The terms of service and performance guarantees",
+        "optionC": "Software installation procedures",
+        "optionD": "Hardware maintenance schedules",
+        "answer": "The terms of service and performance guarantees"
+    },
+    {
+        "question": "Which cloud computing model is best for businesses requiring complete control over their environment?",
+        "optionA": "Public cloud",
+        "optionB": "Private cloud",
+        "optionC": "Hybrid cloud",
+        "optionD": "Community cloud",
+        "answer": "Private cloud"
+    },
+    {
+        "question": "What is a key feature of Platform as a Service (PaaS)?",
+        "optionA": "Provides only hardware resources",
+        "optionB": "Includes tools for application development",
+        "optionC": "Focuses on storage services",
+        "optionD": "Offers pre-built applications for users",
+        "answer": "Includes tools for application development"
+    },
+    {
+        "question": "What is the purpose of data replication in cloud computing?",
+        "optionA": "To reduce storage costs",
+        "optionB": "To ensure data availability and reliability",
+        "optionC": "To improve application performance",
+        "optionD": "To enable manual scaling",
+        "answer": "To ensure data availability and reliability"
+    },
+    {
+        "question": "Which of the following describes a cloud-native application?",
+        "optionA": "Designed to run on a single server",
+        "optionB": "Built to take full advantage of cloud environments",
+        "optionC": "Dependent on on-premises infrastructure",
+        "optionD": "Limited to desktop usage",
+        "answer": "Built to take full advantage of cloud environments"
+    },
+    {
+        "question": "What is the function of a cloud gateway?",
+        "optionA": "Managing virtual machines",
+        "optionB": "Connecting on-premises systems to the cloud",
+        "optionC": "Encrypting cloud data",
+        "optionD": "Monitoring cloud resource usage",
+        "answer": "Connecting on-premises systems to the cloud"
+    },
+    {
+        "question": "Which of the following is an example of a cloud storage service?",
+        "optionA": "Amazon S3",
+        "optionB": "Google Compute Engine",
+        "optionC": "Microsoft Azure Functions",
+        "optionD": "Docker",
+        "answer": "Amazon S3"
+    },
+    {
+        "question": "What does the term 'pay-as-you-go' mean in cloud computing?",
+        "optionA": "Paying a fixed monthly fee",
+        "optionB": "Paying only for the resources you use",
+        "optionC": "Paying for pre-allocated resources",
+        "optionD": "Paying for annual subscriptions",
+        "answer": "Paying only for the resources you use"
+    },
+    {
+        "question": "What is the role of cloud automation tools?",
+        "optionA": "Manually scaling resources",
+        "optionB": "Automating repetitive tasks and configurations",
+        "optionC": "Monitoring network traffic",
+        "optionD": "Managing physical hardware",
+        "answer": "Automating repetitive tasks and configurations"
+    },
+    {
+        "question": "Which cloud deployment model is best for industries with strict data regulations?",
+        "optionA": "Public cloud",
+        "optionB": "Private cloud",
+        "optionC": "Hybrid cloud",
+        "optionD": "Community cloud",
+        "answer": "Community cloud"
+    },
+    {
+        "question": "What is the significance of data encryption in cloud computing?",
+        "optionA": "Improves data transfer speed",
+        "optionB": "Secures data from unauthorized access",
+        "optionC": "Reduces storage costs",
+        "optionD": "Enables faster backups",
+        "answer": "Secures data from unauthorized access"
+    },
+    {
+        "question": "What is serverless computing primarily designed for?",
+        "optionA": "Running long-term, resource-intensive applications",
+        "optionB": "Executing short-lived, event-driven tasks",
+        "optionC": "Managing physical server hardware",
+        "optionD": "Providing static website hosting",
+        "answer": "Executing short-lived, event-driven tasks"
+    },
+    {
+        "question": "What is the primary benefit of edge computing in cloud services?",
+        "optionA": "Centralized data processing",
+        "optionB": "Reduced latency by processing data closer to users",
+        "optionC": "Increased storage capacity",
+        "optionD": "Simplified data encryption",
+        "answer": "Reduced latency by processing data closer to users"
+    },
+    {
+        "question": "What is a container in cloud computing?",
+        "optionA": "A virtual machine with pre-installed software",
+        "optionB": "A lightweight, portable unit for running applications",
+        "optionC": "A hardware component for data storage",
+        "optionD": "A network security protocol",
+        "answer": "A lightweight, portable unit for running applications"
+    },
+    {
+        "question": "Which of the following is a common use case for cloud-based machine learning services?",
+        "optionA": "Website hosting",
+        "optionB": "Image recognition and analysis",
+        "optionC": "File storage",
+        "optionD": "Database management",
+        "answer": "Image recognition and analysis"
+    },
+    {
+        "question": "What is the primary purpose of a Virtual Private Cloud (VPC)?",
+        "optionA": "Providing shared resources across multiple organizations",
+        "optionB": "Isolating a portion of a public cloud for private use",
+        "optionC": "Running serverless applications",
+        "optionD": "Hosting containerized applications",
+        "answer": "Isolating a portion of a public cloud for private use"
+    },
+    {
+        "question": "What does the term 'cloud bursting' refer to?",
+        "optionA": "Migrating applications to the cloud",
+        "optionB": "Using public cloud resources during peak demand",
+        "optionC": "Backing up data to the cloud",
+        "optionD": "Encrypting sensitive data in the cloud",
+        "answer": "Using public cloud resources during peak demand"
+    },
+    {
+        "question": "What is the key benefit of using a managed database service in the cloud?",
+        "optionA": "Manual database scaling",
+        "optionB": "Automated database maintenance and scaling",
+        "optionC": "Increased hardware costs",
+        "optionD": "Reduced security measures",
+        "answer": "Automated database maintenance and scaling"
+    }
+]

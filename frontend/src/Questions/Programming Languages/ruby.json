@@ -1,0 +1,426 @@
+[
+    {
+        "question": "What is the correct way to define a variable in Ruby?",
+        "optionA": "var x = 10",
+        "optionB": "x = 10",
+        "optionC": "let x = 10",
+        "optionD": "int x = 10",
+        "answer": "x = 10"
+    },
+    {
+        "question": "Which method is used to check if a string contains a specific substring in Ruby?",
+        "optionA": "include?",
+        "optionB": "contains?",
+        "optionC": "find_substring?",
+        "optionD": "has_substring?",
+        "answer": "include?"
+    },
+    {
+        "question": "How do you define a constant in Ruby?",
+        "optionA": "const MY_CONSTANT = 100",
+        "optionB": "MY_CONSTANT = 100",
+        "optionC": "constant MY_CONSTANT = 100",
+        "optionD": "CONST MY_CONSTANT = 100",
+        "answer": "MY_CONSTANT = 100"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 3 + 4",
+        "optionA": "34",
+        "optionB": "7",
+        "optionC": "Error",
+        "optionD": "None of the above",
+        "answer": "7"
+    },
+    {
+        "question": "Which of the following is a valid way to define an array in Ruby?",
+        "optionA": "arr = []",
+        "optionB": "arr = {}",
+        "optionC": "arr = ()",
+        "optionD": "arr = < >",
+        "answer": "arr = []"
+    },
+    {
+        "question": "How do you create a hash in Ruby?",
+        "optionA": "hash = {}",
+        "optionB": "hash = []",
+        "optionC": "hash = ()",
+        "optionD": "hash = <>",
+        "answer": "hash = {}"
+    },
+    {
+        "question": "Which of the following methods is used to remove an element from an array in Ruby?",
+        "optionA": "remove()",
+        "optionB": "delete()",
+        "optionC": "remove_at()",
+        "optionD": "pop()",
+        "answer": "delete()"
+    },
+    {
+        "question": "Which operator is used for string concatenation in Ruby?",
+        "optionA": "+",
+        "optionB": "&",
+        "optionC": "*",
+        "optionD": ".",
+        "answer": "+"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 5 * 2",
+        "optionA": "10",
+        "optionB": "52",
+        "optionC": "Error",
+        "optionD": "None of the above",
+        "answer": "10"
+    },
+    {
+        "question": "How do you define a method in Ruby?",
+        "optionA": "def method_name",
+        "optionB": "function method_name",
+        "optionC": "method method_name",
+        "optionD": "define method_name",
+        "answer": "def method_name"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 'hello'.capitalize",
+        "optionA": "hello",
+        "optionB": "Hello",
+        "optionC": "HELLO",
+        "optionD": "Error",
+        "answer": "Hello"
+    },
+    {
+        "question": "Which of the following is used to iterate over a hash in Ruby?",
+        "optionA": "each_pair",
+        "optionB": "each",
+        "optionC": "map",
+        "optionD": "each_with_index",
+        "answer": "each_pair"
+    },
+    {
+        "question": "How do you check if a variable is nil in Ruby?",
+        "optionA": "if variable == nil",
+        "optionB": "if variable.nil?",
+        "optionC": "if variable = nil",
+        "optionD": "if nil == variable",
+        "answer": "if variable.nil?"
+    },
+    {
+        "question": "Which of the following methods is used to find the length of a string in Ruby?",
+        "optionA": "length()",
+        "optionB": "size()",
+        "optionC": "count()",
+        "optionD": "both A and B",
+        "answer": "both A and B"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 'abc'.reverse",
+        "optionA": "abc",
+        "optionB": "cba",
+        "optionC": "Error",
+        "optionD": "None of the above",
+        "answer": "cba"
+    },
+    {
+        "question": "Which of the following is the correct syntax to define a class in Ruby?",
+        "optionA": "class MyClass",
+        "optionB": "class MyClass()",
+        "optionC": "def MyClass",
+        "optionD": "MyClass class",
+        "answer": "class MyClass"
+    },
+    {
+        "question": "Which method is used to convert a string to an integer in Ruby?",
+        "optionA": "to_i",
+        "optionB": "to_integer",
+        "optionC": "convert_to_int",
+        "optionD": "int()",
+        "answer": "to_i"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs [1, 2, 3].join('-')",
+        "optionA": "1-2-3",
+        "optionB": "123",
+        "optionC": "1 2 3",
+        "optionD": "None of the above",
+        "answer": "1-2-3"
+    },
+    {
+        "question": "How do you create a symbol in Ruby?",
+        "optionA": ":symbol",
+        "optionB": "#symbol",
+        "optionC": "$symbol",
+        "optionD": "@symbol",
+        "answer": ":symbol"
+    },
+    {
+        "question": "Which of the following is the correct way to define a class variable in Ruby?",
+        "optionA": "@@variable",
+        "optionB": "@variable",
+        "optionC": "$variable",
+        "optionD": "variable",
+        "answer": "@@variable"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 10 / 3",
+        "optionA": "3.3333",
+        "optionB": "3",
+        "optionC": "Error",
+        "optionD": "None of the above",
+        "answer": "3"
+    },
+    {
+        "question": "Which method is used to add an element to the end of an array in Ruby?",
+        "optionA": "append()",
+        "optionB": "push()",
+        "optionC": "add()",
+        "optionD": "insert()",
+        "answer": "push()"
+    },
+    {
+        "question": "How do you define a block in Ruby?",
+        "optionA": "do...end",
+        "optionB": "begin...end",
+        "optionC": "block...end",
+        "optionD": "function...end",
+        "answer": "do...end"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 'Ruby'.length",
+        "optionA": "4",
+        "optionB": "5",
+        "optionC": "6",
+        "optionD": "Error",
+        "answer": "4"
+    },
+    {
+        "question": "Which method is used to check if a string is empty in Ruby?",
+        "optionA": "empty()",
+        "optionB": "is_empty?()",
+        "optionC": "blank?()",
+        "optionD": "empty?()",
+        "answer": "empty?()"
+    },
+    {
+        "question": "Which of the following is used to define a global variable in Ruby?",
+        "optionA": "$variable",
+        "optionB": "@variable",
+        "optionC": "variable",
+        "optionD": "GLOBAL variable",
+        "answer": "$variable"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 'hello'.upcase",
+        "optionA": "hello",
+        "optionB": "HELLO",
+        "optionC": "Error",
+        "optionD": "None of the above",
+        "answer": "HELLO"
+    },
+    {
+        "question": "Which of the following is used to declare a method with default arguments in Ruby?",
+        "optionA": "def method(arg = 10)",
+        "optionB": "def method(arg: 10)",
+        "optionC": "def method(arg => 10)",
+        "optionD": "def method(arg = 10, arg2)",
+        "answer": "def method(arg = 10)"
+    },
+    {
+        "question": "How do you access the value of a hash in Ruby?",
+        "optionA": "hash[:key]",
+        "optionB": "hash.key",
+        "optionC": "hash.get(:key)",
+        "optionD": "hash.value(:key)",
+        "answer": "hash[:key]"
+    },
+    {
+        "question": "What is the purpose of the 'self' keyword in Ruby?",
+        "optionA": "It refers to the current object",
+        "optionB": "It refers to the current class",
+        "optionC": "It refers to the parent class",
+        "optionD": "It refers to the method",
+        "answer": "It refers to the current object"
+    },
+    {
+        "question": "Which of the following is used to declare an instance variable in Ruby?",
+        "optionA": "@variable",
+        "optionB": "$variable",
+        "optionC": "variable",
+        "optionD": "instance variable",
+        "answer": "@variable"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 3 ** 2",
+        "optionA": "9",
+        "optionB": "6",
+        "optionC": "Error",
+        "optionD": "None of the above",
+        "answer": "9"
+    },
+    {
+        "question": "How do you define a class method in Ruby?",
+        "optionA": "def self.method_name",
+        "optionB": "def method_name",
+        "optionC": "def class.method_name",
+        "optionD": "def class_method_name",
+        "answer": "def self.method_name"
+    },
+    {
+        "question": "Which of the following is used to iterate over an array in Ruby?",
+        "optionA": "each()",
+        "optionB": "map()",
+        "optionC": "for()",
+        "optionD": "all of the above",
+        "answer": "all of the above"
+    },
+    {
+        "question": "Which of the following is used to raise an exception in Ruby?",
+        "optionA": "raise",
+        "optionB": "throw",
+        "optionC": "error",
+        "optionD": "exception",
+        "answer": "raise"
+    },
+    {
+        "question": "How do you check if a number is even in Ruby?",
+        "optionA": "number.even?",
+        "optionB": "number.is_even?",
+        "optionC": "even(number)",
+        "optionD": "number.is_even",
+        "answer": "number.even?"
+    },
+    {
+        "question": "Which of the following is used to define a module in Ruby?",
+        "optionA": "module MyModule",
+        "optionB": "def MyModule",
+        "optionC": "class MyModule",
+        "optionD": "module MyModule()",
+        "answer": "module MyModule"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 2.5.ceil",
+        "optionA": "2",
+        "optionB": "3",
+        "optionC": "2.5",
+        "optionD": "Error",
+        "answer": "3"
+    },
+    {
+        "question": "How do you create a new thread in Ruby?",
+        "optionA": "Thread.new { }",
+        "optionB": "Thread.create { }",
+        "optionC": "Thread.start { }",
+        "optionD": "Thread.init { }",
+        "answer": "Thread.new { }"
+    },
+    {
+        "question": "What is the purpose of the 'unless' keyword in Ruby?",
+        "optionA": "It executes code if the condition is true",
+        "optionB": "It executes code if the condition is false",
+        "optionC": "It defines a method",
+        "optionD": "It defines a class",
+        "answer": "It executes code if the condition is false"
+    },
+    {
+        "question": "Which of the following is used to handle exceptions in Ruby?",
+        "optionA": "try...catch",
+        "optionB": "begin...rescue",
+        "optionC": "catch...rescue",
+        "optionD": "try...rescue",
+        "answer": "begin...rescue"
+    },
+    {
+        "question": "How do you define a getter method in Ruby?",
+        "optionA": "def get_variable",
+        "optionB": "def variable",
+        "optionC": "attr_reader :variable",
+        "optionD": "get :variable",
+        "answer": "attr_reader :variable"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs [1, 2, 3].first",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "Error",
+        "answer": "1"
+    },
+    {
+        "question": "How do you define a setter method in Ruby?",
+        "optionA": "def set_variable",
+        "optionB": "def variable=",
+        "optionC": "attr_writer :variable",
+        "optionD": "set :variable",
+        "answer": "def variable="
+    },
+    {
+        "question": "Which of the following methods is used to check if an object is an instance of a class in Ruby?",
+        "optionA": "is_a?()",
+        "optionB": "instance_of?()",
+        "optionC": "kind_of?()",
+        "optionD": "all of the above",
+        "answer": "all of the above"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs [1, 2, 3].last",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "Error",
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following is used to define an anonymous function in Ruby?",
+        "optionA": "lambda { }",
+        "optionB": "function { }",
+        "optionC": "proc { }",
+        "optionD": "both A and C",
+        "answer": "both A and C"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 'abc'.upcase.reverse",
+        "optionA": "ABC",
+        "optionB": "CBA",
+        "optionC": "abc",
+        "optionD": "Error",
+        "answer": "CBA"
+    },
+    {
+        "question": "How do you define a block parameter in Ruby?",
+        "optionA": "|param|",
+        "optionB": "{param}",
+        "optionC": "(param)",
+        "optionD": "param",
+        "answer": "|param|"
+    },
+    {
+        "question": "Which of the following is the correct way to access an element from an array in Ruby?",
+        "optionA": "array.get(0)",
+        "optionB": "array[0]",
+        "optionC": "array(0)",
+        "optionD": "array.0",
+        "answer": "array[0]"
+    },
+    {
+        "question": "What is the output of the following Ruby code?\nputs 'hello'.reverse.capitalize",
+        "optionA": "Hello",
+        "optionB": "hello",
+        "optionC": "Error",
+        "optionD": "olleH",
+        "answer": "Olleh"
+    },
+    {
+        "question": "Which of the following is used to include a module in a class in Ruby?",
+        "optionA": "include MyModule",
+        "optionB": "require MyModule",
+        "optionC": "use MyModule",
+        "optionD": "import MyModule",
+        "answer": "include MyModule"
+    },
+    {
+        "question": "What is the purpose of the 'yield' keyword in Ruby?",
+        "optionA": "It returns a value from a method",
+        "optionB": "It transfers control to a block",
+        "optionC": "It defines a block",
+        "optionD": "It creates a new method",
+        "answer": "It transfers control to a block"
+    }
+]

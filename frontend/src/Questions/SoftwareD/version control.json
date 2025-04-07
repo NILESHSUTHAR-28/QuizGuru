@@ -1,0 +1,434 @@
+[
+    {
+        "question": "What is the primary purpose of version control in software development?",
+        "optionA": "To track changes to files over time",
+        "optionB": "To deploy applications to production",
+        "optionC": "To manage system configurations",
+        "optionD": "To monitor application performance",
+        "answer": "To track changes to files over time"
+    },
+    {
+        "question": "Which of the following is an example of a distributed version control system?",
+        "optionA": "Subversion",
+        "optionB": "Git",
+        "optionC": "CVS",
+        "optionD": "Mercurial",
+        "answer": "Git"
+    },
+    {
+        "question": "What is the command used to create a new repository in Git?",
+        "optionA": "git init",
+        "optionB": "git clone",
+        "optionC": "git create",
+        "optionD": "git start",
+        "answer": "git init"
+    },
+    {
+        "question": "Which command is used to stage changes in Git?",
+        "optionA": "git commit",
+        "optionB": "git add",
+        "optionC": "git push",
+        "optionD": "git merge",
+        "answer": "git add"
+    },
+    {
+        "question": "What does the 'git pull' command do?",
+        "optionA": "Pushes changes to the remote repository",
+        "optionB": "Fetches and merges changes from the remote repository",
+        "optionC": "Creates a new branch",
+        "optionD": "Deletes a branch",
+        "answer": "Fetches and merges changes from the remote repository"
+    },
+    {
+        "question": "What is a commit in Git?",
+        "optionA": "A snapshot of changes made to files",
+        "optionB": "A copy of the repository",
+        "optionC": "A branch of the repository",
+        "optionD": "A remote server",
+        "answer": "A snapshot of changes made to files"
+    },
+    {
+        "question": "Which command is used to create a new branch in Git?",
+        "optionA": "git checkout -b",
+        "optionB": "git branch new",
+        "optionC": "git create branch",
+        "optionD": "git start branch",
+        "answer": "git checkout -b"
+    },
+    {
+        "question": "What is the function of a pull request in Git?",
+        "optionA": "To request changes to the codebase",
+        "optionB": "To merge changes from one branch to another",
+        "optionC": "To create a new branch",
+        "optionD": "To delete a repository",
+        "answer": "To merge changes from one branch to another"
+    },
+    {
+        "question": "What is the difference between 'git merge' and 'git rebase'?",
+        "optionA": "git merge combines histories, git rebase rewrites history",
+        "optionB": "git merge rewrites history, git rebase combines histories",
+        "optionC": "git merge creates a new branch, git rebase deletes a branch",
+        "optionD": "There is no difference",
+        "answer": "git merge combines histories, git rebase rewrites history"
+    },
+    {
+        "question": "Which of the following is a common Git workflow?",
+        "optionA": "Fork and Pull",
+        "optionB": "Push and Commit",
+        "optionC": "Merge and Rebase",
+        "optionD": "Clone and Commit",
+        "answer": "Fork and Pull"
+    },
+    {
+        "question": "What is the purpose of the 'git status' command?",
+        "optionA": "To view the current branch",
+        "optionB": "To check the changes that have been staged",
+        "optionC": "To see the commit history",
+        "optionD": "To push changes to the remote repository",
+        "answer": "To check the changes that have been staged"
+    },
+    {
+        "question": "What does the 'git log' command do?",
+        "optionA": "Shows the commit history of the repository",
+        "optionB": "Lists all the files in the repository",
+        "optionC": "Lists all the branches in the repository",
+        "optionD": "Pushes the changes to the remote repository",
+        "answer": "Shows the commit history of the repository"
+    },
+    {
+        "question": "What is a branch in Git?",
+        "optionA": "A snapshot of the repository at a specific point in time",
+        "optionB": "A separate line of development",
+        "optionC": "A remote repository",
+        "optionD": "A commit that has been pushed",
+        "answer": "A separate line of development"
+    },
+    {
+        "question": "Which command is used to switch to a different branch in Git?",
+        "optionA": "git switch",
+        "optionB": "git checkout",
+        "optionC": "git branch",
+        "optionD": "git move",
+        "answer": "git checkout"
+    },
+    {
+        "question": "What is the purpose of 'git clone'?",
+        "optionA": "To create a new repository",
+        "optionB": "To copy an existing repository to your local machine",
+        "optionC": "To stage changes",
+        "optionD": "To delete a branch",
+        "answer": "To copy an existing repository to your local machine"
+    },
+    {
+        "question": "What is a remote repository in Git?",
+        "optionA": "A local copy of the repository",
+        "optionB": "A central repository that is hosted on a server",
+        "optionC": "A temporary repository used for testing",
+        "optionD": "A backup of the repository",
+        "answer": "A central repository that is hosted on a server"
+    },
+    {
+        "question": "Which command is used to view the differences between staged and unstaged changes?",
+        "optionA": "git diff",
+        "optionB": "git status",
+        "optionC": "git log",
+        "optionD": "git show",
+        "answer": "git diff"
+    },
+    {
+        "question": "What is the purpose of 'git reset'?",
+        "optionA": "To remove a commit from the history",
+        "optionB": "To delete a branch",
+        "optionC": "To push changes to the remote repository",
+        "optionD": "To merge two branches",
+        "answer": "To remove a commit from the history"
+    },
+    {
+        "question": "What does the 'git push' command do?",
+        "optionA": "Pushes changes from the local repository to the remote repository",
+        "optionB": "Pulls changes from the remote repository to the local repository",
+        "optionC": "Stages changes in the local repository",
+        "optionD": "Creates a new branch in the local repository",
+        "answer": "Pushes changes from the local repository to the remote repository"
+    },
+    {
+        "question": "What is the difference between 'git push' and 'git pull'?",
+        "optionA": "git push uploads changes to the remote repository, git pull downloads changes",
+        "optionB": "git push merges changes, git pull deletes branches",
+        "optionC": "git push stages changes, git pull commits changes",
+        "optionD": "There is no difference",
+        "answer": "git push uploads changes to the remote repository, git pull downloads changes"
+    },
+    {
+        "question": "What does the 'git fetch' command do?",
+        "optionA": "Downloads changes from the remote repository without merging them",
+        "optionB": "Merges changes from the remote repository",
+        "optionC": "Pushes changes to the remote repository",
+        "optionD": "Deletes a branch from the local repository",
+        "answer": "Downloads changes from the remote repository without merging them"
+    },
+    {
+        "question": "What is a 'merge conflict' in Git?",
+        "optionA": "When two branches have conflicting changes that cannot be merged automatically",
+        "optionB": "When a commit is pushed to the remote repository",
+        "optionC": "When a branch is deleted",
+        "optionD": "When a file is modified",
+        "answer": "When two branches have conflicting changes that cannot be merged automatically"
+    },
+    {
+        "question": "What is the purpose of 'git stash'?",
+        "optionA": "To store changes temporarily",
+        "optionB": "To push changes to the remote repository",
+        "optionC": "To delete changes from the repository",
+        "optionD": "To create a backup of the repository",
+        "answer": "To store changes temporarily"
+    },
+    {
+        "question": "What does 'git cherry-pick' do?",
+        "optionA": "Applies a commit from another branch to the current branch",
+        "optionB": "Deletes a commit",
+        "optionC": "Creates a new branch from the current commit",
+        "optionD": "Merges two branches",
+        "answer": "Applies a commit from another branch to the current branch"
+    },
+    {
+        "question": "What is the default branch name in a new Git repository?",
+        "optionA": "main",
+        "optionB": "master",
+        "optionC": "develop",
+        "optionD": "default",
+        "answer": "main"
+    },
+    {
+        "question": "Which of the following is NOT a Git workflow?",
+        "optionA": "Centralized Workflow",
+        "optionB": "Feature Branch Workflow",
+        "optionC": "Forking Workflow",
+        "optionD": "Continuous Deployment Workflow",
+        "answer": "Continuous Deployment Workflow"
+    },
+    {
+        "question": "What is the purpose of the 'git tag' command?",
+        "optionA": "To create a snapshot of a commit",
+        "optionB": "To delete a branch",
+        "optionC": "To view the commit history",
+        "optionD": "To merge branches",
+        "answer": "To create a snapshot of a commit"
+    },
+    {
+        "question": "What does the 'git rm' command do?",
+        "optionA": "Removes a file from the working directory and staging area",
+        "optionB": "Removes a branch from the repository",
+        "optionC": "Renames a file",
+        "optionD": "Pushes a file to the remote repository",
+        "answer": "Removes a file from the working directory and staging area"
+    },
+    {
+        "question": "Which of the following commands is used to list all remote repositories in Git?",
+        "optionA": "git remote -v",
+        "optionB": "git list",
+        "optionC": "git remote show",
+        "optionD": "git repositories",
+        "answer": "git remote -v"
+    },
+    {
+        "question": "What is the 'git diff' command used for?",
+        "optionA": "To compare changes between commits",
+        "optionB": "To push changes to the remote repository",
+        "optionC": "To create a new branch",
+        "optionD": "To view the commit history",
+        "answer": "To compare changes between commits"
+    },
+    {
+        "question": "What is the purpose of 'git remote' in Git?",
+        "optionA": "To add a new branch",
+        "optionB": "To view or manage remote repositories",
+        "optionC": "To stage changes for commit",
+        "optionD": "To reset the repository to a previous state",
+        "answer": "To view or manage remote repositories"
+    },
+    {
+        "question": "Which command is used to remove a file from Git's staging area?",
+        "optionA": "git rm",
+        "optionB": "git reset",
+        "optionC": "git clean",
+        "optionD": "git remove",
+        "answer": "git reset"
+    },
+    {
+        "question": "What is a 'fork' in Git?",
+        "optionA": "A new branch created from an existing repository",
+        "optionB": "A copy of a repository under a different account",
+        "optionC": "A merge conflict",
+        "optionD": "A snapshot of a repository at a certain point",
+        "answer": "A copy of a repository under a different account"
+    },
+    {
+        "question": "What is the purpose of the 'git rebase' command?",
+        "optionA": "To merge two branches into one",
+        "optionB": "To apply changes from one branch onto another",
+        "optionC": "To create a new branch",
+        "optionD": "To delete a branch",
+        "answer": "To apply changes from one branch onto another"
+    },
+    {
+        "question": "Which of the following commands is used to see the status of files in the working directory?",
+        "optionA": "git status",
+        "optionB": "git diff",
+        "optionC": "git log",
+        "optionD": "git branch",
+        "answer": "git status"
+    },
+    {
+        "question": "What is the 'git commit' command used for?",
+        "optionA": "To push changes to the remote repository",
+        "optionB": "To record changes to the repository",
+        "optionC": "To create a new branch",
+        "optionD": "To remove a file from the repository",
+        "answer": "To record changes to the repository"
+    },
+    {
+        "question": "What is a 'staging area' in Git?",
+        "optionA": "A place where files are stored permanently",
+        "optionB": "A temporary area where changes are prepared before committing",
+        "optionC": "A backup area for the repository",
+        "optionD": "A remote repository",
+        "answer": "A temporary area where changes are prepared before committing"
+    },
+    {
+        "question": "What is the 'git diff' command used for?",
+        "optionA": "To compare changes between commits",
+        "optionB": "To view the commit history",
+        "optionC": "To list all branches",
+        "optionD": "To push changes to the remote repository",
+        "answer": "To compare changes between commits"
+    },
+    {
+        "question": "What does 'git pull' do?",
+        "optionA": "Pushes changes to the remote repository",
+        "optionB": "Fetches and merges changes from the remote repository",
+        "optionC": "Deletes a branch",
+        "optionD": "Stages changes for commit",
+        "answer": "Fetches and merges changes from the remote repository"
+    },
+    {
+        "question": "What is the difference between 'git fetch' and 'git pull'?",
+        "optionA": "git fetch downloads changes without merging, git pull merges changes",
+        "optionB": "git fetch stages changes, git pull commits changes",
+        "optionC": "There is no difference",
+        "optionD": "git fetch deletes branches, git pull creates branches",
+        "answer": "git fetch downloads changes without merging, git pull merges changes"
+    },
+    {
+        "question": "Which command is used to create a tag in Git?",
+        "optionA": "git tag",
+        "optionB": "git create tag",
+        "optionC": "git commit -m 'tag'",
+        "optionD": "git branch tag",
+        "answer": "git tag"
+    },
+    {
+        "question": "What is the purpose of 'git push origin'?",
+        "optionA": "To push changes to a remote repository",
+        "optionB": "To create a new branch",
+        "optionC": "To fetch changes from a remote repository",
+        "optionD": "To delete a remote repository",
+        "answer": "To push changes to a remote repository"
+    },
+    {
+        "question": "What is a 'merge conflict'?",
+        "optionA": "When two branches have conflicting changes that cannot be merged automatically",
+        "optionB": "When a commit is pushed to the remote repository",
+        "optionC": "When a file is modified",
+        "optionD": "When a branch is deleted",
+        "answer": "When two branches have conflicting changes that cannot be merged automatically"
+    },
+    {
+        "question": "What is the purpose of 'git cherry-pick'?",
+        "optionA": "To apply a commit from another branch to the current branch",
+        "optionB": "To delete a commit",
+        "optionC": "To create a new branch from the current commit",
+        "optionD": "To merge two branches",
+        "answer": "To apply a commit from another branch to the current branch"
+    },
+    {
+        "question": "What is a 'commit hash' in Git?",
+        "optionA": "A unique identifier for a commit",
+        "optionB": "A label for a branch",
+        "optionC": "A tag for a specific version",
+        "optionD": "A reference to a remote repository",
+        "answer": "A unique identifier for a commit"
+    },
+    {
+        "question": "What is the purpose of 'git reset'?",
+        "optionA": "To remove a commit from the history",
+        "optionB": "To create a new branch",
+        "optionC": "To merge changes from another branch",
+        "optionD": "To delete a file from the repository",
+        "answer": "To remove a commit from the history"
+    },
+    {
+        "question": "Which of the following commands is used to view the commit history in Git?",
+        "optionA": "git log",
+        "optionB": "git commit",
+        "optionC": "git branch",
+        "optionD": "git status",
+        "answer": "git log"
+    },
+    {
+        "question": "What is the default branch name in a new Git repository?",
+        "optionA": "main",
+        "optionB": "master",
+        "optionC": "develop",
+        "optionD": "default",
+        "answer": "main"
+    },
+    {
+        "question": "What is the purpose of 'git merge'?",
+        "optionA": "To merge changes from one branch into another",
+        "optionB": "To delete a branch",
+        "optionC": "To create a new branch",
+        "optionD": "To view the commit history",
+        "answer": "To merge changes from one branch into another"
+    },
+    {
+        "question": "Which command is used to delete a branch in Git?",
+        "optionA": "git branch -d",
+        "optionB": "git delete branch",
+        "optionC": "git rm branch",
+        "optionD": "git remove branch",
+        "answer": "git branch -d"
+    },
+    {
+        "question": "What is the 'git clone' command used for?",
+        "optionA": "To create a new repository",
+        "optionB": "To copy an existing repository to your local machine",
+        "optionC": "To create a new branch",
+        "optionD": "To delete a branch",
+        "answer": "To copy an existing repository to your local machine"
+    },
+    {
+        "question": "What does the 'git fetch' command do?",
+        "optionA": "Downloads changes from the remote repository without merging them",
+        "optionB": "Pushes changes to the remote repository",
+        "optionC": "Merges changes from the remote repository",
+        "optionD": "Deletes a branch from the local repository",
+        "answer": "Downloads changes from the remote repository without merging them"
+    },
+    {
+        "question": "What is the purpose of 'git stash'?",
+        "optionA": "To temporarily store changes that are not ready to be committed",
+        "optionB": "To delete changes from the repository",
+        "optionC": "To push changes to the remote repository",
+        "optionD": "To create a backup of the repository",
+        "answer": "To temporarily store changes that are not ready to be committed"
+    },
+    {
+        "question": "What does the 'git rm' command do?",
+        "optionA": "Removes a file from the working directory and staging area",
+        "optionB": "Removes a branch from the repository",
+        "optionC": "Renames a file",
+        "optionD": "Pushes a file to the remote repository",
+        "answer": "Removes a file from the working directory and staging area"
+    }
+]

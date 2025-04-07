@@ -1,0 +1,434 @@
+[
+    {
+        "question": "What is tokenization in Natural Language Processing?",
+        "optionA": "Splitting text into smaller units like words or sentences",
+        "optionB": "Converting text to lowercase",
+        "optionC": "Removing stopwords from text",
+        "optionD": "Stemming words to their base form",
+        "answer": "Splitting text into smaller units like words or sentences"
+    },
+    {
+        "question": "Which of the following is an example of a stopword?",
+        "optionA": "cat",
+        "optionB": "is",
+        "optionC": "run",
+        "optionD": "dog",
+        "answer": "is"
+    },
+    {
+        "question": "Which algorithm is commonly used for text classification tasks?",
+        "optionA": "K-Means Clustering",
+        "optionB": "Support Vector Machine (SVM)",
+        "optionC": "Principal Component Analysis (PCA)",
+        "optionD": "Linear Regression",
+        "answer": "Support Vector Machine (SVM)"
+    },
+    {
+        "question": "What is stemming in NLP?",
+        "optionA": "Converting words to their base or root form",
+        "optionB": "Splitting sentences into words",
+        "optionC": "Removing stopwords from text",
+        "optionD": "Classifying text into categories",
+        "answer": "Converting words to their base or root form"
+    },
+    {
+        "question": "Which of the following is a popular library used for Natural Language Processing in Python?",
+        "optionA": "NumPy",
+        "optionB": "Pandas",
+        "optionC": "NLTK",
+        "optionD": "Matplotlib",
+        "answer": "NLTK"
+    },
+    {
+        "question": "What is lemmatization in NLP?",
+        "optionA": "Converting words to their base form",
+        "optionB": "Removing punctuation from text",
+        "optionC": "Splitting sentences into words",
+        "optionD": "Storing text data in a structured format",
+        "answer": "Converting words to their base form"
+    },
+    {
+        "question": "Which of the following is used to represent words as vectors in NLP?",
+        "optionA": "TF-IDF",
+        "optionB": "Word2Vec",
+        "optionC": "Bag of Words",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does the term 'corpus' refer to in NLP?",
+        "optionA": "A collection of text data",
+        "optionB": "A machine learning algorithm",
+        "optionC": "A text classification model",
+        "optionD": "A type of neural network",
+        "answer": "A collection of text data"
+    },
+    {
+        "question": "What is the purpose of part-of-speech tagging in NLP?",
+        "optionA": "To determine the grammatical role of each word in a sentence",
+        "optionB": "To identify named entities in text",
+        "optionC": "To split text into sentences",
+        "optionD": "To remove stopwords from text",
+        "answer": "To determine the grammatical role of each word in a sentence"
+    },
+    {
+        "question": "Which of the following is an example of a named entity?",
+        "optionA": "cat",
+        "optionB": "John",
+        "optionC": "quick",
+        "optionD": "fast",
+        "answer": "John"
+    },
+    {
+        "question": "What is the goal of sentiment analysis in NLP?",
+        "optionA": "To classify text into positive, negative, or neutral categories",
+        "optionB": "To detect the grammatical structure of a sentence",
+        "optionC": "To identify named entities",
+        "optionD": "To perform text summarization",
+        "answer": "To classify text into positive, negative, or neutral categories"
+    },
+    {
+        "question": "What is the primary function of a word embedding?",
+        "optionA": "To represent words as vectors in a continuous vector space",
+        "optionB": "To split sentences into words",
+        "optionC": "To identify grammatical structures in text",
+        "optionD": "To classify text into categories",
+        "answer": "To represent words as vectors in a continuous vector space"
+    },
+    {
+        "question": "Which model is used for machine translation in NLP?",
+        "optionA": "Recurrent Neural Networks (RNN)",
+        "optionB": "Convolutional Neural Networks (CNN)",
+        "optionC": "Transformers",
+        "optionD": "Decision Trees",
+        "answer": "Transformers"
+    },
+    {
+        "question": "What is the purpose of a bag-of-words model in NLP?",
+        "optionA": "To represent text as a collection of words without considering order",
+        "optionB": "To classify text into categories",
+        "optionC": "To remove stopwords from text",
+        "optionD": "To identify named entities",
+        "answer": "To represent text as a collection of words without considering order"
+    },
+    {
+        "question": "What is a common evaluation metric for classification tasks in NLP?",
+        "optionA": "Accuracy",
+        "optionB": "Mean Squared Error",
+        "optionC": "Root Mean Squared Error",
+        "optionD": "Silhouette Score",
+        "answer": "Accuracy"
+    },
+    {
+        "question": "Which of the following is a commonly used deep learning architecture for NLP tasks?",
+        "optionA": "Convolutional Neural Networks (CNN)",
+        "optionB": "Long Short-Term Memory (LSTM)",
+        "optionC": "Generative Adversarial Networks (GAN)",
+        "optionD": "Support Vector Machine (SVM)",
+        "answer": "Long Short-Term Memory (LSTM)"
+    },
+    {
+        "question": "What is the purpose of TF-IDF in NLP?",
+        "optionA": "To represent words in a document as numerical values based on their frequency and importance",
+        "optionB": "To split sentences into words",
+        "optionC": "To remove stopwords from text",
+        "optionD": "To classify text into categories",
+        "answer": "To represent words in a document as numerical values based on their frequency and importance"
+    },
+    {
+        "question": "What is the purpose of the 'n' in n-grams?",
+        "optionA": "To represent a sequence of 'n' words in text",
+        "optionB": "To split text into 'n' sentences",
+        "optionC": "To identify named entities in text",
+        "optionD": "To remove stopwords from text",
+        "answer": "To represent a sequence of 'n' words in text"
+    },
+    {
+        "question": "Which of the following techniques is used to reduce dimensionality in NLP?",
+        "optionA": "Principal Component Analysis (PCA)",
+        "optionB": "Support Vector Machine (SVM)",
+        "optionC": "K-Means Clustering",
+        "optionD": "Logistic Regression",
+        "answer": "Principal Component Analysis (PCA)"
+    },
+    {
+        "question": "Which of the following is a disadvantage of the bag-of-words model?",
+        "optionA": "It ignores the order of words in a sentence",
+        "optionB": "It requires complex computations",
+        "optionC": "It is not interpretable",
+        "optionD": "It only works for short texts",
+        "answer": "It ignores the order of words in a sentence"
+    },
+    {
+        "question": "What is the main advantage of using Word2Vec over bag-of-words?",
+        "optionA": "It captures semantic relationships between words",
+        "optionB": "It is simpler to implement",
+        "optionC": "It works only with large datasets",
+        "optionD": "It only works with short texts",
+        "answer": "It captures semantic relationships between words"
+    },
+    {
+        "question": "What is a key feature of the Transformer model in NLP?",
+        "optionA": "It uses self-attention mechanisms to process text",
+        "optionB": "It uses convolutional layers",
+        "optionC": "It processes text sequentially",
+        "optionD": "It does not require labeled data",
+        "answer": "It uses self-attention mechanisms to process text"
+    },
+    {
+        "question": "Which of the following is a common preprocessing step in NLP?",
+        "optionA": "Removing punctuation",
+        "optionB": "Converting text to lowercase",
+        "optionC": "Tokenization",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a challenge in sentiment analysis?",
+        "optionA": "Detecting sarcasm",
+        "optionB": "Removing stopwords",
+        "optionC": "Tokenization",
+        "optionD": "Named entity recognition",
+        "answer": "Detecting sarcasm"
+    },
+    {
+        "question": "What is an example of a sequence-to-sequence task in NLP?",
+        "optionA": "Machine Translation",
+        "optionB": "Text Classification",
+        "optionC": "Named Entity Recognition",
+        "optionD": "Sentiment Analysis",
+        "answer": "Machine Translation"
+    },
+    {
+        "question": "Which of the following is used for part-of-speech tagging in NLP?",
+        "optionA": "Hidden Markov Models (HMM)",
+        "optionB": "Naive Bayes",
+        "optionC": "K-Means Clustering",
+        "optionD": "Linear Regression",
+        "answer": "Hidden Markov Models (HMM)"
+    },
+    {
+        "question": "Which of the following models is used for language generation tasks?",
+        "optionA": "Recurrent Neural Networks (RNN)",
+        "optionB": "Decision Trees",
+        "optionC": "Convolutional Neural Networks (CNN)",
+        "optionD": "Support Vector Machines (SVM)",
+        "answer": "Recurrent Neural Networks (RNN)"
+    },
+    {
+        "question": "What does the term 'pretrained model' mean in NLP?",
+        "optionA": "A model trained on a large corpus of data before being fine-tuned for a specific task",
+        "optionB": "A model trained on a small dataset",
+        "optionC": "A model that does not require any training",
+        "optionD": "A model used only for text classification",
+        "answer": "A model trained on a large corpus of data before being fine-tuned for a specific task"
+    },
+    {
+        "question": "Which of the following is an example of an unsupervised learning task in NLP?",
+        "optionA": "Topic Modeling",
+        "optionB": "Sentiment Analysis",
+        "optionC": "Named Entity Recognition",
+        "optionD": "Text Classification",
+        "answer": "Topic Modeling"
+    },
+    {
+        "question": "What is the purpose of Named Entity Recognition (NER) in NLP?",
+        "optionA": "To identify the sentiment of a sentence",
+        "optionB": "To identify named entities like persons, organizations, and locations",
+        "optionC": "To generate new sentences",
+        "optionD": "To translate text between languages",
+        "answer": "To identify named entities like persons, organizations, and locations"
+    },
+    {
+        "question": "Which of the following is a type of unsupervised learning algorithm in NLP?",
+        "optionA": "K-Means Clustering",
+        "optionB": "Logistic Regression",
+        "optionC": "Decision Trees",
+        "optionD": "Support Vector Machines",
+        "answer": "K-Means Clustering"
+    },
+    {
+        "question": "Which of the following is an example of a feature used in text classification?",
+        "optionA": "Word frequency",
+        "optionB": "Sentence length",
+        "optionC": "POS tags",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does the 'TF' in TF-IDF stand for?",
+        "optionA": "Term Frequency",
+        "optionB": "Text Frequency",
+        "optionC": "Term Factor",
+        "optionD": "Token Frequency",
+        "answer": "Term Frequency"
+    },
+    {
+        "question": "Which of the following is a disadvantage of using Word2Vec?",
+        "optionA": "It does not capture semantic meaning",
+        "optionB": "It requires large amounts of labeled data",
+        "optionC": "It does not work well with small datasets",
+        "optionD": "It captures only syntactic relationships",
+        "answer": "It does not work well with small datasets"
+    },
+    {
+        "question": "What is the purpose of a neural network in NLP?",
+        "optionA": "To generate random sentences",
+        "optionB": "To perform machine translation",
+        "optionC": "To model complex relationships in data",
+        "optionD": "To tokenize text",
+        "answer": "To model complex relationships in data"
+    },
+    {
+        "question": "Which of the following models is commonly used for language modeling in NLP?",
+        "optionA": "BERT",
+        "optionB": "GPT",
+        "optionC": "Word2Vec",
+        "optionD": "Naive Bayes",
+        "answer": "GPT"
+    },
+    {
+        "question": "What is the main advantage of using BERT over traditional NLP models?",
+        "optionA": "It processes text sequentially",
+        "optionB": "It captures bidirectional context in text",
+        "optionC": "It uses a bag-of-words model",
+        "optionD": "It does not require any training",
+        "answer": "It captures bidirectional context in text"
+    },
+    {
+        "question": "What is the primary task of a language model in NLP?",
+        "optionA": "To predict the next word in a sequence",
+        "optionB": "To classify text into categories",
+        "optionC": "To remove stopwords from text",
+        "optionD": "To perform sentiment analysis",
+        "answer": "To predict the next word in a sequence"
+    },
+    {
+        "question": "Which of the following is an example of a sequence labeling task in NLP?",
+        "optionA": "Part-of-speech tagging",
+        "optionB": "Sentiment analysis",
+        "optionC": "Text summarization",
+        "optionD": "Text classification",
+        "answer": "Part-of-speech tagging"
+    },
+    {
+        "question": "Which of the following is a commonly used evaluation metric for machine translation tasks?",
+        "optionA": "BLEU score",
+        "optionB": "Accuracy",
+        "optionC": "F1 score",
+        "optionD": "Precision",
+        "answer": "BLEU score"
+    },
+    {
+        "question": "What is the purpose of word embeddings in NLP?",
+        "optionA": "To represent words as discrete tokens",
+        "optionB": "To represent words as vectors in a continuous vector space",
+        "optionC": "To split sentences into words",
+        "optionD": "To classify text into categories",
+        "answer": "To represent words as vectors in a continuous vector space"
+    },
+    {
+        "question": "Which of the following algorithms is commonly used for text generation?",
+        "optionA": "Recurrent Neural Networks (RNN)",
+        "optionB": "K-Means Clustering",
+        "optionC": "Support Vector Machines",
+        "optionD": "Decision Trees",
+        "answer": "Recurrent Neural Networks (RNN)"
+    },
+    {
+        "question": "What is the main advantage of using transformers in NLP?",
+        "optionA": "They are faster than RNNs",
+        "optionB": "They can process text sequentially",
+        "optionC": "They capture long-range dependencies in text",
+        "optionD": "They are easier to implement",
+        "answer": "They capture long-range dependencies in text"
+    },
+    {
+        "question": "Which of the following is a common method for handling out-of-vocabulary (OOV) words in NLP?",
+        "optionA": "Word embeddings",
+        "optionB": "One-hot encoding",
+        "optionC": "Character-level embeddings",
+        "optionD": "Bag-of-words model",
+        "answer": "Character-level embeddings"
+    },
+    {
+        "question": "What is the purpose of a convolutional neural network (CNN) in NLP?",
+        "optionA": "To process sequential data",
+        "optionB": "To classify text into categories",
+        "optionC": "To generate text",
+        "optionD": "To process image data",
+        "answer": "To classify text into categories"
+    },
+    {
+        "question": "What is a key feature of the LSTM (Long Short-Term Memory) model?",
+        "optionA": "It captures long-term dependencies in sequential data",
+        "optionB": "It processes text in parallel",
+        "optionC": "It is used for unsupervised learning tasks",
+        "optionD": "It is used for image classification",
+        "answer": "It captures long-term dependencies in sequential data"
+    },
+    {
+        "question": "What is the purpose of attention mechanisms in NLP?",
+        "optionA": "To focus on important parts of the input sequence",
+        "optionB": "To remove stopwords from text",
+        "optionC": "To split sentences into words",
+        "optionD": "To represent words as vectors",
+        "answer": "To focus on important parts of the input sequence"
+    },
+    {
+        "question": "Which of the following is a common preprocessing step for text data?",
+        "optionA": "Removing stopwords",
+        "optionB": "Tokenization",
+        "optionC": "Lowercasing",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of the skip-gram model in Word2Vec?",
+        "optionA": "To predict the context words from a given word",
+        "optionB": "To predict the next word in a sentence",
+        "optionC": "To classify words into categories",
+        "optionD": "To remove stopwords from text",
+        "answer": "To predict the context words from a given word"
+    },
+    {
+        "question": "Which of the following is a type of generative model in NLP?",
+        "optionA": "GPT",
+        "optionB": "BERT",
+        "optionC": "Word2Vec",
+        "optionD": "FastText",
+        "answer": "GPT"
+    },
+    {
+        "question": "What is the primary function of a language model in NLP?",
+        "optionA": "To predict the next word in a sequence",
+        "optionB": "To classify text into categories",
+        "optionC": "To identify named entities",
+        "optionD": "To remove stopwords from text",
+        "answer": "To predict the next word in a sequence"
+    },
+    {
+        "question": "Which of the following is an example of a sequence-to-sequence task in NLP?",
+        "optionA": "Machine Translation",
+        "optionB": "Text Classification",
+        "optionC": "Named Entity Recognition",
+        "optionD": "Sentiment Analysis",
+        "answer": "Machine Translation"
+    },
+    {
+        "question": "What is the purpose of tokenization in NLP?",
+        "optionA": "To split text into smaller units like words or sentences",
+        "optionB": "To convert text to lowercase",
+        "optionC": "To remove punctuation",
+        "optionD": "To perform sentiment analysis",
+        "answer": "To split text into smaller units like words or sentences"
+    },
+    {
+        "question": "Which of the following is an example of a sequence-to-sequence model?",
+        "optionA": "Transformer",
+        "optionB": "SVM",
+        "optionC": "K-Means",
+        "optionD": "Naive Bayes",
+        "answer": "Transformer"
+    }
+]

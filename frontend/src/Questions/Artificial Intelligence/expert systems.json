@@ -1,0 +1,418 @@
+[
+    {
+        "question": "What is an Expert System?",
+        "optionA": "A system that mimics human decision-making abilities",
+        "optionB": "A machine learning algorithm for classification",
+        "optionC": "A system for storing large datasets",
+        "optionD": "A system for automating data entry",
+        "answer": "A system that mimics human decision-making abilities"
+    },
+    {
+        "question": "Which of the following is a key component of an Expert System?",
+        "optionA": "Knowledge Base",
+        "optionB": "Data Storage",
+        "optionC": "User Interface",
+        "optionD": "Data Processing Unit",
+        "answer": "Knowledge Base"
+    },
+    {
+        "question": "What is the role of the inference engine in an Expert System?",
+        "optionA": "To store knowledge",
+        "optionB": "To analyze data and make decisions",
+        "optionC": "To interact with the user",
+        "optionD": "To store user queries",
+        "answer": "To analyze data and make decisions"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System?",
+        "optionA": "Mycin",
+        "optionB": "Google Search",
+        "optionC": "Siri",
+        "optionD": "Tesla Autopilot",
+        "answer": "Mycin"
+    },
+    {
+        "question": "Which technique is commonly used by Expert Systems to make decisions?",
+        "optionA": "Rule-based reasoning",
+        "optionB": "Deep learning",
+        "optionC": "Neural networks",
+        "optionD": "Genetic algorithms",
+        "answer": "Rule-based reasoning"
+    },
+    {
+        "question": "What is a knowledge base in an Expert System?",
+        "optionA": "A collection of rules and facts used to make decisions",
+        "optionB": "A database for storing raw data",
+        "optionC": "A set of pre-defined queries",
+        "optionD": "A user interface for interacting with the system",
+        "answer": "A collection of rules and facts used to make decisions"
+    },
+    {
+        "question": "Which of the following is a type of reasoning used in Expert Systems?",
+        "optionA": "Deductive reasoning",
+        "optionB": "Inductive reasoning",
+        "optionC": "Abductive reasoning",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the main purpose of an Expert System's explanation facility?",
+        "optionA": "To explain how decisions are made",
+        "optionB": "To generate new knowledge",
+        "optionC": "To store large datasets",
+        "optionD": "To interact with the user",
+        "answer": "To explain how decisions are made"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of Expert Systems?",
+        "optionA": "Ability to learn from experience",
+        "optionB": "Ability to reason with uncertainty",
+        "optionC": "Ability to explain decisions",
+        "optionD": "Ability to perform calculations",
+        "answer": "Ability to learn from experience"
+    },
+    {
+        "question": "What does 'forward chaining' refer to in an Expert System?",
+        "optionA": "Starting with facts and applying rules to reach conclusions",
+        "optionB": "Starting with a hypothesis and testing it",
+        "optionC": "Generating random hypotheses to test",
+        "optionD": "Storing facts and rules in a knowledge base",
+        "answer": "Starting with facts and applying rules to reach conclusions"
+    },
+    {
+        "question": "What does 'backward chaining' refer to in an Expert System?",
+        "optionA": "Starting with a goal and working backward to find supporting facts",
+        "optionB": "Applying rules to reach conclusions",
+        "optionC": "Testing hypotheses randomly",
+        "optionD": "Storing facts in the knowledge base",
+        "answer": "Starting with a goal and working backward to find supporting facts"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System used in medical diagnosis?",
+        "optionA": "MYCIN",
+        "optionB": "ELIZA",
+        "optionC": "Watson",
+        "optionD": "Siri",
+        "answer": "MYCIN"
+    },
+    {
+        "question": "Which of the following best describes 'knowledge engineering'?",
+        "optionA": "The process of acquiring and structuring knowledge for Expert Systems",
+        "optionB": "The process of building neural networks",
+        "optionC": "The process of storing large datasets",
+        "optionD": "The process of automating decision-making",
+        "answer": "The process of acquiring and structuring knowledge for Expert Systems"
+    },
+    {
+        "question": "What is the role of the user interface in an Expert System?",
+        "optionA": "To interact with the user and present information",
+        "optionB": "To store knowledge",
+        "optionC": "To analyze data",
+        "optionD": "To execute rules",
+        "answer": "To interact with the user and present information"
+    },
+    {
+        "question": "Which of the following is a limitation of Expert Systems?",
+        "optionA": "They cannot handle uncertainty",
+        "optionB": "They are not capable of learning from experience",
+        "optionC": "They require large amounts of data",
+        "optionD": "They are always accurate",
+        "answer": "They are not capable of learning from experience"
+    },
+    {
+        "question": "What is the primary advantage of using Expert Systems in decision-making?",
+        "optionA": "They can process large amounts of data quickly",
+        "optionB": "They can explain decisions in a human-readable format",
+        "optionC": "They can perform complex calculations",
+        "optionD": "They can learn from experience",
+        "answer": "They can explain decisions in a human-readable format"
+    },
+    {
+        "question": "Which of the following is NOT typically a function of an Expert System?",
+        "optionA": "Problem-solving",
+        "optionB": "Data collection",
+        "optionC": "Decision support",
+        "optionD": "Expert consultation",
+        "answer": "Data collection"
+    },
+    {
+        "question": "Which of the following best describes the 'rule-based' approach in Expert Systems?",
+        "optionA": "Decisions are made based on a set of predefined rules",
+        "optionB": "Decisions are made based on data mining algorithms",
+        "optionC": "Decisions are made based on neural networks",
+        "optionD": "Decisions are made based on genetic algorithms",
+        "answer": "Decisions are made based on a set of predefined rules"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System used in customer service?",
+        "optionA": "Watson",
+        "optionB": "ELIZA",
+        "optionC": "MYCIN",
+        "optionD": "Siri",
+        "answer": "Watson"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System used in legal advice?",
+        "optionA": "Dartmouth",
+        "optionB": "CLIPS",
+        "optionC": "CYC",
+        "optionD": "NeuralNet",
+        "answer": "CLIPS"
+    },
+    {
+        "question": "What is the main challenge in developing an Expert System?",
+        "optionA": "Gathering and structuring expert knowledge",
+        "optionB": "Storing large datasets",
+        "optionC": "Building neural networks",
+        "optionD": "Performing complex calculations",
+        "answer": "Gathering and structuring expert knowledge"
+    },
+    {
+        "question": "Which of the following is a type of Expert System used for medical diagnosis?",
+        "optionA": "MYCIN",
+        "optionB": "Watson",
+        "optionC": "Siri",
+        "optionD": "Google Search",
+        "answer": "MYCIN"
+    },
+    {
+        "question": "Which of the following is a characteristic of a 'knowledge-based' system?",
+        "optionA": "It uses a database to store information",
+        "optionB": "It uses machine learning algorithms",
+        "optionC": "It uses expert knowledge to make decisions",
+        "optionD": "It uses random data to make decisions",
+        "answer": "It uses expert knowledge to make decisions"
+    },
+    {
+        "question": "Which of the following is a key feature of an Expert System?",
+        "optionA": "It can reason and explain decisions",
+        "optionB": "It can learn from experience",
+        "optionC": "It can store large datasets",
+        "optionD": "It can perform complex calculations",
+        "answer": "It can reason and explain decisions"
+    },
+    {
+        "question": "Which of the following is a limitation of Expert Systems?",
+        "optionA": "They require large amounts of expert knowledge",
+        "optionB": "They can learn from experience",
+        "optionC": "They can handle uncertainty",
+        "optionD": "They can reason with incomplete information",
+        "answer": "They require large amounts of expert knowledge"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System used for troubleshooting?",
+        "optionA": "MYCIN",
+        "optionB": "Dartmouth",
+        "optionC": "CLIPS",
+        "optionD": "XCON",
+        "answer": "XCON"
+    },
+    {
+        "question": "What is the purpose of a rule in an Expert System?",
+        "optionA": "To define the relationship between facts and conclusions",
+        "optionB": "To store data",
+        "optionC": "To perform calculations",
+        "optionD": "To explain decisions",
+        "answer": "To define the relationship between facts and conclusions"
+    },
+    {
+        "question": "Which of the following is a key component of an Expert System's inference engine?",
+        "optionA": "Knowledge Base",
+        "optionB": "User Interface",
+        "optionC": "Explanation Facility",
+        "optionD": "Reasoning Mechanism",
+        "answer": "Reasoning Mechanism"
+    },
+    {
+        "question": "Which of the following is a method of handling uncertainty in Expert Systems?",
+        "optionA": "Fuzzy Logic",
+        "optionB": "Linear Regression",
+        "optionC": "K-means clustering",
+        "optionD": "Support Vector Machines",
+        "answer": "Fuzzy Logic"
+    },
+    {
+        "question": "What is the purpose of an Expert System's knowledge acquisition process?",
+        "optionA": "To store data",
+        "optionB": "To acquire expert knowledge for decision-making",
+        "optionC": "To perform calculations",
+        "optionD": "To interact with the user",
+        "answer": "To acquire expert knowledge for decision-making"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System used in financial decision-making?",
+        "optionA": "ExpertAdvisor",
+        "optionB": "MYCIN",
+        "optionC": "XCON",
+        "optionD": "Watson",
+        "answer": "ExpertAdvisor"
+    },
+    {
+        "question": "What is the main difference between rule-based reasoning and case-based reasoning?",
+        "optionA": "Rule-based reasoning uses predefined rules, while case-based reasoning uses previous cases",
+        "optionB": "Rule-based reasoning uses machine learning algorithms, while case-based reasoning does not",
+        "optionC": "Rule-based reasoning applies statistical methods, while case-based reasoning uses expert knowledge",
+        "optionD": "There is no difference between the two",
+        "answer": "Rule-based reasoning uses predefined rules, while case-based reasoning uses previous cases"
+    },
+    {
+        "question": "What does the term 'expertise' refer to in the context of Expert Systems?",
+        "optionA": "The knowledge and experience of the system's user",
+        "optionB": "The system's ability to store data",
+        "optionC": "The system's ability to reason and make decisions",
+        "optionD": "The system's ability to learn from experience",
+        "answer": "The system's ability to reason and make decisions"
+    },
+    {
+        "question": "Which of the following is a common method used for knowledge representation in Expert Systems?",
+        "optionA": "Frames",
+        "optionB": "Neural networks",
+        "optionC": "Decision trees",
+        "optionD": "Genetic algorithms",
+        "answer": "Frames"
+    },
+    {
+        "question": "Which of the following is a type of Expert System used for troubleshooting hardware issues?",
+        "optionA": "XCON",
+        "optionB": "Watson",
+        "optionC": "MYCIN",
+        "optionD": "ELIZA",
+        "answer": "XCON"
+    },
+    {
+        "question": "What is the role of the explanation facility in an Expert System?",
+        "optionA": "To explain how decisions were made",
+        "optionB": "To store expert knowledge",
+        "optionC": "To perform calculations",
+        "optionD": "To collect data from users",
+        "answer": "To explain how decisions were made"
+    },
+    {
+        "question": "Which of the following is a key challenge in Expert System development?",
+        "optionA": "Acquiring and structuring expert knowledge",
+        "optionB": "Developing machine learning algorithms",
+        "optionC": "Building neural networks",
+        "optionD": "Performing complex calculations",
+        "answer": "Acquiring and structuring expert knowledge"
+    },
+    {
+        "question": "Which of the following is a characteristic of a rule-based Expert System?",
+        "optionA": "It uses predefined rules to make decisions",
+        "optionB": "It uses neural networks for decision-making",
+        "optionC": "It learns from experience",
+        "optionD": "It stores large datasets",
+        "answer": "It uses predefined rules to make decisions"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System used for legal advice?",
+        "optionA": "CLIPS",
+        "optionB": "Watson",
+        "optionC": "MYCIN",
+        "optionD": "Siri",
+        "answer": "CLIPS"
+    },
+    {
+        "question": "What is 'fuzzy logic' used for in Expert Systems?",
+        "optionA": "Handling uncertainty and imprecision in decision-making",
+        "optionB": "Performing calculations",
+        "optionC": "Storing large datasets",
+        "optionD": "Storing expert knowledge",
+        "answer": "Handling uncertainty and imprecision in decision-making"
+    },
+    {
+        "question": "Which of the following is a limitation of Expert Systems?",
+        "optionA": "They cannot handle incomplete or ambiguous information",
+        "optionB": "They are always accurate",
+        "optionC": "They require minimal expert knowledge",
+        "optionD": "They can learn from experience",
+        "answer": "They cannot handle incomplete or ambiguous information"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System used for medical diagnosis?",
+        "optionA": "MYCIN",
+        "optionB": "Siri",
+        "optionC": "Google Search",
+        "optionD": "Tesla Autopilot",
+        "answer": "MYCIN"
+    },
+    {
+        "question": "Which of the following is a key feature of an Expert System's knowledge base?",
+        "optionA": "It stores rules and facts used for decision-making",
+        "optionB": "It stores raw data",
+        "optionC": "It stores user queries",
+        "optionD": "It stores user input",
+        "answer": "It stores rules and facts used for decision-making"
+    },
+    {
+        "question": "Which of the following is a type of reasoning used in Expert Systems?",
+        "optionA": "Deductive reasoning",
+        "optionB": "Inductive reasoning",
+        "optionC": "Abductive reasoning",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System used in customer service?",
+        "optionA": "Watson",
+        "optionB": "Siri",
+        "optionC": "MYCIN",
+        "optionD": "Tesla Autopilot",
+        "answer": "Watson"
+    },
+    {
+        "question": "What does 'knowledge engineering' refer to in the context of Expert Systems?",
+        "optionA": "The process of acquiring and structuring knowledge for Expert Systems",
+        "optionB": "The process of building neural networks",
+        "optionC": "The process of automating decision-making",
+        "optionD": "The process of storing large datasets",
+        "answer": "The process of acquiring and structuring knowledge for Expert Systems"
+    },
+    {
+        "question": "Which of the following is a characteristic of an Expert System's inference engine?",
+        "optionA": "It applies rules to facts to draw conclusions",
+        "optionB": "It stores knowledge",
+        "optionC": "It interacts with the user",
+        "optionD": "It collects data from users",
+        "answer": "It applies rules to facts to draw conclusions"
+    },
+    {
+        "question": "Which of the following is an example of an Expert System used for troubleshooting?",
+        "optionA": "XCON",
+        "optionB": "MYCIN",
+        "optionC": "Watson",
+        "optionD": "Siri",
+        "answer": "XCON"
+    },
+    {
+        "question": "What is the purpose of the 'user interface' in an Expert System?",
+        "optionA": "To interact with the user and present information",
+        "optionB": "To store knowledge",
+        "optionC": "To execute rules",
+        "optionD": "To analyze data",
+        "answer": "To interact with the user and present information"
+    },
+    {
+        "question": "Which of the following is a key feature of an Expert System's reasoning mechanism?",
+        "optionA": "It applies logical rules to facts to draw conclusions",
+        "optionB": "It stores data",
+        "optionC": "It interacts with the user",
+        "optionD": "It collects user input",
+        "answer": "It applies logical rules to facts to draw conclusions"
+    },
+    {
+        "question": "Which of the following is a limitation of Expert Systems?",
+        "optionA": "They cannot reason with uncertainty",
+        "optionB": "They can reason with incomplete information",
+        "optionC": "They can learn from experience",
+        "optionD": "They can store large datasets",
+        "answer": "They cannot reason with uncertainty"
+    },
+    {
+        "question": "What is the role of the 'knowledge base' in an Expert System?",
+        "optionA": "It stores rules and facts used for decision-making",
+        "optionB": "It stores user input",
+        "optionC": "It stores data",
+        "optionD": "It stores expert knowledge for analysis",
+        "answer": "It stores rules and facts used for decision-making"
+    }
+]

@@ -1,0 +1,426 @@
+[
+    {
+        "question": "What is ethical hacking?",
+        "optionA": "Hacking with malicious intent",
+        "optionB": "Hacking for the purpose of identifying and fixing security vulnerabilities",
+        "optionC": "Hacking to steal information",
+        "optionD": "Hacking without authorization",
+        "answer": "Hacking for the purpose of identifying and fixing security vulnerabilities"
+    },
+    {
+        "question": "Which of the following is a commonly used tool in ethical hacking?",
+        "optionA": "Wireshark",
+        "optionB": "Microsoft Office",
+        "optionC": "Adobe Photoshop",
+        "optionD": "VLC Media Player",
+        "answer": "Wireshark"
+    },
+    {
+        "question": "What is a vulnerability assessment?",
+        "optionA": "The process of exploiting a security weakness",
+        "optionB": "The process of identifying and evaluating security weaknesses",
+        "optionC": "The process of patching security vulnerabilities",
+        "optionD": "The process of encrypting data",
+        "answer": "The process of identifying and evaluating security weaknesses"
+    },
+    {
+        "question": "Which of the following is a type of penetration testing?",
+        "optionA": "Black-box testing",
+        "optionB": "Blue-box testing",
+        "optionC": "White-box testing",
+        "optionD": "Both A and C",
+        "answer": "Both A and C"
+    },
+    {
+        "question": "What does the term 'phishing' refer to in cybersecurity?",
+        "optionA": "A type of malware",
+        "optionB": "A method of stealing sensitive information through deceptive emails",
+        "optionC": "A type of network attack",
+        "optionD": "A method of encrypting data",
+        "answer": "A method of stealing sensitive information through deceptive emails"
+    },
+    {
+        "question": "What is a firewall used for?",
+        "optionA": "Encrypting data",
+        "optionB": "Blocking unauthorized access to a network",
+        "optionC": "Monitoring network traffic",
+        "optionD": "Disabling malware",
+        "answer": "Blocking unauthorized access to a network"
+    },
+    {
+        "question": "Which of the following is a common type of malware?",
+        "optionA": "Trojan Horse",
+        "optionB": "HTTPS",
+        "optionC": "VPN",
+        "optionD": "Firewall",
+        "answer": "Trojan Horse"
+    },
+    {
+        "question": "What is the purpose of a DDoS (Distributed Denial of Service) attack?",
+        "optionA": "To steal sensitive information",
+        "optionB": "To overload a system with traffic and make it unavailable",
+        "optionC": "To encrypt files on a system",
+        "optionD": "To install malware on a system",
+        "answer": "To overload a system with traffic and make it unavailable"
+    },
+    {
+        "question": "Which of the following is a password cracking tool?",
+        "optionA": "Metasploit",
+        "optionB": "Nmap",
+        "optionC": "John the Ripper",
+        "optionD": "Wireshark",
+        "answer": "John the Ripper"
+    },
+    {
+        "question": "What is social engineering in the context of cybersecurity?",
+        "optionA": "Hacking into a network by exploiting software vulnerabilities",
+        "optionB": "Manipulating individuals into revealing confidential information",
+        "optionC": "Encrypting sensitive data",
+        "optionD": "Installing a firewall to block attacks",
+        "answer": "Manipulating individuals into revealing confidential information"
+    },
+    {
+        "question": "Which of the following is an example of a zero-day vulnerability?",
+        "optionA": "A vulnerability that is patched before it is discovered",
+        "optionB": "A vulnerability that is discovered and exploited before a patch is available",
+        "optionC": "A vulnerability that is intentionally introduced into a system",
+        "optionD": "A vulnerability that is only found in open-source software",
+        "answer": "A vulnerability that is discovered and exploited before a patch is available"
+    },
+    {
+        "question": "What does the acronym 'CIA' stand for in cybersecurity?",
+        "optionA": "Central Intelligence Agency",
+        "optionB": "Confidentiality, Integrity, Availability",
+        "optionC": "Cyber Intelligence Agency",
+        "optionD": "Computer Information Analysis",
+        "answer": "Confidentiality, Integrity, Availability"
+    },
+    {
+        "question": "What is a man-in-the-middle (MITM) attack?",
+        "optionA": "An attack where the attacker intercepts and alters communication between two parties",
+        "optionB": "An attack where the attacker encrypts data",
+        "optionC": "An attack where the attacker sends large volumes of traffic to overwhelm a system",
+        "optionD": "An attack where the attacker directly accesses a system's file system",
+        "answer": "An attack where the attacker intercepts and alters communication between two parties"
+    },
+    {
+        "question": "Which of the following is a common method used to secure communication over the internet?",
+        "optionA": "HTTPS",
+        "optionB": "FTP",
+        "optionC": "SMTP",
+        "optionD": "Telnet",
+        "answer": "HTTPS"
+    },
+    {
+        "question": "What is the purpose of encryption in cybersecurity?",
+        "optionA": "To prevent unauthorized access to data by transforming it into unreadable format",
+        "optionB": "To speed up data transmission",
+        "optionC": "To compress data",
+        "optionD": "To manage network traffic",
+        "answer": "To prevent unauthorized access to data by transforming it into unreadable format"
+    },
+    {
+        "question": "Which of the following is an example of a type of cryptography?",
+        "optionA": "SSL/TLS",
+        "optionB": "ARP",
+        "optionC": "DNS",
+        "optionD": "SMTP",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "What does the term 'rootkit' refer to?",
+        "optionA": "A type of malware that hides its presence on a system",
+        "optionB": "A tool used for password cracking",
+        "optionC": "A type of encryption algorithm",
+        "optionD": "A firewall tool",
+        "answer": "A type of malware that hides its presence on a system"
+    },
+    {
+        "question": "Which of the following tools is used for network scanning?",
+        "optionA": "Nmap",
+        "optionB": "Metasploit",
+        "optionC": "Wireshark",
+        "optionD": "Burp Suite",
+        "answer": "Nmap"
+    },
+    {
+        "question": "What is a VPN (Virtual Private Network) used for?",
+        "optionA": "To hide the identity of the user and encrypt internet traffic",
+        "optionB": "To monitor network traffic",
+        "optionC": "To block malware",
+        "optionD": "To manage encryption keys",
+        "answer": "To hide the identity of the user and encrypt internet traffic"
+    },
+    {
+        "question": "Which of the following is a type of SQL injection?",
+        "optionA": "XSS",
+        "optionB": "Command injection",
+        "optionC": "Blind SQL injection",
+        "optionD": "Buffer overflow",
+        "answer": "Blind SQL injection"
+    },
+    {
+        "question": "What is the purpose of two-factor authentication (2FA)?",
+        "optionA": "To prevent brute-force attacks",
+        "optionB": "To provide an additional layer of security by requiring two forms of verification",
+        "optionC": "To encrypt passwords",
+        "optionD": "To monitor user activity",
+        "answer": "To provide an additional layer of security by requiring two forms of verification"
+    },
+    {
+        "question": "Which of the following is an example of a cross-site scripting (XSS) attack?",
+        "optionA": "Injecting malicious scripts into web pages viewed by other users",
+        "optionB": "Overloading a system with traffic",
+        "optionC": "Intercepting communication between two parties",
+        "optionD": "Hacking into a wireless network",
+        "answer": "Injecting malicious scripts into web pages viewed by other users"
+    },
+    {
+        "question": "What is a brute-force attack?",
+        "optionA": "An attack that exploits vulnerabilities in a system",
+        "optionB": "An attack where the attacker tries all possible combinations to guess a password",
+        "optionC": "An attack that uses social engineering techniques",
+        "optionD": "An attack that uses a botnet to overload a system",
+        "answer": "An attack where the attacker tries all possible combinations to guess a password"
+    },
+    {
+        "question": "Which of the following is a primary goal of ethical hacking?",
+        "optionA": "To exploit vulnerabilities for malicious purposes",
+        "optionB": "To identify and fix security weaknesses",
+        "optionC": "To steal sensitive data",
+        "optionD": "To disrupt system operations",
+        "answer": "To identify and fix security weaknesses"
+    },
+    {
+        "question": "Which of the following is a common type of network attack?",
+        "optionA": "Denial of Service (DoS)",
+        "optionB": "Digital Signature",
+        "optionC": "Data Encryption",
+        "optionD": "Public Key Infrastructure",
+        "answer": "Denial of Service (DoS)"
+    },
+    {
+        "question": "What is the purpose of a honeypot in cybersecurity?",
+        "optionA": "To detect and trap attackers by creating a decoy system",
+        "optionB": "To monitor network traffic",
+        "optionC": "To encrypt data",
+        "optionD": "To provide secure communication",
+        "answer": "To detect and trap attackers by creating a decoy system"
+    },
+    {
+        "question": "What does the term 'ransomware' refer to?",
+        "optionA": "A type of malware that encrypts files and demands payment for decryption",
+        "optionB": "A type of malware that steals sensitive information",
+        "optionC": "A type of firewall",
+        "optionD": "A type of password cracking tool",
+        "answer": "A type of malware that encrypts files and demands payment for decryption"
+    },
+    {
+        "question": "What is the primary function of a public key in asymmetric encryption?",
+        "optionA": "To decrypt data",
+        "optionB": "To encrypt data",
+        "optionC": "To sign data",
+        "optionD": "To generate private keys",
+        "answer": "To encrypt data"
+    },
+    {
+        "question": "Which of the following is a method of securing a wireless network?",
+        "optionA": "Using WEP encryption",
+        "optionB": "Using WPA2 encryption",
+        "optionC": "Using an open network",
+        "optionD": "Disabling firewalls",
+        "answer": "Using WPA2 encryption"
+    },
+    {
+        "question": "What does the term 'patch management' refer to?",
+        "optionA": "The process of fixing vulnerabilities in software",
+        "optionB": "The process of monitoring network traffic",
+        "optionC": "The process of installing antivirus software",
+        "optionD": "The process of encrypting sensitive data",
+        "answer": "The process of fixing vulnerabilities in software"
+    },
+    {
+        "question": "What is the main goal of a penetration test?",
+        "optionA": "To identify vulnerabilities in a system",
+        "optionB": "To steal sensitive information",
+        "optionC": "To monitor network traffic",
+        "optionD": "To encrypt files",
+        "answer": "To identify vulnerabilities in a system"
+    },
+    {
+        "question": "Which of the following is an example of a denial-of-service (DoS) attack?",
+        "optionA": "Flooding a network with excessive traffic",
+        "optionB": "Stealing login credentials",
+        "optionC": "Intercepting communication",
+        "optionD": "Installing malware",
+        "answer": "Flooding a network with excessive traffic"
+    },
+    {
+        "question": "What is the function of a VPN?",
+        "optionA": "To monitor network traffic",
+        "optionB": "To encrypt internet traffic and hide user identity",
+        "optionC": "To block malware",
+        "optionD": "To prevent phishing attacks",
+        "answer": "To encrypt internet traffic and hide user identity"
+    },
+    {
+        "question": "Which of the following is a common method for securing a website?",
+        "optionA": "Using SSL/TLS encryption",
+        "optionB": "Using an open network",
+        "optionC": "Disabling firewalls",
+        "optionD": "Using weak passwords",
+        "answer": "Using SSL/TLS encryption"
+    },
+    {
+        "question": "What does the term 'brute force attack' refer to?",
+        "optionA": "An attack where the attacker tries all possible password combinations",
+        "optionB": "An attack where the attacker floods a server with traffic",
+        "optionC": "An attack where the attacker intercepts communication",
+        "optionD": "An attack that exploits a vulnerability in software",
+        "answer": "An attack where the attacker tries all possible password combinations"
+    },
+    {
+        "question": "Which of the following tools is used for network traffic analysis?",
+        "optionA": "Wireshark",
+        "optionB": "Metasploit",
+        "optionC": "John the Ripper",
+        "optionD": "Burp Suite",
+        "answer": "Wireshark"
+    },
+    {
+        "question": "What is the primary purpose of a firewall?",
+        "optionA": "To block unauthorized access to a network",
+        "optionB": "To encrypt data",
+        "optionC": "To monitor network traffic",
+        "optionD": "To manage passwords",
+        "answer": "To block unauthorized access to a network"
+    },
+    {
+        "question": "Which of the following is a method of defending against a DDoS attack?",
+        "optionA": "Using a VPN",
+        "optionB": "Implementing rate limiting",
+        "optionC": "Encrypting data",
+        "optionD": "Using a honeypot",
+        "answer": "Implementing rate limiting"
+    },
+    {
+        "question": "What is a 'zero-day exploit'?",
+        "optionA": "An exploit that occurs after a patch is released",
+        "optionB": "An exploit that occurs before a patch is released",
+        "optionC": "An exploit that targets a known vulnerability",
+        "optionD": "An exploit that uses social engineering techniques",
+        "answer": "An exploit that occurs before a patch is released"
+    },
+    {
+        "question": "Which of the following is a type of malware that disguises itself as legitimate software?",
+        "optionA": "Trojan Horse",
+        "optionB": "Ransomware",
+        "optionC": "Spyware",
+        "optionD": "Worm",
+        "answer": "Trojan Horse"
+    },
+    {
+        "question": "What does 'social engineering' refer to in cybersecurity?",
+        "optionA": "Hacking into a system using software vulnerabilities",
+        "optionB": "Manipulating people into revealing sensitive information",
+        "optionC": "Installing malware on a system",
+        "optionD": "Encrypting data",
+        "answer": "Manipulating people into revealing sensitive information"
+    },
+    {
+        "question": "What is the purpose of a honeypot in cybersecurity?",
+        "optionA": "To provide secure communication",
+        "optionB": "To detect and trap attackers by creating a decoy system",
+        "optionC": "To monitor network traffic",
+        "optionD": "To encrypt data",
+        "answer": "To detect and trap attackers by creating a decoy system"
+    },
+    {
+        "question": "Which of the following is an example of a cross-site scripting (XSS) attack?",
+        "optionA": "Injecting malicious scripts into web pages viewed by other users",
+        "optionB": "Flooding a network with traffic",
+        "optionC": "Intercepting communication between two parties",
+        "optionD": "Hacking into a wireless network",
+        "answer": "Injecting malicious scripts into web pages viewed by other users"
+    },
+    {
+        "question": "What is the primary goal of ethical hacking?",
+        "optionA": "To exploit vulnerabilities for malicious purposes",
+        "optionB": "To identify and fix security weaknesses",
+        "optionC": "To steal sensitive data",
+        "optionD": "To disrupt system operations",
+        "answer": "To identify and fix security weaknesses"
+    },
+    {
+        "question": "What is 'phishing' in the context of cybersecurity?",
+        "optionA": "A type of malware",
+        "optionB": "A method of stealing sensitive information through deceptive emails",
+        "optionC": "A type of network attack",
+        "optionD": "A method of encrypting data",
+        "answer": "A method of stealing sensitive information through deceptive emails"
+    },
+    {
+        "question": "Which of the following is an example of a type of cryptography?",
+        "optionA": "SSL/TLS",
+        "optionB": "ARP",
+        "optionC": "DNS",
+        "optionD": "SMTP",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "What is the purpose of encryption in cybersecurity?",
+        "optionA": "To prevent unauthorized access to data by transforming it into unreadable format",
+        "optionB": "To speed up data transmission",
+        "optionC": "To compress data",
+        "optionD": "To manage network traffic",
+        "answer": "To prevent unauthorized access to data by transforming it into unreadable format"
+    },
+    {
+        "question": "Which of the following is an example of a password cracking tool?",
+        "optionA": "Metasploit",
+        "optionB": "John the Ripper",
+        "optionC": "Wireshark",
+        "optionD": "Nmap",
+        "answer": "John the Ripper"
+    },
+    {
+        "question": "What is the purpose of a DDoS (Distributed Denial of Service) attack?",
+        "optionA": "To steal sensitive information",
+        "optionB": "To overload a system with traffic and make it unavailable",
+        "optionC": "To encrypt files on a system",
+        "optionD": "To install malware on a system",
+        "answer": "To overload a system with traffic and make it unavailable"
+    },
+    {
+        "question": "What does 'rootkit' refer to?",
+        "optionA": "A type of malware that hides its presence on a system",
+        "optionB": "A tool used for password cracking",
+        "optionC": "A type of encryption algorithm",
+        "optionD": "A firewall tool",
+        "answer": "A type of malware that hides its presence on a system"
+    },
+    {
+        "question": "Which of the following is an example of a SQL injection attack?",
+        "optionA": "Command injection",
+        "optionB": "Blind SQL injection",
+        "optionC": "Buffer overflow",
+        "optionD": "XSS",
+        "answer": "Blind SQL injection"
+    },
+    {
+        "question": "What does the acronym 'CIA' stand for in cybersecurity?",
+        "optionA": "Central Intelligence Agency",
+        "optionB": "Confidentiality, Integrity, Availability",
+        "optionC": "Cyber Intelligence Agency",
+        "optionD": "Computer Information Analysis",
+        "answer": "Confidentiality, Integrity, Availability"
+    },
+    {
+        "question": "What is a VPN (Virtual Private Network) used for?",
+        "optionA": "To hide the identity of the user and encrypt internet traffic",
+        "optionB": "To monitor network traffic",
+        "optionC": "To block malware",
+        "optionD": "To manage encryption keys",
+        "answer": "To hide the identity of the user and encrypt internet traffic"
+    }
+]

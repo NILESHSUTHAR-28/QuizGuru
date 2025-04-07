@@ -1,0 +1,466 @@
+[
+    {
+        "question": "What does Wi-Fi stand for?",
+        "optionA": "Wireless Fidelity",
+        "optionB": "Wireless Frequency",
+        "optionC": "Wide Fidelity",
+        "optionD": "Wide Frequency",
+        "answer": "Wireless Fidelity"
+    },
+    {
+        "question": "Which of the following is the main advantage of wireless networks?",
+        "optionA": "High cost of installation",
+        "optionB": "Limited range",
+        "optionC": "Mobility",
+        "optionD": "Requires less bandwidth",
+        "answer": "Mobility"
+    },
+    {
+        "question": "What is the range of a typical Wi-Fi network?",
+        "optionA": "10 meters",
+        "optionB": "100 meters",
+        "optionC": "500 meters",
+        "optionD": "1000 meters",
+        "answer": "100 meters"
+    },
+    {
+        "question": "Which frequency band is used by Wi-Fi networks?",
+        "optionA": "2.4 GHz and 5 GHz",
+        "optionB": "1.8 GHz and 3.6 GHz",
+        "optionC": "3.2 GHz and 6 GHz",
+        "optionD": "5 GHz and 7 GHz",
+        "answer": "2.4 GHz and 5 GHz"
+    },
+    {
+        "question": "What does the term 'SSID' stand for in wireless networking?",
+        "optionA": "Secure Service Identifier",
+        "optionB": "Service Set Identifier",
+        "optionC": "System Set Identifier",
+        "optionD": "Simple Service Identifier",
+        "answer": "Service Set Identifier"
+    },
+    {
+        "question": "Which wireless technology is used in Bluetooth?",
+        "optionA": "Infrared",
+        "optionB": "UHF Radio",
+        "optionC": "Microwave",
+        "optionD": "Ultra-Wideband",
+        "answer": "UHF Radio"
+    },
+    {
+        "question": "Which of the following is an advantage of 5G networks?",
+        "optionA": "Higher latency",
+        "optionB": "Faster data transfer speeds",
+        "optionC": "Lower bandwidth",
+        "optionD": "Increased power consumption",
+        "answer": "Faster data transfer speeds"
+    },
+    {
+        "question": "Which wireless standard is used for short-range communication between devices?",
+        "optionA": "Wi-Fi",
+        "optionB": "Bluetooth",
+        "optionC": "Zigbee",
+        "optionD": "NFC",
+        "answer": "Bluetooth"
+    },
+    {
+        "question": "What is the maximum data transfer rate of Wi-Fi 6 (802.11ax)?",
+        "optionA": "1.2 Gbps",
+        "optionB": "5 Gbps",
+        "optionC": "9.6 Gbps",
+        "optionD": "20 Gbps",
+        "answer": "9.6 Gbps"
+    },
+    {
+        "question": "What is the main function of a wireless router?",
+        "optionA": "To manage network traffic",
+        "optionB": "To convert wireless signals to wired",
+        "optionC": "To provide a secure connection",
+        "optionD": "To transmit data between devices",
+        "answer": "To transmit data between devices"
+    },
+    {
+        "question": "Which of the following is a disadvantage of wireless networks?",
+        "optionA": "Limited mobility",
+        "optionB": "Higher installation cost",
+        "optionC": "Signal interference",
+        "optionD": "No encryption",
+        "answer": "Signal interference"
+    },
+    {
+        "question": "What is the maximum range of Bluetooth technology?",
+        "optionA": "10 meters",
+        "optionB": "100 meters",
+        "optionC": "1 meter",
+        "optionD": "1000 meters",
+        "answer": "100 meters"
+    },
+    {
+        "question": "Which of the following is the main purpose of Wi-Fi Protected Access (WPA)?",
+        "optionA": "To increase the range of the network",
+        "optionB": "To improve data transfer speed",
+        "optionC": "To provide encryption and security",
+        "optionD": "To connect multiple devices to the network",
+        "answer": "To provide encryption and security"
+    },
+    {
+        "question": "Which wireless technology is used for smart home devices?",
+        "optionA": "Zigbee",
+        "optionB": "Wi-Fi",
+        "optionC": "Bluetooth",
+        "optionD": "NFC",
+        "answer": "Zigbee"
+    },
+    {
+        "question": "What does the term 'mesh network' refer to in wireless networking?",
+        "optionA": "A network with multiple access points",
+        "optionB": "A network that uses a single access point",
+        "optionC": "A network with a centralized hub",
+        "optionD": "A network where devices communicate directly with each other",
+        "answer": "A network where devices communicate directly with each other"
+    },
+    {
+        "question": "Which of the following is a feature of the 5G network?",
+        "optionA": "Lower latency",
+        "optionB": "Lower data speeds",
+        "optionC": "Lower bandwidth",
+        "optionD": "Lower security",
+        "answer": "Lower latency"
+    },
+    {
+        "question": "Which of the following wireless standards is most commonly used for connecting home devices?",
+        "optionA": "Wi-Fi",
+        "optionB": "Bluetooth",
+        "optionC": "Zigbee",
+        "optionD": "NFC",
+        "answer": "Wi-Fi"
+    },
+    {
+        "question": "Which technology is used for Near Field Communication (NFC)?",
+        "optionA": "Radio Frequency Identification (RFID)",
+        "optionB": "Infrared",
+        "optionC": "Microwave",
+        "optionD": "Bluetooth",
+        "answer": "Radio Frequency Identification (RFID)"
+    },
+    {
+        "question": "What is the main advantage of using a dual-band router?",
+        "optionA": "It can support both 2.4 GHz and 5 GHz frequencies",
+        "optionB": "It provides faster internet speeds",
+        "optionC": "It reduces signal interference",
+        "optionD": "It increases security",
+        "answer": "It can support both 2.4 GHz and 5 GHz frequencies"
+    },
+    {
+        "question": "Which of the following is a common application of Wi-Fi Direct?",
+        "optionA": "Connecting a smartphone to a printer",
+        "optionB": "Connecting to a cellular network",
+        "optionC": "Connecting a laptop to a Bluetooth speaker",
+        "optionD": "Connecting to a satellite network",
+        "answer": "Connecting a smartphone to a printer"
+    },
+    {
+        "question": "What is the purpose of the IEEE 802.11 standard?",
+        "optionA": "To define wireless communication protocols",
+        "optionB": "To define wired communication protocols",
+        "optionC": "To define security standards",
+        "optionD": "To define the frequency bands for wireless communication",
+        "answer": "To define wireless communication protocols"
+    },
+    {
+        "question": "Which wireless technology operates in the 60 GHz frequency band?",
+        "optionA": "Wi-Fi",
+        "optionB": "Bluetooth",
+        "optionC": "WiGig",
+        "optionD": "Zigbee",
+        "answer": "WiGig"
+    },
+    {
+        "question": "Which technology is primarily used for creating personal area networks (PANs)?",
+        "optionA": "Wi-Fi",
+        "optionB": "Bluetooth",
+        "optionC": "Zigbee",
+        "optionD": "WiGig",
+        "answer": "Bluetooth"
+    },
+    {
+        "question": "Which of the following is a disadvantage of 5G technology?",
+        "optionA": "High latency",
+        "optionB": "Limited range",
+        "optionC": "Low data transfer speeds",
+        "optionD": "Requires more power",
+        "answer": "Limited range"
+    },
+    {
+        "question": "Which technology is used for providing internet access in rural areas?",
+        "optionA": "Satellite Internet",
+        "optionB": "Wi-Fi",
+        "optionC": "Bluetooth",
+        "optionD": "Zigbee",
+        "answer": "Satellite Internet"
+    },
+    {
+        "question": "What is the key feature of Li-Fi technology?",
+        "optionA": "Uses light to transmit data",
+        "optionB": "Uses radio waves to transmit data",
+        "optionC": "Uses infrared signals to transmit data",
+        "optionD": "Uses visible light for data encryption",
+        "answer": "Uses light to transmit data"
+    },
+    {
+        "question": "Which wireless technology is most commonly used for mobile payments?",
+        "optionA": "NFC",
+        "optionB": "Bluetooth",
+        "optionC": "Wi-Fi",
+        "optionD": "Zigbee",
+        "answer": "NFC"
+    },
+    {
+        "question": "Which frequency band is used by Zigbee technology?",
+        "optionA": "2.4 GHz",
+        "optionB": "5 GHz",
+        "optionC": "1 GHz",
+        "optionD": "60 GHz",
+        "answer": "2.4 GHz"
+    },
+    {
+        "question": "Which of the following is true about the 802.11ac Wi-Fi standard?",
+        "optionA": "It operates only on the 2.4 GHz band",
+        "optionB": "It provides faster speeds than 802.11n",
+        "optionC": "It operates on the 5 GHz band only",
+        "optionD": "It has lower security than 802.11n",
+        "answer": "It provides faster speeds than 802.11n"
+    },
+    {
+        "question": "Which of the following wireless technologies has the longest range?",
+        "optionA": "Wi-Fi",
+        "optionB": "Bluetooth",
+        "optionC": "Zigbee",
+        "optionD": "LoRa",
+        "answer": "LoRa"
+    },
+    {
+        "question": "What does the term 'handover' refer to in mobile networks?",
+        "optionA": "Switching between different communication protocols",
+        "optionB": "Switching from one cell tower to another",
+        "optionC": "Switching between different frequency bands",
+        "optionD": "Switching between Wi-Fi and cellular networks",
+        "answer": "Switching from one cell tower to another"
+    },
+    {
+        "question": "Which of the following is the main use of Wi-Fi 6 (802.11ax)?",
+        "optionA": "Faster data speeds and improved efficiency",
+        "optionB": "Lower power consumption",
+        "optionC": "Better security features",
+        "optionD": "Improved Bluetooth support",
+        "answer": "Faster data speeds and improved efficiency"
+    },
+    {
+        "question": "Which wireless technology is commonly used for tracking devices in supply chains?",
+        "optionA": "Bluetooth",
+        "optionB": "Wi-Fi",
+        "optionC": "Zigbee",
+        "optionD": "RFID",
+        "answer": "RFID"
+    },
+    {
+        "question": "What is the primary function of the 802.11n Wi-Fi standard?",
+        "optionA": "To provide higher data rates and wider coverage",
+        "optionB": "To increase security",
+        "optionC": "To improve Bluetooth compatibility",
+        "optionD": "To reduce interference",
+        "answer": "To provide higher data rates and wider coverage"
+    },
+    {
+        "question": "Which wireless technology operates in the 5 GHz frequency band?",
+        "optionA": "Wi-Fi",
+        "optionB": "Bluetooth",
+        "optionC": "Zigbee",
+        "optionD": "LoRa",
+        "answer": "Wi-Fi"
+    },
+    {
+        "question": "What is the main advantage of 5G technology over 4G?",
+        "optionA": "Higher data transfer speeds",
+        "optionB": "Lower energy consumption",
+        "optionC": "Wider coverage area",
+        "optionD": "Lower latency",
+        "answer": "Higher data transfer speeds"
+    },
+    {
+        "question": "Which wireless technology is used for communication between devices in close proximity?",
+        "optionA": "Bluetooth",
+        "optionB": "Wi-Fi",
+        "optionC": "NFC",
+        "optionD": "Zigbee",
+        "answer": "NFC"
+    },
+    {
+        "question": "Which of the following is true about the Bluetooth 5.0 standard?",
+        "optionA": "It supports longer range and higher data rates than previous versions",
+        "optionB": "It operates on the 5 GHz frequency band",
+        "optionC": "It is incompatible with older Bluetooth devices",
+        "optionD": "It is primarily used for Wi-Fi networks",
+        "answer": "It supports longer range and higher data rates than previous versions"
+    },
+    {
+        "question": "What is the main function of a wireless access point (WAP)?",
+        "optionA": "To provide internet access to wired devices",
+        "optionB": "To transmit data over long distances",
+        "optionC": "To allow wireless devices to connect to a wired network",
+        "optionD": "To manage wireless signal interference",
+        "answer": "To allow wireless devices to connect to a wired network"
+    },
+    {
+        "question": "Which of the following is a key feature of the Zigbee protocol?",
+        "optionA": "Low power consumption",
+        "optionB": "High data transfer rates",
+        "optionC": "Large coverage area",
+        "optionD": "High bandwidth",
+        "answer": "Low power consumption"
+    },
+    {
+        "question": "What is the maximum data transfer rate of Bluetooth 4.0?",
+        "optionA": "1 Mbps",
+        "optionB": "3 Mbps",
+        "optionC": "25 Mbps",
+        "optionD": "100 Mbps",
+        "answer": "3 Mbps"
+    },
+    {
+        "question": "Which wireless technology is used for creating large-scale wireless sensor networks?",
+        "optionA": "Wi-Fi",
+        "optionB": "Zigbee",
+        "optionC": "Bluetooth",
+        "optionD": "LoRa",
+        "answer": "LoRa"
+    },
+    {
+        "question": "Which of the following is the primary benefit of using MIMO (Multiple Input, Multiple Output) technology in Wi-Fi networks?",
+        "optionA": "Increased range",
+        "optionB": "Reduced power consumption",
+        "optionC": "Higher data transfer rates",
+        "optionD": "Improved security",
+        "answer": "Higher data transfer rates"
+    },
+    {
+        "question": "What does the term 'beamforming' refer to in wireless networks?",
+        "optionA": "The process of directing signals to specific devices",
+        "optionB": "The technique of encrypting wireless data",
+        "optionC": "The method of increasing network bandwidth",
+        "optionD": "The use of multiple antennas to increase range",
+        "answer": "The process of directing signals to specific devices"
+    },
+    {
+        "question": "Which technology is used for wireless charging of devices?",
+        "optionA": "Wi-Fi",
+        "optionB": "Bluetooth",
+        "optionC": "Qi",
+        "optionD": "Zigbee",
+        "answer": "Qi"
+    },
+    {
+        "question": "Which wireless standard is used for high-definition video streaming?",
+        "optionA": "Wi-Fi Direct",
+        "optionB": "Bluetooth",
+        "optionC": "WiGig",
+        "optionD": "Zigbee",
+        "answer": "WiGig"
+    },
+    {
+        "question": "What is the main purpose of the 802.11ac Wi-Fi standard?",
+        "optionA": "To provide faster speeds and improved coverage",
+        "optionB": "To increase security",
+        "optionC": "To reduce interference",
+        "optionD": "To support longer battery life",
+        "answer": "To provide faster speeds and improved coverage"
+    },
+    {
+        "question": "Which of the following is true about the 802.11ax Wi-Fi standard (Wi-Fi 6)?",
+        "optionA": "It supports more devices simultaneously",
+        "optionB": "It operates only on the 2.4 GHz band",
+        "optionC": "It has lower data transfer speeds than 802.11ac",
+        "optionD": "It is primarily used for Bluetooth communication",
+        "answer": "It supports more devices simultaneously"
+    },
+    {
+        "question": "Which wireless technology is primarily used for connecting smart home devices?",
+        "optionA": "Wi-Fi",
+        "optionB": "Zigbee",
+        "optionC": "Bluetooth",
+        "optionD": "LoRa",
+        "answer": "Zigbee"
+    },
+    {
+        "question": "Which frequency band is used by LoRa technology?",
+        "optionA": "2.4 GHz",
+        "optionB": "5 GHz",
+        "optionC": "Sub-1 GHz",
+        "optionD": "60 GHz",
+        "answer": "Sub-1 GHz"
+    },
+    {
+        "question": "What is the purpose of the IEEE 802.11ad standard?",
+        "optionA": "To provide high-speed data transfer for short-range communication",
+        "optionB": "To improve Wi-Fi security",
+        "optionC": "To increase the range of Wi-Fi networks",
+        "optionD": "To enable low-power communication",
+        "answer": "To provide high-speed data transfer for short-range communication"
+    },
+    {
+        "question": "What is the primary function of a wireless bridge?",
+        "optionA": "To extend the range of a wireless network",
+        "optionB": "To encrypt wireless data",
+        "optionC": "To connect two separate networks",
+        "optionD": "To improve signal strength",
+        "answer": "To connect two separate networks"
+    },
+    {
+        "question": "Which of the following is a key feature of Wi-Fi 6 (802.11ax)?",
+        "optionA": "Higher energy efficiency",
+        "optionB": "Increased range",
+        "optionC": "Improved Bluetooth support",
+        "optionD": "Lower data transfer speeds",
+        "answer": "Higher energy efficiency"
+    },
+    {
+        "question": "Which technology is used for creating wireless body area networks (WBANs)?",
+        "optionA": "Wi-Fi",
+        "optionB": "Bluetooth",
+        "optionC": "Zigbee",
+        "optionD": "NFC",
+        "answer": "Bluetooth"
+    },
+    {
+        "question": "Which of the following is a limitation of the 2.4 GHz Wi-Fi band?",
+        "optionA": "Higher susceptibility to interference",
+        "optionB": "Limited range",
+        "optionC": "Lower data transfer speeds",
+        "optionD": "Cannot support multiple devices",
+        "answer": "Higher susceptibility to interference"
+    },
+    {
+        "question": "Which wireless technology is used for long-range communication in remote areas?",
+        "optionA": "Wi-Fi",
+        "optionB": "Zigbee",
+        "optionC": "LoRa",
+        "optionD": "Bluetooth",
+        "answer": "LoRa"
+    },
+    {
+        "question": "What is the primary advantage of using a mesh network in wireless communication?",
+        "optionA": "Improved security",
+        "optionB": "Reduced power consumption",
+        "optionC": "Increased reliability and coverage",
+        "optionD": "Faster data transfer speeds",
+        "answer": "Increased reliability and coverage"
+    },
+    {
+        "question": "Which wireless technology is used for automatic vehicle communication systems?",
+        "optionA": "Wi-Fi",
+        "optionB": "Bluetooth",
+        "optionC": "DSRC (Dedicated Short Range Communications)",
+        "optionD": "Zigbee",
+        "answer": "DSRC (Dedicated Short Range Communications)"
+    }
+]

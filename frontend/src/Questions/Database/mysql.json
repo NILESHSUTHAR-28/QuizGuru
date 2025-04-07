@@ -1,0 +1,474 @@
+[
+    {
+        "question": "Which command is used to create a new database in MySQL?",
+        "optionA": "CREATE DATABASE db_name;",
+        "optionB": "NEW DATABASE db_name;",
+        "optionC": "ADD DATABASE db_name;",
+        "optionD": "INIT DATABASE db_name;",
+        "answer": "CREATE DATABASE db_name;"
+    },
+    {
+        "question": "Which data type is used to store large text in MySQL?",
+        "optionA": "VARCHAR",
+        "optionB": "TEXT",
+        "optionC": "CHAR",
+        "optionD": "STRING",
+        "answer": "TEXT"
+    },
+    {
+        "question": "What does the PRIMARY KEY constraint do?",
+        "optionA": "Ensures all values in a column are unique",
+        "optionB": "Allows NULL values in a column",
+        "optionC": "Defines a foreign key relationship",
+        "optionD": "Specifies a default value for a column",
+        "answer": "Ensures all values in a column are unique"
+    },
+    {
+        "question": "Which command is used to delete a table in MySQL?",
+        "optionA": "REMOVE TABLE table_name;",
+        "optionB": "DROP TABLE table_name;",
+        "optionC": "DELETE TABLE table_name;",
+        "optionD": "CLEAR TABLE table_name;",
+        "answer": "DROP TABLE table_name;"
+    },
+    {
+        "question": "What does the AUTO_INCREMENT attribute do in MySQL?",
+        "optionA": "Increments the value of a column by 2",
+        "optionB": "Automatically assigns a unique value to a column",
+        "optionC": "Adds a default value to a column",
+        "optionD": "Creates an index on the column",
+        "answer": "Automatically assigns a unique value to a column"
+    },
+    {
+        "question": "Which SQL statement is used to retrieve data from a database?",
+        "optionA": "GET",
+        "optionB": "SELECT",
+        "optionC": "FETCH",
+        "optionD": "SHOW",
+        "answer": "SELECT"
+    },
+    {
+        "question": "What is the purpose of the WHERE clause in SQL?",
+        "optionA": "To group rows with similar values",
+        "optionB": "To filter rows based on a condition",
+        "optionC": "To sort the result set",
+        "optionD": "To create a new table",
+        "answer": "To filter rows based on a condition"
+    },
+    {
+        "question": "Which function is used to count the number of rows in a table?",
+        "optionA": "SUM()",
+        "optionB": "COUNT()",
+        "optionC": "ROW_COUNT()",
+        "optionD": "NUMBER()",
+        "answer": "COUNT()"
+    },
+    {
+        "question": "What is the default port number for MySQL?",
+        "optionA": "3306",
+        "optionB": "1433",
+        "optionC": "1521",
+        "optionD": "5432",
+        "answer": "3306"
+    },
+    {
+        "question": "Which clause is used to sort the result set in MySQL?",
+        "optionA": "GROUP BY",
+        "optionB": "SORT BY",
+        "optionC": "ORDER BY",
+        "optionD": "ARRANGE BY",
+        "answer": "ORDER BY"
+    },
+    {
+        "question": "What is the purpose of the JOIN clause in SQL?",
+        "optionA": "To combine data from multiple tables",
+        "optionB": "To create a new table",
+        "optionC": "To delete data from a table",
+        "optionD": "To update rows in a table",
+        "answer": "To combine data from multiple tables"
+    },
+    {
+        "question": "Which type of JOIN returns all rows from both tables, including unmatched rows?",
+        "optionA": "INNER JOIN",
+        "optionB": "LEFT JOIN",
+        "optionC": "RIGHT JOIN",
+        "optionD": "FULL OUTER JOIN",
+        "answer": "FULL OUTER JOIN"
+    },
+    {
+        "question": "Which command is used to modify the structure of a table?",
+        "optionA": "ALTER TABLE",
+        "optionB": "CHANGE TABLE",
+        "optionC": "MODIFY TABLE",
+        "optionD": "UPDATE TABLE",
+        "answer": "ALTER TABLE"
+    },
+    {
+        "question": "What is the purpose of the UNIQUE constraint in MySQL?",
+        "optionA": "Allows duplicate values in a column",
+        "optionB": "Ensures all values in a column are unique",
+        "optionC": "Defines a foreign key relationship",
+        "optionD": "Allows NULL values in a column",
+        "answer": "Ensures all values in a column are unique"
+    },
+    {
+        "question": "Which function is used to return the current date and time in MySQL?",
+        "optionA": "NOW()",
+        "optionB": "GETDATE()",
+        "optionC": "CURRENT_DATE()",
+        "optionD": "SYSDATE()",
+        "answer": "NOW()"
+    },
+    {
+        "question": "What is the purpose of the GROUP BY clause in SQL?",
+        "optionA": "To sort rows in the result set",
+        "optionB": "To filter rows based on a condition",
+        "optionC": "To group rows with similar values",
+        "optionD": "To update rows in a table",
+        "answer": "To group rows with similar values"
+    },
+    {
+        "question": "Which statement is used to add a new column to an existing table?",
+        "optionA": "ALTER TABLE ADD COLUMN",
+        "optionB": "MODIFY TABLE ADD COLUMN",
+        "optionC": "UPDATE TABLE ADD COLUMN",
+        "optionD": "INSERT INTO TABLE ADD COLUMN",
+        "answer": "ALTER TABLE ADD COLUMN"
+    },
+    {
+        "question": "Which keyword is used to remove duplicate rows in a SELECT query?",
+        "optionA": "DISTINCT",
+        "optionB": "UNIQUE",
+        "optionC": "FILTER",
+        "optionD": "EXCLUDE",
+        "answer": "DISTINCT"
+    },
+    {
+        "question": "Which operator is used to search for a specified pattern in a column?",
+        "optionA": "LIKE",
+        "optionB": "MATCH",
+        "optionC": "PATTERN",
+        "optionD": "SEARCH",
+        "answer": "LIKE"
+    },
+    {
+        "question": "What is the purpose of the FOREIGN KEY constraint?",
+        "optionA": "Ensures all values in a column are unique",
+        "optionB": "Links a column to the primary key of another table",
+        "optionC": "Allows NULL values in a column",
+        "optionD": "Specifies a default value for a column",
+        "answer": "Links a column to the primary key of another table"
+    },
+    {
+        "question": "Which MySQL storage engine is transaction-safe and supports foreign keys?",
+        "optionA": "MyISAM",
+        "optionB": "InnoDB",
+        "optionC": "CSV",
+        "optionD": "MEMORY",
+        "answer": "InnoDB"
+    },
+    {
+        "question": "Which command is used to display all databases in MySQL?",
+        "optionA": "SHOW DATABASES;",
+        "optionB": "LIST DATABASES;",
+        "optionC": "DISPLAY DATABASES;",
+        "optionD": "GET DATABASES;",
+        "answer": "SHOW DATABASES;"
+    },
+    {
+        "question": "What is the default file format used by MySQL for table data storage?",
+        "optionA": ".txt",
+        "optionB": ".myd",
+        "optionC": ".sql",
+        "optionD": ".db",
+        "answer": ".myd"
+    },
+    {
+        "question": "Which MySQL function is used to calculate the average value of a column?",
+        "optionA": "SUM()",
+        "optionB": "AVG()",
+        "optionC": "MEAN()",
+        "optionD": "MEDIAN()",
+        "answer": "AVG()"
+    },
+    {
+        "question": "Which SQL keyword is used to limit the number of rows returned by a query?",
+        "optionA": "LIMIT",
+        "optionB": "ROWNUM",
+        "optionC": "FETCH",
+        "optionD": "RESTRICT",
+        "answer": "LIMIT"
+    },
+    {
+        "question": "Which clause is used to rename a column in a MySQL query?",
+        "optionA": "RENAME",
+        "optionB": "AS",
+        "optionC": "CHANGE",
+        "optionD": "MODIFY",
+        "answer": "AS"
+    },
+    {
+        "question": "What does the TIMESTAMP data type in MySQL store?",
+        "optionA": "Only time",
+        "optionB": "Only date",
+        "optionC": "Date and time",
+        "optionD": "Text",
+        "answer": "Date and time"
+    },
+    {
+        "question": "Which function is used to concatenate strings in MySQL?",
+        "optionA": "CONCAT()",
+        "optionB": "APPEND()",
+        "optionC": "MERGE()",
+        "optionD": "JOIN()",
+        "answer": "CONCAT()"
+    },
+    {
+        "question": "Which MySQL clause is used to filter aggregated data?",
+        "optionA": "WHERE",
+        "optionB": "HAVING",
+        "optionC": "FILTER",
+        "optionD": "GROUP BY",
+        "answer": "HAVING"
+    },
+    {
+        "question": "Which function is used to find the largest value in a column?",
+        "optionA": "MIN()",
+        "optionB": "MAX()",
+        "optionC": "BIGGEST()",
+        "optionD": "GREATEST()",
+        "answer": "MAX()"
+    },
+    {
+        "question": "Which operator is used to check if a value exists in a list of values?",
+        "optionA": "EXISTS",
+        "optionB": "IN",
+        "optionC": "ANY",
+        "optionD": "ALL",
+        "answer": "IN"
+    },
+    {
+        "question": "Which keyword is used to remove all rows from a table without logging individual row deletions?",
+        "optionA": "DELETE",
+        "optionB": "TRUNCATE",
+        "optionC": "REMOVE",
+        "optionD": "CLEAR",
+        "answer": "TRUNCATE"
+    },
+    {
+        "question": "Which command is used to back up a MySQL database?",
+        "optionA": "mysqlbackup",
+        "optionB": "mysqldump",
+        "optionC": "backupdb",
+        "optionD": "dumpdb",
+        "answer": "mysqldump"
+    },
+    {
+        "question": "Which MySQL function is used to return the length of a string?",
+        "optionA": "LENGTH()",
+        "optionB": "SIZE()",
+        "optionC": "STRLEN()",
+        "optionD": "LEN()",
+        "answer": "LENGTH()"
+    },
+    {
+        "question": "Which statement is used to change a user's password in MySQL?",
+        "optionA": "CHANGE PASSWORD",
+        "optionB": "ALTER PASSWORD",
+        "optionC": "SET PASSWORD",
+        "optionD": "UPDATE PASSWORD",
+        "answer": "SET PASSWORD"
+    },
+    {
+        "question": "Which keyword is used to combine the results of two queries and remove duplicates?",
+        "optionA": "JOIN",
+        "optionB": "UNION",
+        "optionC": "INTERSECT",
+        "optionD": "MERGE",
+        "answer": "UNION"
+    },
+    {
+        "question": "What does the IS NULL condition check for in MySQL?",
+        "optionA": "If a column has a default value",
+        "optionB": "If a column has a NULL value",
+        "optionC": "If a column is empty",
+        "optionD": "If a column is unique",
+        "answer": "If a column has a NULL value"
+    },
+    {
+        "question": "Which function is used to round a number to a specified number of decimal places?",
+        "optionA": "ROUND()",
+        "optionB": "TRUNC()",
+        "optionC": "CEIL()",
+        "optionD": "FLOOR()",
+        "answer": "ROUND()"
+    },
+    {
+        "question": "Which keyword is used to specify a default value for a column in MySQL?",
+        "optionA": "DEFAULT",
+        "optionB": "SET",
+        "optionC": "VALUE",
+        "optionD": "DEFINE",
+        "answer": "DEFAULT"
+    },
+    {
+        "question": "What is the purpose of the EXPLAIN statement in MySQL?",
+        "optionA": "To create a new table",
+        "optionB": "To analyze the execution plan of a query",
+        "optionC": "To list all databases",
+        "optionD": "To backup a database",
+        "answer": "To analyze the execution plan of a query"
+    },
+    {
+        "question": "Which function is used to return the first non-NULL value in MySQL?",
+        "optionA": "NULLIF()",
+        "optionB": "COALESCE()",
+        "optionC": "IFNULL()",
+        "optionD": "NVL()",
+        "answer": "COALESCE()"
+    },
+    {
+        "question": "Which clause is used to rename a table in MySQL?",
+        "optionA": "RENAME TABLE",
+        "optionB": "ALTER TABLE RENAME",
+        "optionC": "CHANGE TABLE",
+        "optionD": "MODIFY TABLE",
+        "answer": "RENAME TABLE"
+    },
+    {
+        "question": "Which command is used to restore a MySQL database from a dump file?",
+        "optionA": "mysqlrestore",
+        "optionB": "mysqlimport",
+        "optionC": "mysql < dumpfile.sql",
+        "optionD": "restoredb",
+        "answer": "mysql < dumpfile.sql"
+    },
+    {
+        "question": "What is the purpose of the SHOW TABLES command?",
+        "optionA": "To display all rows in a table",
+        "optionB": "To list all tables in the current database",
+        "optionC": "To display the structure of a table",
+        "optionD": "To delete a table",
+        "answer": "To list all tables in the current database"
+    },
+    {
+        "question": "Which keyword is used to define a foreign key in MySQL?",
+        "optionA": "FOREIGN KEY",
+        "optionB": "LINK KEY",
+        "optionC": "EXTERNAL KEY",
+        "optionD": "REFERENCES",
+        "answer": "FOREIGN KEY"
+    },
+    {
+        "question": "Which operator is used to check if a value is within a range?",
+        "optionA": "BETWEEN",
+        "optionB": "WITHIN",
+        "optionC": "RANGE",
+        "optionD": "IN",
+        "answer": "BETWEEN"
+    },
+    {
+        "question": "What is the maximum size of a VARCHAR column in MySQL?",
+        "optionA": "255",
+        "optionB": "65535",
+        "optionC": "32767",
+        "optionD": "1048576",
+        "answer": "65535"
+    },
+    {
+        "question": "Which command is used to remove a user in MySQL?",
+        "optionA": "DROP USER",
+        "optionB": "DELETE USER",
+        "optionC": "REMOVE USER",
+        "optionD": "DESTROY USER",
+        "answer": "DROP USER"
+    },
+    {
+        "question": "Which MySQL command is used to start a transaction?",
+        "optionA": "START TRANSACTION",
+        "optionB": "BEGIN TRANSACTION",
+        "optionC": "OPEN TRANSACTION",
+        "optionD": "INIT TRANSACTION",
+        "answer": "START TRANSACTION"
+    },
+    {
+        "question": "Which MySQL function is used to get the current database?",
+        "optionA": "CURRENT_DB()",
+        "optionB": "DATABASE()",
+        "optionC": "DB_NAME()",
+        "optionD": "GET_DB()",
+        "answer": "DATABASE()"
+    },
+    {
+        "question": "What is the default value of the CHAR data type in MySQL?",
+        "optionA": "Empty string",
+        "optionB": "NULL",
+        "optionC": "Zero",
+        "optionD": "None",
+        "answer": "Empty string"
+    },
+    {
+        "question": "Which SQL clause is used to remove duplicate rows from a query result?",
+        "optionA": "DISTINCT",
+        "optionB": "REMOVE",
+        "optionC": "UNIQUE",
+        "optionD": "FILTER",
+        "answer": "DISTINCT"
+    },
+    {
+        "question": "Which MySQL function is used to find the smallest value in a column?",
+        "optionA": "MIN()",
+        "optionB": "SMALL()",
+        "optionC": "LEAST()",
+        "optionD": "LOWEST()",
+        "answer": "MIN()"
+    },
+    {
+        "question": "Which operator is used to test whether a value is NULL in MySQL?",
+        "optionA": "IS NULL",
+        "optionB": "IS NOT NULL",
+        "optionC": "NULL TEST",
+        "optionD": "CHECK NULL",
+        "answer": "IS NULL"
+    },
+    {
+        "question": "What does the TRUNCATE command do in MySQL?",
+        "optionA": "Removes all rows from a table without logging individual row deletions",
+        "optionB": "Deletes all rows and the table structure",
+        "optionC": "Deletes the table structure and leaves the data",
+        "optionD": "Removes a table from the database",
+        "answer": "Removes all rows from a table without logging individual row deletions"
+    },
+    {
+        "question": "Which keyword is used to create a new user in MySQL?",
+        "optionA": "CREATE USER",
+        "optionB": "NEW USER",
+        "optionC": "ADD USER",
+        "optionD": "INSERT USER",
+        "answer": "CREATE USER"
+    },
+    {
+        "question": "Which MySQL function is used to return the number of characters in a string?",
+        "optionA": "CHAR_LENGTH()",
+        "optionB": "LENGTH()",
+        "optionC": "STRLEN()",
+        "optionD": "COUNT_CHAR()",
+        "answer": "CHAR_LENGTH()"
+    },
+    {
+        "question": "What is the purpose of the RENAME COLUMN clause in MySQL?",
+        "optionA": "To change the name of a column in a table",
+        "optionB": "To delete a column from a table",
+        "optionC": "To add a new column to a table",
+        "optionD": "To change the datatype of a column",
+        "answer": "To change the name of a column in a table"
+    },
+    {
+        "question": "Which statement is used to change the default value of a column in MySQL?",
+        "optionA": "ALTER TABLE MODIFY COLUMN",
+        "optionB": "ALTER TABLE CHANGE COLUMN",
+        "optionC": "ALTER COLUMN SET DEFAULT",
+        "optionD": "ALTER COLUMN DEFAULT VALUE",
+        "answer": "ALTER TABLE MODIFY COLUMN"
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "question": "What is the primary purpose of an activation function in a neural network?",
+        "optionA": "To introduce non-linearity into the network",
+        "optionB": "To reduce the dimensionality of the data",
+        "optionC": "To normalize the input data",
+        "optionD": "To optimize the model",
+        "answer": "To introduce non-linearity into the network"
+    },
+    {
+        "question": "Which of the following is an activation function commonly used in deep learning?",
+        "optionA": "ReLU",
+        "optionB": "Linear",
+        "optionC": "Sigmoid",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of backpropagation in neural networks?",
+        "optionA": "To optimize the weights of the network",
+        "optionB": "To calculate the accuracy of the model",
+        "optionC": "To initialize the weights of the network",
+        "optionD": "To split the data into training and testing sets",
+        "answer": "To optimize the weights of the network"
+    },
+    {
+        "question": "Which algorithm is commonly used for training deep neural networks?",
+        "optionA": "Gradient Descent",
+        "optionB": "K-Means Clustering",
+        "optionC": "Support Vector Machines",
+        "optionD": "Naive Bayes",
+        "answer": "Gradient Descent"
+    },
+    {
+        "question": "What is a common problem that can occur when training deep neural networks?",
+        "optionA": "Overfitting",
+        "optionB": "Underfitting",
+        "optionC": "Gradient vanishing",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is a method to prevent overfitting in neural networks?",
+        "optionA": "Early stopping",
+        "optionB": "Dropout",
+        "optionC": "Regularization",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary difference between a Convolutional Neural Network (CNN) and a fully connected neural network?",
+        "optionA": "CNNs use convolutional layers to process images",
+        "optionB": "Fully connected networks have more layers",
+        "optionC": "CNNs are used for regression tasks",
+        "optionD": "Fully connected networks are more efficient",
+        "answer": "CNNs use convolutional layers to process images"
+    },
+    {
+        "question": "Which layer in a CNN is responsible for reducing the spatial dimensions of the input?",
+        "optionA": "Convolutional layer",
+        "optionB": "Pooling layer",
+        "optionC": "Fully connected layer",
+        "optionD": "Dropout layer",
+        "answer": "Pooling layer"
+    },
+    {
+        "question": "What is the role of the softmax activation function?",
+        "optionA": "To output probabilities for classification tasks",
+        "optionB": "To normalize input data",
+        "optionC": "To reduce the number of features",
+        "optionD": "To prevent overfitting",
+        "answer": "To output probabilities for classification tasks"
+    },
+    {
+        "question": "Which of the following optimizers is commonly used in deep learning?",
+        "optionA": "SGD (Stochastic Gradient Descent)",
+        "optionB": "Adam",
+        "optionC": "RMSprop",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of the learning rate in gradient descent?",
+        "optionA": "To control the speed of learning",
+        "optionB": "To prevent overfitting",
+        "optionC": "To update the weights",
+        "optionD": "To optimize the model",
+        "answer": "To control the speed of learning"
+    },
+    {
+        "question": "What is the purpose of dropout in a neural network?",
+        "optionA": "To increase the complexity of the model",
+        "optionB": "To prevent overfitting by randomly disabling neurons",
+        "optionC": "To normalize the input data",
+        "optionD": "To speed up training",
+        "answer": "To prevent overfitting by randomly disabling neurons"
+    },
+    {
+        "question": "Which of the following is a type of neural network used for sequential data?",
+        "optionA": "Convolutional Neural Network (CNN)",
+        "optionB": "Recurrent Neural Network (RNN)",
+        "optionC": "Fully Connected Network",
+        "optionD": "Generative Adversarial Network (GAN)",
+        "answer": "Recurrent Neural Network (RNN)"
+    },
+    {
+        "question": "What is a common use case for Recurrent Neural Networks (RNNs)?",
+        "optionA": "Image classification",
+        "optionB": "Time-series prediction",
+        "optionC": "Object detection",
+        "optionD": "Dimensionality reduction",
+        "answer": "Time-series prediction"
+    },
+    {
+        "question": "What is the primary function of a fully connected layer in a neural network?",
+        "optionA": "To connect all neurons to each other",
+        "optionB": "To reduce the dimensionality of the data",
+        "optionC": "To extract features from the input data",
+        "optionD": "To apply the activation function",
+        "answer": "To connect all neurons to each other"
+    },
+    {
+        "question": "What is the vanishing gradient problem?",
+        "optionA": "When gradients become very small and slow down learning",
+        "optionB": "When gradients become too large and cause instability",
+        "optionC": "When the model overfits the training data",
+        "optionD": "When the model underfits the training data",
+        "answer": "When gradients become very small and slow down learning"
+    },
+    {
+        "question": "Which of the following is a technique used to prevent the vanishing gradient problem?",
+        "optionA": "Using ReLU activation function",
+        "optionB": "Using sigmoid activation function",
+        "optionC": "Using a shallow network",
+        "optionD": "Using a smaller learning rate",
+        "answer": "Using ReLU activation function"
+    },
+    {
+        "question": "What is the purpose of batch normalization?",
+        "optionA": "To reduce the size of the network",
+        "optionB": "To normalize the input data",
+        "optionC": "To speed up training and improve stability",
+        "optionD": "To prevent overfitting",
+        "answer": "To speed up training and improve stability"
+    },
+    {
+        "question": "What does the term 'epoch' refer to in deep learning?",
+        "optionA": "One pass through the entire training dataset",
+        "optionB": "A single batch of data used in training",
+        "optionC": "The number of layers in the neural network",
+        "optionD": "The learning rate used during training",
+        "answer": "One pass through the entire training dataset"
+    },
+    {
+        "question": "What is a common evaluation metric for classification tasks?",
+        "optionA": "Mean Squared Error (MSE)",
+        "optionB": "Accuracy",
+        "optionC": "R-Squared",
+        "optionD": "Mean Absolute Error (MAE)",
+        "answer": "Accuracy"
+    },
+    {
+        "question": "What is a Generative Adversarial Network (GAN)?",
+        "optionA": "A network used for image classification",
+        "optionB": "A network that generates new data by pitting two networks against each other",
+        "optionC": "A network used for time-series forecasting",
+        "optionD": "A network used for reinforcement learning",
+        "answer": "A network that generates new data by pitting two networks against each other"
+    },
+    {
+        "question": "Which of the following is a characteristic of Convolutional Neural Networks (CNNs)?",
+        "optionA": "They are primarily used for sequential data",
+        "optionB": "They use convolutional layers to extract features from images",
+        "optionC": "They are used for time-series forecasting",
+        "optionD": "They are used for regression tasks",
+        "answer": "They use convolutional layers to extract features from images"
+    },
+    {
+        "question": "What is the purpose of pooling layers in CNNs?",
+        "optionA": "To reduce the dimensionality of the data",
+        "optionB": "To increase the number of features",
+        "optionC": "To add non-linearity to the network",
+        "optionD": "To prevent overfitting",
+        "answer": "To reduce the dimensionality of the data"
+    },
+    {
+        "question": "What does the term 'transfer learning' refer to?",
+        "optionA": "Using pre-trained models to solve new tasks",
+        "optionB": "Transferring data between different datasets",
+        "optionC": "Training a model from scratch",
+        "optionD": "Transferring knowledge between different models",
+        "answer": "Using pre-trained models to solve new tasks"
+    },
+    {
+        "question": "Which of the following is a characteristic of an LSTM (Long Short-Term Memory) network?",
+        "optionA": "It is a type of convolutional network",
+        "optionB": "It is used for processing sequential data",
+        "optionC": "It is used for image recognition",
+        "optionD": "It is used for dimensionality reduction",
+        "answer": "It is used for processing sequential data"
+    },
+    {
+        "question": "What is the purpose of the kernel in a Convolutional Neural Network?",
+        "optionA": "To apply a transformation to the input data",
+        "optionB": "To reduce the size of the input data",
+        "optionC": "To initialize the weights of the network",
+        "optionD": "To introduce non-linearity",
+        "answer": "To apply a transformation to the input data"
+    },
+    {
+        "question": "What is the primary goal of unsupervised learning?",
+        "optionA": "To predict outcomes based on labeled data",
+        "optionB": "To find hidden patterns in unlabeled data",
+        "optionC": "To optimize an agent's actions in an environment",
+        "optionD": "To reduce overfitting",
+        "answer": "To find hidden patterns in unlabeled data"
+    },
+    {
+        "question": "What is the primary advantage of using ReLU over sigmoid?",
+        "optionA": "ReLU is faster to compute",
+        "optionB": "ReLU does not suffer from vanishing gradients",
+        "optionC": "ReLU is better for classification tasks",
+        "optionD": "ReLU is used for regression tasks",
+        "answer": "ReLU does not suffer from vanishing gradients"
+    },
+    {
+        "question": "What does the term 'exploding gradients' refer to?",
+        "optionA": "When the gradients become very large and cause instability",
+        "optionB": "When the model underfits the data",
+        "optionC": "When the model overfits the data",
+        "optionD": "When the learning rate is too small",
+        "answer": "When the gradients become very large and cause instability"
+    },
+    {
+        "question": "What is the primary purpose of a loss function in machine learning?",
+        "optionA": "To measure the accuracy of the model",
+        "optionB": "To calculate the error between predicted and actual values",
+        "optionC": "To normalize the input data",
+        "optionD": "To optimize the weights of the network",
+        "answer": "To calculate the error between predicted and actual values"
+    },
+    {
+        "question": "Which of the following is a common type of loss function used in classification tasks?",
+        "optionA": "Mean Squared Error",
+        "optionB": "Cross-Entropy Loss",
+        "optionC": "Huber Loss",
+        "optionD": "Log-Cosh Loss",
+        "answer": "Cross-Entropy Loss"
+    },
+    {
+        "question": "Which of the following is an advantage of using deep learning over traditional machine learning?",
+        "optionA": "Requires less data",
+        "optionB": "Can automatically extract features from raw data",
+        "optionC": "Is easier to interpret",
+        "optionD": "Is faster to train",
+        "answer": "Can automatically extract features from raw data"
+    },
+    {
+        "question": "Which of the following is a type of neural network used for image recognition?",
+        "optionA": "Convolutional Neural Network (CNN)",
+        "optionB": "Recurrent Neural Network (RNN)",
+        "optionC": "Generative Adversarial Network (GAN)",
+        "optionD": "Deep Belief Network (DBN)",
+        "answer": "Convolutional Neural Network (CNN)"
+    },
+    {
+        "question": "What is the purpose of an activation function in a neural network?",
+        "optionA": "To introduce non-linearity into the network",
+        "optionB": "To optimize the model",
+        "optionC": "To reduce the dimensionality of the data",
+        "optionD": "To normalize the input data",
+        "answer": "To introduce non-linearity into the network"
+    },
+    {
+        "question": "What is the purpose of weight initialization in neural networks?",
+        "optionA": "To prevent overfitting",
+        "optionB": "To speed up training",
+        "optionC": "To set the initial values of weights before training",
+        "optionD": "To improve model accuracy",
+        "answer": "To set the initial values of weights before training"
+    },
+    {
+        "question": "What is the purpose of a learning rate schedule in training neural networks?",
+        "optionA": "To adjust the learning rate dynamically during training",
+        "optionB": "To prevent overfitting",
+        "optionC": "To optimize the weights",
+        "optionD": "To normalize the input data",
+        "answer": "To adjust the learning rate dynamically during training"
+    },
+    {
+        "question": "What is the main advantage of using a GPU for training deep neural networks?",
+        "optionA": "Faster computation due to parallel processing",
+        "optionB": "Lower memory usage",
+        "optionC": "Less energy consumption",
+        "optionD": "Easier to program",
+        "answer": "Faster computation due to parallel processing"
+    },
+    {
+        "question": "Which of the following is a common technique for reducing the dimensionality of data?",
+        "optionA": "Principal Component Analysis (PCA)",
+        "optionB": "K-Means Clustering",
+        "optionC": "Support Vector Machines",
+        "optionD": "Naive Bayes",
+        "answer": "Principal Component Analysis (PCA)"
+    },
+    {
+        "question": "What is the main advantage of using batch gradient descent over stochastic gradient descent?",
+        "optionA": "It is faster",
+        "optionB": "It converges more quickly",
+        "optionC": "It uses the entire dataset for each update",
+        "optionD": "It is easier to implement",
+        "answer": "It uses the entire dataset for each update"
+    },
+    {
+        "question": "What is the purpose of a validation set in machine learning?",
+        "optionA": "To train the model",
+        "optionB": "To evaluate the model's performance during training",
+        "optionC": "To optimize the model's weights",
+        "optionD": "To test the model's accuracy",
+        "answer": "To evaluate the model's performance during training"
+    },
+    {
+        "question": "Which of the following is a type of neural network used for natural language processing?",
+        "optionA": "Convolutional Neural Network (CNN)",
+        "optionB": "Recurrent Neural Network (RNN)",
+        "optionC": "Generative Adversarial Network (GAN)",
+        "optionD": "Deep Belief Network (DBN)",
+        "answer": "Recurrent Neural Network (RNN)"
+    },
+    {
+        "question": "What is the purpose of an optimizer in machine learning?",
+        "optionA": "To adjust the model's weights to minimize the loss function",
+        "optionB": "To calculate the accuracy of the model",
+        "optionC": "To introduce non-linearity into the network",
+        "optionD": "To normalize the input data",
+        "answer": "To adjust the model's weights to minimize the loss function"
+    },
+    {
+        "question": "What is the purpose of early stopping in neural network training?",
+        "optionA": "To prevent overfitting by stopping training when the validation error starts increasing",
+        "optionB": "To speed up training",
+        "optionC": "To improve model accuracy",
+        "optionD": "To adjust the learning rate dynamically",
+        "answer": "To prevent overfitting by stopping training when the validation error starts increasing"
+    },
+    {
+        "question": "What is the main advantage of using dropout in neural networks?",
+        "optionA": "It reduces the number of parameters",
+        "optionB": "It helps prevent overfitting by randomly disabling neurons during training",
+        "optionC": "It speeds up training",
+        "optionD": "It increases the complexity of the model",
+        "answer": "It helps prevent overfitting by randomly disabling neurons during training"
+    },
+    {
+        "question": "What is the purpose of a recurrent neural network (RNN)?",
+        "optionA": "To process sequential data such as time series or text",
+        "optionB": "To classify images",
+        "optionC": "To extract features from raw data",
+        "optionD": "To optimize the model's weights",
+        "answer": "To process sequential data such as time series or text"
+    },
+    {
+        "question": "What is the main advantage of using an LSTM (Long Short-Term Memory) network over a standard RNN?",
+        "optionA": "LSTM networks can handle long-range dependencies better",
+        "optionB": "LSTM networks are faster to train",
+        "optionC": "LSTM networks are simpler to implement",
+        "optionD": "LSTM networks are used for image recognition",
+        "answer": "LSTM networks can handle long-range dependencies better"
+    },
+    {
+        "question": "What is the purpose of an embedding layer in a neural network?",
+        "optionA": "To convert categorical data into continuous vectors",
+        "optionB": "To extract features from raw data",
+        "optionC": "To reduce the dimensionality of the data",
+        "optionD": "To introduce non-linearity into the network",
+        "answer": "To convert categorical data into continuous vectors"
+    },
+    {
+        "question": "Which of the following is a common technique for improving the generalization of a neural network?",
+        "optionA": "Regularization",
+        "optionB": "Overfitting",
+        "optionC": "Data augmentation",
+        "optionD": "Underfitting",
+        "answer": "Regularization"
+    },
+    {
+        "question": "What is the purpose of the softmax activation function in multi-class classification?",
+        "optionA": "To output probabilities for each class",
+        "optionB": "To reduce the dimensionality of the data",
+        "optionC": "To introduce non-linearity into the network",
+        "optionD": "To normalize the input data",
+        "answer": "To output probabilities for each class"
+    },
+    {
+        "question": "What is the main advantage of using a pre-trained model for transfer learning?",
+        "optionA": "It allows the model to learn new tasks faster by leveraging previously learned features",
+        "optionB": "It reduces the amount of data needed for training",
+        "optionC": "It is easier to implement",
+        "optionD": "It requires less computational power",
+        "answer": "It allows the model to learn new tasks faster by leveraging previously learned features"
+    },
+    {
+        "question": "What is the purpose of a convolutional layer in a CNN?",
+        "optionA": "To apply filters to the input data to extract features",
+        "optionB": "To reduce the dimensionality of the data",
+        "optionC": "To introduce non-linearity into the network",
+        "optionD": "To normalize the input data",
+        "answer": "To apply filters to the input data to extract features"
+    },
+    {
+        "question": "What is the purpose of a pooling layer in a CNN?",
+        "optionA": "To reduce the dimensionality of the data",
+        "optionB": "To extract features from the input data",
+        "optionC": "To introduce non-linearity into the network",
+        "optionD": "To normalize the input data",
+        "answer": "To reduce the dimensionality of the data"
+    },
+    {
+        "question": "What is the purpose of a fully connected layer in a neural network?",
+        "optionA": "To connect all neurons in one layer to all neurons in the next layer",
+        "optionB": "To reduce the dimensionality of the data",
+        "optionC": "To extract features from the input data",
+        "optionD": "To apply the activation function",
+        "answer": "To connect all neurons in one layer to all neurons in the next layer"
+    },
+    {
+        "question": "What is the purpose of data augmentation in deep learning?",
+        "optionA": "To artificially increase the size of the dataset by applying transformations to the data",
+        "optionB": "To reduce the size of the dataset",
+        "optionC": "To improve the generalization of the model",
+        "optionD": "To optimize the model's weights",
+        "answer": "To artificially increase the size of the dataset by applying transformations to the data"
+    },
+    {
+        "question": "What is the primary advantage of using a generative adversarial network (GAN)?",
+        "optionA": "It can generate new data similar to the training data",
+        "optionB": "It can classify images",
+        "optionC": "It can predict time-series data",
+        "optionD": "It is faster to train than other networks",
+        "answer": "It can generate new data similar to the training data"
+    }
+]

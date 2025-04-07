@@ -1,0 +1,418 @@
+[
+    { 
+        "question": "What is virtualization in cloud computing?", 
+        "optionA": "Running multiple operating systems on a single machine", 
+        "optionB": "Storing data in the cloud", 
+        "optionC": "Distributing cloud resources across the internet", 
+        "optionD": "Building private clouds", 
+        "answer": "Running multiple operating systems on a single machine" 
+    },
+    { 
+        "question": "Which of the following is a type of virtualization?", 
+        "optionA": "Application virtualization", 
+        "optionB": "Hardware virtualization", 
+        "optionC": "Network virtualization", 
+        "optionD": "All of the above", 
+        "answer": "All of the above" 
+    },
+    { 
+        "question": "What is the primary benefit of server virtualization?", 
+        "optionA": "Increased energy consumption", 
+        "optionB": "Higher hardware costs", 
+        "optionC": "Better resource utilization", 
+        "optionD": "Increased complexity", 
+        "answer": "Better resource utilization" 
+    },
+    { 
+        "question": "Which software is typically used to create and manage virtual machines?", 
+        "optionA": "Hypervisor", 
+        "optionB": "Firewall", 
+        "optionC": "Router", 
+        "optionD": "Load balancer", 
+        "answer": "Hypervisor" 
+    },
+    { 
+        "question": "What is the difference between Type 1 and Type 2 hypervisors?", 
+        "optionA": "Type 1 runs on top of an operating system, Type 2 runs directly on hardware", 
+        "optionB": "Type 1 runs directly on hardware, Type 2 runs on top of an operating system", 
+        "optionC": "There is no difference", 
+        "optionD": "Type 1 is for cloud, Type 2 is for local machines", 
+        "answer": "Type 1 runs directly on hardware, Type 2 runs on top of an operating system" 
+    },
+    { 
+        "question": "What does a hypervisor do in virtualization?", 
+        "optionA": "It allocates physical resources to virtual machines", 
+        "optionB": "It stores data in the cloud", 
+        "optionC": "It secures the network traffic", 
+        "optionD": "It creates backup copies of virtual machines", 
+        "answer": "It allocates physical resources to virtual machines" 
+    },
+    { 
+        "question": "Which of the following is an example of hardware virtualization?", 
+        "optionA": "Virtual machines", 
+        "optionB": "Virtual storage", 
+        "optionC": "Virtual network", 
+        "optionD": "Virtual desktop infrastructure", 
+        "answer": "Virtual machines" 
+    },
+    { 
+        "question": "What is the purpose of virtual machine snapshots?", 
+        "optionA": "To backup virtual machines", 
+        "optionB": "To monitor network traffic", 
+        "optionC": "To store large files", 
+        "optionD": "To record user interactions with the system", 
+        "answer": "To backup virtual machines" 
+    },
+    { 
+        "question": "What is the role of containerization in cloud computing?", 
+        "optionA": "To run multiple operating systems on a single server", 
+        "optionB": "To isolate applications and their dependencies", 
+        "optionC": "To create virtual machines", 
+        "optionD": "To store data in the cloud", 
+        "answer": "To isolate applications and their dependencies" 
+    },
+    { 
+        "question": "Which cloud service model typically uses virtualization?", 
+        "optionA": "SaaS", 
+        "optionB": "PaaS", 
+        "optionC": "IaaS", 
+        "optionD": "FaaS", 
+        "answer": "IaaS" 
+    },
+    { 
+        "question": "What is the main advantage of virtualization in cloud computing?", 
+        "optionA": "Better energy efficiency", 
+        "optionB": "Increased resource utilization", 
+        "optionC": "Higher hardware costs", 
+        "optionD": "Decreased scalability", 
+        "answer": "Increased resource utilization" 
+    },
+    { 
+        "question": "Which of the following is a benefit of virtualized storage?", 
+        "optionA": "Centralized management of storage resources", 
+        "optionB": "Higher storage costs", 
+        "optionC": "Decreased security", 
+        "optionD": "Manual resource allocation", 
+        "answer": "Centralized management of storage resources" 
+    },
+    { 
+        "question": "What does virtual network virtualization enable?", 
+        "optionA": "Running multiple operating systems on a single machine", 
+        "optionB": "Creating isolated network environments for applications", 
+        "optionC": "Backup of virtual machines", 
+        "optionD": "Storing large files in the cloud", 
+        "answer": "Creating isolated network environments for applications" 
+    },
+    { 
+        "question": "Which type of virtualization allows running multiple operating systems on a single physical machine?", 
+        "optionA": "Server virtualization", 
+        "optionB": "Storage virtualization", 
+        "optionC": "Network virtualization", 
+        "optionD": "Application virtualization", 
+        "answer": "Server virtualization" 
+    },
+    { 
+        "question": "What is the concept of live migration in virtualization?", 
+        "optionA": "Moving virtual machines from one physical server to another without downtime", 
+        "optionB": "Backing up virtual machines", 
+        "optionC": "Increasing server power", 
+        "optionD": "Creating virtual machines", 
+        "answer": "Moving virtual machines from one physical server to another without downtime" 
+    },
+    { 
+        "question": "What is virtual desktop infrastructure (VDI)?", 
+        "optionA": "A system that hosts desktop environments on virtual machines", 
+        "optionB": "A tool for managing virtual machines", 
+        "optionC": "A cloud storage solution", 
+        "optionD": "A type of network virtualization", 
+        "answer": "A system that hosts desktop environments on virtual machines" 
+    },
+    { 
+        "question": "Which of the following is a key characteristic of virtualized environments?", 
+        "optionA": "Dedicated physical hardware", 
+        "optionB": "Isolation of applications and services", 
+        "optionC": "Manual resource allocation", 
+        "optionD": "Limited scalability", 
+        "answer": "Isolation of applications and services" 
+    },
+    { 
+        "question": "What is the role of a virtual machine monitor (VMM)?", 
+        "optionA": "It manages the virtual machines and allocates resources", 
+        "optionB": "It creates virtual machines", 
+        "optionC": "It stores data in the cloud", 
+        "optionD": "It monitors network traffic", 
+        "answer": "It manages the virtual machines and allocates resources" 
+    },
+    { 
+        "question": "What is a benefit of using virtualization in cloud computing for disaster recovery?", 
+        "optionA": "Faster recovery time", 
+        "optionB": "Higher hardware costs", 
+        "optionC": "Increased downtime", 
+        "optionD": "Manual resource allocation", 
+        "answer": "Faster recovery time" 
+    },
+    { 
+        "question": "Which of the following best describes cloud bursting in virtualization?", 
+        "optionA": "Scaling resources within a single cloud", 
+        "optionB": "Temporarily offloading workloads to a public cloud when private cloud resources are exhausted", 
+        "optionC": "Creating private clouds", 
+        "optionD": "Running virtual machines locally", 
+        "answer": "Temporarily offloading workloads to a public cloud when private cloud resources are exhausted" 
+    },
+    { 
+        "question": "Which virtualization technology allows multiple virtual machines to share the same physical resources?", 
+        "optionA": "Hypervisor", 
+        "optionB": "Containerization", 
+        "optionC": "Cloud storage", 
+        "optionD": "Load balancing", 
+        "answer": "Hypervisor" 
+    },
+    { 
+        "question": "What is the role of resource pooling in cloud virtualization?", 
+        "optionA": "To centralize and efficiently allocate resources to virtual machines", 
+        "optionB": "To store large files", 
+        "optionC": "To create backup copies of virtual machines", 
+        "optionD": "To monitor network traffic", 
+        "answer": "To centralize and efficiently allocate resources to virtual machines" 
+    },
+    { 
+        "question": "What is the difference between containerization and virtualization?", 
+        "optionA": "Containerization runs applications in isolated environments, while virtualization runs entire operating systems", 
+        "optionB": "Containerization is slower than virtualization", 
+        "optionC": "Containerization requires more hardware resources", 
+        "optionD": "Containerization runs on physical machines, while virtualization runs on virtual machines", 
+        "answer": "Containerization runs applications in isolated environments, while virtualization runs entire operating systems" 
+    },
+    { 
+        "question": "Which of the following is an example of a cloud service that uses virtualization?", 
+        "optionA": "Google Cloud", 
+        "optionB": "Dropbox", 
+        "optionC": "Facebook", 
+        "optionD": "Instagram", 
+        "answer": "Google Cloud" 
+    },
+    { 
+        "question": "What is the primary purpose of virtual machine cloning?", 
+        "optionA": "To create a copy of a virtual machine for testing or backup", 
+        "optionB": "To store virtual machines in the cloud", 
+        "optionC": "To run multiple operating systems on a single machine", 
+        "optionD": "To monitor network traffic", 
+        "answer": "To create a copy of a virtual machine for testing or backup" 
+    },
+    { 
+        "question": "Which of the following is a key challenge of virtualization in cloud computing?", 
+        "optionA": "Managing virtual machine resources", 
+        "optionB": "Storing large files", 
+        "optionC": "Monitoring network traffic", 
+        "optionD": "Increasing hardware costs", 
+        "answer": "Managing virtual machine resources" 
+    },
+    { 
+        "question": "What is the purpose of a virtual private network (VPN) in a virtualized cloud environment?", 
+        "optionA": "To encrypt data transmitted between virtual machines", 
+        "optionB": "To monitor network traffic", 
+        "optionC": "To store backup copies of virtual machines", 
+        "optionD": "To allocate resources to virtual machines", 
+        "answer": "To encrypt data transmitted between virtual machines" 
+    },
+    { 
+        "question": "Which of the following is a common use case for virtualization in cloud computing?", 
+        "optionA": "Running multiple instances of applications", 
+        "optionB": "Storing data in the cloud", 
+        "optionC": "Monitoring network traffic", 
+        "optionD": "Increasing energy consumption", 
+        "answer": "Running multiple instances of applications" 
+    },
+    { 
+        "question": "What is the purpose of a virtual switch in virtualization?", 
+        "optionA": "To manage network traffic between virtual machines", 
+        "optionB": "To store data in the cloud", 
+        "optionC": "To run multiple operating systems on a single machine", 
+        "optionD": "To allocate resources to virtual machines", 
+        "answer": "To manage network traffic between virtual machines" 
+    },
+    { 
+        "question": "What is the benefit of using virtual machines for testing software?", 
+        "optionA": "Isolating the testing environment", 
+        "optionB": "Running software on physical machines", 
+        "optionC": "Increasing energy consumption", 
+        "optionD": "Decreasing hardware requirements", 
+        "answer": "Isolating the testing environment" 
+    },
+    { 
+        "question": "What is the role of a virtual machine's guest operating system?", 
+        "optionA": "To manage the physical hardware", 
+        "optionB": "To manage the virtual machine's resources", 
+        "optionC": "To run applications inside the virtual machine", 
+        "optionD": "To create virtual machines", 
+        "answer": "To run applications inside the virtual machine" 
+    },
+    { 
+        "question": "Which of the following is a characteristic of a Type 1 hypervisor?", 
+        "optionA": "It runs on top of an operating system", 
+        "optionB": "It runs directly on hardware", 
+        "optionC": "It is slower than a Type 2 hypervisor", 
+        "optionD": "It is used for personal computing", 
+        "answer": "It runs directly on hardware" 
+    },
+    { 
+        "question": "What is the primary purpose of a virtual machine's virtual CPU (vCPU)?", 
+        "optionA": "To run the operating system", 
+        "optionB": "To allocate memory to the virtual machine", 
+        "optionC": "To process instructions and execute programs", 
+        "optionD": "To manage network traffic", 
+        "answer": "To process instructions and execute programs" 
+    },
+    { 
+        "question": "Which of the following best describes cloud elasticity in the context of virtualization?", 
+        "optionA": "The ability to quickly scale resources up or down based on demand", 
+        "optionB": "The ability to store data in multiple locations", 
+        "optionC": "The ability to create virtual machines on demand", 
+        "optionD": "The ability to run multiple operating systems on a single machine", 
+        "answer": "The ability to quickly scale resources up or down based on demand" 
+    },
+    { 
+        "question": "Which virtualization method allows running multiple isolated applications on the same OS kernel?", 
+        "optionA": "Containerization", 
+        "optionB": "Hardware virtualization", 
+        "optionC": "Network virtualization", 
+        "optionD": "Server virtualization", 
+        "answer": "Containerization" 
+    },
+    { 
+        "question": "Which of the following is a key advantage of using virtualization for development and testing?", 
+        "optionA": "Isolated environments for different versions of software", 
+        "optionB": "Increased hardware costs", 
+        "optionC": "Reduced resource utilization", 
+        "optionD": "Limited scalability", 
+        "answer": "Isolated environments for different versions of software" 
+    },
+    { 
+        "question": "What is a virtual machine's resource allocation?", 
+        "optionA": "The amount of physical hardware allocated to the virtual machine", 
+        "optionB": "The amount of network bandwidth allocated to the virtual machine", 
+        "optionC": "The amount of virtual resources (CPU, memory, storage) allocated to the virtual machine", 
+        "optionD": "The amount of virtual machine storage space available", 
+        "answer": "The amount of virtual resources (CPU, memory, storage) allocated to the virtual machine" 
+    },
+    { 
+        "question": "What does a virtual machine's 'snapshot' allow you to do?", 
+        "optionA": "Backup the virtual machine's data", 
+        "optionB": "Restore the virtual machine to a previous state", 
+        "optionC": "Monitor the virtual machine's performance", 
+        "optionD": "Install a new operating system on the virtual machine", 
+        "answer": "Restore the virtual machine to a previous state" 
+    },
+    { 
+        "question": "Which of the following is an example of a cloud computing service that utilizes virtualization?", 
+        "optionA": "Google Compute Engine", 
+        "optionB": "Google Drive", 
+        "optionC": "Dropbox", 
+        "optionD": "Spotify", 
+        "answer": "Google Compute Engine" 
+    },
+    { 
+        "question": "What is the primary advantage of using virtualization in a cloud environment?", 
+        "optionA": "Better control over physical hardware", 
+        "optionB": "Increased hardware failure rates", 
+        "optionC": "Better resource utilization and scalability", 
+        "optionD": "Higher energy consumption", 
+        "answer": "Better resource utilization and scalability" 
+    },
+    { 
+        "question": "Which of the following is a key characteristic of cloud computing with virtualization?", 
+        "optionA": "Resource pooling", 
+        "optionB": "Limited scalability", 
+        "optionC": "Dedicated physical hardware", 
+        "optionD": "Manual resource allocation", 
+        "answer": "Resource pooling" 
+    },
+    { 
+        "question": "What is the role of virtual machine migration in cloud computing?", 
+        "optionA": "To move virtual machines from one physical server to another", 
+        "optionB": "To allocate resources to virtual machines", 
+        "optionC": "To monitor network traffic", 
+        "optionD": "To backup virtual machines", 
+        "answer": "To move virtual machines from one physical server to another" 
+    },
+    { 
+        "question": "Which of the following is an example of network virtualization?", 
+        "optionA": "Software-defined networking (SDN)", 
+        "optionB": "Virtual machines", 
+        "optionC": "Virtual storage", 
+        "optionD": "Cloud storage", 
+        "answer": "Software-defined networking (SDN)" 
+    },
+    { 
+        "question": "What is the purpose of a virtual private cloud (VPC)?", 
+        "optionA": "To create a private network within a public cloud", 
+        "optionB": "To store data in a private data center", 
+        "optionC": "To manage network traffic between virtual machines", 
+        "optionD": "To run multiple operating systems on a single machine", 
+        "answer": "To create a private network within a public cloud" 
+    },
+    { 
+        "question": "Which cloud service model is most closely associated with virtualization?", 
+        "optionA": "IaaS", 
+        "optionB": "SaaS", 
+        "optionC": "PaaS", 
+        "optionD": "FaaS", 
+        "answer": "IaaS" 
+    },
+    { 
+        "question": "What is the concept of 'resource pooling' in cloud computing?", 
+        "optionA": "The ability to allocate resources from a central pool to virtual machines", 
+        "optionB": "The ability to store resources in a single location", 
+        "optionC": "The ability to scale resources up or down based on demand", 
+        "optionD": "The ability to run multiple operating systems on a single machine", 
+        "answer": "The ability to allocate resources from a central pool to virtual machines" 
+    },
+    { 
+        "question": "What is the key difference between a virtual machine and a container?", 
+        "optionA": "Containers share the host OS kernel, while virtual machines have their own OS", 
+        "optionB": "Virtual machines are faster than containers", 
+        "optionC": "Containers are slower than virtual machines", 
+        "optionD": "Containers require more resources than virtual machines", 
+        "answer": "Containers share the host OS kernel, while virtual machines have their own OS" 
+    },
+    { 
+        "question": "What is the purpose of a virtual switch in virtualization?", 
+        "optionA": "To manage network traffic between virtual machines", 
+        "optionB": "To allocate resources to virtual machines", 
+        "optionC": "To create virtual machines", 
+        "optionD": "To store data in the cloud", 
+        "answer": "To manage network traffic between virtual machines" 
+    },
+    { 
+        "question": "Which of the following is a benefit of virtual storage in cloud computing?", 
+        "optionA": "Centralized management of storage resources", 
+        "optionB": "Higher storage costs", 
+        "optionC": "Decreased security", 
+        "optionD": "Manual resource allocation", 
+        "answer": "Centralized management of storage resources" 
+    },
+    { 
+        "question": "Which of the following is a challenge of virtualization in cloud computing?", 
+        "optionA": "Managing virtual machine resources", 
+        "optionB": "Storing large files", 
+        "optionC": "Increasing hardware costs", 
+        "optionD": "Limited scalability", 
+        "answer": "Managing virtual machine resources" 
+    },
+    { 
+        "question": "What is the concept of 'cloud bursting' in virtualization?", 
+        "optionA": "Temporarily offloading workloads to a public cloud when private cloud resources are exhausted", 
+        "optionB": "Running virtual machines locally", 
+        "optionC": "Scaling resources within a single cloud", 
+        "optionD": "Creating private clouds", 
+        "answer": "Temporarily offloading workloads to a public cloud when private cloud resources are exhausted" 
+    },
+    { 
+        "question": "What is the main advantage of using virtualization for disaster recovery?", 
+        "optionA": "Faster recovery time", 
+        "optionB": "Higher hardware costs", 
+        "optionC": "Increased downtime", 
+        "optionD": "Manual resource allocation", 
+        "answer": "Faster recovery time" 
+    }
+]

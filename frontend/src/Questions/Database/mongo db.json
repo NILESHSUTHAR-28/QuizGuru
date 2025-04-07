@@ -1,0 +1,466 @@
+[
+    {
+        "question": "Which command is used to create a new database in MongoDB?",
+        "optionA": "CREATE DATABASE",
+        "optionB": "USE DATABASE",
+        "optionC": "CREATE DB",
+        "optionD": "db.createDatabase()",
+        "answer": "USE DATABASE"
+    },
+    {
+        "question": "Which MongoDB command is used to create a new collection?",
+        "optionA": "CREATE COLLECTION",
+        "optionB": "db.createCollection()",
+        "optionC": "NEW COLLECTION",
+        "optionD": "db.create()",
+        "answer": "db.createCollection()"
+    },
+    {
+        "question": "Which data format is used to store documents in MongoDB?",
+        "optionA": "JSON",
+        "optionB": "XML",
+        "optionC": "BSON",
+        "optionD": "CSV",
+        "answer": "BSON"
+    },
+    {
+        "question": "Which command is used to insert a document into a MongoDB collection?",
+        "optionA": "db.collection.insert()",
+        "optionB": "db.collection.insertOne()",
+        "optionC": "db.insert()",
+        "optionD": "db.insertOne()",
+        "answer": "db.collection.insertOne()"
+    },
+    {
+        "question": "Which method is used to find a single document in MongoDB?",
+        "optionA": "find()",
+        "optionB": "findOne()",
+        "optionC": "get()",
+        "optionD": "fetch()",
+        "answer": "findOne()"
+    },
+    {
+        "question": "Which MongoDB operator is used to match a specific field value?",
+        "optionA": "$eq",
+        "optionB": "$match",
+        "optionC": "$set",
+        "optionD": "$in",
+        "answer": "$eq"
+    },
+    {
+        "question": "Which MongoDB command is used to delete a document?",
+        "optionA": "db.collection.remove()",
+        "optionB": "db.collection.delete()",
+        "optionC": "db.collection.drop()",
+        "optionD": "db.collection.deleteOne()",
+        "answer": "db.collection.deleteOne()"
+    },
+    {
+        "question": "Which method is used to update a document in MongoDB?",
+        "optionA": "update()",
+        "optionB": "updateOne()",
+        "optionC": "replace()",
+        "optionD": "set()",
+        "answer": "updateOne()"
+    },
+    {
+        "question": "Which MongoDB operator is used to find documents where a field value is greater than a specified value?",
+        "optionA": "$lt",
+        "optionB": "$gt",
+        "optionC": "$gte",
+        "optionD": "$lte",
+        "answer": "$gt"
+    },
+    {
+        "question": "Which method is used to count the number of documents in a collection?",
+        "optionA": "count()",
+        "optionB": "countDocuments()",
+        "optionC": "size()",
+        "optionD": "getCount()",
+        "answer": "countDocuments()"
+    },
+    {
+        "question": "Which MongoDB operator is used to find documents where a field value is less than or equal to a specified value?",
+        "optionA": "$gt",
+        "optionB": "$gte",
+        "optionC": "$lte",
+        "optionD": "$lt",
+        "answer": "$lte"
+    },
+    {
+        "question": "Which method is used to sort the results of a query in MongoDB?",
+        "optionA": "sort()",
+        "optionB": "orderBy()",
+        "optionC": "arrange()",
+        "optionD": "sequence()",
+        "answer": "sort()"
+    },
+    {
+        "question": "Which MongoDB command is used to list all databases?",
+        "optionA": "show databases",
+        "optionB": "listDatabases()",
+        "optionC": "db.show()",
+        "optionD": "db.list()",
+        "answer": "show databases"
+    },
+    {
+        "question": "Which operator is used in MongoDB to perform logical AND between conditions?",
+        "optionA": "$and",
+        "optionB": "$or",
+        "optionC": "$not",
+        "optionD": "$nor",
+        "answer": "$and"
+    },
+    {
+        "question": "Which MongoDB command is used to list all collections in a database?",
+        "optionA": "show collections",
+        "optionB": "db.getCollectionNames()",
+        "optionC": "listCollections()",
+        "optionD": "db.list()",
+        "answer": "show collections"
+    },
+    {
+        "question": "Which MongoDB command is used to drop a collection?",
+        "optionA": "db.collection.remove()",
+        "optionB": "db.collection.drop()",
+        "optionC": "db.collection.delete()",
+        "optionD": "db.collection.dropOne()",
+        "answer": "db.collection.drop()"
+    },
+    {
+        "question": "Which MongoDB method is used to check if a document exists in a collection?",
+        "optionA": "exists()",
+        "optionB": "findOne()",
+        "optionC": "count()",
+        "optionD": "find()",
+        "answer": "findOne()"
+    },
+    {
+        "question": "Which MongoDB operator is used to match documents where a field value is in a specified list?",
+        "optionA": "$in",
+        "optionB": "$notIn",
+        "optionC": "$range",
+        "optionD": "$exists",
+        "answer": "$in"
+    },
+    {
+        "question": "Which MongoDB operator is used to match documents where a field value does not exist?",
+        "optionA": "$exists",
+        "optionB": "$not",
+        "optionC": "$missing",
+        "optionD": "$null",
+        "answer": "$exists"
+    },
+    {
+        "question": "Which MongoDB command is used to create an index on a collection?",
+        "optionA": "createIndex()",
+        "optionB": "db.collection.createIndex()",
+        "optionC": "createIndexOn()",
+        "optionD": "db.index()",
+        "answer": "db.collection.createIndex()"
+    },
+    {
+        "question": "Which MongoDB command is used to drop an index from a collection?",
+        "optionA": "db.collection.removeIndex()",
+        "optionB": "db.collection.dropIndex()",
+        "optionC": "dropIndex()",
+        "optionD": "db.collection.deleteIndex()",
+        "answer": "db.collection.dropIndex()"
+    },
+    {
+        "question": "Which MongoDB command is used to update multiple documents at once?",
+        "optionA": "updateMany()",
+        "optionB": "updateAll()",
+        "optionC": "updateMultiple()",
+        "optionD": "update()",
+        "answer": "updateMany()"
+    },
+    {
+        "question": "Which method is used to aggregate data in MongoDB?",
+        "optionA": "aggregate()",
+        "optionB": "group()",
+        "optionC": "combine()",
+        "optionD": "collect()",
+        "answer": "aggregate()"
+    },
+    {
+        "question": "Which MongoDB operator is used to match documents where a field value is greater than or equal to a specified value?",
+        "optionA": "$gt",
+        "optionB": "$gte",
+        "optionC": "$lt",
+        "optionD": "$lte",
+        "answer": "$gte"
+    },
+    {
+        "question": "Which method is used to limit the number of results returned by a query in MongoDB?",
+        "optionA": "limit()",
+        "optionB": "top()",
+        "optionC": "restrict()",
+        "optionD": "max()",
+        "answer": "limit()"
+    },
+    {
+        "question": "Which MongoDB method is used to skip a specified number of results in a query?",
+        "optionA": "skip()",
+        "optionB": "offset()",
+        "optionC": "discard()",
+        "optionD": "omit()",
+        "answer": "skip()"
+    },
+    {
+        "question": "Which MongoDB operator is used to check if a field exists in a document?",
+        "optionA": "$exists",
+        "optionB": "$hasField",
+        "optionC": "$fieldExists",
+        "optionD": "$contains",
+        "answer": "$exists"
+    },
+    {
+        "question": "Which MongoDB method is used to remove all documents from a collection?",
+        "optionA": "deleteMany()",
+        "optionB": "remove()",
+        "optionC": "clear()",
+        "optionD": "drop()",
+        "answer": "deleteMany()"
+    },
+    {
+        "question": "Which MongoDB operator is used to perform a logical OR between conditions?",
+        "optionA": "$or",
+        "optionB": "$and",
+        "optionC": "$nor",
+        "optionD": "$not",
+        "answer": "$or"
+    },
+    {
+        "question": "Which MongoDB operator is used to perform a logical NOT operation on a condition?",
+        "optionA": "$not",
+        "optionB": "$nor",
+        "optionC": "$notIn",
+        "optionD": "$isNot",
+        "answer": "$not"
+    },
+    {
+        "question": "Which MongoDB operator is used to match documents where a field value is less than a specified value?",
+        "optionA": "$lt",
+        "optionB": "$gt",
+        "optionC": "$lte",
+        "optionD": "$gte",
+        "answer": "$lt"
+    },
+    {
+        "question": "Which MongoDB operator is used to match documents where a field value is equal to a specified value?",
+        "optionA": "$eq",
+        "optionB": "$equal",
+        "optionC": "$match",
+        "optionD": "$same",
+        "answer": "$eq"
+    },
+    {
+        "question": "Which MongoDB operator is used to find documents where a field contains a specific value?",
+        "optionA": "$contains",
+        "optionB": "$regex",
+        "optionC": "$match",
+        "optionD": "$in",
+        "answer": "$regex"
+    },
+    {
+        "question": "Which MongoDB operator is used to find documents where a field value is in a specific range?",
+        "optionA": "$range",
+        "optionB": "$between",
+        "optionC": "$in",
+        "optionD": "$gt",
+        "answer": "$in"
+    },
+    {
+        "question": "Which MongoDB operator is used to check if a field is greater than or equal to a specific value?",
+        "optionA": "$gte",
+        "optionB": "$gt",
+        "optionC": "$lte",
+        "optionD": "$lt",
+        "answer": "$gte"
+    },
+    {
+        "question": "Which MongoDB method is used to add a new field to a document?",
+        "optionA": "addField()",
+        "optionB": "set()",
+        "optionC": "update()",
+        "optionD": "insert()",
+        "answer": "set()"
+    },
+    {
+        "question": "Which MongoDB command is used to rename a collection?",
+        "optionA": "db.collection.rename()",
+        "optionB": "db.renameCollection()",
+        "optionC": "rename()",
+        "optionD": "db.collection.renameCollection()",
+        "answer": "db.collection.renameCollection()"
+    },
+    {
+        "question": "Which MongoDB method is used to get the first document in a query result?",
+        "optionA": "first()",
+        "optionB": "findOne()",
+        "optionC": "getFirst()",
+        "optionD": "find()",
+        "answer": "findOne()"
+    },
+    {
+        "question": "Which MongoDB operator is used to match documents where a field value is less than a specific value?",
+        "optionA": "$lt",
+        "optionB": "$lte",
+        "optionC": "$gt",
+        "optionD": "$gte",
+        "answer": "$lt"
+    },
+    {
+        "question": "Which MongoDB operator is used to match documents where a field value is not equal to a specified value?",
+        "optionA": "$notEqual",
+        "optionB": "$neq",
+        "optionC": "$ne",
+        "optionD": "$neqEqual",
+        "answer": "$ne"
+    },
+    {
+        "question": "Which MongoDB method is used to update multiple documents in a collection?",
+        "optionA": "updateMany()",
+        "optionB": "updateAll()",
+        "optionC": "updateMultiple()",
+        "optionD": "update()",
+        "answer": "updateMany()"
+    },
+    {
+        "question": "Which MongoDB method is used to check if an index exists in a collection?",
+        "optionA": "indexExists()",
+        "optionB": "db.collection.getIndexes()",
+        "optionC": "indexInfo()",
+        "optionD": "hasIndex()",
+        "answer": "db.collection.getIndexes()"
+    },
+    {
+        "question": "Which MongoDB operator is used to perform a logical NOR operation between conditions?",
+        "optionA": "$nor",
+        "optionB": "$or",
+        "optionC": "$and",
+        "optionD": "$not",
+        "answer": "$nor"
+    },
+    {
+        "question": "Which MongoDB method is used to remove a specific index from a collection?",
+        "optionA": "dropIndex()",
+        "optionB": "removeIndex()",
+        "optionC": "deleteIndex()",
+        "optionD": "db.collection.dropIndex()",
+        "answer": "db.collection.dropIndex()"
+    },
+    {
+        "question": "Which MongoDB method is used to retrieve all documents in a collection?",
+        "optionA": "find()",
+        "optionB": "getAll()",
+        "optionC": "select()",
+        "optionD": "findAll()",
+        "answer": "find()"
+    },
+    {
+        "question": "Which MongoDB operator is used to match documents where a field contains a value that matches a regular expression?",
+        "optionA": "$regex",
+        "optionB": "$contains",
+        "optionC": "$text",
+        "optionD": "$match",
+        "answer": "$regex"
+    },
+    {
+        "question": "Which MongoDB operator is used to check if a field exists in a document?",
+        "optionA": "$fieldExists",
+        "optionB": "$contains",
+        "optionC": "$exists",
+        "optionD": "$missing",
+        "answer": "$exists"
+    },
+    {
+        "question": "Which MongoDB method is used to retrieve distinct values from a collection?",
+        "optionA": "distinct()",
+        "optionB": "unique()",
+        "optionC": "findDistinct()",
+        "optionD": "getDistinct()",
+        "answer": "distinct()"
+    },
+    {
+        "question": "Which MongoDB method is used to count the number of documents in a collection?",
+        "optionA": "count()",
+        "optionB": "countDocuments()",
+        "optionC": "size()",
+        "optionD": "getCount()",
+        "answer": "countDocuments()"
+    },
+    {
+        "question": "Which MongoDB operator is used to check if a field value is an array?",
+        "optionA": "$isArray",
+        "optionB": "$array",
+        "optionC": "$type",
+        "optionD": "$arrayContains",
+        "answer": "$type"
+    },
+    {
+        "question": "Which MongoDB method is used to add a document to a collection?",
+        "optionA": "insert()",
+        "optionB": "insertOne()",
+        "optionC": "add()",
+        "optionD": "save()",
+        "answer": "insertOne()"
+    },
+    {
+        "question": "Which MongoDB method is used to find documents matching a condition and sort the results?",
+        "optionA": "findAndSort()",
+        "optionB": "find()",
+        "optionC": "sort()",
+        "optionD": "aggregate()",
+        "answer": "find()"
+    },
+    {
+        "question": "Which MongoDB method is used to remove a document from a collection?",
+        "optionA": "delete()",
+        "optionB": "remove()",
+        "optionC": "deleteOne()",
+        "optionD": "drop()",
+        "answer": "deleteOne()"
+    },
+    {
+        "question": "Which MongoDB operator is used to match documents where a field value is not within a specified range?",
+        "optionA": "$notIn",
+        "optionB": "$notEqual",
+        "optionC": "$notRange",
+        "optionD": "$notBetween",
+        "answer": "$notIn"
+    },
+    {
+        "question": "Which MongoDB operator is used to check if a field is null?",
+        "optionA": "$null",
+        "optionB": "$empty",
+        "optionC": "$isNull",
+        "optionD": "$exists",
+        "answer": "$null"
+    },
+    {
+        "question": "Which MongoDB method is used to create a new index on a collection?",
+        "optionA": "createIndex()",
+        "optionB": "db.createIndex()",
+        "optionC": "create()",
+        "optionD": "db.collection.createIndex()",
+        "answer": "db.collection.createIndex()"
+    },
+    {
+        "question": "Which MongoDB method is used to drop all indexes from a collection?",
+        "optionA": "dropIndexes()",
+        "optionB": "removeIndexes()",
+        "optionC": "db.collection.dropIndexes()",
+        "optionD": "db.collection.dropAllIndexes()",
+        "answer": "db.collection.dropIndexes()"
+    },
+    {
+        "question": "Which MongoDB method is used to limit the number of results in a query?",
+        "optionA": "limit()",
+        "optionB": "top()",
+        "optionC": "restrict()",
+        "optionD": "max()",
+        "answer": "limit()"
+    }
+]

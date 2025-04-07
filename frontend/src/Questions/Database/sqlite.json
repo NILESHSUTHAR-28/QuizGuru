@@ -1,0 +1,418 @@
+[
+    {
+        "question": "Which command is used to create a new table in SQLite?",
+        "optionA": "CREATE TABLE table_name;",
+        "optionB": "NEW TABLE table_name;",
+        "optionC": "ADD TABLE table_name;",
+        "optionD": "INIT TABLE table_name;",
+        "answer": "CREATE TABLE table_name;"
+    },
+    {
+        "question": "Which data type is used to store text in SQLite?",
+        "optionA": "VARCHAR",
+        "optionB": "TEXT",
+        "optionC": "CHAR",
+        "optionD": "STRING",
+        "answer": "TEXT"
+    },
+    {
+        "question": "Which SQLite command is used to retrieve data from a table?",
+        "optionA": "GET",
+        "optionB": "SELECT",
+        "optionC": "FETCH",
+        "optionD": "SHOW",
+        "answer": "SELECT"
+    },
+    {
+        "question": "Which function is used to count the number of rows in a table in SQLite?",
+        "optionA": "SUM()",
+        "optionB": "COUNT()",
+        "optionC": "ROW_COUNT()",
+        "optionD": "NUMBER()",
+        "answer": "COUNT()"
+    },
+    {
+        "question": "Which SQL statement is used to modify the structure of a table in SQLite?",
+        "optionA": "ALTER TABLE",
+        "optionB": "CHANGE TABLE",
+        "optionC": "MODIFY TABLE",
+        "optionD": "UPDATE TABLE",
+        "answer": "ALTER TABLE"
+    },
+    {
+        "question": "What is the default file extension for SQLite database files?",
+        "optionA": ".db",
+        "optionB": ".sqlite",
+        "optionC": ".sql",
+        "optionD": ".db3",
+        "answer": ".sqlite"
+    },
+    {
+        "question": "Which SQLite function is used to calculate the sum of values in a column?",
+        "optionA": "SUM()",
+        "optionB": "AVG()",
+        "optionC": "TOTAL()",
+        "optionD": "COUNT()",
+        "answer": "SUM()"
+    },
+    {
+        "question": "Which SQLite command is used to delete a table?",
+        "optionA": "REMOVE TABLE table_name;",
+        "optionB": "DROP TABLE table_name;",
+        "optionC": "DELETE TABLE table_name;",
+        "optionD": "CLEAR TABLE table_name;",
+        "answer": "DROP TABLE table_name;"
+    },
+    {
+        "question": "Which function is used to find the maximum value in a column in SQLite?",
+        "optionA": "MAX()",
+        "optionB": "MIN()",
+        "optionC": "BIGGEST()",
+        "optionD": "GREATEST()",
+        "answer": "MAX()"
+    },
+    {
+        "question": "Which operator is used to search for a specified pattern in a column in SQLite?",
+        "optionA": "LIKE",
+        "optionB": "MATCH",
+        "optionC": "PATTERN",
+        "optionD": "SEARCH",
+        "answer": "LIKE"
+    },
+    {
+        "question": "Which function is used to concatenate strings in SQLite?",
+        "optionA": "CONCAT()",
+        "optionB": "APPEND()",
+        "optionC": "MERGE()",
+        "optionD": "||",
+        "answer": "||"
+    },
+    {
+        "question": "Which keyword is used to remove duplicate rows in a SELECT query in SQLite?",
+        "optionA": "DISTINCT",
+        "optionB": "UNIQUE",
+        "optionC": "FILTER",
+        "optionD": "EXCLUDE",
+        "answer": "DISTINCT"
+    },
+    {
+        "question": "Which SQLite data type is used to store dates and times?",
+        "optionA": "DATE",
+        "optionB": "TIME",
+        "optionC": "DATETIME",
+        "optionD": "TIMESTAMP",
+        "answer": "DATETIME"
+    },
+    {
+        "question": "Which function is used to find the length of a string in SQLite?",
+        "optionA": "LENGTH()",
+        "optionB": "SIZE()",
+        "optionC": "STRLEN()",
+        "optionD": "LEN()",
+        "answer": "LENGTH()"
+    },
+    {
+        "question": "Which command is used to back up an SQLite database?",
+        "optionA": "BACKUP DATABASE",
+        "optionB": "sqlite3 .backup",
+        "optionC": "sqlite3 dump",
+        "optionD": "sqlite3 backup",
+        "answer": "sqlite3 .backup"
+    },
+    {
+        "question": "Which SQLite command is used to list all tables in a database?",
+        "optionA": "SHOW TABLES",
+        "optionB": "LIST TABLES",
+        "optionC": "SELECT TABLES",
+        "optionD": ".tables",
+        "answer": ".tables"
+    },
+    {
+        "question": "Which operator is used to check if a value exists in a list of values in SQLite?",
+        "optionA": "EXISTS",
+        "optionB": "IN",
+        "optionC": "ANY",
+        "optionD": "ALL",
+        "answer": "IN"
+    },
+    {
+        "question": "Which keyword is used to combine the results of two queries and remove duplicates in SQLite?",
+        "optionA": "JOIN",
+        "optionB": "UNION",
+        "optionC": "INTERSECT",
+        "optionD": "MERGE",
+        "answer": "UNION"
+    },
+    {
+        "question": "Which SQLite function is used to convert a string to lowercase?",
+        "optionA": "UPPER()",
+        "optionB": "LOWER()",
+        "optionC": "TOLOWER()",
+        "optionD": "STRTOLOWER()",
+        "answer": "LOWER()"
+    },
+    {
+        "question": "Which function is used to round a number to a specified number of decimal places in SQLite?",
+        "optionA": "ROUND()",
+        "optionB": "TRUNC()",
+        "optionC": "CEIL()",
+        "optionD": "FLOOR()",
+        "answer": "ROUND()"
+    },
+    {
+        "question": "Which SQLite command is used to insert data into a table?",
+        "optionA": "ADD INTO table_name VALUES;",
+        "optionB": "INSERT INTO table_name VALUES;",
+        "optionC": "INSERT DATA INTO table_name;",
+        "optionD": "INSERT RECORD INTO table_name;",
+        "answer": "INSERT INTO table_name VALUES;"
+    },
+    {
+        "question": "Which command is used to modify an existing column in SQLite?",
+        "optionA": "ALTER COLUMN",
+        "optionB": "MODIFY COLUMN",
+        "optionC": "CHANGE COLUMN",
+        "optionD": "ALTER TABLE",
+        "answer": "ALTER TABLE"
+    },
+    {
+        "question": "Which SQLite clause is used to filter aggregated data?",
+        "optionA": "WHERE",
+        "optionB": "HAVING",
+        "optionC": "FILTER",
+        "optionD": "GROUP BY",
+        "answer": "HAVING"
+    },
+    {
+        "question": "Which SQLite command is used to remove all rows from a table?",
+        "optionA": "DELETE",
+        "optionB": "TRUNCATE",
+        "optionC": "REMOVE",
+        "optionD": "CLEAR",
+        "answer": "DELETE"
+    },
+    {
+        "question": "Which keyword is used to create a unique constraint on a column in SQLite?",
+        "optionA": "UNIQUE",
+        "optionB": "DISTINCT",
+        "optionC": "PRIMARY KEY",
+        "optionD": "CONSTRAINT",
+        "answer": "UNIQUE"
+    },
+    {
+        "question": "Which SQLite function is used to extract a part of a string?",
+        "optionA": "SUBSTRING()",
+        "optionB": "EXTRACT()",
+        "optionC": "PART()",
+        "optionD": "SPLIT()",
+        "answer": "SUBSTRING()"
+    },
+    {
+        "question": "Which SQLite data type is used to store Boolean values?",
+        "optionA": "BOOL",
+        "optionB": "BOOLEAN",
+        "optionC": "BIT",
+        "optionD": "TINYINT",
+        "answer": "BOOLEAN"
+    },
+    {
+        "question": "Which SQLite command is used to grant privileges to a user?",
+        "optionA": "GRANT",
+        "optionB": "ALLOW",
+        "optionC": "PERMIT",
+        "optionD": "GIVE",
+        "answer": "GRANT"
+    },
+    {
+        "question": "Which SQLite function is used to get the current date and time?",
+        "optionA": "NOW()",
+        "optionB": "CURRENT_TIMESTAMP()",
+        "optionC": "GETDATE()",
+        "optionD": "SYSDATE()",
+        "answer": "CURRENT_TIMESTAMP()"
+    },
+    {
+        "question": "Which SQLite function is used to calculate the average value of a column?",
+        "optionA": "SUM()",
+        "optionB": "AVG()",
+        "optionC": "MEAN()",
+        "optionD": "MEDIAN()",
+        "answer": "AVG()"
+    },
+    {
+        "question": "Which SQLite command is used to modify the data in a table?",
+        "optionA": "UPDATE",
+        "optionB": "MODIFY",
+        "optionC": "CHANGE",
+        "optionD": "ALTER",
+        "answer": "UPDATE"
+    },
+    {
+        "question": "Which operator is used to combine multiple conditions in a WHERE clause in SQLite?",
+        "optionA": "AND",
+        "optionB": "OR",
+        "optionC": "NOT",
+        "optionD": "XOR",
+        "answer": "AND"
+    },
+    {
+        "question": "Which function is used to return the current date in SQLite?",
+        "optionA": "CURRENT_DATE()",
+        "optionB": "DATE()",
+        "optionC": "NOW()",
+        "optionD": "SYSDATE()",
+        "answer": "CURRENT_DATE()"
+    },
+    {
+        "question": "Which SQLite command is used to create an index on a table?",
+        "optionA": "CREATE INDEX",
+        "optionB": "MAKE INDEX",
+        "optionC": "INDEX TABLE",
+        "optionD": "BUILD INDEX",
+        "answer": "CREATE INDEX"
+    },
+    {
+        "question": "Which SQLite command is used to remove an index?",
+        "optionA": "DELETE INDEX",
+        "optionB": "DROP INDEX",
+        "optionC": "REMOVE INDEX",
+        "optionD": "CLEAR INDEX",
+        "answer": "DROP INDEX"
+    },
+    {
+        "question": "Which function is used to round a number up to the nearest integer in SQLite?",
+        "optionA": "CEIL()",
+        "optionB": "ROUND()",
+        "optionC": "FLOOR()",
+        "optionD": "TRUNC()",
+        "answer": "CEIL()"
+    },
+    {
+        "question": "Which keyword is used to specify a primary key in SQLite?",
+        "optionA": "PRIMARY KEY",
+        "optionB": "KEY",
+        "optionC": "UNIQUE",
+        "optionD": "CONSTRAINT",
+        "answer": "PRIMARY KEY"
+    },
+    {
+        "question": "Which SQLite function is used to find the minimum value in a column?",
+        "optionA": "MIN()",
+        "optionB": "MAX()",
+        "optionC": "SMALLEST()",
+        "optionD": "LEAST()",
+        "answer": "MIN()"
+    },
+    {
+        "question": "Which SQLite command is used to rename a table?",
+        "optionA": "RENAME TABLE",
+        "optionB": "CHANGE TABLE",
+        "optionC": "ALTER TABLE",
+        "optionD": "UPDATE TABLE",
+        "answer": "ALTER TABLE"
+    },
+    {
+        "question": "Which function is used to convert a string to uppercase in SQLite?",
+        "optionA": "UPPER()",
+        "optionB": "LOWER()",
+        "optionC": "TOUPPER()",
+        "optionD": "STRTOUPPER()",
+        "answer": "UPPER()"
+    },
+    {
+        "question": "Which keyword is used to remove all rows from a table but keep the structure in SQLite?",
+        "optionA": "TRUNCATE",
+        "optionB": "DELETE",
+        "optionC": "DROP",
+        "optionD": "CLEAR",
+        "answer": "TRUNCATE"
+    },
+    {
+        "question": "Which SQLite function is used to calculate the total number of rows in a table?",
+        "optionA": "COUNT()",
+        "optionB": "SUM()",
+        "optionC": "TOTAL()",
+        "optionD": "NUM()",
+        "answer": "COUNT()"
+    },
+    {
+        "question": "Which SQLite command is used to retrieve the schema of a table?",
+        "optionA": ".schema table_name",
+        "optionB": "SHOW TABLES",
+        "optionC": "DESCRIBE table_name",
+        "optionD": "LIST TABLES",
+        "answer": ".schema table_name"
+    },
+    {
+        "question": "Which SQLite command is used to delete a record from a table?",
+        "optionA": "REMOVE",
+        "optionB": "DELETE",
+        "optionC": "CLEAR",
+        "optionD": "DROP",
+        "answer": "DELETE"
+    },
+    {
+        "question": "Which SQLite function is used to get the length of a string?",
+        "optionA": "LEN()",
+        "optionB": "LENGTH()",
+        "optionC": "SIZE()",
+        "optionD": "STRLEN()",
+        "answer": "LENGTH()"
+    },
+    {
+        "question": "Which keyword is used to specify a foreign key in SQLite?",
+        "optionA": "FOREIGN KEY",
+        "optionB": "REFERENCES",
+        "optionC": "CONSTRAINT",
+        "optionD": "LINK",
+        "answer": "FOREIGN KEY"
+    },
+    {
+        "question": "Which SQLite function is used to find the remainder of a division?",
+        "optionA": "MOD()",
+        "optionB": "REMAINDER()",
+        "optionC": "DIVIDE()",
+        "optionD": "REST()",
+        "answer": "MOD()"
+    },
+    {
+        "question": "Which SQLite command is used to exit from the SQLite shell?",
+        "optionA": "EXIT",
+        "optionB": "QUIT",
+        "optionC": "CLOSE",
+        "optionD": "STOP",
+        "answer": "QUIT"
+    },
+    {
+        "question": "Which SQLite command is used to display the current database in use?",
+        "optionA": ".current",
+        "optionB": ".db",
+        "optionC": "SELECT DATABASE()",
+        "optionD": ".databases",
+        "answer": ".databases"
+    },
+    {
+        "question": "Which SQLite function is used to find the absolute value of a number?",
+        "optionA": "ABS()",
+        "optionB": "ABSOLUTE()",
+        "optionC": "MAGNITUDE()",
+        "optionD": "POSITIVE()",
+        "answer": "ABS()"
+    },
+    {
+        "question": "Which keyword is used to create a table with a primary key constraint in SQLite?",
+        "optionA": "PRIMARY KEY",
+        "optionB": "AUTO_INCREMENT",
+        "optionC": "KEY",
+        "optionD": "UNIQUE",
+        "answer": "PRIMARY KEY"
+    },
+    {
+        "question": "Which SQLite function is used to calculate the square root of a number?",
+        "optionA": "SQRT()",
+        "optionB": "ROOT()",
+        "optionC": "SQUARE()",
+        "optionD": "POWER()",
+        "answer": "SQRT()"
+    }
+]

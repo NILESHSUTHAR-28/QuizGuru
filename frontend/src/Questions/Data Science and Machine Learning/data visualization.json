@@ -1,0 +1,466 @@
+[
+    {
+        "question": "What is the primary purpose of data visualization?",
+        "optionA": "To make data more understandable",
+        "optionB": "To store data efficiently",
+        "optionC": "To write data into a database",
+        "optionD": "To collect data from different sources",
+        "answer": "To make data more understandable"
+    },
+    {
+        "question": "Which of the following is a type of chart used to visualize categorical data?",
+        "optionA": "Pie chart",
+        "optionB": "Line chart",
+        "optionC": "Histogram",
+        "optionD": "Scatter plot",
+        "answer": "Pie chart"
+    },
+    {
+        "question": "Which visualization is best for showing the distribution of a single numerical variable?",
+        "optionA": "Bar chart",
+        "optionB": "Histogram",
+        "optionC": "Box plot",
+        "optionD": "Heat map",
+        "answer": "Histogram"
+    },
+    {
+        "question": "What does a box plot visualize?",
+        "optionA": "The mean and standard deviation of data",
+        "optionB": "The distribution of data",
+        "optionC": "The correlation between two variables",
+        "optionD": "The trend over time",
+        "answer": "The distribution of data"
+    },
+    {
+        "question": "Which of the following charts is best for showing trends over time?",
+        "optionA": "Pie chart",
+        "optionB": "Bar chart",
+        "optionC": "Line chart",
+        "optionD": "Scatter plot",
+        "answer": "Line chart"
+    },
+    {
+        "question": "What is the main purpose of a heat map?",
+        "optionA": "To display the relationship between two variables",
+        "optionB": "To visualize the frequency of data",
+        "optionC": "To show the distribution of data across different categories",
+        "optionD": "To represent data values using color gradients",
+        "answer": "To represent data values using color gradients"
+    },
+    {
+        "question": "Which type of visualization is most suitable for comparing parts of a whole?",
+        "optionA": "Pie chart",
+        "optionB": "Line chart",
+        "optionC": "Scatter plot",
+        "optionD": "Histogram",
+        "answer": "Pie chart"
+    },
+    {
+        "question": "What does a scatter plot visualize?",
+        "optionA": "The distribution of a single variable",
+        "optionB": "The correlation between two variables",
+        "optionC": "The trend of data over time",
+        "optionD": "The frequency of categories",
+        "answer": "The correlation between two variables"
+    },
+    {
+        "question": "Which of the following is used to represent the relationship between multiple variables?",
+        "optionA": "Bubble chart",
+        "optionB": "Histogram",
+        "optionC": "Pie chart",
+        "optionD": "Bar chart",
+        "answer": "Bubble chart"
+    },
+    {
+        "question": "Which visualization is best for showing the distribution of data across multiple categories?",
+        "optionA": "Stacked bar chart",
+        "optionB": "Line chart",
+        "optionC": "Scatter plot",
+        "optionD": "Box plot",
+        "answer": "Stacked bar chart"
+    },
+    {
+        "question": "What is the purpose of a radar chart?",
+        "optionA": "To compare data across multiple categories",
+        "optionB": "To show trends over time",
+        "optionC": "To display hierarchical relationships",
+        "optionD": "To show data distribution",
+        "answer": "To compare data across multiple categories"
+    },
+    {
+        "question": "What is the primary function of a line chart?",
+        "optionA": "To display categorical data",
+        "optionB": "To show relationships between two variables",
+        "optionC": "To show trends over time",
+        "optionD": "To visualize proportions of a whole",
+        "answer": "To show trends over time"
+    },
+    {
+        "question": "Which of the following visualizations is best for displaying hierarchical data?",
+        "optionA": "Pie chart",
+        "optionB": "Tree map",
+        "optionC": "Bar chart",
+        "optionD": "Scatter plot",
+        "answer": "Tree map"
+    },
+    {
+        "question": "Which visualization type is best for showing the relationship between numerical and categorical data?",
+        "optionA": "Box plot",
+        "optionB": "Heat map",
+        "optionC": "Bar chart",
+        "optionD": "Scatter plot",
+        "answer": "Bar chart"
+    },
+    {
+        "question": "What does a violin plot combine?",
+        "optionA": "Box plot and histogram",
+        "optionB": "Line chart and scatter plot",
+        "optionC": "Pie chart and bar chart",
+        "optionD": "Heat map and radar chart",
+        "answer": "Box plot and histogram"
+    },
+    {
+        "question": "Which type of chart is used to visualize the frequency of data within specific ranges?",
+        "optionA": "Histogram",
+        "optionB": "Pie chart",
+        "optionC": "Bar chart",
+        "optionD": "Line chart",
+        "answer": "Histogram"
+    },
+    {
+        "question": "What is the primary purpose of a bar chart?",
+        "optionA": "To compare values across different categories",
+        "optionB": "To display trends over time",
+        "optionC": "To show relationships between two variables",
+        "optionD": "To represent data distribution",
+        "answer": "To compare values across different categories"
+    },
+    {
+        "question": "What is the main advantage of using a stacked bar chart?",
+        "optionA": "It shows trends over time",
+        "optionB": "It compares parts of a whole",
+        "optionC": "It displays data distribution",
+        "optionD": "It shows the correlation between two variables",
+        "answer": "It compares parts of a whole"
+    },
+    {
+        "question": "Which of the following is a disadvantage of using a pie chart?",
+        "optionA": "It does not show the relationship between variables",
+        "optionB": "It is difficult to compare values accurately",
+        "optionC": "It requires complex computations",
+        "optionD": "It cannot represent categorical data",
+        "answer": "It is difficult to compare values accurately"
+    },
+    {
+        "question": "Which type of chart is best for showing the distribution of data over time?",
+        "optionA": "Line chart",
+        "optionB": "Scatter plot",
+        "optionC": "Bar chart",
+        "optionD": "Heat map",
+        "answer": "Line chart"
+    },
+    {
+        "question": "Which of the following visualizations is best for showing the relationship between three numerical variables?",
+        "optionA": "Bubble chart",
+        "optionB": "Scatter plot",
+        "optionC": "Heat map",
+        "optionD": "Radar chart",
+        "answer": "Bubble chart"
+    },
+    {
+        "question": "What does a Gantt chart primarily visualize?",
+        "optionA": "Task completion over time",
+        "optionB": "Data distribution",
+        "optionC": "Categorical comparisons",
+        "optionD": "Trends over time",
+        "answer": "Task completion over time"
+    },
+    {
+        "question": "Which visualization is used to represent geographic data?",
+        "optionA": "Map",
+        "optionB": "Pie chart",
+        "optionC": "Scatter plot",
+        "optionD": "Heat map",
+        "answer": "Map"
+    },
+    {
+        "question": "Which of the following is a disadvantage of using a line chart?",
+        "optionA": "It is difficult to compare multiple categories",
+        "optionB": "It does not show trends over time",
+        "optionC": "It cannot represent categorical data",
+        "optionD": "It does not display relationships between variables",
+        "answer": "It is difficult to compare multiple categories"
+    },
+    {
+        "question": "Which chart is used to display data that is divided into multiple categories?",
+        "optionA": "Stacked bar chart",
+        "optionB": "Line chart",
+        "optionC": "Scatter plot",
+        "optionD": "Box plot",
+        "answer": "Stacked bar chart"
+    },
+    {
+        "question": "What is the primary function of a treemap?",
+        "optionA": "To represent hierarchical data as a set of nested rectangles",
+        "optionB": "To display trends over time",
+        "optionC": "To visualize categorical data",
+        "optionD": "To compare multiple variables",
+        "answer": "To represent hierarchical data as a set of nested rectangles"
+    },
+    {
+        "question": "Which type of chart is best for visualizing the relationship between two continuous variables?",
+        "optionA": "Scatter plot",
+        "optionB": "Bar chart",
+        "optionC": "Pie chart",
+        "optionD": "Line chart",
+        "answer": "Scatter plot"
+    },
+    {
+        "question": "What is the primary function of a waterfall chart?",
+        "optionA": "To show incremental changes in a value",
+        "optionB": "To compare parts of a whole",
+        "optionC": "To show trends over time",
+        "optionD": "To visualize categorical data",
+        "answer": "To show incremental changes in a value"
+    },
+    {
+        "question": "Which of the following visualizations is best for showing the correlation between two variables?",
+        "optionA": "Scatter plot",
+        "optionB": "Bar chart",
+        "optionC": "Pie chart",
+        "optionD": "Heat map",
+        "answer": "Scatter plot"
+    },
+    {
+        "question": "What does a bubble chart use to represent data?",
+        "optionA": "Bubble size",
+        "optionB": "Line thickness",
+        "optionC": "Color gradients",
+        "optionD": "Bar height",
+        "answer": "Bubble size"
+    },
+    {
+        "question": "Which of the following visualizations is used to show the distribution of data across different time intervals?",
+        "optionA": "Heat map",
+        "optionB": "Histogram",
+        "optionC": "Box plot",
+        "optionD": "Line chart",
+        "answer": "Heat map"
+    },
+    {
+        "question": "What does a stacked area chart show?",
+        "optionA": "The cumulative total of multiple categories over time",
+        "optionB": "The distribution of data",
+        "optionC": "The relationship between two variables",
+        "optionD": "The frequency of categories",
+        "answer": "The cumulative total of multiple categories over time"
+    },
+    {
+        "question": "Which of the following is a key advantage of using a heatmap?",
+        "optionA": "It shows the distribution of data over time",
+        "optionB": "It represents data values using color gradients",
+        "optionC": "It compares parts of a whole",
+        "optionD": "It displays hierarchical relationships",
+        "answer": "It represents data values using color gradients"
+    },
+    {
+        "question": "Which type of chart is best for comparing values across different categories?",
+        "optionA": "Bar chart",
+        "optionB": "Pie chart",
+        "optionC": "Line chart",
+        "optionD": "Scatter plot",
+        "answer": "Bar chart"
+    },
+    {
+        "question": "What does a stacked area chart primarily visualize?",
+        "optionA": "The cumulative total of multiple categories over time",
+        "optionB": "The distribution of data across categories",
+        "optionC": "The relationship between two variables",
+        "optionD": "The frequency of categories",
+        "answer": "The cumulative total of multiple categories over time"
+    },
+    {
+        "question": "Which chart is best for visualizing the relationship between two variables?",
+        "optionA": "Scatter plot",
+        "optionB": "Bar chart",
+        "optionC": "Line chart",
+        "optionD": "Pie chart",
+        "answer": "Scatter plot"
+    },
+    {
+        "question": "Which type of chart is most suitable for displaying the frequency of data within specific ranges?",
+        "optionA": "Histogram",
+        "optionB": "Box plot",
+        "optionC": "Line chart",
+        "optionD": "Scatter plot",
+        "answer": "Histogram"
+    },
+    {
+        "question": "Which of the following charts is best for visualizing hierarchical data?",
+        "optionA": "Tree map",
+        "optionB": "Bar chart",
+        "optionC": "Pie chart",
+        "optionD": "Scatter plot",
+        "answer": "Tree map"
+    },
+    {
+        "question": "What does a radar chart primarily compare?",
+        "optionA": "Data across multiple categories",
+        "optionB": "Trends over time",
+        "optionC": "Hierarchical relationships",
+        "optionD": "Data distribution",
+        "answer": "Data across multiple categories"
+    },
+    {
+        "question": "Which chart is best for visualizing time-based data?",
+        "optionA": "Line chart",
+        "optionB": "Bar chart",
+        "optionC": "Histogram",
+        "optionD": "Pie chart",
+        "answer": "Line chart"
+    },
+    {
+        "question": "What does a box plot visualize?",
+        "optionA": "The mean and standard deviation of data",
+        "optionB": "The distribution of data",
+        "optionC": "The correlation between two variables",
+        "optionD": "The trend over time",
+        "answer": "The distribution of data"
+    },
+    {
+        "question": "Which chart is best for visualizing the relationship between two continuous variables?",
+        "optionA": "Scatter plot",
+        "optionB": "Bar chart",
+        "optionC": "Line chart",
+        "optionD": "Pie chart",
+        "answer": "Scatter plot"
+    },
+    {
+        "question": "What is the primary purpose of a bubble chart?",
+        "optionA": "To show the relationship between multiple variables",
+        "optionB": "To show trends over time",
+        "optionC": "To visualize categorical data",
+        "optionD": "To compare parts of a whole",
+        "answer": "To show the relationship between multiple variables"
+    },
+    {
+        "question": "Which type of chart is most effective for showing proportions of a whole?",
+        "optionA": "Pie chart",
+        "optionB": "Bar chart",
+        "optionC": "Line chart",
+        "optionD": "Histogram",
+        "answer": "Pie chart"
+    },
+    {
+        "question": "Which chart type is best for visualizing categorical data?",
+        "optionA": "Bar chart",
+        "optionB": "Line chart",
+        "optionC": "Scatter plot",
+        "optionD": "Heat map",
+        "answer": "Bar chart"
+    },
+    {
+        "question": "What is the purpose of a waterfall chart?",
+        "optionA": "To show incremental changes in a value",
+        "optionB": "To visualize categorical data",
+        "optionC": "To compare parts of a whole",
+        "optionD": "To display trends over time",
+        "answer": "To show incremental changes in a value"
+    },
+    {
+        "question": "Which chart is best for visualizing data across multiple time periods?",
+        "optionA": "Line chart",
+        "optionB": "Scatter plot",
+        "optionC": "Histogram",
+        "optionD": "Box plot",
+        "answer": "Line chart"
+    },
+    {
+        "question": "What does a heatmap represent?",
+        "optionA": "Categorical data",
+        "optionB": "Numerical data values using color gradients",
+        "optionC": "Trends over time",
+        "optionD": "Proportions of a whole",
+        "answer": "Numerical data values using color gradients"
+    },
+    {
+        "question": "Which chart is most suitable for comparing the total values of categories?",
+        "optionA": "Bar chart",
+        "optionB": "Stacked bar chart",
+        "optionC": "Line chart",
+        "optionD": "Pie chart",
+        "answer": "Stacked bar chart"
+    },
+    {
+        "question": "What is the primary purpose of a Gantt chart?",
+        "optionA": "To show task completion over time",
+        "optionB": "To visualize categorical data",
+        "optionC": "To compare multiple variables",
+        "optionD": "To display trends over time",
+        "answer": "To show task completion over time"
+    },
+    {
+        "question": "Which type of chart is most effective for showing trends over time?",
+        "optionA": "Line chart",
+        "optionB": "Bar chart",
+        "optionC": "Pie chart",
+        "optionD": "Stacked bar chart",
+        "answer": "Line chart"
+    },
+    {
+        "question": "What is a key disadvantage of using a pie chart?",
+        "optionA": "It does not show trends over time",
+        "optionB": "It is difficult to compare parts of a whole accurately",
+        "optionC": "It is not suitable for categorical data",
+        "optionD": "It is difficult to interpret large datasets",
+        "answer": "It is difficult to compare parts of a whole accurately"
+    },
+    {
+        "question": "Which of the following is an advantage of using a bubble chart?",
+        "optionA": "It can represent three variables at once",
+        "optionB": "It shows trends over time",
+        "optionC": "It displays hierarchical data",
+        "optionD": "It compares proportions of a whole",
+        "answer": "It can represent three variables at once"
+    },
+    {
+        "question": "What does a violin plot combine?",
+        "optionA": "Box plot and histogram",
+        "optionB": "Bar chart and scatter plot",
+        "optionC": "Heat map and radar chart",
+        "optionD": "Pie chart and line chart",
+        "answer": "Box plot and histogram"
+    },
+    {
+        "question": "Which of the following visualizations is best for comparing multiple variables?",
+        "optionA": "Radar chart",
+        "optionB": "Pie chart",
+        "optionC": "Stacked bar chart",
+        "optionD": "Scatter plot",
+        "answer": "Radar chart"
+    },
+    {
+        "question": "What does a box plot display?",
+        "optionA": "The mean and standard deviation of data",
+        "optionB": "The correlation between two variables",
+        "optionC": "The distribution of data",
+        "optionD": "The trend over time",
+        "answer": "The distribution of data"
+    },
+    {
+        "question": "Which type of chart is best for visualizing continuous data?",
+        "optionA": "Line chart",
+        "optionB": "Bar chart",
+        "optionC": "Pie chart",
+        "optionD": "Stacked bar chart",
+        "answer": "Line chart"
+    },
+    {
+        "question": "Which chart is best for visualizing the relationship between categorical and continuous data?",
+        "optionA": "Box plot",
+        "optionB": "Bar chart",
+        "optionC": "Scatter plot",
+        "optionD": "Pie chart",
+        "answer": "Box plot"
+    }
+]

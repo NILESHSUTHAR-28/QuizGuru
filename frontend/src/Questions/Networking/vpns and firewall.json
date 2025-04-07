@@ -1,0 +1,450 @@
+[
+    {
+        "question": "What does VPN stand for?",
+        "optionA": "Virtual Private Network",
+        "optionB": "Virtual Public Network",
+        "optionC": "Variable Private Network",
+        "optionD": "Virtual Protected Network",
+        "answer": "Virtual Private Network"
+    },
+    {
+        "question": "Which of the following is the main purpose of a VPN?",
+        "optionA": "To increase internet speed",
+        "optionB": "To provide secure communication over a public network",
+        "optionC": "To increase bandwidth",
+        "optionD": "To reduce the cost of internet services",
+        "answer": "To provide secure communication over a public network"
+    },
+    {
+        "question": "Which protocol is commonly used in VPN connections?",
+        "optionA": "HTTP",
+        "optionB": "SSL",
+        "optionC": "IPsec",
+        "optionD": "FTP",
+        "answer": "IPsec"
+    },
+    {
+        "question": "What is a firewall used for?",
+        "optionA": "To monitor network traffic",
+        "optionB": "To block unauthorized access to a network",
+        "optionC": "To encrypt data",
+        "optionD": "To manage network routing",
+        "answer": "To block unauthorized access to a network"
+    },
+    {
+        "question": "Which of the following is a type of firewall?",
+        "optionA": "Packet-filtering firewall",
+        "optionB": "Antivirus firewall",
+        "optionC": "Proxy firewall",
+        "optionD": "Both A and C",
+        "answer": "Both A and C"
+    },
+    {
+        "question": "What does IPsec stand for in VPN technology?",
+        "optionA": "Internet Protocol Security",
+        "optionB": "Internet Privacy Security",
+        "optionC": "Internal Protection Security",
+        "optionD": "Internet Protocol Service",
+        "answer": "Internet Protocol Security"
+    },
+    {
+        "question": "Which type of VPN allows users to connect to a network from anywhere using the internet?",
+        "optionA": "Remote Access VPN",
+        "optionB": "Site-to-Site VPN",
+        "optionC": "Private VPN",
+        "optionD": "Public VPN",
+        "answer": "Remote Access VPN"
+    },
+    {
+        "question": "Which of the following is a characteristic of a stateful firewall?",
+        "optionA": "It inspects the entire packet",
+        "optionB": "It tracks the state of active connections",
+        "optionC": "It only looks at the header of packets",
+        "optionD": "It blocks all incoming traffic",
+        "answer": "It tracks the state of active connections"
+    },
+    {
+        "question": "Which of the following protocols is used to establish a secure connection in SSL VPNs?",
+        "optionA": "TLS",
+        "optionB": "HTTP",
+        "optionC": "SSH",
+        "optionD": "FTP",
+        "answer": "TLS"
+    },
+    {
+        "question": "What is the main advantage of using a VPN?",
+        "optionA": "Increased bandwidth",
+        "optionB": "Enhanced security and privacy",
+        "optionC": "Faster internet speeds",
+        "optionD": "Reduced data usage",
+        "answer": "Enhanced security and privacy"
+    },
+    {
+        "question": "Which of the following is true about a firewall?",
+        "optionA": "It only protects against viruses",
+        "optionB": "It can monitor and filter network traffic",
+        "optionC": "It can only block incoming traffic",
+        "optionD": "It cannot be used in cloud environments",
+        "answer": "It can monitor and filter network traffic"
+    },
+    {
+        "question": "Which of the following is a feature of a proxy firewall?",
+        "optionA": "It operates at the network layer",
+        "optionB": "It hides the internal network structure",
+        "optionC": "It uses stateful inspection",
+        "optionD": "It cannot block outbound traffic",
+        "answer": "It hides the internal network structure"
+    },
+    {
+        "question": "Which of the following is a disadvantage of using a VPN?",
+        "optionA": "Slower internet speeds",
+        "optionB": "Limited security",
+        "optionC": "Increased vulnerability to attacks",
+        "optionD": "No encryption",
+        "answer": "Slower internet speeds"
+    },
+    {
+        "question": "Which type of firewall is designed to prevent unauthorized access to or from a private network?",
+        "optionA": "Network firewall",
+        "optionB": "Application firewall",
+        "optionC": "Cloud firewall",
+        "optionD": "Host-based firewall",
+        "answer": "Network firewall"
+    },
+    {
+        "question": "What does NAT stand for in the context of VPNs?",
+        "optionA": "Network Address Translation",
+        "optionB": "Network Authentication Technique",
+        "optionC": "Network Access Tunnel",
+        "optionD": "Network Access Technology",
+        "answer": "Network Address Translation"
+    },
+    {
+        "question": "Which of the following VPN protocols is considered the most secure?",
+        "optionA": "PPTP",
+        "optionB": "L2TP",
+        "optionC": "IPsec",
+        "optionD": "OpenVPN",
+        "answer": "OpenVPN"
+    },
+    {
+        "question": "Which of the following is a common use case for a VPN?",
+        "optionA": "Streaming media content",
+        "optionB": "Securing communication over public networks",
+        "optionC": "Sharing files over the internet",
+        "optionD": "Connecting devices to a local network",
+        "answer": "Securing communication over public networks"
+    },
+    {
+        "question": "What is a key feature of a VPN tunnel?",
+        "optionA": "It encrypts data to protect it from eavesdropping",
+        "optionB": "It increases the internet speed",
+        "optionC": "It blocks all traffic",
+        "optionD": "It improves routing efficiency",
+        "answer": "It encrypts data to protect it from eavesdropping"
+    },
+    {
+        "question": "Which of the following is a type of firewall that is installed on individual computers?",
+        "optionA": "Network firewall",
+        "optionB": "Host-based firewall",
+        "optionC": "Cloud firewall",
+        "optionD": "Application firewall",
+        "answer": "Host-based firewall"
+    },
+    {
+        "question": "Which of the following is a common protocol used for remote access VPNs?",
+        "optionA": "PPTP",
+        "optionB": "L2TP",
+        "optionC": "OpenVPN",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is an advantage of using a hardware firewall?",
+        "optionA": "It is easier to configure",
+        "optionB": "It provides better security for large networks",
+        "optionC": "It is cheaper than software firewalls",
+        "optionD": "It requires no maintenance",
+        "answer": "It provides better security for large networks"
+    },
+    {
+        "question": "Which of the following is true about a VPN connection?",
+        "optionA": "It can only be used with a wired connection",
+        "optionB": "It allows users to connect securely to a private network over the internet",
+        "optionC": "It is only used for streaming purposes",
+        "optionD": "It requires no authentication",
+        "answer": "It allows users to connect securely to a private network over the internet"
+    },
+    {
+        "question": "What is the main function of a proxy server?",
+        "optionA": "To filter and forward network traffic",
+        "optionB": "To encrypt data",
+        "optionC": "To route packets between networks",
+        "optionD": "To provide a secure VPN connection",
+        "answer": "To filter and forward network traffic"
+    },
+    {
+        "question": "Which of the following is an example of a firewall rule?",
+        "optionA": "Allow HTTP traffic on port 80",
+        "optionB": "Block all incoming traffic",
+        "optionC": "Allow FTP traffic on port 21",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is true about a packet-filtering firewall?",
+        "optionA": "It inspects packets based on predefined rules",
+        "optionB": "It tracks the state of active connections",
+        "optionC": "It provides deep packet inspection",
+        "optionD": "It operates at the application layer",
+        "answer": "It inspects packets based on predefined rules"
+    },
+    {
+        "question": "Which of the following is a potential risk of using a VPN?",
+        "optionA": "Data leakage through DNS requests",
+        "optionB": "Increased data encryption",
+        "optionC": "Faster internet speeds",
+        "optionD": "Reduced security",
+        "answer": "Data leakage through DNS requests"
+    },
+    {
+        "question": "Which VPN protocol uses SSL/TLS for encryption?",
+        "optionA": "PPTP",
+        "optionB": "L2TP",
+        "optionC": "OpenVPN",
+        "optionD": "SSL VPN",
+        "answer": "SSL VPN"
+    },
+    {
+        "question": "Which of the following best describes a Site-to-Site VPN?",
+        "optionA": "It connects multiple devices from different locations to the same network",
+        "optionB": "It allows remote users to access a private network",
+        "optionC": "It connects two or more networks securely over the internet",
+        "optionD": "It provides a private network for a single user",
+        "answer": "It connects two or more networks securely over the internet"
+    },
+    {
+        "question": "Which of the following VPN protocols is known for its simplicity but lacks security?",
+        "optionA": "PPTP",
+        "optionB": "L2TP",
+        "optionC": "OpenVPN",
+        "optionD": "IPsec",
+        "answer": "PPTP"
+    },
+    {
+        "question": "Which of the following is true about a cloud firewall?",
+        "optionA": "It is typically installed on a local device",
+        "optionB": "It is hosted in a cloud environment and can scale dynamically",
+        "optionC": "It cannot be used for monitoring network traffic",
+        "optionD": "It is less secure than traditional firewalls",
+        "answer": "It is hosted in a cloud environment and can scale dynamically"
+    },
+    {
+        "question": "Which of the following is a benefit of using a VPN for remote access?",
+        "optionA": "It allows access to private networks from anywhere",
+        "optionB": "It provides faster internet speeds",
+        "optionC": "It increases the bandwidth of the internet",
+        "optionD": "It eliminates the need for encryption",
+        "answer": "It allows access to private networks from anywhere"
+    },
+    {
+        "question": "What is the purpose of a VPN tunnel?",
+        "optionA": "To increase internet speed",
+        "optionB": "To encrypt data for secure communication",
+        "optionC": "To reduce bandwidth usage",
+        "optionD": "To block unauthorized access",
+        "answer": "To encrypt data for secure communication"
+    },
+    {
+        "question": "Which VPN protocol is commonly used for mobile devices?",
+        "optionA": "PPTP",
+        "optionB": "IPsec",
+        "optionC": "OpenVPN",
+        "optionD": "L2TP",
+        "answer": "L2TP"
+    },
+    {
+        "question": "Which of the following is a disadvantage of a software firewall?",
+        "optionA": "It can only block incoming traffic",
+        "optionB": "It consumes system resources",
+        "optionC": "It requires no configuration",
+        "optionD": "It is less secure than hardware firewalls",
+        "answer": "It consumes system resources"
+    },
+    {
+        "question": "Which of the following is an example of a Layer 7 firewall?",
+        "optionA": "Packet-filtering firewall",
+        "optionB": "Application firewall",
+        "optionC": "Proxy firewall",
+        "optionD": "Network firewall",
+        "answer": "Application firewall"
+    },
+    {
+        "question": "Which type of firewall is best suited for protecting a web server?",
+        "optionA": "Proxy firewall",
+        "optionB": "Stateful firewall",
+        "optionC": "Application firewall",
+        "optionD": "Packet-filtering firewall",
+        "answer": "Application firewall"
+    },
+    {
+        "question": "What does SSL stand for in SSL VPN?",
+        "optionA": "Secure Socket Layer",
+        "optionB": "Security Service Layer",
+        "optionC": "System Security Layer",
+        "optionD": "Secure System Layer",
+        "answer": "Secure Socket Layer"
+    },
+    {
+        "question": "Which of the following VPN protocols uses a combination of IPsec and SSL for encryption?",
+        "optionA": "PPTP",
+        "optionB": "L2TP",
+        "optionC": "SSL VPN",
+        "optionD": "OpenVPN",
+        "answer": "OpenVPN"
+    },
+    {
+        "question": "Which of the following is an advantage of using a hardware firewall over a software firewall?",
+        "optionA": "It is easier to configure",
+        "optionB": "It provides better security for larger networks",
+        "optionC": "It requires no maintenance",
+        "optionD": "It is cheaper",
+        "answer": "It provides better security for larger networks"
+    },
+    {
+        "question": "What is a common use case for a Site-to-Site VPN?",
+        "optionA": "Connecting remote users to a network",
+        "optionB": "Connecting multiple branch offices securely",
+        "optionC": "Accessing websites anonymously",
+        "optionD": "Securing online banking transactions",
+        "answer": "Connecting multiple branch offices securely"
+    },
+    {
+        "question": "Which of the following is true about PPTP?",
+        "optionA": "It is highly secure",
+        "optionB": "It is easy to configure but lacks strong encryption",
+        "optionC": "It uses SSL/TLS for encryption",
+        "optionD": "It is used exclusively for remote access VPNs",
+        "answer": "It is easy to configure but lacks strong encryption"
+    },
+    {
+        "question": "Which of the following is an example of a stateful inspection firewall?",
+        "optionA": "Packet-filtering firewall",
+        "optionB": "Proxy firewall",
+        "optionC": "Next-generation firewall",
+        "optionD": "Application firewall",
+        "answer": "Next-generation firewall"
+    },
+    {
+        "question": "Which of the following is a primary benefit of using a VPN?",
+        "optionA": "Increased internet speed",
+        "optionB": "Reduced internet costs",
+        "optionC": "Enhanced security and privacy",
+        "optionD": "Faster data transfer rates",
+        "answer": "Enhanced security and privacy"
+    },
+    {
+        "question": "Which of the following is used to authenticate users in a VPN?",
+        "optionA": "Encryption keys",
+        "optionB": "Username and password",
+        "optionC": "Firewall rules",
+        "optionD": "Access control lists",
+        "answer": "Username and password"
+    },
+    {
+        "question": "Which of the following is a type of VPN that encrypts data from the client to the server?",
+        "optionA": "Remote Access VPN",
+        "optionB": "Site-to-Site VPN",
+        "optionC": "MPLS VPN",
+        "optionD": "Cloud VPN",
+        "answer": "Remote Access VPN"
+    },
+    {
+        "question": "What is the primary role of a firewall in a network?",
+        "optionA": "To monitor and filter network traffic",
+        "optionB": "To improve network performance",
+        "optionC": "To encrypt data between devices",
+        "optionD": "To manage routing tables",
+        "answer": "To monitor and filter network traffic"
+    },
+    {
+        "question": "Which of the following is an example of a cloud-based firewall?",
+        "optionA": "Hardware firewall",
+        "optionB": "Software firewall",
+        "optionC": "Next-generation firewall",
+        "optionD": "Cloud firewall",
+        "answer": "Cloud firewall"
+    },
+    {
+        "question": "Which of the following is true about an IDS (Intrusion Detection System)?",
+        "optionA": "It prevents unauthorized access",
+        "optionB": "It monitors network traffic for malicious activity",
+        "optionC": "It blocks malicious network traffic",
+        "optionD": "It encrypts data traffic",
+        "answer": "It monitors network traffic for malicious activity"
+    },
+    {
+        "question": "What does the term 'Deep Packet Inspection' (DPI) refer to?",
+        "optionA": "Inspecting only the headers of network packets",
+        "optionB": "Inspecting the entire packet, including payload",
+        "optionC": "Filtering based on IP addresses",
+        "optionD": "Blocking only malicious packets",
+        "answer": "Inspecting the entire packet, including payload"
+    },
+    {
+        "question": "Which of the following is a function of a proxy server?",
+        "optionA": "It blocks incoming traffic",
+        "optionB": "It filters and forwards network traffic",
+        "optionC": "It encrypts all traffic",
+        "optionD": "It prevents unauthorized access to the network",
+        "answer": "It filters and forwards network traffic"
+    },
+    {
+        "question": "Which of the following is true about a Network Address Translation (NAT) firewall?",
+        "optionA": "It translates private IP addresses to public IP addresses",
+        "optionB": "It blocks all outgoing traffic",
+        "optionC": "It only inspects inbound traffic",
+        "optionD": "It is used to encrypt network traffic",
+        "answer": "It translates private IP addresses to public IP addresses"
+    },
+    {
+        "question": "Which of the following is an example of an open-source VPN protocol?",
+        "optionA": "PPTP",
+        "optionB": "OpenVPN",
+        "optionC": "L2TP",
+        "optionD": "IPsec",
+        "answer": "OpenVPN"
+    },
+    {
+        "question": "What is the main advantage of a hardware firewall over a software firewall?",
+        "optionA": "It is easier to configure",
+        "optionB": "It is more secure for larger networks",
+        "optionC": "It requires no maintenance",
+        "optionD": "It is cheaper to deploy",
+        "answer": "It is more secure for larger networks"
+    },
+    {
+        "question": "Which VPN protocol is known for its ease of use but is considered less secure?",
+        "optionA": "PPTP",
+        "optionB": "L2TP",
+        "optionC": "OpenVPN",
+        "optionD": "IPsec",
+        "answer": "PPTP"
+    },
+    {
+        "question": "Which of the following is a disadvantage of using a Site-to-Site VPN?",
+        "optionA": "It requires a dedicated connection between sites",
+        "optionB": "It is slower than remote access VPNs",
+        "optionC": "It is only available for large networks",
+        "optionD": "It cannot be used for private networks",
+        "answer": "It requires a dedicated connection between sites"
+    },
+    {
+        "question": "Which of the following is an example of a VPN protocol that provides both encryption and tunneling?",
+        "optionA": "PPTP",
+        "optionB": "L2TP",
+        "optionC": "IPsec",
+        "optionD": "SSL VPN",
+        "answer": "IPsec"
+    }
+]

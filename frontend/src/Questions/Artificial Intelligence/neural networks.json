@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is a neural network?",
+        "optionA": "A type of computer network for data storage",
+        "optionB": "A computational model inspired by biological neural networks",
+        "optionC": "A machine learning algorithm for clustering data",
+        "optionD": "A system for automating data entry",
+        "answer": "A computational model inspired by biological neural networks"
+    },
+    {
+        "question": "What is the basic unit of a neural network?",
+        "optionA": "Neuron",
+        "optionB": "Layer",
+        "optionC": "Edge",
+        "optionD": "Node",
+        "answer": "Neuron"
+    },
+    {
+        "question": "Which activation function is commonly used in neural networks?",
+        "optionA": "ReLU",
+        "optionB": "Linear",
+        "optionC": "Exponential",
+        "optionD": "Polynomial",
+        "answer": "ReLU"
+    },
+    {
+        "question": "What does a neural network model learn during training?",
+        "optionA": "The optimal weights for the connections between neurons",
+        "optionB": "The input data structure",
+        "optionC": "The output class of the model",
+        "optionD": "The number of neurons to use",
+        "answer": "The optimal weights for the connections between neurons"
+    },
+    {
+        "question": "What is the purpose of the activation function in a neural network?",
+        "optionA": "To initialize the network",
+        "optionB": "To decide whether a neuron should be activated or not",
+        "optionC": "To store the network's parameters",
+        "optionD": "To transform the input data",
+        "answer": "To decide whether a neuron should be activated or not"
+    },
+    {
+        "question": "Which of the following is a common optimization algorithm used in training neural networks?",
+        "optionA": "K-means clustering",
+        "optionB": "Gradient Descent",
+        "optionC": "Principal Component Analysis",
+        "optionD": "Support Vector Machine",
+        "answer": "Gradient Descent"
+    },
+    {
+        "question": "What is the purpose of backpropagation in neural networks?",
+        "optionA": "To adjust the weights of the network based on the error",
+        "optionB": "To calculate the output of the network",
+        "optionC": "To initialize the network's weights",
+        "optionD": "To predict the output of the network",
+        "answer": "To adjust the weights of the network based on the error"
+    },
+    {
+        "question": "What is overfitting in the context of neural networks?",
+        "optionA": "When the model is too simple and does not capture the complexity of the data",
+        "optionB": "When the model performs well on the training data but poorly on new, unseen data",
+        "optionC": "When the model is undertrained",
+        "optionD": "When the model predicts values outside the range of the training data",
+        "answer": "When the model performs well on the training data but poorly on new, unseen data"
+    },
+    {
+        "question": "What is the role of the learning rate in training a neural network?",
+        "optionA": "It determines how much the weights should be adjusted during each iteration",
+        "optionB": "It controls the number of layers in the network",
+        "optionC": "It determines the number of neurons in each layer",
+        "optionD": "It controls the number of training epochs",
+        "answer": "It determines how much the weights should be adjusted during each iteration"
+    },
+    {
+        "question": "Which of the following is a type of neural network architecture?",
+        "optionA": "Convolutional Neural Network (CNN)",
+        "optionB": "Random Forest",
+        "optionC": "K-nearest Neighbors",
+        "optionD": "Linear Regression",
+        "answer": "Convolutional Neural Network (CNN)"
+    },
+    {
+        "question": "What is a Convolutional Neural Network (CNN) primarily used for?",
+        "optionA": "Time series analysis",
+        "optionB": "Image processing and recognition",
+        "optionC": "Clustering data",
+        "optionD": "Natural language processing",
+        "answer": "Image processing and recognition"
+    },
+    {
+        "question": "What is a recurrent neural network (RNN) used for?",
+        "optionA": "Image classification",
+        "optionB": "Time series data and sequence prediction",
+        "optionC": "Clustering data",
+        "optionD": "Linear regression",
+        "answer": "Time series data and sequence prediction"
+    },
+    {
+        "question": "Which of the following is a common problem when training deep neural networks?",
+        "optionA": "Vanishing gradients",
+        "optionB": "Overfitting is impossible",
+        "optionC": "Data imbalance",
+        "optionD": "Too few neurons",
+        "answer": "Vanishing gradients"
+    },
+    {
+        "question": "What is the purpose of dropout in a neural network?",
+        "optionA": "To prevent overfitting by randomly deactivating neurons during training",
+        "optionB": "To speed up the training process",
+        "optionC": "To initialize the network's weights",
+        "optionD": "To calculate the output of the network",
+        "answer": "To prevent overfitting by randomly deactivating neurons during training"
+    },
+    {
+        "question": "Which of the following is an example of unsupervised learning in neural networks?",
+        "optionA": "Classification",
+        "optionB": "Clustering",
+        "optionC": "Regression",
+        "optionD": "Object detection",
+        "answer": "Clustering"
+    },
+    {
+        "question": "What is a fully connected layer in a neural network?",
+        "optionA": "A layer where each neuron is connected to every neuron in the previous layer",
+        "optionB": "A layer where no neurons are connected",
+        "optionC": "A layer with a single neuron",
+        "optionD": "A layer with neurons connected only to certain neurons in the previous layer",
+        "answer": "A layer where each neuron is connected to every neuron in the previous layer"
+    },
+    {
+        "question": "What is the purpose of batch normalization in neural networks?",
+        "optionA": "To increase the number of neurons in the network",
+        "optionB": "To improve the training speed and stability by normalizing the inputs to each layer",
+        "optionC": "To prevent overfitting by reducing the complexity of the model",
+        "optionD": "To reduce the size of the model",
+        "answer": "To improve the training speed and stability by normalizing the inputs to each layer"
+    },
+    {
+        "question": "Which of the following is an example of supervised learning in neural networks?",
+        "optionA": "Classification",
+        "optionB": "Clustering",
+        "optionC": "Dimensionality reduction",
+        "optionD": "Generative modeling",
+        "answer": "Classification"
+    },
+    {
+        "question": "What does the term 'epoch' refer to in neural network training?",
+        "optionA": "The number of neurons in the network",
+        "optionB": "One complete pass through the entire training dataset",
+        "optionC": "The number of layers in the network",
+        "optionD": "The number of times the network's weights are updated",
+        "answer": "One complete pass through the entire training dataset"
+    },
+    {
+        "question": "What is the role of the output layer in a neural network?",
+        "optionA": "To calculate the loss function",
+        "optionB": "To provide the final predictions of the model",
+        "optionC": "To initialize the weights",
+        "optionD": "To determine the number of neurons",
+        "answer": "To provide the final predictions of the model"
+    },
+    {
+        "question": "What is a loss function in neural networks?",
+        "optionA": "A function that measures how well the model is performing",
+        "optionB": "A function that updates the model's weights",
+        "optionC": "A function that determines the number of neurons",
+        "optionD": "A function that determines the number of layers",
+        "answer": "A function that measures how well the model is performing"
+    },
+    {
+        "question": "What is a weight in the context of neural networks?",
+        "optionA": "A parameter that determines the strength of the connection between two neurons",
+        "optionB": "The output of a neuron",
+        "optionC": "The input to a neuron",
+        "optionD": "The activation function of a neuron",
+        "answer": "A parameter that determines the strength of the connection between two neurons"
+    },
+    {
+        "question": "What does the term 'gradient descent' refer to in neural networks?",
+        "optionA": "A method for calculating the final output of the network",
+        "optionB": "A method for adjusting the weights to minimize the loss function",
+        "optionC": "A method for increasing the complexity of the model",
+        "optionD": "A method for initializing the network's weights",
+        "answer": "A method for adjusting the weights to minimize the loss function"
+    },
+    {
+        "question": "What is the purpose of the softmax activation function?",
+        "optionA": "To normalize the output of a neural network to a probability distribution",
+        "optionB": "To compute the derivative of the loss function",
+        "optionC": "To initialize the weights of the network",
+        "optionD": "To prevent overfitting",
+        "answer": "To normalize the output of a neural network to a probability distribution"
+    },
+    {
+        "question": "What is the role of a convolutional layer in a CNN?",
+        "optionA": "To perform matrix multiplication",
+        "optionB": "To detect patterns such as edges or textures in an image",
+        "optionC": "To reduce the dimensionality of the data",
+        "optionD": "To calculate the final output of the network",
+        "answer": "To detect patterns such as edges or textures in an image"
+    },
+    {
+        "question": "What is the purpose of pooling layers in a CNN?",
+        "optionA": "To reduce the size of the data while retaining important features",
+        "optionB": "To calculate the output of the network",
+        "optionC": "To increase the complexity of the model",
+        "optionD": "To initialize the weights",
+        "answer": "To reduce the size of the data while retaining important features"
+    },
+    {
+        "question": "Which of the following is an example of a deep learning framework?",
+        "optionA": "TensorFlow",
+        "optionB": "Excel",
+        "optionC": "SPSS",
+        "optionD": "PowerPoint",
+        "answer": "TensorFlow"
+    },
+    {
+        "question": "What is a deep neural network?",
+        "optionA": "A neural network with a large number of layers",
+        "optionB": "A neural network with a single layer",
+        "optionC": "A neural network with no hidden layers",
+        "optionD": "A neural network that cannot be trained",
+        "answer": "A neural network with a large number of layers"
+    },
+    {
+        "question": "What does a ReLU activation function do?",
+        "optionA": "It returns the input if positive, and zero otherwise",
+        "optionB": "It returns the input as is",
+        "optionC": "It returns the absolute value of the input",
+        "optionD": "It computes the sigmoid of the input",
+        "answer": "It returns the input if positive, and zero otherwise"
+    },
+    {
+        "question": "What is the vanishing gradient problem?",
+        "optionA": "When gradients become very small and stop the model from learning",
+        "optionB": "When the model starts to overfit",
+        "optionC": "When the gradients become too large",
+        "optionD": "When the model's training speed increases dramatically",
+        "answer": "When gradients become very small and stop the model from learning"
+    },
+    {
+        "question": "What is the purpose of a convolutional layer in a neural network?",
+        "optionA": "To detect edges, textures, and patterns in images",
+        "optionB": "To calculate the loss function",
+        "optionC": "To adjust the weights of the network",
+        "optionD": "To normalize the inputs",
+        "answer": "To detect edges, textures, and patterns in images"
+    },
+    {
+        "question": "What is the key feature of a Long Short-Term Memory (LSTM) network?",
+        "optionA": "It can learn long-term dependencies in sequential data",
+        "optionB": "It is used for image recognition",
+        "optionC": "It is a type of convolutional network",
+        "optionD": "It uses linear activation functions",
+        "answer": "It can learn long-term dependencies in sequential data"
+    },
+    {
+        "question": "Which of the following is a challenge in training deep neural networks?",
+        "optionA": "Overfitting and vanishing gradients",
+        "optionB": "Too few layers",
+        "optionC": "Lack of training data",
+        "optionD": "Too many neurons in the input layer",
+        "answer": "Overfitting and vanishing gradients"
+    },
+    {
+        "question": "What is the purpose of the softmax function in neural networks?",
+        "optionA": "To convert logits into probabilities for classification tasks",
+        "optionB": "To initialize the weights",
+        "optionC": "To reduce the number of layers",
+        "optionD": "To calculate the loss function",
+        "answer": "To convert logits into probabilities for classification tasks"
+    },
+    {
+        "question": "What does the term 'gradient' refer to in the context of neural networks?",
+        "optionA": "The rate of change of the loss function with respect to the weights",
+        "optionB": "The number of neurons in the network",
+        "optionC": "The number of epochs in training",
+        "optionD": "The output of a neuron",
+        "answer": "The rate of change of the loss function with respect to the weights"
+    },
+    {
+        "question": "What is a Generative Adversarial Network (GAN)?",
+        "optionA": "A network that consists of two models: a generator and a discriminator",
+        "optionB": "A type of reinforcement learning algorithm",
+        "optionC": "A network used for time series prediction",
+        "optionD": "A network for dimensionality reduction",
+        "answer": "A network that consists of two models: a generator and a discriminator"
+    },
+    {
+        "question": "Which of the following is an example of a task that neural networks can perform?",
+        "optionA": "Image classification",
+        "optionB": "Linear regression",
+        "optionC": "Decision tree building",
+        "optionD": "K-means clustering",
+        "answer": "Image classification"
+    },
+    {
+        "question": "What is the purpose of a validation set in training a neural network?",
+        "optionA": "To tune the hyperparameters and prevent overfitting",
+        "optionB": "To test the final model's accuracy",
+        "optionC": "To train the network",
+        "optionD": "To initialize the weights",
+        "answer": "To tune the hyperparameters and prevent overfitting"
+    },
+    {
+        "question": "What does the term 'batch size' refer to in neural network training?",
+        "optionA": "The number of training samples used in one iteration",
+        "optionB": "The number of layers in the network",
+        "optionC": "The number of neurons in the input layer",
+        "optionD": "The number of epochs in training",
+        "answer": "The number of training samples used in one iteration"
+    },
+    {
+        "question": "What is an autoencoder?",
+        "optionA": "A type of neural network used for unsupervised learning and dimensionality reduction",
+        "optionB": "A type of neural network used for reinforcement learning",
+        "optionC": "A type of network that detects anomalies in data",
+        "optionD": "A network that performs supervised classification",
+        "answer": "A type of neural network used for unsupervised learning and dimensionality reduction"
+    },
+    {
+        "question": "What is the purpose of the Adam optimizer?",
+        "optionA": "To adjust the learning rate dynamically during training",
+        "optionB": "To reduce the size of the neural network",
+        "optionC": "To calculate the final output of the network",
+        "optionD": "To prevent overfitting",
+        "answer": "To adjust the learning rate dynamically during training"
+    },
+    {
+        "question": "What is the purpose of the weight initialization in neural networks?",
+        "optionA": "To prevent the network from starting with zero weights, which can hinder learning",
+        "optionB": "To set the final output of the network",
+        "optionC": "To adjust the learning rate",
+        "optionD": "To define the number of layers",
+        "answer": "To prevent the network from starting with zero weights, which can hinder learning"
+    },
+    {
+        "question": "What is a hyperparameter in the context of neural networks?",
+        "optionA": "A parameter set before training that controls the training process",
+        "optionB": "A parameter learned during the training process",
+        "optionC": "The input data fed to the network",
+        "optionD": "The final output of the network",
+        "answer": "A parameter set before training that controls the training process"
+    },
+    {
+        "question": "What is the role of a hidden layer in a neural network?",
+        "optionA": "To process inputs and extract features before passing them to the output layer",
+        "optionB": "To provide the final output of the model",
+        "optionC": "To store the weights of the model",
+        "optionD": "To initialize the model's parameters",
+        "answer": "To process inputs and extract features before passing them to the output layer"
+    },
+    {
+        "question": "What is a Siamese network?",
+        "optionA": "A type of neural network that compares two inputs and outputs a similarity score",
+        "optionB": "A network used for image classification",
+        "optionC": "A type of convolutional network",
+        "optionD": "A network used for time series forecasting",
+        "answer": "A type of neural network that compares two inputs and outputs a similarity score"
+    },
+    {
+        "question": "What does 'underfitting' mean in the context of neural networks?",
+        "optionA": "When the model is too simple and cannot capture the patterns in the data",
+        "optionB": "When the model performs well on both training and test data",
+        "optionC": "When the model is too complex and memorizes the training data",
+        "optionD": "When the model cannot predict any values",
+        "answer": "When the model is too simple and cannot capture the patterns in the data"
+    },
+    {
+        "question": "What is a multi-layer perceptron (MLP)?",
+        "optionA": "A type of neural network consisting of multiple fully connected layers",
+        "optionB": "A network used for time series analysis",
+        "optionC": "A type of recurrent neural network",
+        "optionD": "A network used for unsupervised learning",
+        "answer": "A type of neural network consisting of multiple fully connected layers"
+    },
+    {
+        "question": "What is a generative model in machine learning?",
+        "optionA": "A model that learns the distribution of data and can generate new samples",
+        "optionB": "A model that classifies data into predefined categories",
+        "optionC": "A model that performs regression tasks",
+        "optionD": "A model that clusters data into groups",
+        "answer": "A model that learns the distribution of data and can generate new samples"
+    },
+    {
+        "question": "What is the role of the input layer in a neural network?",
+        "optionA": "To receive the input data and pass it to the next layer",
+        "optionB": "To compute the final output of the network",
+        "optionC": "To initialize the weights",
+        "optionD": "To process the output data",
+        "answer": "To receive the input data and pass it to the next layer"
+    },
+    {
+        "question": "What is the purpose of a learning rate scheduler?",
+        "optionA": "To adjust the learning rate during training based on the performance",
+        "optionB": "To set the final output of the network",
+        "optionC": "To increase the number of neurons in the network",
+        "optionD": "To prevent overfitting",
+        "answer": "To adjust the learning rate during training based on the performance"
+    }
+]

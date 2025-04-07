@@ -1,0 +1,458 @@
+[
+    {
+        "question": "What is Node.js?",
+        "optionA": "A JavaScript framework",
+        "optionB": "A runtime environment for executing JavaScript code outside the browser",
+        "optionC": "A JavaScript library for DOM manipulation",
+        "optionD": "A JavaScript engine used in web browsers",
+        "answer": "A runtime environment for executing JavaScript code outside the browser"
+    },
+    {
+        "question": "Which of the following is the default package manager for Node.js?",
+        "optionA": "Yarn",
+        "optionB": "npm",
+        "optionC": "Bower",
+        "optionD": "pnpm",
+        "answer": "npm"
+    },
+    {
+        "question": "Which method is used to create a new HTTP server in Node.js?",
+        "optionA": "http.createServer()",
+        "optionB": "server.create()",
+        "optionC": "http.newServer()",
+        "optionD": "http.server()",
+        "answer": "http.createServer()"
+    },
+    {
+        "question": "Which of the following modules is used for working with file systems in Node.js?",
+        "optionA": "fs",
+        "optionB": "file",
+        "optionC": "os",
+        "optionD": "fileSystem",
+        "answer": "fs"
+    },
+    {
+        "question": "Which method is used to read the contents of a file asynchronously in Node.js?",
+        "optionA": "fs.readFileSync()",
+        "optionB": "fs.readFile()",
+        "optionC": "fs.getFile()",
+        "optionD": "fs.loadFile()",
+        "answer": "fs.readFile()"
+    },
+    {
+        "question": "What is the purpose of the Node.js event loop?",
+        "optionA": "To manage the request-response cycle",
+        "optionB": "To handle asynchronous callbacks",
+        "optionC": "To execute synchronous code only",
+        "optionD": "To manage database connections",
+        "answer": "To handle asynchronous callbacks"
+    },
+    {
+        "question": "Which of the following is the correct syntax for importing a module in Node.js?",
+        "optionA": "import moduleName from 'module';",
+        "optionB": "require('module');",
+        "optionC": "import 'module';",
+        "optionD": "include('module');",
+        "answer": "require('module');"
+    },
+    {
+        "question": "Which module is used for creating a server in Node.js?",
+        "optionA": "http",
+        "optionB": "server",
+        "optionC": "net",
+        "optionD": "url",
+        "answer": "http"
+    },
+    {
+        "question": "What is the default port number for an HTTP server in Node.js?",
+        "optionA": "3000",
+        "optionB": "8080",
+        "optionC": "5000",
+        "optionD": "4000",
+        "answer": "3000"
+    },
+    {
+        "question": "What does the 'fs' module in Node.js provide?",
+        "optionA": "File system operations",
+        "optionB": "Network operations",
+        "optionC": "Database operations",
+        "optionD": "User authentication",
+        "answer": "File system operations"
+    },
+    {
+        "question": "Which of the following is used to handle exceptions in Node.js?",
+        "optionA": "try-catch block",
+        "optionB": "throw statement",
+        "optionC": "process.on('uncaughtException')",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which method is used to send a response to the client in Node.js?",
+        "optionA": "response.send()",
+        "optionB": "response.write()",
+        "optionC": "response.end()",
+        "optionD": "response.sendData()",
+        "answer": "response.end()"
+    },
+    {
+        "question": "Which of the following is true about Node.js?",
+        "optionA": "It is single-threaded",
+        "optionB": "It uses multiple threads for handling requests",
+        "optionC": "It is a synchronous execution model",
+        "optionD": "It does not support asynchronous operations",
+        "answer": "It is single-threaded"
+    },
+    {
+        "question": "What does the 'process' object in Node.js provide?",
+        "optionA": "Information about the current process",
+        "optionB": "Network configuration",
+        "optionC": "File system operations",
+        "optionD": "Database connections",
+        "answer": "Information about the current process"
+    },
+    {
+        "question": "Which of the following is used to manage environment variables in Node.js?",
+        "optionA": "env",
+        "optionB": "process.env",
+        "optionC": "config",
+        "optionD": "process.config",
+        "answer": "process.env"
+    },
+    {
+        "question": "Which of the following is used to make HTTP requests in Node.js?",
+        "optionA": "http.get()",
+        "optionB": "request()",
+        "optionC": "fetch()",
+        "optionD": "axios()",
+        "answer": "http.get()"
+    },
+    {
+        "question": "Which of the following modules is used for working with URL in Node.js?",
+        "optionA": "url",
+        "optionB": "http",
+        "optionC": "querystring",
+        "optionD": "net",
+        "answer": "url"
+    },
+    {
+        "question": "What is the purpose of the 'path' module in Node.js?",
+        "optionA": "To handle file system paths",
+        "optionB": "To handle HTTP requests",
+        "optionC": "To handle database connections",
+        "optionD": "To handle user authentication",
+        "answer": "To handle file system paths"
+    },
+    {
+        "question": "What does the 'Buffer' class in Node.js represent?",
+        "optionA": "A fixed-size chunk of memory",
+        "optionB": "A variable-size chunk of memory",
+        "optionC": "A stream of data",
+        "optionD": "A file system operation",
+        "answer": "A fixed-size chunk of memory"
+    },
+    {
+        "question": "Which of the following is used to install packages in Node.js?",
+        "optionA": "npm install",
+        "optionB": "node install",
+        "optionC": "install package",
+        "optionD": "npm add",
+        "answer": "npm install"
+    },
+    {
+        "question": "What is the purpose of the 'exports' object in Node.js?",
+        "optionA": "To define the methods and properties of a module",
+        "optionB": "To define environment variables",
+        "optionC": "To handle HTTP requests",
+        "optionD": "To handle file system operations",
+        "answer": "To define the methods and properties of a module"
+    },
+    {
+        "question": "Which of the following is the correct syntax for creating a new Node.js module?",
+        "optionA": "module.exports = function() {};",
+        "optionB": "exports = function() {};",
+        "optionC": "module.create = function() {};",
+        "optionD": "module.new = function() {};",
+        "answer": "module.exports = function() {};"
+    },
+    {
+        "question": "Which of the following is true about Node.js modules?",
+        "optionA": "Each module has its own scope",
+        "optionB": "Modules are global and accessible from any file",
+        "optionC": "Modules are always synchronous",
+        "optionD": "Modules cannot export functions",
+        "answer": "Each module has its own scope"
+    },
+    {
+        "question": "Which of the following is used to perform file system operations asynchronously in Node.js?",
+        "optionA": "fs.readFile()",
+        "optionB": "fs.readFileSync()",
+        "optionC": "fs.open()",
+        "optionD": "fs.write()",
+        "answer": "fs.readFile()"
+    },
+    {
+        "question": "Which of the following is used to create a readable stream in Node.js?",
+        "optionA": "fs.createReadStream()",
+        "optionB": "fs.createWriteStream()",
+        "optionC": "fs.createStream()",
+        "optionD": "fs.createFileStream()",
+        "answer": "fs.createReadStream()"
+    },
+    {
+        "question": "What is the purpose of 'npm init' in Node.js?",
+        "optionA": "To initialize a new Node.js project and create a package.json file",
+        "optionB": "To install dependencies",
+        "optionC": "To start the Node.js server",
+        "optionD": "To create a new module",
+        "answer": "To initialize a new Node.js project and create a package.json file"
+    },
+    {
+        "question": "What is the purpose of the 'require' function in Node.js?",
+        "optionA": "To include external modules into your application",
+        "optionB": "To handle HTTP requests",
+        "optionC": "To handle file system operations",
+        "optionD": "To manage environment variables",
+        "answer": "To include external modules into your application"
+    },
+    {
+        "question": "Which of the following is used to handle HTTP POST requests in Node.js?",
+        "optionA": "app.post()",
+        "optionB": "http.get()",
+        "optionC": "http.post()",
+        "optionD": "app.get()",
+        "answer": "app.post()"
+    },
+    {
+        "question": "Which of the following is used to install global packages in Node.js?",
+        "optionA": "npm install -g",
+        "optionB": "npm install --global",
+        "optionC": "npm install -global",
+        "optionD": "npm install global",
+        "answer": "npm install -g"
+    },
+    {
+        "question": "Which of the following is used to add a new dependency to a Node.js project?",
+        "optionA": "npm install <package-name>",
+        "optionB": "npm add <package-name>",
+        "optionC": "npm include <package-name>",
+        "optionD": "npm fetch <package-name>",
+        "answer": "npm install <package-name>"
+    },
+    {
+        "question": "What is the purpose of the 'console' object in Node.js?",
+        "optionA": "To log information to the console",
+        "optionB": "To execute JavaScript code",
+        "optionC": "To handle file system operations",
+        "optionD": "To create a server",
+        "answer": "To log information to the console"
+    },
+    {
+        "question": "Which of the following is used to create a writable stream in Node.js?",
+        "optionA": "fs.createWriteStream()",
+        "optionB": "fs.createReadStream()",
+        "optionC": "fs.writeStream()",
+        "optionD": "fs.createStream()",
+        "answer": "fs.createWriteStream()"
+    },
+    {
+        "question": "Which of the following is used to handle HTTP requests in Node.js?",
+        "optionA": "http.request()",
+        "optionB": "http.get()",
+        "optionC": "http.createServer()",
+        "optionD": "http.handleRequest()",
+        "answer": "http.request()"
+    },
+    {
+        "question": "What is the purpose of the 'events' module in Node.js?",
+        "optionA": "To handle asynchronous callbacks",
+        "optionB": "To handle HTTP requests",
+        "optionC": "To manage event-driven programming",
+        "optionD": "To manage database connections",
+        "answer": "To manage event-driven programming"
+    },
+    {
+        "question": "Which of the following methods is used to handle errors in Node.js?",
+        "optionA": "error()",
+        "optionB": "handleError()",
+        "optionC": "process.on('error')",
+        "optionD": "try-catch block",
+        "answer": "process.on('error')"
+    },
+    {
+        "question": "Which of the following methods is used to write data to a file in Node.js?",
+        "optionA": "fs.writeFile()",
+        "optionB": "fs.appendFile()",
+        "optionC": "fs.createFile()",
+        "optionD": "fs.saveFile()",
+        "answer": "fs.writeFile()"
+    },
+    {
+        "question": "Which of the following methods is used to stop the execution of a Node.js server?",
+        "optionA": "server.close()",
+        "optionB": "server.stop()",
+        "optionC": "server.exit()",
+        "optionD": "server.end()",
+        "answer": "server.close()"
+    },
+    {
+        "question": "Which of the following is used to execute JavaScript code in Node.js?",
+        "optionA": "node <file-name>",
+        "optionB": "npm run <file-name>",
+        "optionC": "nodejs <file-name>",
+        "optionD": "js run <file-name>",
+        "answer": "node <file-name>"
+    },
+    {
+        "question": "What is the purpose of the 'cluster' module in Node.js?",
+        "optionA": "To create multiple child processes for load balancing",
+        "optionB": "To manage asynchronous callbacks",
+        "optionC": "To handle file system operations",
+        "optionD": "To manage network connections",
+        "answer": "To create multiple child processes for load balancing"
+    },
+    {
+        "question": "Which of the following is used to prevent blocking the event loop in Node.js?",
+        "optionA": "Asynchronous functions",
+        "optionB": "Synchronous functions",
+        "optionC": "Callback functions",
+        "optionD": "Event listeners",
+        "answer": "Asynchronous functions"
+    },
+    {
+        "question": "Which of the following methods is used to parse JSON data in Node.js?",
+        "optionA": "JSON.parse()",
+        "optionB": "JSON.stringify()",
+        "optionC": "JSON.decode()",
+        "optionD": "JSON.read()",
+        "answer": "JSON.parse()"
+    },
+    {
+        "question": "What is the purpose of the 'util' module in Node.js?",
+        "optionA": "To provide utility functions for working with objects and strings",
+        "optionB": "To manage HTTP requests",
+        "optionC": "To handle file system operations",
+        "optionD": "To handle asynchronous callbacks",
+        "answer": "To provide utility functions for working with objects and strings"
+    },
+    {
+        "question": "Which of the following methods is used to exit a Node.js process?",
+        "optionA": "process.exit()",
+        "optionB": "process.stop()",
+        "optionC": "process.close()",
+        "optionD": "process.end()",
+        "answer": "process.exit()"
+    },
+    {
+        "question": "Which of the following is used to set up middleware in Node.js with Express?",
+        "optionA": "app.use()",
+        "optionB": "app.set()",
+        "optionC": "app.middleware()",
+        "optionD": "app.add()",
+        "answer": "app.use()"
+    },
+    {
+        "question": "Which of the following methods is used to send an HTTP GET request in Node.js?",
+        "optionA": "http.get()",
+        "optionB": "http.request()",
+        "optionC": "http.fetch()",
+        "optionD": "http.send()",
+        "answer": "http.get()"
+    },
+    {
+        "question": "Which of the following methods is used to check if a file exists in Node.js?",
+        "optionA": "fs.existsSync()",
+        "optionB": "fs.check()",
+        "optionC": "fs.fileExists()",
+        "optionD": "fs.isFile()",
+        "answer": "fs.existsSync()"
+    },
+    {
+        "question": "Which of the following is used to handle incoming HTTP requests in Node.js?",
+        "optionA": "http.createServer()",
+        "optionB": "http.handleRequest()",
+        "optionC": "http.listen()",
+        "optionD": "http.listenRequest()",
+        "answer": "http.createServer()"
+    },
+    {
+        "question": "Which of the following is used to read the contents of a file synchronously in Node.js?",
+        "optionA": "fs.readFileSync()",
+        "optionB": "fs.readFile()",
+        "optionC": "fs.readSync()",
+        "optionD": "fs.loadFile()",
+        "answer": "fs.readFileSync()"
+    },
+    {
+        "question": "What is the purpose of the 'child_process' module in Node.js?",
+        "optionA": "To create and manage child processes",
+        "optionB": "To handle file system operations",
+        "optionC": "To manage HTTP requests",
+        "optionD": "To handle network connections",
+        "answer": "To create and manage child processes"
+    },
+    {
+        "question": "Which of the following is used to add headers to an HTTP response in Node.js?",
+        "optionA": "response.setHeader()",
+        "optionB": "response.addHeader()",
+        "optionC": "response.header()",
+        "optionD": "response.writeHeader()",
+        "answer": "response.setHeader()"
+    },
+    {
+        "question": "Which of the following is used to parse URL parameters in Node.js?",
+        "optionA": "url.parse()",
+        "optionB": "url.query()",
+        "optionC": "url.parameters()",
+        "optionD": "url.decode()",
+        "answer": "url.parse()"
+    },
+    {
+        "question": "Which of the following is the default HTTP status code for a successful HTTP request?",
+        "optionA": "200",
+        "optionB": "400",
+        "optionC": "404",
+        "optionD": "500",
+        "answer": "200"
+    },
+    {
+        "question": "Which of the following is used to serve static files in Node.js with Express?",
+        "optionA": "express.static()",
+        "optionB": "express.serve()",
+        "optionC": "express.files()",
+        "optionD": "express.staticFiles()",
+        "answer": "express.static()"
+    },
+    {
+        "question": "Which of the following is used to parse incoming request bodies in Node.js with Express?",
+        "optionA": "express.json()",
+        "optionB": "express.bodyParser()",
+        "optionC": "express.parseBody()",
+        "optionD": "express.parse()",
+        "answer": "express.json()"
+    },
+    {
+        "question": "Which of the following is used to create a new Express application?",
+        "optionA": "express()",
+        "optionB": "new express()",
+        "optionC": "createExpress()",
+        "optionD": "new expressApp()",
+        "answer": "express()"
+    },
+    {
+        "question": "Which of the following is used to handle HTTP PUT requests in Node.js?",
+        "optionA": "app.put()",
+        "optionB": "http.put()",
+        "optionC": "http.request()",
+        "optionD": "app.request()",
+        "answer": "app.put()"
+    },
+    {
+        "question": "Which of the following is used to create a new session in Node.js with Express?",
+        "optionA": "express-session()",
+        "optionB": "session.create()",
+        "optionC": "session.start()",
+        "optionD": "express.createSession()",
+        "answer": "express-session()"
+    }
+]

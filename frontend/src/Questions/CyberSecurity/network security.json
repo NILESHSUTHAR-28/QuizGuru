@@ -1,0 +1,458 @@
+[
+    {
+        "question": "What is the primary goal of network security?",
+        "optionA": "Prevent unauthorized access to data",
+        "optionB": "Increase network speed",
+        "optionC": "Reduce network traffic",
+        "optionD": "Enhance data storage capacity",
+        "answer": "Prevent unauthorized access to data"
+    },
+    {
+        "question": "Which of the following is a type of malware that spreads across a network by exploiting vulnerabilities?",
+        "optionA": "Virus",
+        "optionB": "Worm",
+        "optionC": "Trojan",
+        "optionD": "Spyware",
+        "answer": "Worm"
+    },
+    {
+        "question": "What does a firewall do in network security?",
+        "optionA": "Encrypts data",
+        "optionB": "Monitors network traffic",
+        "optionC": "Blocks unauthorized access",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which protocol is used to securely transmit data over the internet?",
+        "optionA": "HTTP",
+        "optionB": "FTP",
+        "optionC": "HTTPS",
+        "optionD": "SMTP",
+        "answer": "HTTPS"
+    },
+    {
+        "question": "What is the purpose of a VPN in network security?",
+        "optionA": "To increase internet speed",
+        "optionB": "To encrypt data and provide secure remote access",
+        "optionC": "To monitor network traffic",
+        "optionD": "To block malware",
+        "answer": "To encrypt data and provide secure remote access"
+    },
+    {
+        "question": "Which of the following is a common method used to authenticate users in network security?",
+        "optionA": "Password",
+        "optionB": "Fingerprint scan",
+        "optionC": "Two-factor authentication",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does an IDS (Intrusion Detection System) do?",
+        "optionA": "Detects unauthorized access attempts",
+        "optionB": "Prevents unauthorized access",
+        "optionC": "Encrypts sensitive data",
+        "optionD": "Monitors network performance",
+        "answer": "Detects unauthorized access attempts"
+    },
+    {
+        "question": "Which of the following is an example of a denial-of-service attack?",
+        "optionA": "Phishing",
+        "optionB": "DDoS",
+        "optionC": "SQL injection",
+        "optionD": "Man-in-the-middle",
+        "answer": "DDoS"
+    },
+    {
+        "question": "What does SSL/TLS stand for in the context of network security?",
+        "optionA": "Secure Socket Layer/Transport Layer Security",
+        "optionB": "Simple Secure Layer/Transport Security Layer",
+        "optionC": "Security Socket Layer/Transport Security Link",
+        "optionD": "Secure System Layer/Transport Link Security",
+        "answer": "Secure Socket Layer/Transport Layer Security"
+    },
+    {
+        "question": "What is the purpose of encryption in network security?",
+        "optionA": "To hide the identity of users",
+        "optionB": "To ensure data integrity",
+        "optionC": "To convert data into an unreadable format to protect it",
+        "optionD": "To increase the speed of data transmission",
+        "answer": "To convert data into an unreadable format to protect it"
+    },
+    {
+        "question": "Which of the following is a type of attack that intercepts and alters communication between two parties?",
+        "optionA": "Man-in-the-middle attack",
+        "optionB": "Phishing",
+        "optionC": "DDoS",
+        "optionD": "Spoofing",
+        "answer": "Man-in-the-middle attack"
+    },
+    {
+        "question": "Which of the following is used to monitor and control network traffic?",
+        "optionA": "Router",
+        "optionB": "Firewall",
+        "optionC": "Switch",
+        "optionD": "Hub",
+        "answer": "Firewall"
+    },
+    {
+        "question": "What is the purpose of a DMZ (Demilitarized Zone) in network security?",
+        "optionA": "To protect internal network from external threats",
+        "optionB": "To store sensitive data",
+        "optionC": "To encrypt network traffic",
+        "optionD": "To monitor network traffic",
+        "answer": "To protect internal network from external threats"
+    },
+    {
+        "question": "What is phishing?",
+        "optionA": "A method of securing network data",
+        "optionB": "An attack that involves tricking individuals into revealing personal information",
+        "optionC": "A type of malware",
+        "optionD": "A method of encrypting data",
+        "answer": "An attack that involves tricking individuals into revealing personal information"
+    },
+    {
+        "question": "Which type of attack involves the attacker sending fraudulent emails that appear to come from a trusted source?",
+        "optionA": "Phishing",
+        "optionB": "Spear phishing",
+        "optionC": "Vishing",
+        "optionD": "Smishing",
+        "answer": "Phishing"
+    },
+    {
+        "question": "What is a zero-day exploit?",
+        "optionA": "A vulnerability that is exploited before the vendor is aware of it",
+        "optionB": "A vulnerability that is patched immediately after discovery",
+        "optionC": "A vulnerability that is known and fixed by the vendor",
+        "optionD": "A type of firewall",
+        "answer": "A vulnerability that is exploited before the vendor is aware of it"
+    },
+    {
+        "question": "Which of the following is a common method of network access control?",
+        "optionA": "MAC address filtering",
+        "optionB": "IP address filtering",
+        "optionC": "Role-based access control",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a VPN tunnel?",
+        "optionA": "A physical connection between two networks",
+        "optionB": "An encrypted connection between two devices over the internet",
+        "optionC": "A connection used to monitor network traffic",
+        "optionD": "A secure wireless connection",
+        "answer": "An encrypted connection between two devices over the internet"
+    },
+    {
+        "question": "What is the primary function of an SSL certificate?",
+        "optionA": "To authenticate the identity of a website",
+        "optionB": "To store encryption keys",
+        "optionC": "To monitor network traffic",
+        "optionD": "To block unauthorized access",
+        "answer": "To authenticate the identity of a website"
+    },
+    {
+        "question": "Which of the following best describes a botnet?",
+        "optionA": "A network of compromised devices controlled by a malicious actor",
+        "optionB": "A network of devices used to encrypt data",
+        "optionC": "A network of devices that monitor network traffic",
+        "optionD": "A network of devices used for secure communication",
+        "answer": "A network of compromised devices controlled by a malicious actor"
+    },
+    {
+        "question": "What is the main purpose of a patch management system?",
+        "optionA": "To secure network traffic",
+        "optionB": "To monitor network performance",
+        "optionC": "To apply software updates and patches to fix vulnerabilities",
+        "optionD": "To encrypt sensitive data",
+        "answer": "To apply software updates and patches to fix vulnerabilities"
+    },
+    {
+        "question": "What is the primary purpose of network segmentation?",
+        "optionA": "To increase network speed",
+        "optionB": "To divide a network into smaller, isolated sections for security",
+        "optionC": "To encrypt data",
+        "optionD": "To monitor network traffic",
+        "answer": "To divide a network into smaller, isolated sections for security"
+    },
+    {
+        "question": "Which of the following is an example of a brute-force attack?",
+        "optionA": "Guessing passwords until the correct one is found",
+        "optionB": "Intercepting communication between two parties",
+        "optionC": "Exploiting a software vulnerability",
+        "optionD": "Sending large amounts of traffic to overwhelm a server",
+        "answer": "Guessing passwords until the correct one is found"
+    },
+    {
+        "question": "What is a common method for securing wireless networks?",
+        "optionA": "Using WEP encryption",
+        "optionB": "Using WPA2 encryption",
+        "optionC": "Disabling the SSID broadcast",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of network monitoring?",
+        "optionA": "To monitor the performance of the network",
+        "optionB": "To detect and respond to security incidents",
+        "optionC": "To ensure the network is running efficiently",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is a type of attack that involves sending a large number of requests to overwhelm a server?",
+        "optionA": "DDoS",
+        "optionB": "SQL injection",
+        "optionC": "Phishing",
+        "optionD": "Man-in-the-middle",
+        "answer": "DDoS"
+    },
+    {
+        "question": "Which of the following is used to protect data integrity in transit?",
+        "optionA": "Encryption",
+        "optionB": "Firewalls",
+        "optionC": "Antivirus software",
+        "optionD": "IDS",
+        "answer": "Encryption"
+    },
+    {
+        "question": "What does 'spoofing' refer to in network security?",
+        "optionA": "Impersonating another device or user to gain unauthorized access",
+        "optionB": "Intercepting and altering communication between two parties",
+        "optionC": "Sending large amounts of traffic to overwhelm a server",
+        "optionD": "Using malware to steal data",
+        "answer": "Impersonating another device or user to gain unauthorized access"
+    },
+    {
+        "question": "What is the purpose of a security audit?",
+        "optionA": "To monitor network traffic",
+        "optionB": "To identify vulnerabilities and ensure compliance with security policies",
+        "optionC": "To prevent unauthorized access",
+        "optionD": "To encrypt sensitive data",
+        "answer": "To identify vulnerabilities and ensure compliance with security policies"
+    },
+    {
+        "question": "Which of the following is an example of a social engineering attack?",
+        "optionA": "Phishing",
+        "optionB": "SQL injection",
+        "optionC": "DDoS",
+        "optionD": "Malware",
+        "answer": "Phishing"
+    },
+    {
+        "question": "What is the purpose of network access control (NAC)?",
+        "optionA": "To monitor network traffic",
+        "optionB": "To enforce security policies for devices accessing the network",
+        "optionC": "To encrypt sensitive data",
+        "optionD": "To block malware",
+        "answer": "To enforce security policies for devices accessing the network"
+    },
+    {
+        "question": "Which of the following is a method used to prevent unauthorized access to a network?",
+        "optionA": "Password authentication",
+        "optionB": "Biometric authentication",
+        "optionC": "Two-factor authentication",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a common vulnerability in web applications that allows attackers to inject malicious SQL queries?",
+        "optionA": "SQL injection",
+        "optionB": "Cross-site scripting",
+        "optionC": "Buffer overflow",
+        "optionD": "Denial of service",
+        "answer": "SQL injection"
+    },
+    {
+        "question": "What is the purpose of a honeypot in network security?",
+        "optionA": "To attract and trap attackers",
+        "optionB": "To monitor network traffic",
+        "optionC": "To encrypt sensitive data",
+        "optionD": "To store backup data",
+        "answer": "To attract and trap attackers"
+    },
+    {
+        "question": "What is the primary function of a proxy server in network security?",
+        "optionA": "To encrypt data",
+        "optionB": "To act as an intermediary between a client and server",
+        "optionC": "To monitor network traffic",
+        "optionD": "To block unauthorized access",
+        "answer": "To act as an intermediary between a client and server"
+    },
+    {
+        "question": "What is the purpose of a security information and event management (SIEM) system?",
+        "optionA": "To monitor network traffic",
+        "optionB": "To analyze and aggregate security-related data",
+        "optionC": "To encrypt sensitive data",
+        "optionD": "To block malware",
+        "answer": "To analyze and aggregate security-related data"
+    },
+    {
+        "question": "Which of the following is a method to prevent unauthorized access to a wireless network?",
+        "optionA": "Using WPA3 encryption",
+        "optionB": "Disabling SSID broadcast",
+        "optionC": "Using MAC address filtering",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a common feature of a network intrusion prevention system (IPS)?",
+        "optionA": "Detects and responds to potential security threats",
+        "optionB": "Encrypts sensitive data",
+        "optionC": "Monitors network traffic for performance issues",
+        "optionD": "Blocks unauthorized network access",
+        "answer": "Detects and responds to potential security threats"
+    },
+    {
+        "question": "What does the term 'least privilege' mean in network security?",
+        "optionA": "Users are given the minimum access necessary to perform their tasks",
+        "optionB": "Users are given full access to all network resources",
+        "optionC": "Users have access to all data within the network",
+        "optionD": "Users are given access to the most sensitive data",
+        "answer": "Users are given the minimum access necessary to perform their tasks"
+    },
+    {
+        "question": "Which of the following is a type of encryption used in network security?",
+        "optionA": "AES",
+        "optionB": "RSA",
+        "optionC": "SHA-256",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of a demilitarized zone (DMZ) in network security?",
+        "optionA": "To provide a secure area for external-facing services",
+        "optionB": "To store sensitive data",
+        "optionC": "To block all incoming network traffic",
+        "optionD": "To encrypt all network traffic",
+        "answer": "To provide a secure area for external-facing services"
+    },
+    {
+        "question": "What is the purpose of a digital signature in network security?",
+        "optionA": "To encrypt data",
+        "optionB": "To verify the authenticity of a message or document",
+        "optionC": "To store encryption keys",
+        "optionD": "To block unauthorized access",
+        "answer": "To verify the authenticity of a message or document"
+    },
+    {
+        "question": "Which of the following is a characteristic of a Distributed Denial of Service (DDoS) attack?",
+        "optionA": "It involves overwhelming a server with traffic from multiple sources",
+        "optionB": "It involves stealing sensitive data from a network",
+        "optionC": "It involves exploiting software vulnerabilities",
+        "optionD": "It involves impersonating another user",
+        "answer": "It involves overwhelming a server with traffic from multiple sources"
+    },
+    {
+        "question": "Which of the following is a method of securing communication over the internet?",
+        "optionA": "SSL/TLS",
+        "optionB": "HTTP",
+        "optionC": "FTP",
+        "optionD": "SMTP",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "What is the purpose of two-factor authentication (2FA)?",
+        "optionA": "To verify a user's identity using two different methods",
+        "optionB": "To encrypt user passwords",
+        "optionC": "To monitor user activities",
+        "optionD": "To block unauthorized access",
+        "answer": "To verify a user's identity using two different methods"
+    },
+    {
+        "question": "Which of the following is a common form of social engineering?",
+        "optionA": "Phishing",
+        "optionB": "SQL injection",
+        "optionC": "DDoS",
+        "optionD": "Malware",
+        "answer": "Phishing"
+    },
+    {
+        "question": "What is the purpose of a public key infrastructure (PKI)?",
+        "optionA": "To manage encryption keys and digital certificates",
+        "optionB": "To monitor network traffic",
+        "optionC": "To store sensitive data",
+        "optionD": "To block malware",
+        "answer": "To manage encryption keys and digital certificates"
+    },
+    {
+        "question": "What is the role of a certificate authority (CA) in network security?",
+        "optionA": "To issue and manage digital certificates",
+        "optionB": "To monitor network traffic",
+        "optionC": "To store sensitive data",
+        "optionD": "To encrypt data",
+        "answer": "To issue and manage digital certificates"
+    },
+    {
+        "question": "What is a common method of securing a web server?",
+        "optionA": "Using HTTPS",
+        "optionB": "Using firewalls",
+        "optionC": "Using access control lists",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is an example of a vulnerability scanner?",
+        "optionA": "Nessus",
+        "optionB": "Wireshark",
+        "optionC": "Metasploit",
+        "optionD": "Kali Linux",
+        "answer": "Nessus"
+    },
+    {
+        "question": "What is the primary function of an endpoint security solution?",
+        "optionA": "To protect individual devices from threats",
+        "optionB": "To monitor network traffic",
+        "optionC": "To encrypt data",
+        "optionD": "To block unauthorized access",
+        "answer": "To protect individual devices from threats"
+    },
+    {
+        "question": "What is the purpose of a network access control list (ACL)?",
+        "optionA": "To filter network traffic based on rules",
+        "optionB": "To monitor network traffic",
+        "optionC": "To encrypt data",
+        "optionD": "To block malware",
+        "answer": "To filter network traffic based on rules"
+    },
+    {
+        "question": "Which of the following is a method to prevent man-in-the-middle attacks?",
+        "optionA": "Using encryption",
+        "optionB": "Using firewalls",
+        "optionC": "Using VPNs",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of a password manager?",
+        "optionA": "To store and manage passwords securely",
+        "optionB": "To monitor network traffic",
+        "optionC": "To block unauthorized access",
+        "optionD": "To encrypt data",
+        "answer": "To store and manage passwords securely"
+    },
+    {
+        "question": "Which of the following is a type of attack that involves manipulating a website's content?",
+        "optionA": "Cross-site scripting (XSS)",
+        "optionB": "SQL injection",
+        "optionC": "Phishing",
+        "optionD": "DDoS",
+        "answer": "Cross-site scripting (XSS)"
+    },
+    {
+        "question": "What is the purpose of network encryption?",
+        "optionA": "To ensure the confidentiality and integrity of data in transit",
+        "optionB": "To monitor network traffic",
+        "optionC": "To block malware",
+        "optionD": "To authenticate users",
+        "answer": "To ensure the confidentiality and integrity of data in transit"
+    },
+    {
+        "question": "Which of the following is a common vulnerability in network devices?",
+        "optionA": "Weak passwords",
+        "optionB": "Outdated firmware",
+        "optionC": "Unpatched software vulnerabilities",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    }
+]

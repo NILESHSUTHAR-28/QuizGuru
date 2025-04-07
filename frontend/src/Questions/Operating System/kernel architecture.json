@@ -1,0 +1,466 @@
+[
+    {
+        "question": "What is the primary function of the kernel in an operating system?",
+        "optionA": "Manages hardware resources",
+        "optionB": "Manages user interfaces",
+        "optionC": "Manages network traffic",
+        "optionD": "Manages user data",
+        "answer": "Manages hardware resources"
+    },
+    {
+        "question": "Which type of kernel architecture is used by Linux?",
+        "optionA": "Monolithic Kernel",
+        "optionB": "Microkernel",
+        "optionC": "Hybrid Kernel",
+        "optionD": "Exokernel",
+        "answer": "Monolithic Kernel"
+    },
+    {
+        "question": "Which of the following is a feature of a microkernel?",
+        "optionA": "All system services run in kernel space",
+        "optionB": "Only essential services run in kernel space",
+        "optionC": "It is faster than monolithic kernels",
+        "optionD": "It supports multi-threading",
+        "answer": "Only essential services run in kernel space"
+    },
+    {
+        "question": "What is the role of a system call in kernel architecture?",
+        "optionA": "It provides a method for programs to interact with hardware",
+        "optionB": "It manages user interfaces",
+        "optionC": "It allows programs to interact with the kernel",
+        "optionD": "It controls network communication",
+        "answer": "It allows programs to interact with the kernel"
+    },
+    {
+        "question": "Which of the following is an example of a microkernel-based operating system?",
+        "optionA": "Windows",
+        "optionB": "Linux",
+        "optionC": "QNX",
+        "optionD": "macOS",
+        "answer": "QNX"
+    },
+    {
+        "question": "What is the key difference between a monolithic kernel and a microkernel?",
+        "optionA": "Monolithic kernels are more modular",
+        "optionB": "Microkernels have fewer services running in kernel space",
+        "optionC": "Microkernels are faster",
+        "optionD": "Monolithic kernels are less secure",
+        "answer": "Microkernels have fewer services running in kernel space"
+    },
+    {
+        "question": "What is a hybrid kernel?",
+        "optionA": "A kernel that uses only hardware abstraction",
+        "optionB": "A kernel that combines features of both monolithic and microkernels",
+        "optionC": "A kernel designed for mobile devices",
+        "optionD": "A kernel that runs in user space",
+        "answer": "A kernel that combines features of both monolithic and microkernels"
+    },
+    {
+        "question": "Which kernel type is used by Windows NT?",
+        "optionA": "Monolithic Kernel",
+        "optionB": "Microkernel",
+        "optionC": "Hybrid Kernel",
+        "optionD": "Exokernel",
+        "answer": "Hybrid Kernel"
+    },
+    {
+        "question": "What is the primary advantage of a monolithic kernel?",
+        "optionA": "Better performance due to fewer context switches",
+        "optionB": "More modular design",
+        "optionC": "Better security",
+        "optionD": "Easier to maintain",
+        "answer": "Better performance due to fewer context switches"
+    },
+    {
+        "question": "Which of the following is a disadvantage of a monolithic kernel?",
+        "optionA": "It is difficult to modify",
+        "optionB": "It is slower than microkernels",
+        "optionC": "It uses more memory",
+        "optionD": "It requires more hardware resources",
+        "answer": "It is difficult to modify"
+    },
+    {
+        "question": "In which of the following is the kernel responsible for managing memory allocation?",
+        "optionA": "User-space applications",
+        "optionB": "Device drivers",
+        "optionC": "Kernel-space applications",
+        "optionD": "Memory manager",
+        "answer": "Memory manager"
+    },
+    {
+        "question": "What is the main purpose of a process scheduler in the kernel?",
+        "optionA": "To manage network traffic",
+        "optionB": "To allocate CPU time to processes",
+        "optionC": "To handle input/output operations",
+        "optionD": "To manage memory",
+        "answer": "To allocate CPU time to processes"
+    },
+    {
+        "question": "Which of the following is an example of a system call used for process management?",
+        "optionA": "read()",
+        "optionB": "fork()",
+        "optionC": "open()",
+        "optionD": "exec()",
+        "answer": "fork()"
+    },
+    {
+        "question": "Which kernel architecture is typically used in embedded systems?",
+        "optionA": "Monolithic Kernel",
+        "optionB": "Microkernel",
+        "optionC": "Hybrid Kernel",
+        "optionD": "Exokernel",
+        "answer": "Microkernel"
+    },
+    {
+        "question": "Which part of the kernel is responsible for managing device communication?",
+        "optionA": "File System",
+        "optionB": "Device Drivers",
+        "optionC": "Process Scheduler",
+        "optionD": "Memory Manager",
+        "answer": "Device Drivers"
+    },
+    {
+        "question": "What does the kernel use to handle system interrupts?",
+        "optionA": "Interrupt Service Routines (ISRs)",
+        "optionB": "Process Scheduling",
+        "optionC": "Memory Paging",
+        "optionD": "System Calls",
+        "answer": "Interrupt Service Routines (ISRs)"
+    },
+    {
+        "question": "Which of the following is a key component of the Linux kernel?",
+        "optionA": "X Server",
+        "optionB": "File System",
+        "optionC": "Shell",
+        "optionD": "Kernel Module",
+        "answer": "Kernel Module"
+    },
+    {
+        "question": "Which of the following is a feature of the Linux kernel?",
+        "optionA": "Monolithic design with loadable modules",
+        "optionB": "Microkernel design with static modules",
+        "optionC": "Hybrid kernel design with static modules",
+        "optionD": "Exokernel design with dynamic modules",
+        "answer": "Monolithic design with loadable modules"
+    },
+    {
+        "question": "What is the function of a file system in the kernel?",
+        "optionA": "Manages processes",
+        "optionB": "Manages memory allocation",
+        "optionC": "Organizes and stores files",
+        "optionD": "Handles network traffic",
+        "answer": "Organizes and stores files"
+    },
+    {
+        "question": "Which system call is used to read data from a file in Unix-based systems?",
+        "optionA": "write()",
+        "optionB": "read()",
+        "optionC": "open()",
+        "optionD": "close()",
+        "answer": "read()"
+    },
+    {
+        "question": "Which kernel is designed for real-time systems?",
+        "optionA": "RTOS Kernel",
+        "optionB": "Monolithic Kernel",
+        "optionC": "Microkernel",
+        "optionD": "Exokernel",
+        "answer": "RTOS Kernel"
+    },
+    {
+        "question": "What is the function of a memory manager in the kernel?",
+        "optionA": "Allocates and deallocates memory to processes",
+        "optionB": "Manages input/output operations",
+        "optionC": "Schedules processes for execution",
+        "optionD": "Manages device drivers",
+        "answer": "Allocates and deallocates memory to processes"
+    },
+    {
+        "question": "What is the role of the kernel in virtual memory management?",
+        "optionA": "To manage process scheduling",
+        "optionB": "To map virtual addresses to physical addresses",
+        "optionC": "To handle system calls",
+        "optionD": "To manage hardware interrupts",
+        "answer": "To map virtual addresses to physical addresses"
+    },
+    {
+        "question": "Which of the following is true about the kernel's role in process synchronization?",
+        "optionA": "It manages memory allocation for processes",
+        "optionB": "It ensures processes are executed in a sequential order",
+        "optionC": "It manages communication between processes",
+        "optionD": "It prevents race conditions",
+        "answer": "It prevents race conditions"
+    },
+    {
+        "question": "Which type of kernel architecture is used by macOS?",
+        "optionA": "Monolithic Kernel",
+        "optionB": "Microkernel",
+        "optionC": "Hybrid Kernel",
+        "optionD": "Exokernel",
+        "answer": "Hybrid Kernel"
+    },
+    {
+        "question": "Which kernel architecture is best suited for a system requiring high reliability and modularity?",
+        "optionA": "Monolithic Kernel",
+        "optionB": "Microkernel",
+        "optionC": "Hybrid Kernel",
+        "optionD": "Exokernel",
+        "answer": "Microkernel"
+    },
+    {
+        "question": "Which system call is used to terminate a process in Unix-based systems?",
+        "optionA": "fork()",
+        "optionB": "exec()",
+        "optionC": "exit()",
+        "optionD": "kill()",
+        "answer": "exit()"
+    },
+    {
+        "question": "What is the main purpose of the kernel's virtual file system (VFS)?",
+        "optionA": "To manage physical file systems",
+        "optionB": "To provide a uniform interface to various file systems",
+        "optionC": "To manage memory allocation",
+        "optionD": "To handle system calls",
+        "answer": "To provide a uniform interface to various file systems"
+    },
+    {
+        "question": "Which of the following kernel components handles process execution?",
+        "optionA": "Memory Manager",
+        "optionB": "File System",
+        "optionC": "Process Scheduler",
+        "optionD": "Device Drivers",
+        "answer": "Process Scheduler"
+    },
+    {
+        "question": "Which of the following is a key feature of a microkernel?",
+        "optionA": "All components run in kernel space",
+        "optionB": "It provides minimal services in kernel space",
+        "optionC": "It is less secure than a monolithic kernel",
+        "optionD": "It is faster than a monolithic kernel",
+        "answer": "It provides minimal services in kernel space"
+    },
+    {
+        "question": "What does the kernel use to handle memory protection?",
+        "optionA": "Memory Paging",
+        "optionB": "Interrupts",
+        "optionC": "System Calls",
+        "optionD": "Thread Synchronization",
+        "answer": "Memory Paging"
+    },
+    {
+        "question": "Which of the following is an advantage of a hybrid kernel?",
+        "optionA": "Faster execution than microkernels",
+        "optionB": "More modular than monolithic kernels",
+        "optionC": "More secure than microkernels",
+        "optionD": "Better memory management",
+        "answer": "Faster execution than microkernels"
+    },
+    {
+        "question": "Which of the following is true about the kernel's role in interrupt handling?",
+        "optionA": "It ignores hardware interrupts",
+        "optionB": "It processes hardware interrupts and schedules tasks",
+        "optionC": "It prevents all interrupts from occurring",
+        "optionD": "It uses interrupts to manage system calls",
+        "answer": "It processes hardware interrupts and schedules tasks"
+    },
+    {
+        "question": "Which kernel component is responsible for managing process memory?",
+        "optionA": "File System",
+        "optionB": "Memory Manager",
+        "optionC": "Process Scheduler",
+        "optionD": "Device Drivers",
+        "answer": "Memory Manager"
+    },
+    {
+        "question": "Which of the following is a key feature of a monolithic kernel?",
+        "optionA": "All services run in user space",
+        "optionB": "It has a modular structure",
+        "optionC": "It runs all services in kernel space",
+        "optionD": "It uses a separate microkernel for process management",
+        "answer": "It runs all services in kernel space"
+    },
+    {
+        "question": "What is the function of the kernel's interrupt handler?",
+        "optionA": "It manages memory allocation",
+        "optionB": "It schedules processes for execution",
+        "optionC": "It handles hardware interrupts and transfers control to the appropriate process",
+        "optionD": "It handles system calls",
+        "answer": "It handles hardware interrupts and transfers control to the appropriate process"
+    },
+    {
+        "question": "What is the role of the kernel's scheduler?",
+        "optionA": "To manage hardware resources",
+        "optionB": "To allocate CPU time to processes",
+        "optionC": "To handle file system operations",
+        "optionD": "To manage network traffic",
+        "answer": "To allocate CPU time to processes"
+    },
+    {
+        "question": "Which of the following is a function of the kernel's memory manager?",
+        "optionA": "To schedule processes for execution",
+        "optionB": "To allocate and manage physical memory",
+        "optionC": "To handle user input",
+        "optionD": "To manage file system operations",
+        "answer": "To allocate and manage physical memory"
+    },
+    {
+        "question": "Which kernel architecture is best suited for high-performance computing?",
+        "optionA": "Microkernel",
+        "optionB": "Monolithic Kernel",
+        "optionC": "Hybrid Kernel",
+        "optionD": "Exokernel",
+        "answer": "Monolithic Kernel"
+    },
+    {
+        "question": "What is the purpose of kernel modules in Linux?",
+        "optionA": "To handle user input",
+        "optionB": "To manage memory",
+        "optionC": "To provide additional functionality to the kernel without recompiling",
+        "optionD": "To manage file systems",
+        "answer": "To provide additional functionality to the kernel without recompiling"
+    },
+    {
+        "question": "Which of the following is an example of a hybrid kernel?",
+        "optionA": "Linux",
+        "optionB": "Windows NT",
+        "optionC": "QNX",
+        "optionD": "macOS",
+        "answer": "Windows NT"
+    },
+    {
+        "question": "Which system call is used to allocate memory in Unix-based systems?",
+        "optionA": "malloc()",
+        "optionB": "free()",
+        "optionC": "brk()",
+        "optionD": "exit()",
+        "answer": "brk()"
+    },
+    {
+        "question": "What is the function of the kernel's file system manager?",
+        "optionA": "To allocate memory",
+        "optionB": "To manage hardware resources",
+        "optionC": "To organize and manage files and directories",
+        "optionD": "To handle system interrupts",
+        "answer": "To organize and manage files and directories"
+    },
+    {
+        "question": "What is the main purpose of the kernel's device drivers?",
+        "optionA": "To manage processes",
+        "optionB": "To provide an interface between hardware and software",
+        "optionC": "To manage memory allocation",
+        "optionD": "To handle system calls",
+        "answer": "To provide an interface between hardware and software"
+    },
+    {
+        "question": "Which of the following is true about a microkernel?",
+        "optionA": "It runs all services in kernel space",
+        "optionB": "It has fewer services running in kernel space",
+        "optionC": "It is slower than monolithic kernels",
+        "optionD": "It is more difficult to maintain",
+        "answer": "It has fewer services running in kernel space"
+    },
+    {
+        "question": "Which kernel component is responsible for managing the system's network communication?",
+        "optionA": "Network Stack",
+        "optionB": "File System",
+        "optionC": "Device Drivers",
+        "optionD": "Memory Manager",
+        "answer": "Network Stack"
+    },
+    {
+        "question": "Which of the following is an example of a system call used for memory management?",
+        "optionA": "read()",
+        "optionB": "malloc()",
+        "optionC": "open()",
+        "optionD": "fork()",
+        "answer": "malloc()"
+    },
+    {
+        "question": "Which type of kernel is best suited for systems requiring real-time processing?",
+        "optionA": "RTOS Kernel",
+        "optionB": "Microkernel",
+        "optionC": "Monolithic Kernel",
+        "optionD": "Hybrid Kernel",
+        "answer": "RTOS Kernel"
+    },
+    {
+        "question": "What is the role of the kernel's process management system?",
+        "optionA": "To allocate memory to processes",
+        "optionB": "To manage the execution of processes",
+        "optionC": "To handle hardware interrupts",
+        "optionD": "To manage file system operations",
+        "answer": "To manage the execution of processes"
+    },
+    {
+        "question": "Which of the following is an example of a system call used to create a new process?",
+        "optionA": "fork()",
+        "optionB": "exec()",
+        "optionC": "open()",
+        "optionD": "exit()",
+        "answer": "fork()"
+    },
+    {
+        "question": "Which kernel architecture is typically used for embedded systems?",
+        "optionA": "Monolithic Kernel",
+        "optionB": "Microkernel",
+        "optionC": "Hybrid Kernel",
+        "optionD": "Exokernel",
+        "answer": "Microkernel"
+    },
+    {
+        "question": "What is the role of a kernel's virtual memory manager?",
+        "optionA": "To manage file systems",
+        "optionB": "To handle process scheduling",
+        "optionC": "To manage the mapping of virtual addresses to physical addresses",
+        "optionD": "To manage device drivers",
+        "answer": "To manage the mapping of virtual addresses to physical addresses"
+    },
+    {
+        "question": "Which of the following is true about kernel modules?",
+        "optionA": "They are loaded at boot time and cannot be unloaded",
+        "optionB": "They provide additional functionality to the kernel without rebooting",
+        "optionC": "They are used to manage user interfaces",
+        "optionD": "They are part of the kernel's core system services",
+        "answer": "They provide additional functionality to the kernel without rebooting"
+    },
+    {
+        "question": "Which of the following is an example of a system call used to open a file in Unix-based systems?",
+        "optionA": "open()",
+        "optionB": "read()",
+        "optionC": "close()",
+        "optionD": "write()",
+        "answer": "open()"
+    },
+    {
+        "question": "What is the main advantage of a microkernel over a monolithic kernel?",
+        "optionA": "Better performance",
+        "optionB": "More modular and easier to maintain",
+        "optionC": "Fewer system calls",
+        "optionD": "Faster execution",
+        "answer": "More modular and easier to maintain"
+    },
+    {
+        "question": "Which of the following is true about a hybrid kernel?",
+        "optionA": "It combines the advantages of both monolithic and microkernel architectures",
+        "optionB": "It is slower than both monolithic and microkernels",
+        "optionC": "It runs all services in user space",
+        "optionD": "It is less secure than a microkernel",
+        "answer": "It combines the advantages of both monolithic and microkernel architectures"
+    },
+    {
+        "question": "Which of the following is a key responsibility of the kernel in a multi-core system?",
+        "optionA": "To manage process scheduling across cores",
+        "optionB": "To handle user input",
+        "optionC": "To allocate network bandwidth",
+        "optionD": "To manage file system operations",
+        "answer": "To manage process scheduling across cores"
+    },
+    {
+        "question": "What is the role of the kernel's system call interface?",
+        "optionA": "To manage memory allocation",
+        "optionB": "To handle hardware interrupts",
+        "optionC": "To provide a way for user-space applications to interact with the kernel",
+        "optionD": "To manage device drivers",
+        "answer": "To provide a way for user-space applications to interact with the kernel"
+    }
+]

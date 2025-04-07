@@ -1,0 +1,442 @@
+[
+    {
+        "question": "What is the purpose of SSL/TLS in cybersecurity?",
+        "optionA": "To provide secure communication over a network",
+        "optionB": "To encrypt sensitive data in databases",
+        "optionC": "To monitor network traffic",
+        "optionD": "To authenticate users",
+        "answer": "To provide secure communication over a network"
+    },
+    {
+        "question": "Which protocol is commonly used for secure email communication?",
+        "optionA": "IMAP",
+        "optionB": "SMTP",
+        "optionC": "POP3",
+        "optionD": "S/MIME",
+        "answer": "S/MIME"
+    },
+    {
+        "question": "What does the term 'PKI' stand for in cybersecurity?",
+        "optionA": "Public Key Infrastructure",
+        "optionB": "Private Key Integrity",
+        "optionC": "Public Key Identifier",
+        "optionD": "Private Key Interface",
+        "answer": "Public Key Infrastructure"
+    },
+    {
+        "question": "Which protocol is used to securely exchange keys for encryption in SSL/TLS?",
+        "optionA": "RSA",
+        "optionB": "DH (Diffie-Hellman)",
+        "optionC": "AES",
+        "optionD": "3DES",
+        "answer": "DH (Diffie-Hellman)"
+    },
+    {
+        "question": "What is the purpose of the HTTPS protocol?",
+        "optionA": "To provide secure communication over HTTP",
+        "optionB": "To encrypt email messages",
+        "optionC": "To authenticate users",
+        "optionD": "To monitor network traffic",
+        "answer": "To provide secure communication over HTTP"
+    },
+    {
+        "question": "What is the function of a digital certificate in SSL/TLS?",
+        "optionA": "To verify the authenticity of the public key",
+        "optionB": "To encrypt sensitive data",
+        "optionC": "To authenticate users",
+        "optionD": "To monitor network traffic",
+        "answer": "To verify the authenticity of the public key"
+    },
+    {
+        "question": "What is the main advantage of using the AES encryption algorithm?",
+        "optionA": "It provides faster encryption speeds",
+        "optionB": "It is unbreakable",
+        "optionC": "It uses smaller key sizes",
+        "optionD": "It is only used for secure email",
+        "answer": "It provides faster encryption speeds"
+    },
+    {
+        "question": "Which of the following protocols is used to establish a secure connection over the internet?",
+        "optionA": "HTTP",
+        "optionB": "FTP",
+        "optionC": "SSL/TLS",
+        "optionD": "SMTP",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "Which of the following is a characteristic of the IPSec protocol?",
+        "optionA": "It is used for email encryption",
+        "optionB": "It provides secure communication over IP networks",
+        "optionC": "It is used for wireless communication",
+        "optionD": "It is used for website authentication",
+        "answer": "It provides secure communication over IP networks"
+    },
+    {
+        "question": "Which of the following is an example of a symmetric encryption algorithm?",
+        "optionA": "RSA",
+        "optionB": "ECC",
+        "optionC": "AES",
+        "optionD": "Diffie-Hellman",
+        "answer": "AES"
+    },
+    {
+        "question": "What does the term 'two-factor authentication' refer to?",
+        "optionA": "Using two passwords for authentication",
+        "optionB": "Using two different encryption algorithms",
+        "optionC": "Requiring two forms of identification to access a system",
+        "optionD": "Using two different protocols for communication",
+        "answer": "Requiring two forms of identification to access a system"
+    },
+    {
+        "question": "Which protocol is used to secure wireless networks?",
+        "optionA": "WPA2",
+        "optionB": "SSL/TLS",
+        "optionC": "IPSec",
+        "optionD": "HTTPS",
+        "answer": "WPA2"
+    },
+    {
+        "question": "Which of the following is a common use case for the SSH protocol?",
+        "optionA": "Secure email communication",
+        "optionB": "Secure remote access to servers",
+        "optionC": "Secure website browsing",
+        "optionD": "Secure file transfer",
+        "answer": "Secure remote access to servers"
+    },
+    {
+        "question": "What is the primary function of the Diffie-Hellman key exchange protocol?",
+        "optionA": "To encrypt data",
+        "optionB": "To securely exchange cryptographic keys over a public channel",
+        "optionC": "To authenticate users",
+        "optionD": "To monitor network traffic",
+        "answer": "To securely exchange cryptographic keys over a public channel"
+    },
+    {
+        "question": "Which protocol is commonly used for secure file transfer?",
+        "optionA": "FTP",
+        "optionB": "SFTP",
+        "optionC": "SMTP",
+        "optionD": "HTTP",
+        "answer": "SFTP"
+    },
+    {
+        "question": "What is the main purpose of a VPN?",
+        "optionA": "To encrypt internet traffic and hide the user's IP address",
+        "optionB": "To monitor network traffic",
+        "optionC": "To authenticate users",
+        "optionD": "To block malware",
+        "answer": "To encrypt internet traffic and hide the user's IP address"
+    },
+    {
+        "question": "Which of the following is a widely used encryption algorithm for securing web traffic?",
+        "optionA": "AES",
+        "optionB": "RSA",
+        "optionC": "Blowfish",
+        "optionD": "RC4",
+        "answer": "AES"
+    },
+    {
+        "question": "What is the primary purpose of the DNSSEC protocol?",
+        "optionA": "To secure DNS queries and prevent DNS spoofing",
+        "optionB": "To encrypt DNS traffic",
+        "optionC": "To authenticate DNS servers",
+        "optionD": "To block malicious DNS queries",
+        "answer": "To secure DNS queries and prevent DNS spoofing"
+    },
+    {
+        "question": "Which protocol is used for securing email communication?",
+        "optionA": "SMTP",
+        "optionB": "S/MIME",
+        "optionC": "POP3",
+        "optionD": "IMAP",
+        "answer": "S/MIME"
+    },
+    {
+        "question": "What is the purpose of the TLS handshake?",
+        "optionA": "To authenticate the server",
+        "optionB": "To encrypt the data being sent",
+        "optionC": "To establish a secure connection and exchange keys",
+        "optionD": "To monitor network traffic",
+        "answer": "To establish a secure connection and exchange keys"
+    },
+    {
+        "question": "What does the term 'man-in-the-middle attack' refer to?",
+        "optionA": "An attacker intercepts and alters communication between two parties",
+        "optionB": "An attacker blocks access to a system",
+        "optionC": "An attacker steals sensitive information from a system",
+        "optionD": "An attacker installs malware on a system",
+        "answer": "An attacker intercepts and alters communication between two parties"
+    },
+    {
+        "question": "Which of the following protocols is used to establish secure connections over the internet?",
+        "optionA": "FTP",
+        "optionB": "HTTP",
+        "optionC": "SSL/TLS",
+        "optionD": "SMTP",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "Which of the following protocols is used to prevent unauthorized access to a network?",
+        "optionA": "IPSec",
+        "optionB": "HTTPS",
+        "optionC": "FTP",
+        "optionD": "SMTP",
+        "answer": "IPSec"
+    },
+    {
+        "question": "What is the purpose of the HTTPS protocol?",
+        "optionA": "To encrypt email messages",
+        "optionB": "To encrypt web traffic",
+        "optionC": "To authenticate users",
+        "optionD": "To monitor network traffic",
+        "answer": "To encrypt web traffic"
+    },
+    {
+        "question": "Which protocol is commonly used for secure remote login to a server?",
+        "optionA": "SSH",
+        "optionB": "FTP",
+        "optionC": "SMTP",
+        "optionD": "HTTP",
+        "answer": "SSH"
+    },
+    {
+        "question": "What is the purpose of the IPsec protocol?",
+        "optionA": "To secure IP communication by encrypting and authenticating packets",
+        "optionB": "To encrypt email messages",
+        "optionC": "To monitor network traffic",
+        "optionD": "To block malware",
+        "answer": "To secure IP communication by encrypting and authenticating packets"
+    },
+    {
+        "question": "What is the function of the RSA algorithm?",
+        "optionA": "To encrypt data using a public key",
+        "optionB": "To sign digital certificates",
+        "optionC": "To generate cryptographic keys",
+        "optionD": "To monitor network traffic",
+        "answer": "To encrypt data using a public key"
+    },
+    {
+        "question": "Which of the following is a feature of the TLS protocol?",
+        "optionA": "It encrypts email messages",
+        "optionB": "It provides secure communication over the internet",
+        "optionC": "It monitors network traffic",
+        "optionD": "It blocks unauthorized access to a network",
+        "answer": "It provides secure communication over the internet"
+    },
+    {
+        "question": "What is the purpose of using a firewall in network security?",
+        "optionA": "To block unauthorized access to a network",
+        "optionB": "To encrypt internet traffic",
+        "optionC": "To monitor network traffic",
+        "optionD": "To authenticate users",
+        "answer": "To block unauthorized access to a network"
+    },
+    {
+        "question": "What is the primary function of the SSL/TLS protocol?",
+        "optionA": "To authenticate users",
+        "optionB": "To secure email communication",
+        "optionC": "To provide secure communication over a network",
+        "optionD": "To monitor network traffic",
+        "answer": "To provide secure communication over a network"
+    },
+    {
+        "question": "Which of the following is an advantage of using HTTPS over HTTP?",
+        "optionA": "Faster load times",
+        "optionB": "Secure communication and encryption",
+        "optionC": "Easier to configure",
+        "optionD": "More compatibility with older browsers",
+        "answer": "Secure communication and encryption"
+    },
+    {
+        "question": "Which protocol is used to establish a secure communication channel between a client and a server?",
+        "optionA": "SSH",
+        "optionB": "TLS",
+        "optionC": "SMTP",
+        "optionD": "FTP",
+        "answer": "TLS"
+    },
+    {
+        "question": "What does the acronym 'SSL' stand for?",
+        "optionA": "Secure Sockets Layer",
+        "optionB": "Secure System Layer",
+        "optionC": "Server Sockets Layer",
+        "optionD": "System Security Layer",
+        "answer": "Secure Sockets Layer"
+    },
+    {
+        "question": "What is the primary use of the IPsec protocol?",
+        "optionA": "To secure email communication",
+        "optionB": "To establish secure VPN connections",
+        "optionC": "To monitor network traffic",
+        "optionD": "To authenticate users",
+        "answer": "To establish secure VPN connections"
+    },
+    {
+        "question": "Which of the following protocols is used for secure file transfer?",
+        "optionA": "SFTP",
+        "optionB": "FTP",
+        "optionC": "HTTP",
+        "optionD": "POP3",
+        "answer": "SFTP"
+    },
+    {
+        "question": "What is the main purpose of the SSH protocol?",
+        "optionA": "To encrypt web traffic",
+        "optionB": "To provide secure remote access to servers",
+        "optionC": "To secure email communication",
+        "optionD": "To monitor network traffic",
+        "answer": "To provide secure remote access to servers"
+    },
+    {
+        "question": "Which of the following is a key feature of the S/MIME protocol?",
+        "optionA": "Encrypts email messages",
+        "optionB": "Provides secure web browsing",
+        "optionC": "Authenticates users",
+        "optionD": "Encrypts DNS queries",
+        "answer": "Encrypts email messages"
+    },
+    {
+        "question": "What does the term 'public key' refer to in cryptography?",
+        "optionA": "A key used for decryption",
+        "optionB": "A key used for encryption and shared with others",
+        "optionC": "A key used for monitoring network traffic",
+        "optionD": "A key used for authenticating users",
+        "answer": "A key used for encryption and shared with others"
+    },
+    {
+        "question": "Which of the following protocols is used for encrypting wireless communication?",
+        "optionA": "WPA2",
+        "optionB": "SSL/TLS",
+        "optionC": "SSH",
+        "optionD": "IPSec",
+        "answer": "WPA2"
+    },
+    {
+        "question": "What is the primary purpose of a digital certificate?",
+        "optionA": "To encrypt data",
+        "optionB": "To verify the identity of a user or server",
+        "optionC": "To monitor network traffic",
+        "optionD": "To prevent malware attacks",
+        "answer": "To verify the identity of a user or server"
+    },
+    {
+        "question": "Which encryption algorithm is used in the TLS protocol?",
+        "optionA": "RSA",
+        "optionB": "AES",
+        "optionC": "Blowfish",
+        "optionD": "DES",
+        "answer": "AES"
+    },
+    {
+        "question": "What does the term 'man-in-the-middle attack' refer to?",
+        "optionA": "An attacker intercepts and alters communication between two parties",
+        "optionB": "An attacker steals sensitive information from a system",
+        "optionC": "An attacker installs malware on a system",
+        "optionD": "An attacker blocks access to a network",
+        "answer": "An attacker intercepts and alters communication between two parties"
+    },
+    {
+        "question": "Which protocol is used to secure the communication between a browser and a server?",
+        "optionA": "FTP",
+        "optionB": "SMTP",
+        "optionC": "HTTPS",
+        "optionD": "IMAP",
+        "answer": "HTTPS"
+    },
+    {
+        "question": "Which of the following protocols is used to encrypt email messages?",
+        "optionA": "IMAP",
+        "optionB": "SMTP",
+        "optionC": "S/MIME",
+        "optionD": "POP3",
+        "answer": "S/MIME"
+    },
+    {
+        "question": "What is the primary purpose of the RSA algorithm?",
+        "optionA": "To generate cryptographic keys",
+        "optionB": "To encrypt data using a public key",
+        "optionC": "To sign digital certificates",
+        "optionD": "To monitor network traffic",
+        "answer": "To encrypt data using a public key"
+    },
+    {
+        "question": "Which of the following protocols is used to establish secure communication over the internet?",
+        "optionA": "HTTP",
+        "optionB": "SMTP",
+        "optionC": "SSL/TLS",
+        "optionD": "FTP",
+        "answer": "SSL/TLS"
+    },
+    {
+        "question": "What is the main purpose of the AES encryption algorithm?",
+        "optionA": "To encrypt email messages",
+        "optionB": "To encrypt data with a symmetric key",
+        "optionC": "To monitor network traffic",
+        "optionD": "To authenticate users",
+        "answer": "To encrypt data with a symmetric key"
+    },
+    {
+        "question": "Which protocol is commonly used to authenticate users and devices in a network?",
+        "optionA": "RADIUS",
+        "optionB": "SSH",
+        "optionC": "SMTP",
+        "optionD": "HTTPS",
+        "answer": "RADIUS"
+    },
+    {
+        "question": "What is the purpose of the Diffie-Hellman key exchange?",
+        "optionA": "To securely exchange encryption keys over a public channel",
+        "optionB": "To authenticate users",
+        "optionC": "To encrypt data",
+        "optionD": "To monitor network traffic",
+        "answer": "To securely exchange encryption keys over a public channel"
+    },
+    {
+        "question": "Which of the following is a commonly used protocol for secure remote login to a server?",
+        "optionA": "FTP",
+        "optionB": "SSH",
+        "optionC": "SMTP",
+        "optionD": "HTTP",
+        "answer": "SSH"
+    },
+    {
+        "question": "What is the primary function of a VPN?",
+        "optionA": "To encrypt internet traffic and hide the user's IP address",
+        "optionB": "To monitor network traffic",
+        "optionC": "To authenticate users",
+        "optionD": "To block malware",
+        "answer": "To encrypt internet traffic and hide the user's IP address"
+    },
+    {
+        "question": "What does the term 'two-factor authentication' refer to?",
+        "optionA": "Using two passwords for authentication",
+        "optionB": "Using two different encryption algorithms",
+        "optionC": "Requiring two forms of identification to access a system",
+        "optionD": "Using two different protocols for communication",
+        "answer": "Requiring two forms of identification to access a system"
+    },
+    {
+        "question": "Which protocol is used to secure wireless communication in a Wi-Fi network?",
+        "optionA": "WPA2",
+        "optionB": "SSL/TLS",
+        "optionC": "IPSec",
+        "optionD": "HTTPS",
+        "answer": "WPA2"
+    },
+    {
+        "question": "What is the main purpose of the DNSSEC protocol?",
+        "optionA": "To encrypt DNS traffic",
+        "optionB": "To secure DNS queries and prevent DNS spoofing",
+        "optionC": "To monitor DNS traffic",
+        "optionD": "To block malicious DNS queries",
+        "answer": "To secure DNS queries and prevent DNS spoofing"
+    },
+    {
+        "question": "What is the purpose of the TLS handshake?",
+        "optionA": "To authenticate the server",
+        "optionB": "To encrypt the data being sent",
+        "optionC": "To establish a secure connection and exchange keys",
+        "optionD": "To monitor network traffic",
+        "answer": "To establish a secure connection and exchange keys"
+    }
+]

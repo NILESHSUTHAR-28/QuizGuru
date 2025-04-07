@@ -1,0 +1,906 @@
+[
+    {
+        "question": "Which company developed JavaScript?",
+        "optionA": "Microsoft",
+        "optionB": "Sun Microsystems",
+        "optionC": "Netscape",
+        "optionD": "Oracle",
+        "answer": "Netscape"
+    },
+    {
+        "question": "What does 'NaN' stand for in JavaScript?",
+        "optionA": "Not a Name",
+        "optionB": "Not a Number",
+        "optionC": "Negative and Null",
+        "optionD": "None of the Above",
+        "answer": "Not a Number"
+    },
+    {
+        "question": "Which symbol is used for comments in JavaScript?",
+        "optionA": "//",
+        "optionB": "<!-- -->",
+        "optionC": "/* */",
+        "optionD": "#",
+        "answer": "//"
+    },
+    {
+        "question": "Which method is used to convert a JSON string into a JavaScript object?",
+        "optionA": "JSON.stringify()",
+        "optionB": "JSON.parse()",
+        "optionC": "JSON.objectify()",
+        "optionD": "JSON.toObject()",
+        "answer": "JSON.parse()"
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'app.js'?",
+        "optionA": "<script href='app.js'></script>",
+        "optionB": "<script src='app.js'></script>",
+        "optionC": "<script link='app.js'></script>",
+        "optionD": "<script file='app.js'></script>",
+        "answer": "<script src='app.js'></script>"
+    },
+    {
+        "question": "What is the output of 'typeof null' in JavaScript?",
+        "optionA": "null",
+        "optionB": "object",
+        "optionC": "undefined",
+        "optionD": "boolean",
+        "answer": "object"
+    },
+    {
+        "question": "Which of the following is not a JavaScript data type?",
+        "optionA": "Number",
+        "optionB": "String",
+        "optionC": "Boolean",
+        "optionD": "Character",
+        "answer": "Character"
+    },
+    {
+        "question": "What will '2' + 2 evaluate to in JavaScript?",
+        "optionA": "4",
+        "optionB": "'22'",
+        "optionC": "Error",
+        "optionD": "NaN",
+        "answer": "'22'"
+    },
+    {
+        "question": "Which keyword is used to define a variable in JavaScript?",
+        "optionA": "var",
+        "optionB": "let",
+        "optionC": "const",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of the 'this' keyword in JavaScript?",
+        "optionA": "Refers to the current object",
+        "optionB": "Refers to the previous object",
+        "optionC": "Refers to a global object",
+        "optionD": "None of the above",
+        "answer": "Refers to the current object"
+    },
+    {
+        "question": "Which method is used to add an element to the end of an array in JavaScript?",
+        "optionA": "push()",
+        "optionB": "pop()",
+        "optionC": "shift()",
+        "optionD": "unshift()",
+        "answer": "push()"
+    },
+    {
+        "question": "What is the output of 'console.log(typeof [])' in JavaScript?",
+        "optionA": "array",
+        "optionB": "object",
+        "optionC": "undefined",
+        "optionD": "null",
+        "answer": "object"
+    },
+    {
+        "question": "How do you declare a JavaScript function?",
+        "optionA": "function myFunction() {}",
+        "optionB": "def myFunction() {}",
+        "optionC": "function:myFunction() {}",
+        "optionD": "function = myFunction() {}",
+        "answer": "function myFunction() {}"
+    },
+    {
+        "question": "Which operator is used to compare both value and type in JavaScript?",
+        "optionA": "==",
+        "optionB": "===",
+        "optionC": "!=",
+        "optionD": "!==",
+        "answer": "==="
+    },
+    {
+        "question": "What is the default value of 'undefined' in JavaScript?",
+        "optionA": "null",
+        "optionB": "undefined",
+        "optionC": "0",
+        "optionD": "false",
+        "answer": "undefined"
+    },
+    {
+        "question": "How can you detect the client's browser name in JavaScript?",
+        "optionA": "navigator.appName",
+        "optionB": "browser.name",
+        "optionC": "client.browserName",
+        "optionD": "window.browserName",
+        "answer": "navigator.appName"
+    },
+    {
+        "question": "What does '===' mean in JavaScript?",
+        "optionA": "Equal value",
+        "optionB": "Equal value and type",
+        "optionC": "Not equal",
+        "optionD": "Assignment",
+        "answer": "Equal value and type"
+    },
+    {
+        "question": "Which method is used to find the index of an element in an array?",
+        "optionA": "indexOf()",
+        "optionB": "findIndex()",
+        "optionC": "getIndex()",
+        "optionD": "arrayIndex()",
+        "answer": "indexOf()"
+    },
+    {
+        "question": "What will 'typeof NaN' return in JavaScript?",
+        "optionA": "number",
+        "optionB": "NaN",
+        "optionC": "undefined",
+        "optionD": "object",
+        "answer": "number"
+    },
+    {
+        "question": "What is a closure in JavaScript?",
+        "optionA": "A block of code",
+        "optionB": "A function that has access to variables in its outer scope",
+        "optionC": "A function that is invoked immediately",
+        "optionD": "None of the above",
+        "answer": "A function that has access to variables in its outer scope"
+    },
+    {
+        "question": "What is the purpose of 'use strict' in JavaScript?",
+        "optionA": "Enable strict parsing",
+        "optionB": "Enable strict mode to catch common errors",
+        "optionC": "Enable strict scoping",
+        "optionD": "None of the above",
+        "answer": "Enable strict mode to catch common errors"
+    },
+    {
+        "question": "What will 'console.log(0.1 + 0.2 === 0.3)' return in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "NaN",
+        "answer": "false"
+    },
+    {
+        "question": "How do you create an object in JavaScript?",
+        "optionA": "var obj = {};",
+        "optionB": "var obj = Object.create();",
+        "optionC": "var obj = [];",
+        "optionD": "var obj = new Object[];",
+        "answer": "var obj = {};"
+    },
+    {
+        "question": "Which array method is used to remove the last element of an array?",
+        "optionA": "push()",
+        "optionB": "pop()",
+        "optionC": "shift()",
+        "optionD": "unshift()",
+        "answer": "pop()"
+    },
+    {
+        "question": "Which keyword is used to prevent modification of an object in JavaScript?",
+        "optionA": "const",
+        "optionB": "Object.seal",
+        "optionC": "Object.freeze",
+        "optionD": "final",
+        "answer": "Object.freeze"
+    },
+    {
+        "question": "What is the result of 'null == undefined' in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "Error",
+        "optionD": "NaN",
+        "answer": "true"
+    },
+    {
+        "question": "Which operator is used to check if a property exists in an object?",
+        "optionA": "exists",
+        "optionB": "has",
+        "optionC": "in",
+        "optionD": "of",
+        "answer": "in"
+    },
+    {
+        "question": "How do you create a promise in JavaScript?",
+        "optionA": "new Promise()",
+        "optionB": "Promise.create()",
+        "optionC": "Promise.new()",
+        "optionD": "create.Promise()",
+        "answer": "new Promise()"
+    },
+    {
+        "question": "Which function is used to execute a function after a specified time?",
+        "optionA": "setInterval()",
+        "optionB": "setTimeout()",
+        "optionC": "setTime()",
+        "optionD": "setFunction()",
+        "answer": "setTimeout()"
+    },
+    {
+        "question": "What does the 'map()' method do in JavaScript?",
+        "optionA": "Modifies the original array",
+        "optionB": "Creates a new array with the results of calling a function on every element",
+        "optionC": "Filters the array",
+        "optionD": "None of the above",
+        "answer": "Creates a new array with the results of calling a function on every element"
+    },
+    {
+        "question": "What will 'console.log([] == false)' return in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "NaN",
+        "answer": "true"
+    },
+    {
+        "question": "Which event is triggered when an element loses focus?",
+        "optionA": "onblur",
+        "optionB": "onfocus",
+        "optionC": "onchange",
+        "optionD": "oninput",
+        "answer": "onblur"
+    },
+    {
+        "question": "What is the result of 'console.log(1 / 0)' in JavaScript?",
+        "optionA": "NaN",
+        "optionB": "Infinity",
+        "optionC": "Error",
+        "optionD": "Undefined",
+        "answer": "Infinity"
+    },
+    {
+        "question": "How can you add a property to an object in JavaScript?",
+        "optionA": "object.propertyName = value;",
+        "optionB": "object->propertyName = value;",
+        "optionC": "object[propertyName] = value;",
+        "optionD": "Both A and C",
+        "answer": "Both A and C"
+    },
+    {
+        "question": "What does the 'filter()' method do in JavaScript?",
+        "optionA": "Filters the array and modifies the original array",
+        "optionB": "Creates a new array with elements that pass the test provided by a function",
+        "optionC": "Filters the array and returns the first element",
+        "optionD": "None of the above",
+        "answer": "Creates a new array with elements that pass the test provided by a function"
+    },
+    {
+        "question": "Which symbol is used to destructure an object in JavaScript?",
+        "optionA": "[]",
+        "optionB": "{}",
+        "optionC": "...",
+        "optionD": "#",
+        "answer": "{}"
+    },
+    {
+        "question": "What is the output of 'console.log(!!false)' in JavaScript?",
+        "optionA": "false",
+        "optionB": "true",
+        "optionC": "undefined",
+        "optionD": "NaN",
+        "answer": "false"
+    },
+    {
+        "question": "Which method is used to join all elements of an array into a string?",
+        "optionA": "join()",
+        "optionB": "concat()",
+        "optionC": "toString()",
+        "optionD": "push()",
+        "answer": "join()"
+    },
+    {
+        "question": "What is the difference between 'null' and 'undefined' in JavaScript?",
+        "optionA": "null is assigned manually, undefined is not assigned",
+        "optionB": "undefined is a type, null is not",
+        "optionC": "Both are the same",
+        "optionD": "None of the above",
+        "answer": "null is assigned manually, undefined is not assigned"
+    },
+    {
+        "question": "Which operator is used for exponentiation in JavaScript?",
+        "optionA": "**",
+        "optionB": "^",
+        "optionC": "exp",
+        "optionD": "None of the above",
+        "answer": "**"
+    },
+    {
+        "question": "What is the output of 'console.log(typeof function() {})'?",
+        "optionA": "object",
+        "optionB": "function",
+        "optionC": "undefined",
+        "optionD": "string",
+        "answer": "function"
+    },
+    {
+        "question": "What will 'console.log([] + [])' return in JavaScript?",
+        "optionA": "An empty array",
+        "optionB": "An empty string",
+        "optionC": "NaN",
+        "optionD": "undefined",
+        "answer": "An empty string"
+    },
+    {
+        "question": "Which method is used to remove whitespace from both ends of a string?",
+        "optionA": "strip()",
+        "optionB": "trim()",
+        "optionC": "clean()",
+        "optionD": "chop()",
+        "answer": "trim()"
+    },
+    {
+        "question": "Which built-in object is used to work with dates and times in JavaScript?",
+        "optionA": "Time",
+        "optionB": "Clock",
+        "optionC": "Date",
+        "optionD": "Timer",
+        "answer": "Date"
+    },
+    {
+        "question": "What is the purpose of the 'reduce()' method in JavaScript?",
+        "optionA": "To reduce the size of an array",
+        "optionB": "To execute a reducer function on each element of the array, resulting in a single output value",
+        "optionC": "To filter elements of an array",
+        "optionD": "None of the above",
+        "answer": "To execute a reducer function on each element of the array, resulting in a single output value"
+    },
+    {
+        "question": "What will 'console.log([1, 2, 3] instanceof Array)' return?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "Error",
+        "answer": "true"
+    },
+    {
+        "question": "Which method is used to find the length of a string in JavaScript?",
+        "optionA": "size",
+        "optionB": "length",
+        "optionC": "strlen",
+        "optionD": "None of the above",
+        "answer": "length"
+    },
+    {
+        "question": "Which function is used to round a number to the nearest integer in JavaScript?",
+        "optionA": "round()",
+        "optionB": "ceil()",
+        "optionC": "floor()",
+        "optionD": "Math.round()",
+        "answer": "Math.round()"
+    },
+    {
+        "question": "Which of the following is used to stop a loop in JavaScript?",
+        "optionA": "exit",
+        "optionB": "break",
+        "optionC": "stop",
+        "optionD": "continue",
+        "answer": "break"
+    },
+    {
+        "question": "What will 'console.log(1 == '1')' return in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "Error",
+        "optionD": "undefined",
+        "answer": "true"
+    },
+    {
+        "question": "Which method is used to find the highest value in an array in JavaScript?",
+        "optionA": "max()",
+        "optionB": "Math.max()",
+        "optionC": "Array.max()",
+        "optionD": "Math.max.apply()",
+        "answer": "Math.max.apply()"
+    },
+    {
+        "question": "Which of the following is used to define a constant in JavaScript?",
+        "optionA": "let",
+        "optionB": "const",
+        "optionC": "var",
+        "optionD": "static",
+        "answer": "const"
+    },
+    {
+        "question": "Which property is used to refer to the number of elements in an array?",
+        "optionA": "length",
+        "optionB": "size",
+        "optionC": "count",
+        "optionD": "arrayLength",
+        "answer": "length"
+    },
+    {
+        "question": "Which method is used to remove the first element of an array in JavaScript?",
+        "optionA": "shift()",
+        "optionB": "pop()",
+        "optionC": "unshift()",
+        "optionD": "push()",
+        "answer": "shift()"
+    },
+    {
+        "question": "What is the purpose of the 'bind()' method in JavaScript?",
+        "optionA": "Sets the value of 'this' for a function",
+        "optionB": "Creates a new function with a specific 'this' context",
+        "optionC": "Both A and B",
+        "optionD": "None of the above",
+        "answer": "Both A and B"
+    },
+    {
+        "question": "What is the result of 'console.log('1' + 1)' in JavaScript?",
+        "optionA": "11",
+        "optionB": "2",
+        "optionC": "Error",
+        "optionD": "NaN",
+        "answer": "11"
+    },
+    {
+        "question": "Which of the following is used to parse a string into a JSON object?",
+        "optionA": "JSON.parse()",
+        "optionB": "JSON.stringify()",
+        "optionC": "parseJSON()",
+        "optionD": "stringifyJSON()",
+        "answer": "JSON.parse()"
+    },
+    {
+        "question": "What will 'console.log(1 && 0)' return in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "0",
+        "optionD": "1",
+        "answer": "false"
+    },
+    {
+        "question": "What is the default value of a variable declared with 'let' in JavaScript?",
+        "optionA": "null",
+        "optionB": "undefined",
+        "optionC": "false",
+        "optionD": "0",
+        "answer": "undefined"
+    },
+    {
+        "question": "Which event is triggered when an element gains focus?",
+        "optionA": "onfocus",
+        "optionB": "onblur",
+        "optionC": "onclick",
+        "optionD": "onmouseover",
+        "answer": "onfocus"
+    },
+    {
+        "question": "Which function is used to parse a number from a string in JavaScript?",
+        "optionA": "parse()",
+        "optionB": "parseInt()",
+        "optionC": "toInt()",
+        "optionD": "Number.parse()",
+        "answer": "parseInt()"
+    },
+    {
+        "question": "What is the result of 'console.log(0 == false)' in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "NaN",
+        "answer": "true"
+    },
+    {
+        "question": "Which operator is used to check if two values are not equal in both value and type in JavaScript?",
+        "optionA": "!==",
+        "optionB": "!=",
+        "optionC": "==",
+        "optionD": "===",
+        "answer": "!=="
+    },
+    {
+        "question": "What does 'JSON.stringify()' do in JavaScript?",
+        "optionA": "Converts a JavaScript object to a JSON string",
+        "optionB": "Parses a JSON string into a JavaScript object",
+        "optionC": "Converts a JavaScript function to a JSON string",
+        "optionD": "Converts a string into an object",
+        "answer": "Converts a JavaScript object to a JSON string"
+    },
+    {
+        "question": "What is the result of 'console.log(!!null)' in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "NaN",
+        "answer": "false"
+    },
+    {
+        "question": "Which method is used to return a new array with all elements that pass a test in JavaScript?",
+        "optionA": "map()",
+        "optionB": "filter()",
+        "optionC": "forEach()",
+        "optionD": "reduce()",
+        "answer": "filter()"
+    },
+    {
+        "question": "Which method is used to add an element at the beginning of an array in JavaScript?",
+        "optionA": "push()",
+        "optionB": "unshift()",
+        "optionC": "shift()",
+        "optionD": "pop()",
+        "answer": "unshift()"
+    },
+    {
+        "question": "Which of the following is used to iterate over the properties of an object?",
+        "optionA": "forEach()",
+        "optionB": "for...in",
+        "optionC": "for...of",
+        "optionD": "for()",
+        "answer": "for...in"
+    },
+    {
+        "question": "Which method is used to join two or more arrays in JavaScript?",
+        "optionA": "concat()",
+        "optionB": "join()",
+        "optionC": "merge()",
+        "optionD": "combine()",
+        "answer": "concat()"
+    },
+    {
+        "question": "What is the result of 'console.log(1 + '1')' in JavaScript?",
+        "optionA": "11",
+        "optionB": "2",
+        "optionC": "Error",
+        "optionD": "undefined",
+        "answer": "11"
+    },
+    {
+        "question": "Which of the following is NOT a valid variable name in JavaScript?",
+        "optionA": "_variable",
+        "optionB": "variable1",
+        "optionC": "1variable",
+        "optionD": "variable$",
+        "answer": "1variable"
+    },
+    {
+        "question": "Which function is used to find the square root of a number in JavaScript?",
+        "optionA": "sqrt()",
+        "optionB": "Math.sqrt()",
+        "optionC": "Math.square()",
+        "optionD": "squareRoot()",
+        "answer": "Math.sqrt()"
+    },
+    {
+        "question": "What is the result of 'console.log(NaN == NaN)' in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "NaN",
+        "answer": "false"
+    },
+    {
+        "question": "Which method is used to find the index of the first occurrence of an element in an array?",
+        "optionA": "indexOf()",
+        "optionB": "findIndex()",
+        "optionC": "getIndex()",
+        "optionD": "search()",
+        "answer": "indexOf()"
+    },
+    {
+        "question": "Which operator is used to concatenate two strings in JavaScript?",
+        "optionA": "+",
+        "optionB": "&",
+        "optionC": "*",
+        "optionD": "%",
+        "answer": "+"
+    },
+    {
+        "question": "Which method is used to remove an element from the beginning of an array in JavaScript?",
+        "optionA": "shift()",
+        "optionB": "pop()",
+        "optionC": "unshift()",
+        "optionD": "splice()",
+        "answer": "shift()"
+    },
+    {
+        "question": "What is the output of 'console.log(false + true)' in JavaScript?",
+        "optionA": "1",
+        "optionB": "true",
+        "optionC": "false",
+        "optionD": "NaN",
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following is used to trigger an event in JavaScript?",
+        "optionA": "event.trigger()",
+        "optionB": "trigger()",
+        "optionC": "element.dispatchEvent()",
+        "optionD": "element.fireEvent()",
+        "answer": "element.dispatchEvent()"
+    },
+    {
+        "question": "What is the result of 'console.log([1, 2] == [1, 2])' in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "NaN",
+        "answer": "false"
+    },
+    {
+        "question": "Which function is used to execute code repeatedly after a specified time interval in JavaScript?",
+        "optionA": "setInterval()",
+        "optionB": "setTimeout()",
+        "optionC": "repeat()",
+        "optionD": "delay()",
+        "answer": "setInterval()"
+    },
+    {
+        "question": "Which method is used to combine two or more arrays into one in JavaScript?",
+        "optionA": "concat()",
+        "optionB": "combine()",
+        "optionC": "merge()",
+        "optionD": "union()",
+        "answer": "concat()"
+    },
+    {
+        "question": "Which method is used to test whether a string matches a regular expression in JavaScript?",
+        "optionA": "match()",
+        "optionB": "test()",
+        "optionC": "search()",
+        "optionD": "exec()",
+        "answer": "test()"
+    },
+    {
+        "question": "What does the 'isNaN()' function do in JavaScript?",
+        "optionA": "Checks if a value is not a number",
+        "optionB": "Converts a value to NaN",
+        "optionC": "Checks if a value is a number",
+        "optionD": "Rounds a value to the nearest integer",
+        "answer": "Checks if a value is not a number"
+    },
+    {
+        "question": "Which of the following will correctly create an object in JavaScript?",
+        "optionA": "var obj = new Object();",
+        "optionB": "var obj = {};",
+        "optionC": "var obj = Object.create();",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does the 'typeof' operator return in JavaScript?",
+        "optionA": "The data type of a variable",
+        "optionB": "The value of a variable",
+        "optionC": "The length of a variable",
+        "optionD": "None of the above",
+        "answer": "The data type of a variable"
+    },
+    {
+        "question": "Which of the following is true about 'null' in JavaScript?",
+        "optionA": "null is an object",
+        "optionB": "null is a type",
+        "optionC": "null is not a primitive value",
+        "optionD": "None of the above",
+        "answer": "null is an object"
+    },
+    {
+        "question": "What is the purpose of the 'Array.isArray()' method in JavaScript?",
+        "optionA": "Checks if a variable is an array",
+        "optionB": "Converts an array to an object",
+        "optionC": "Returns the length of an array",
+        "optionD": "None of the above",
+        "answer": "Checks if a variable is an array"
+    },
+    {
+        "question": "Which method is used to add a new element at the end of an array?",
+        "optionA": "push()",
+        "optionB": "pop()",
+        "optionC": "unshift()",
+        "optionD": "shift()",
+        "answer": "push()"
+    },
+    {
+        "question": "What does the 'eval()' function do in JavaScript?",
+        "optionA": "Evaluates a string of JavaScript code",
+        "optionB": "Validates a variable",
+        "optionC": "Escapes special characters",
+        "optionD": "None of the above",
+        "answer": "Evaluates a string of JavaScript code"
+    },
+    {
+        "question": "Which of the following operators is used for assignment in JavaScript?",
+        "optionA": "=",
+        "optionB": "==",
+        "optionC": "===",
+        "optionD": "!==",
+        "answer": "="
+    },
+    {
+        "question": "What will 'console.log([] == ![])' return in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "NaN",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is the correct syntax for using a regular expression in JavaScript?",
+        "optionA": "/abc/",
+        "optionB": "new RegExp('abc')",
+        "optionC": "Both A and B",
+        "optionD": "None of the above",
+        "answer": "Both A and B"
+    },
+    {
+        "question": "What does the 'JSON.parse()' method do?",
+        "optionA": "Converts a JSON string to a JavaScript object",
+        "optionB": "Converts a JavaScript object to a JSON string",
+        "optionC": "Parses a JSON object",
+        "optionD": "Converts a string to a JSON object",
+        "answer": "Converts a JSON string to a JavaScript object"
+    },
+    {
+        "question": "Which of the following will correctly declare a JavaScript variable with a constant value?",
+        "optionA": "var x = 5;",
+        "optionB": "let x = 5;",
+        "optionC": "const x = 5;",
+        "optionD": "All of the above",
+        "answer": "const x = 5;"
+    },
+    {
+        "question": "Which method is used to replace a string with another string in JavaScript?",
+        "optionA": "replace()",
+        "optionB": "update()",
+        "optionC": "swap()",
+        "optionD": "substitute()",
+        "answer": "replace()"
+    },
+    {
+        "question": "What is the result of 'console.log(3 + 2 + '7')' in JavaScript?",
+        "optionA": "32",
+        "optionB": "57",
+        "optionC": "5",
+        "optionD": "NaN",
+        "answer": "57"
+    },
+    {
+        "question": "Which method is used to sort the elements of an array in JavaScript?",
+        "optionA": "sort()",
+        "optionB": "order()",
+        "optionC": "arrange()",
+        "optionD": "None of the above",
+        "answer": "sort()"
+    },
+    {
+        "question": "Which method is used to merge two arrays in JavaScript?",
+        "optionA": "concat()",
+        "optionB": "merge()",
+        "optionC": "combine()",
+        "optionD": "join()",
+        "answer": "concat()"
+    },
+    {
+        "question": "Which event is triggered when a user presses a key on the keyboard in JavaScript?",
+        "optionA": "onkeydown",
+        "optionB": "onkeypress",
+        "optionC": "onkeyup",
+        "optionD": "oninput",
+        "answer": "onkeypress"
+    },
+    {
+        "question": "Which of the following methods is used to create a deep copy of an array in JavaScript?",
+        "optionA": "slice()",
+        "optionB": "copy()",
+        "optionC": "clone()",
+        "optionD": "JSON.parse(JSON.stringify())",
+        "answer": "JSON.parse(JSON.stringify())"
+    },
+    {
+        "question": "What will 'console.log(!!undefined)' return in JavaScript?",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "NaN",
+        "answer": "false"
+    },
+    {
+        "question": "Which method is used to execute a function after a specified delay in JavaScript?",
+        "optionA": "setTimeout()",
+        "optionB": "setInterval()",
+        "optionC": "setDelay()",
+        "optionD": "None of the above",
+        "answer": "setTimeout()"
+    },
+    {
+        "question": "Which operator is used to check if a value is greater than or equal to another value in JavaScript?",
+        "optionA": ">=",
+        "optionB": "<=",
+        "optionC": "==",
+        "optionD": "===",
+        "answer": ">="
+    },
+    {
+        "question": "Which of the following are falsy values in JavaScript?",
+        "optionA": "0, null, undefined",
+        "optionB": "NaN, false, ''",
+        "optionC": "Both A and B",
+        "optionD": "None of the above",
+        "answer": "Both A and B"
+    },
+    {
+        "question": "Which of the following is used to check if an element exists in an array in JavaScript?",
+        "optionA": "indexOf()",
+        "optionB": "includes()",
+        "optionC": "search()",
+        "optionD": "find()",
+        "answer": "includes()"
+    },
+    {
+        "question": "What will 'console.log(1 + '1' - 1)' return in JavaScript?",
+        "optionA": "1",
+        "optionB": "11",
+        "optionC": "NaN",
+        "optionD": "10",
+        "answer": "10"
+    },
+    {
+        "question": "Which method is used to convert an object to a JSON string in JavaScript?",
+        "optionA": "JSON.parse()",
+        "optionB": "JSON.stringify()",
+        "optionC": "JSON.objectify()",
+        "optionD": "object.toJSON()",
+        "answer": "JSON.stringify()"
+    },
+    {
+        "question": "What will 'console.log(2 + 2 * 2)' return in JavaScript?",
+        "optionA": "8",
+        "optionB": "6",
+        "optionC": "4",
+        "optionD": "None of the above",
+        "answer": "6"
+    },
+    {
+        "question": "Which method is used to remove the last element of an array in JavaScript?",
+        "optionA": "pop()",
+        "optionB": "push()",
+        "optionC": "shift()",
+        "optionD": "unshift()",
+        "answer": "pop()"
+    },
+    {
+        "question": "Which method is used to convert a string to lowercase in JavaScript?",
+        "optionA": "toLowerCase()",
+        "optionB": "lowerCase()",
+        "optionC": "convertToLower()",
+        "optionD": "None of the above",
+        "answer": "toLowerCase()"
+    },
+    {
+        "question": "Which of the following can be used to break a loop in JavaScript?",
+        "optionA": "continue",
+        "optionB": "break",
+        "optionC": "return",
+        "optionD": "Both A and B",
+        "answer": "break"
+    },
+    {
+        "question": "What does the 'charAt()' method do in JavaScript?",
+        "optionA": "Returns the ASCII code of the character at the specified index",
+        "optionB": "Returns the character at the specified index",
+        "optionC": "Converts a string to a character",
+        "optionD": "None of the above",
+        "answer": "Returns the character at the specified index"
+    },
+    {
+        "question": "What will 'console.log(1 + '1' - '1')' return in JavaScript?",
+        "optionA": "1",
+        "optionB": "11",
+        "optionC": "NaN",
+        "optionD": "0",
+        "answer": "0"
+    }
+]
